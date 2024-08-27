@@ -1,4 +1,4 @@
-name: Update Game Patches
+name: Update Game Patches JSON file from Github API
 
 on:
   schedule:
