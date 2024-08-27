@@ -23,7 +23,7 @@ jobs:
     - name: Fetch Game Patches JSON file from Github API
       id: fetch-json
       run: |
-        HTTP_STATUS=$(curl -o Database/game-patches.json -s -w "%{http_code}" https://api.github.com/repos/xenia-canary/game-patches/contents/patches)
+        HTTP_STATUS=$(curl -o Database/game_patches.json -s -w "%{http_code}" https://api.github.com/repos/xenia-canary/game-patches/contents/patches)
         if [ "$HTTP_STATUS" -ne 200 ]; then
           echo "Failed to fetch JSON file: HTTP status $HTTP_STATUS"
           exit 1
