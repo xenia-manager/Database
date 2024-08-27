@@ -1,0 +1,40 @@
+name: Scrape xBox 360 titles from Launchbox Database into a .JSON file
+
+on:
+  workflow_dispatch:
+
+jobs:
+  scrape_launchbox_database:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        sparse-checkout: |
+          Database/launchbox_games.json
+          Scripts/launchbox_database.py
+        sparse-checkout-cone-mode: false
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4
+
+    - name: Run Launchbox Database Scraper
+      run: python Scripts/launchbox_database.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add Database/launchbox_games.json
+        git diff-index --quiet HEAD || git commit -m "Update launchbox_games.json"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
