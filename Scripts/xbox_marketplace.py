@@ -2,6 +2,7 @@ import json
 import requests
 from lxml import etree
 import re
+import time
 
 # URL of the JSON data
 json_url = "https://gist.githubusercontent.com/shazzaam7/f50b225d0e423b2e7da9ab2918beeb4c/raw/d22657de5dbcfdc658450bfbe76856b3f580c04b/filtered_xbox360_marketplace.json"
@@ -65,18 +66,32 @@ def extract_game_data(xml_content, titleid):
 
     return game_data
 
+# Retry mechanism parameters
+max_retries = 5
+retry_delay = 5  # seconds
+
 output_data = []
 for game in initial_json:
     titleid = game['titleid']
     url = url_template.format(id=titleid)
-    response = requests.get(url)
-    if response.status_code == 200:
-        game_data = extract_game_data(response.content, titleid)
-        if game_data and game_data['Box art'] is not None:
-            output_data.append(game_data)
-            print(game_data)
-    else:
-        print(f"Failed to fetch data for titleid: {titleid}, status code: {response.status_code}")
+    
+    for attempt in range(max_retries):
+        try:
+            response = requests.get(url, timeout=10)
+            if response.status_code == 200:
+                game_data = extract_game_data(response.content, titleid)
+                if game_data and game_data['Box art'] is not None:
+                    output_data.append(game_data)
+                    print(game_data)
+                break  # Exit retry loop if successful
+            else:
+                print(f"Failed to fetch data for titleid: {titleid}, status code: {response.status_code}")
+        except requests.exceptions.RequestException as e:
+            print(f"Attempt {attempt + 1} failed for titleid: {titleid}. Error: {e}")
+            if attempt < max_retries - 1:
+                time.sleep(retry_delay)  # Wait before retrying
+            else:
+                print(f"Failed to fetch data for titleid: {titleid} after {max_retries} attempts.")
 
 # Save the output data to a JSON file
 with open('Database/xbox_marketplace_games.json', 'w', encoding='utf-8') as f:
