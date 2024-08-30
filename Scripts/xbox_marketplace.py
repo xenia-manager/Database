@@ -4,7 +4,7 @@ from lxml import etree
 import re
 
 # URL of the JSON data
-json_url = "https://gist.githubusercontent.com/shazzaam7/dcaf5d68f42788570d5cff92bf4b275f/raw/79e52001d90178599fdca0b21e012acce34e78aa/xbox_marketplace_games.json"
+json_url = "https://gist.githubusercontent.com/shazzaam7/f50b225d0e423b2e7da9ab2918beeb4c/raw/d22657de5dbcfdc658450bfbe76856b3f580c04b/filtered_xbox360_marketplace.json"
 
 # Fetch JSON data from the provided URL
 response = requests.get(json_url)
