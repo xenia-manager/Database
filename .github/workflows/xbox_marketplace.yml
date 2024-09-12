@@ -25,12 +25,11 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: '3.x'
-        cache: 'pip'
 
     - name: Install Dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests python-dotenv
+        pip install requests python-dotenv Pillow
 
     - name: Ensure Database Directory Exists
       run: |
@@ -38,10 +37,10 @@ jobs:
         mkdir -p Database/Xbox Marketplace
 
     - name: Run Xbox Marketplace Scraper
-      run: python Scripts/xbox_marketplace.py
+      run: python Scripts/Xbox\ Marketplace/xbox_marketplace.py
       env:
         GAMES_LIST_URL: ${{ secrets.GAMES_LIST_URL }}
-        DOWNLOAD_ARTWORK: False
+        DOWNLOAD_ARTWORK: ${{ secrets.DOWNLOAD_ARTWORK }}
       
     - name: Commit and Push Changes
       run: |
