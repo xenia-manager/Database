@@ -1,0 +1,33 @@
+{
+    "id": "4B4E083D",
+    "title": {
+        "full": "adidas Originals",
+        "reduced": "adidas Originals"
+    },
+    "genre": [
+        "Independent & Music Videos",
+        "Music and Short Videos",
+        "Xbox 360 Exclusives",
+        "Xbox LIVE Marketplace"
+    ],
+    "developer": "Konami",
+    "publisher": "Konami",
+    "release_date": "2011-04-21",
+    "user_rating": null,
+    "description": {
+        "full": "Check out the adidas Originals collection!",
+        "short": "Check out the adidas Originals collection!"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e083d/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e083d/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e083d/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024b4e083d/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}
