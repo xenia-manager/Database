@@ -311,7 +311,7 @@ def save_game_data(game_data, json_filename, titleid):
 # Function that goes through "base_games_list" and scrapes data for games
 def scrape_game_data(base_games_list):
     output_data = []
-    for game in base_games_list[:10]:
+    for game in base_games_list:
         titleid = game['titleid']
         #titleid = "4C5307D3" # Test for an entry without boxart
         json_filename = f"Database/Xbox Marketplace/{titleid}/{titleid}.json"
