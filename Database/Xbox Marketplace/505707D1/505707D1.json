@@ -1,0 +1,28 @@
+{
+    "id": "505707D1",
+    "title": {
+        "full": "MBC OnDemand",
+        "reduced": "MBC OnDemand"
+    },
+    "genre": [],
+    "developer": "adRise, Inc.",
+    "publisher": "MBC OnDemand",
+    "release_date": "2010-01-01",
+    "user_rating": null,
+    "description": {
+        "full": "MBC America was established in Los Angeles, CA in 1991 and broadcasts, distributes and sells MBC programs to North, Central, and South America. It serves as a medium to expand MBC’s business as well as being a passageway to share information regarding important issues with Korea and to lead the Korean Wave, or Hallyu, in the United States.  In order to expand the Korean Wave and its businesses, MBC America provides excellent MBC programs to a diversified pool of viewers throughout the United States. Using various marketing strategies to reach out to Asian Americans, as well as mainstream media and other ethnic backgrounds, we provide a variety of programs online, through mobile applications, Smart TVs, and other new technology.  MBC America strives to share Korean culture with viewers from all over the world and lead the global television market.",
+        "short": "MBC America was established in Los Angeles, CA in 1991 and broadcasts, distributes and sells MBC programs to North, Central, and South America. It serves as a medium to expand MBC’s business as well as being a passageway to share information regarding important issues with Korea and to lead the Korean Wave, or Hallyu, in the United States."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505707d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505707d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505707d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802505707d1/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}
