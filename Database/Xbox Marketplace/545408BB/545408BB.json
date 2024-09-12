@@ -1,0 +1,31 @@
+{
+    "id": "545408BB",
+    "title": {
+        "full": "Mafia III Avatar Content Only",
+        "reduced": "Mafia III Avatar Content Only"
+    },
+    "genre": [
+        "Action & Adventure",
+        "Shooter"
+    ],
+    "developer": "Hangar 13",
+    "publisher": "2K",
+    "release_date": "2016-04-19",
+    "user_rating": null,
+    "description": {
+        "full": "Download this item now.",
+        "short": "Download this item now."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408bb/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408bb/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408bb/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545408bb/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}
