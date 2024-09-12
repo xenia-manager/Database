@@ -1,0 +1,35 @@
+{
+    "id": "453207D2",
+    "title": {
+        "full": "ACC Digital Network",
+        "reduced": "ACC Digital Network"
+    },
+    "genre": [],
+    "developer": "One Mainstream",
+    "publisher": "ACC Digital Network",
+    "release_date": "2015-10-06",
+    "user_rating": null,
+    "description": {
+        "full": "The ACC Digital Network is the official video network for the Atlantic Coast Conference featuring Game Highlights, Must See Moments, One-on-One Interviews, and access to the archives through ACC Hidden Gems and Classic Games. Representing the ACC are the Boston College Eagles, Clemson Tigers, Duke Blue Devils, Florida State Seminoles, Georgia Tech Yellow Jackets, Louisville Cardinals, Miami Hurricanes, Notre Dame Fighting Irish, North Carolina Tar Heels, North Carolina State Wolfpack, Pittsburgh Panthers, Syracuse Orange, Virginia Cavaliers, Virginia Tech Hokies, and Wake Forest Demon Deacons.",
+        "short": "The ACC Digital Network brings you daily coverage of your favorite ACC teams including Game Highlights, Must See Moments, One-on-One Interviews and Special Features.  For all the best in ACC sports videos, watch here."
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453207d2/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453207d2/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453207d2/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453207d2/1033/tile.png",
+        "gallery": [
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453207d2/1033/screenlg1.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453207d2/1033/screenlg2.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453207d2/1033/screenlg3.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453207d2/1033/screenlg4.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453207d2/1033/screenlg5.jpg",
+            "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802453207d2/1033/screenlg6.jpg"
+        ]
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}
