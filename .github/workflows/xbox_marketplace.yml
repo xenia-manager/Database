@@ -50,7 +50,7 @@ jobs:
         git diff-index --quiet HEAD || git commit -m "Update Xbox Marketplace list of games"
 
         # List all files and split into batches of 600, using numeric suffixes for chunk files
-        find "$(pwd)/Database/Xbox Marketplace/" -type f | split -l 600 --numeric-suffixes=1 - filelist_chunk_
+        find "$(pwd)/Database/Xbox Marketplace/" -type f | split -l 12 --numeric-suffixes=1 - filelist_chunk_
 
         # Initialize counter for part number
         part=1
