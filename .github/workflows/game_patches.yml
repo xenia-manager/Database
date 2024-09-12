@@ -1,0 +1,41 @@
+name: Update Game Patches JSON file from Github API
+
+on:
+  schedule:
+    - cron: '0 0,12 * * *'  # Runs every 12 hours
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository # Only grab the necessary files
+      uses: actions/checkout@v4
+      with:
+        sparse-checkout: |
+          Database/game_patches.json
+        sparse-checkout-cone-mode: false
+
+    - name: Create Database Directory
+      run: mkdir -p Database
+
+    - name: Fetch Game Patches JSON file from Github API
+      id: fetch-json
+      run: |
+        HTTP_STATUS=$(curl -o Database/game_patches.json -s -w "%{http_code}" https://api.github.com/repos/xenia-canary/game-patches/contents/patches)
+        if [ "$HTTP_STATUS" -ne 200 ]; then
+          echo "Failed to fetch JSON file: HTTP status $HTTP_STATUS"
+          exit 1
+        fi
+
+    - name: Commit and push changes
+      if: success() # Only run if previous steps succeeded
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add Database/game_patches.json
+        git diff-index --quiet HEAD || git commit -m "Update game patches"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
