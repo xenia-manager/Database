@@ -1,0 +1,28 @@
+{
+    "id": "545807D1",
+    "title": {
+        "full": "The Weather Channel",
+        "reduced": "The Weather Channel"
+    },
+    "genre": [],
+    "developer": null,
+    "publisher": null,
+    "release_date": "2011-09-13",
+    "user_rating": null,
+    "description": {
+        "full": "Download this app",
+        "short": "Download this app"
+    },
+    "media": [],
+    "artwork": {
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545807d1/1033/background.jpg",
+        "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545807d1/1033/banner.png",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545807d1/1033/boxartlg.jpg",
+        "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802545807d1/1033/tile.png",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}
