@@ -1,0 +1,32 @@
+{
+    "id": "415607EA",
+    "title": {
+        "full": "Battlestar Galactica",
+        "reduced": "Battlestar Galactica"
+    },
+    "genre": [
+        "Independent & Music Videos",
+        "TV Shows",
+        "Xbox LIVE Marketplace"
+    ],
+    "developer": null,
+    "publisher": "Activision",
+    "release_date": null,
+    "user_rating": null,
+    "description": {
+        "full": "Battlestar Galactica is the gripping saga of humanity's last remnants and their struggle to find a new home while fleeing from their deadly Cylon enemies.",
+        "short": "Battlestar Galactica is the gripping saga of humanity's last remnants and their struggle to find a new home while fleeing from their deadly Cylon enemies."
+    },
+    "media": [],
+    "artwork": {
+        "background": null,
+        "banner": "http://avatar.xboxlive.com/global/t.415607ea/marketplace/0/1",
+        "boxart": null,
+        "icon": "http://avatar.xboxlive.com/global/t.415607ea/icon/0/8000",
+        "gallery": []
+    },
+    "products": {
+        "parent": [],
+        "related": []
+    }
+}
