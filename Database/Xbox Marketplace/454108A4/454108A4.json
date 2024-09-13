@@ -26,7 +26,7 @@
     "artwork": {
         "background": null,
         "banner": null,
-        "boxart": null,
+        "boxart": "https://images.launchbox-app.com/250dbf32-74e4-4024-b95e-29a434e8c308.jpg",
         "icon": null,
         "gallery": []
     },

@@ -32,7 +32,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "54510842",
+                "title": "Metro 2033"
+            }
+        ],
         "related": []
     }
 }

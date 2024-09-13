@@ -19,8 +19,8 @@
     "artwork": {
         "background": null,
         "banner": null,
-        "boxart": null,
-        "icon": null,
+        "boxart": "https://images.launchbox-app.com/20ab8460-ae7d-4b4b-85fd-ffa9627332aa.jpg",
+        "icon": "http://www.xboxunity.net/Resources/Lib/Icon.php?tid=58410861",
         "gallery": []
     },
     "products": {

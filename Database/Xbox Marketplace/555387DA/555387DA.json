@@ -25,7 +25,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "555307D3",
+                "title": "Peter Jacksons King Kong"
+            }
+        ],
         "related": []
     }
 }

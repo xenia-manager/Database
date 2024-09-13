@@ -32,7 +32,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "45410845",
+                "title": "NASCAR 09"
+            }
+        ],
         "related": []
     }
 }

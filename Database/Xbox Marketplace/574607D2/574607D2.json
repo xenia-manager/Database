@@ -58,7 +58,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "57520824",
+                "title": "The Witcher 2 Assassins of Kings"
+            }
+        ],
         "related": []
     }
 }

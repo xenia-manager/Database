@@ -37,7 +37,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "454107F8",
+                "title": "Army of Two"
+            }
+        ],
         "related": []
     }
 }

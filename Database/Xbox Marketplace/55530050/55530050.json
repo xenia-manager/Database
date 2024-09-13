@@ -18,14 +18,19 @@
     },
     "media": [],
     "artwork": {
-        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530050/1033/background.jpg",
+        "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d3/1033/background.jpg",
         "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530050/1033/banner.png",
-        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530050/1033/boxartlg.jpg",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802555307d3/1033/boxartlg.jpg",
         "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80255530050/1033/tile.png",
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "555307D3",
+                "title": "Peter Jacksons King Kong"
+            }
+        ],
         "related": []
     }
 }

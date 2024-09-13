@@ -26,8 +26,8 @@
     "artwork": {
         "background": null,
         "banner": null,
-        "boxart": null,
-        "icon": null,
+        "boxart": "https://www.vgchartz.com/games/boxart/full_8388290PALFrontccc.jpg",
+        "icon": "http://www.xboxunity.net/Resources/Lib/Icon.php?tid=4C5307D3",
         "gallery": []
     },
     "products": {

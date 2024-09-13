@@ -26,12 +26,17 @@
     "artwork": {
         "background": null,
         "banner": null,
-        "boxart": null,
+        "boxart": "https://download.xbox.com/content/images/66acd000-77fe-1000-9115-d8024e4d07e2/1033/boxartlg.jpg",
         "icon": null,
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4E4D07E2",
+                "title": "Eternal Sonata"
+            }
+        ],
         "related": []
     }
 }

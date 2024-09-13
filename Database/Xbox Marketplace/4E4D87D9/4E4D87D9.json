@@ -24,7 +24,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4E4D07D3",
+                "title": "Ridge Racer 6"
+            }
+        ],
         "related": []
     }
 }

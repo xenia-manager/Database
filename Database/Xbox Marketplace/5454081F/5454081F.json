@@ -32,7 +32,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "545407D8",
+                "title": "BioShock"
+            }
+        ],
         "related": []
     }
 }

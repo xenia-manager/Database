@@ -57,8 +57,8 @@
     "artwork": {
         "background": null,
         "banner": null,
-        "boxart": null,
-        "icon": null,
+        "boxart": "https://cdn.mobygames.com/covers/4147899-need-for-speed-most-wanted-xbox-360-front-cover.png",
+        "icon": "http://www.xboxunity.net/Resources/Lib/Icon.php?tid=454107D9",
         "gallery": []
     },
     "products": {

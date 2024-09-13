@@ -25,7 +25,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "565507DA",
+                "title": "TimeShift"
+            }
+        ],
         "related": []
     }
 }

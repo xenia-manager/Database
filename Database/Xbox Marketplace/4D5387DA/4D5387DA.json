@@ -25,7 +25,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4D5307D3",
+                "title": "Perfect Dark Zero"
+            }
+        ],
         "related": []
     }
 }
