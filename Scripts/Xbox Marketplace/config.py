@@ -30,3 +30,4 @@ MIME_TYPE_TO_EXTENSION = {
 }
 
 DOWNLOAD_ARTWORK = os.getenv('DOWNLOAD_ARTWORK', False) == "True"
+UPDATE_DATA = os.getenv('UPDATE_DATA', False) == "True"
