@@ -516,7 +516,8 @@
         "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d2/1033/boxartlg.jpg",
         "media_id": [
             "4C27792A",
-            "769DD767"
+            "769DD767",
+            "51EB8DB8"
         ]
     },
     {
@@ -540,9 +541,7 @@
         "id": "415607D6",
         "title": "Quake 2",
         "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d802415607d6/1033/boxartlg.jpg",
-        "media_id": [
-            "51EB8DB8"
-        ]
+        "media_id": []
     },
     {
         "id": "415607D7",
