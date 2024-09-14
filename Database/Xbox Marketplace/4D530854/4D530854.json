@@ -52,7 +52,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4D530A87",
+                "title": "Fable Anniversary"
+            }
+        ],
         "related": []
     }
 }

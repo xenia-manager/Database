@@ -43,7 +43,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "445407DE",
+                "title": "The Cursed Crusade"
+            }
+        ],
         "related": [
             "http://download.xbox.com/content/415407d6/TCC_Manual_EN+FR.pdf"
         ]

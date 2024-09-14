@@ -32,7 +32,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "454109A9",
+                "title": "Tiger Woods PGA TOUR® 14"
+            }
+        ],
         "related": []
     }
 }

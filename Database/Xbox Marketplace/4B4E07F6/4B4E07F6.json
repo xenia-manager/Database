@@ -31,7 +31,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4B4E07E0",
+                "title": "Rock Revolution"
+            }
+        ],
         "related": []
     }
 }

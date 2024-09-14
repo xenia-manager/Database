@@ -7,8 +7,8 @@
     "genre": [
         "Action & Adventure"
     ],
-    "developer": null,
-    "publisher": "Koch Media",
+    "developer": "Volition",
+    "publisher": "THQ & Koch Media",
     "release_date": "2010-06-01",
     "user_rating": null,
     "description": {
@@ -40,7 +40,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "545107D1",
+                "title": "Saints Row"
+            }
+        ],
         "related": []
     }
 }

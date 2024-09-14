@@ -31,7 +31,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4D4B07D9",
+                "title": "Worms The Revolution Collection"
+            }
+        ],
         "related": []
     }
 }

@@ -24,7 +24,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "454109C1",
+                "title": "Madden NFL 25"
+            }
+        ],
         "related": []
     }
 }

@@ -32,7 +32,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "445407D3",
+                "title": "Divinity II"
+            }
+        ],
         "related": []
     }
 }

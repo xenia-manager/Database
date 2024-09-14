@@ -52,7 +52,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4B4F07FE",
+                "title": "Fist of the North Star "
+            }
+        ],
         "related": []
     }
 }

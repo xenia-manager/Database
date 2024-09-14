@@ -24,7 +24,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "494707D1",
+                "title": "Alone In The Dark"
+            }
+        ],
         "related": []
     }
 }

@@ -24,7 +24,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "53450841",
+                "title": "VANQUISH"
+            }
+        ],
         "related": []
     }
 }

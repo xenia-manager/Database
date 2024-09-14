@@ -44,7 +44,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "545407E5",
+                "title": "Sid Meiers Civilization Revolution"
+            }
+        ],
         "related": []
     }
 }

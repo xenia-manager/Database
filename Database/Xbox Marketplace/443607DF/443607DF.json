@@ -37,7 +37,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "584114C6",
+                "title": "Minecraft Story Mode - Season Two"
+            }
+        ],
         "related": []
     }
 }

@@ -24,7 +24,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "425607ED",
+                "title": "Tron Evolution"
+            }
+        ],
         "related": []
     }
 }

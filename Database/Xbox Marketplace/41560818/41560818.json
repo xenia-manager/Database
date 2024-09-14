@@ -32,7 +32,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "41560802",
+                "title": "SOF Payback"
+            }
+        ],
         "related": []
     }
 }

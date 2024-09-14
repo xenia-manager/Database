@@ -32,7 +32,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "443607D9",
+                "title": "Minecraft Story Mode"
+            }
+        ],
         "related": []
     }
 }

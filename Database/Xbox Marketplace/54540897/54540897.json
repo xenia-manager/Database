@@ -43,7 +43,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "54540890",
+                "title": "Carnival Games Monkey See Monkey Do"
+            }
+        ],
         "related": []
     }
 }

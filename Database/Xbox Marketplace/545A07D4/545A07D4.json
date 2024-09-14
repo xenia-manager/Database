@@ -40,7 +40,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "475207FC",
+                "title": "Under Defeat HD"
+            }
+        ],
         "related": []
     }
 }

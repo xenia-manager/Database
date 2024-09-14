@@ -33,7 +33,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "464F0802",
+                "title": "Terraria  Xbox 360 Edition"
+            }
+        ],
         "related": []
     }
 }

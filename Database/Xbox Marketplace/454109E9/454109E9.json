@@ -24,7 +24,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "454109DB",
+                "title": "EA SPORTS FIFA 15"
+            }
+        ],
         "related": []
     }
 }

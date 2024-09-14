@@ -24,7 +24,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4D5307E6",
+                "title": "Halo 3"
+            }
+        ],
         "related": []
     }
 }

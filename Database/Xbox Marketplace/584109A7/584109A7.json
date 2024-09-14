@@ -36,7 +36,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "584109CB",
+                "title": "Wolfenstein 3D"
+            }
+        ],
         "related": []
     }
 }

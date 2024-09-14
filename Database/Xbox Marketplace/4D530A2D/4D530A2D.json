@@ -43,7 +43,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4D5309DA",
+                "title": "Kinect Sesame Street TV"
+            }
+        ],
         "related": []
     }
 }

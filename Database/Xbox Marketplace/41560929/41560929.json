@@ -33,7 +33,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4156091D",
+                "title": "Call of Duty Black Ops III"
+            }
+        ],
         "related": []
     }
 }

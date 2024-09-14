@@ -33,7 +33,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "545407E6",
+                "title": "Mafia II"
+            }
+        ],
         "related": []
     }
 }

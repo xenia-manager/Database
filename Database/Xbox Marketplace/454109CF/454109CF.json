@@ -26,7 +26,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "454109C3",
+                "title": "FIFA 14"
+            }
+        ],
         "related": []
     }
 }

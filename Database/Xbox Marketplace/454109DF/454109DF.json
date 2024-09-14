@@ -28,7 +28,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "454109DC",
+                "title": "NHL  15"
+            }
+        ],
         "related": []
     }
 }

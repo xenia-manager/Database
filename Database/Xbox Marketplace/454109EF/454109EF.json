@@ -24,7 +24,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "454109EE",
+                "title": "EA SPORTS FIFA 16"
+            }
+        ],
         "related": []
     }
 }

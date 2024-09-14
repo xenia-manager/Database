@@ -24,7 +24,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "585509CC",
+                "title": "Moe Mekuri 25　萌めくり25"
+            }
+        ],
         "related": []
     }
 }

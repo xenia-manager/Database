@@ -35,7 +35,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4D4A07D9",
+                "title": "Attack Of The Movies 3D"
+            }
+        ],
         "related": []
     }
 }

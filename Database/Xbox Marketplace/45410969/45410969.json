@@ -24,7 +24,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "45410937",
+                "title": "Madden NFL 12"
+            }
+        ],
         "related": []
     }
 }

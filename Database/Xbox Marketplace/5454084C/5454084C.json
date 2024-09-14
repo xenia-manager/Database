@@ -35,7 +35,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "543807D9",
+                "title": "Max Payne"
+            }
+        ],
         "related": []
     }
 }

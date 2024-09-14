@@ -32,7 +32,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "55530819",
+                "title": "Tom Clancys Splinter Cell Chaos Theory"
+            }
+        ],
         "related": []
     }
 }

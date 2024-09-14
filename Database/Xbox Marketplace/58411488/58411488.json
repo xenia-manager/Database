@@ -33,7 +33,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "443607D8",
+                "title": "Game of Thrones - A Telltale Games Series"
+            }
+        ],
         "related": []
     }
 }

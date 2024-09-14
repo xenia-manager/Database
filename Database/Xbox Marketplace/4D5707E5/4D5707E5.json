@@ -38,7 +38,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4D5707D2",
+                "title": "Stranglehold"
+            }
+        ],
         "related": []
     }
 }

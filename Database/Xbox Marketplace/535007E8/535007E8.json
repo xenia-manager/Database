@@ -24,7 +24,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "475007D5",
+                "title": "Velvet Assassin"
+            }
+        ],
         "related": []
     }
 }

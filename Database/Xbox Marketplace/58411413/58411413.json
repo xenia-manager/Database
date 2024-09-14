@@ -30,7 +30,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "443607D4",
+                "title": "The Walking Dead Season Two"
+            }
+        ],
         "related": []
     }
 }

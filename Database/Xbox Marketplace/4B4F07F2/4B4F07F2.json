@@ -42,7 +42,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4B4F07FA",
+                "title": "DW Strikeforce"
+            }
+        ],
         "related": []
     }
 }

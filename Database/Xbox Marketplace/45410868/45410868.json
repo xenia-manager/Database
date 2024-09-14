@@ -33,7 +33,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "454109FD",
+                "title": "BLACK"
+            }
+        ],
         "related": []
     }
 }

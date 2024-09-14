@@ -38,7 +38,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "454108E2",
+                "title": "The Sims 3"
+            }
+        ],
         "related": []
     }
 }

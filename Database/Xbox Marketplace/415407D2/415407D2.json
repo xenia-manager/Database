@@ -43,7 +43,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "535507D1",
+                "title": "Operation Darkness"
+            }
+        ],
         "related": [
             "http://epix.xbox.com/shaXam/0201/22/e6/22e634d9-2798-4eda-92e9-5357ea0f1888.PDF?v=1#OpDark_en.PDF"
         ]

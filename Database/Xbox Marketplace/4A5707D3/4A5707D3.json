@@ -31,7 +31,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "464507D3",
+                "title": "Sherlock Holmes"
+            }
+        ],
         "related": []
     }
 }

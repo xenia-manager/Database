@@ -54,7 +54,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4E4D080B",
+                "title": "Magnacarta2"
+            }
+        ],
         "related": []
     }
 }

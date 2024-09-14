@@ -24,7 +24,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "57520828",
+                "title": "Batman: Arkham Origins"
+            }
+        ],
         "related": []
     }
 }

@@ -42,7 +42,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "535507D4",
+                "title": "RAIDEN FIGHTERS ACES"
+            }
+        ],
         "related": [
             "http://epix.xbox.com/shaXam/0201/89/6f/896f1b9f-e9b1-4f39-a803-5ffb41a810cc.PDF?v=1#raidenfighters-U"
         ]

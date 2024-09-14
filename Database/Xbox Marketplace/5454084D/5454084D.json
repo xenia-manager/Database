@@ -38,7 +38,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "5454084E",
+                "title": "Duke Nukem Forever"
+            }
+        ],
         "related": []
     }
 }

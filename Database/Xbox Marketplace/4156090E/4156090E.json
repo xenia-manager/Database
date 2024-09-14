@@ -45,7 +45,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "415608F8",
+                "title": "Destiny"
+            }
+        ],
         "related": []
     }
 }

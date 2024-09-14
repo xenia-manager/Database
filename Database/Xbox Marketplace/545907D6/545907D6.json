@@ -30,7 +30,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "545907D1",
+                "title": "Defiance™"
+            }
+        ],
         "related": []
     }
 }

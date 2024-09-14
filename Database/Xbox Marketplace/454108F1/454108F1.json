@@ -31,7 +31,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "454108D8",
+                "title": "Army of TWO TFD"
+            }
+        ],
         "related": []
     }
 }

@@ -32,7 +32,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4B4D07F5",
+                "title": "Metro Last Light"
+            }
+        ],
         "related": []
     }
 }

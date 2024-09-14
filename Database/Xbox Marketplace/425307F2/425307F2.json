@@ -41,7 +41,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "425307E6",
+                "title": "Skyrim"
+            }
+        ],
         "related": []
     }
 }

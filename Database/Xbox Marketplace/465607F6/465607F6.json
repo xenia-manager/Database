@@ -36,7 +36,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "465607F8",
+                "title": "Bullet Soul -Infinite Burst-"
+            }
+        ],
         "related": []
     }
 }

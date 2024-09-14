@@ -52,7 +52,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4E4D07E9",
+                "title": "Tales of Vesperia"
+            }
+        ],
         "related": []
     }
 }

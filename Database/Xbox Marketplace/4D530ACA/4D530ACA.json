@@ -33,7 +33,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4D530856",
+                "title": "Fuzion Frenzy"
+            }
+        ],
         "related": []
     }
 }

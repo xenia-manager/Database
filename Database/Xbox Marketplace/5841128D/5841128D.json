@@ -36,7 +36,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "58410A74",
+                "title": "Double Dragon II  Wander of The Dragons"
+            }
+        ],
         "related": []
     }
 }

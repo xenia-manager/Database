@@ -30,7 +30,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "45410860",
+                "title": "CC Red Alert 3"
+            }
+        ],
         "related": []
     }
 }

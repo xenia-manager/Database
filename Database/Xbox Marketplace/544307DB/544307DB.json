@@ -25,7 +25,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "544307DC",
+                "title": "QUANTUM THEORY"
+            }
+        ],
         "related": []
     }
 }

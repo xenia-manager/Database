@@ -47,7 +47,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4D5107D1",
+                "title": "Dance Paradise"
+            }
+        ],
         "related": []
     }
 }

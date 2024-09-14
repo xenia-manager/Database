@@ -24,7 +24,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4E4D0817",
+                "title": "THE IDOLMSTER 2"
+            }
+        ],
         "related": []
     }
 }

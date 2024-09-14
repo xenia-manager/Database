@@ -24,7 +24,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4541094C",
+                "title": "NBA JAM"
+            }
+        ],
         "related": []
     }
 }

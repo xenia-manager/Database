@@ -37,7 +37,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4B4D07F2",
+                "title": "Dead Island Riptide"
+            }
+        ],
         "related": []
     }
 }

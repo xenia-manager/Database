@@ -38,7 +38,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4D4B07D7",
+                "title": "Worms Collection"
+            }
+        ],
         "related": []
     }
 }

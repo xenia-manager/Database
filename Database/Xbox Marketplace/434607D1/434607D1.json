@@ -53,7 +53,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "575207D3",
+                "title": "FEAR 2"
+            }
+        ],
         "related": []
     }
 }

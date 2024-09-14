@@ -45,7 +45,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "425307D9",
+                "title": "Brink"
+            }
+        ],
         "related": []
     }
 }

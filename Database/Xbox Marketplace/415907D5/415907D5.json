@@ -31,7 +31,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "415907D1",
+                "title": "Supreme Commander"
+            }
+        ],
         "related": []
     }
 }

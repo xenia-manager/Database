@@ -31,7 +31,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4C5307E5",
+                "title": "SBK Superbike World Championship"
+            }
+        ],
         "related": []
     }
 }

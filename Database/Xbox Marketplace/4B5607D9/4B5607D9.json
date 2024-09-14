@@ -40,7 +40,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4B5607DF",
+                "title": "WARRIORS OROCHI 3"
+            }
+        ],
         "related": []
     }
 }

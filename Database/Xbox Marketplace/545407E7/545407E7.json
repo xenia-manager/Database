@@ -58,7 +58,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "545407E7",
+                "title": "Borderlands"
+            }
+        ],
         "related": []
     }
 }

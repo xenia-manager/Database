@@ -37,7 +37,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4B4E07F0",
+                "title": "PES 2009"
+            }
+        ],
         "related": []
     }
 }

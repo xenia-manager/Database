@@ -35,7 +35,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "58410A85",
+                "title": "Voodoo Dice"
+            }
+        ],
         "related": []
     }
 }

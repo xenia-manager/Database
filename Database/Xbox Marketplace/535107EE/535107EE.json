@@ -24,7 +24,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "535107ED",
+                "title": "NieR Gestalt"
+            }
+        ],
         "related": []
     }
 }

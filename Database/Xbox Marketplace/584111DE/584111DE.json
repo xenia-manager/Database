@@ -31,7 +31,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "443607D2",
+                "title": "The Walking Dead"
+            }
+        ],
         "related": []
     }
 }

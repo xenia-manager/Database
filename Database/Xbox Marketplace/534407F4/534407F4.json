@@ -41,7 +41,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "534307D9",
+                "title": "Battlestations Midway"
+            }
+        ],
         "related": []
     }
 }

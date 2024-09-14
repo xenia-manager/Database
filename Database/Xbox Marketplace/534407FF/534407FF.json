@@ -44,7 +44,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4B4D07D1",
+                "title": "Sacred 2 Fallen Angel"
+            }
+        ],
         "related": []
     }
 }

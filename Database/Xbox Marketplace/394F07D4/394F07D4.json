@@ -70,7 +70,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "394F07D1",
+                "title": "Diablo III"
+            }
+        ],
         "related": []
     }
 }

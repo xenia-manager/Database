@@ -45,7 +45,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "434307EC",
+                "title": "Dead Rising 2"
+            }
+        ],
         "related": []
     }
 }

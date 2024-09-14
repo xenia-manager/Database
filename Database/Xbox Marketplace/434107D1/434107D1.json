@@ -42,7 +42,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "494707DB",
+                "title": "BulletWitch"
+            }
+        ],
         "related": []
     }
 }

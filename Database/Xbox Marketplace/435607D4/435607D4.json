@@ -31,7 +31,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "445407D2",
+                "title": "Summer Athletics"
+            }
+        ],
         "related": []
     }
 }

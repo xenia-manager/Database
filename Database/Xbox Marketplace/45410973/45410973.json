@@ -24,7 +24,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "45410967",
+                "title": "FIFA 12"
+            }
+        ],
         "related": []
     }
 }

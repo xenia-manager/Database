@@ -53,7 +53,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "5451083B",
+                "title": "50 Cent BotS"
+            }
+        ],
         "related": []
     }
 }

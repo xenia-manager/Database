@@ -36,7 +36,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4B5607E3",
+                "title": "Fist of the North Star Kens rage 2"
+            }
+        ],
         "related": []
     }
 }

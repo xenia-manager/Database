@@ -38,7 +38,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4B4F07E0",
+                "title": "DYNASTY WARRIORS 6"
+            }
+        ],
         "related": []
     }
 }

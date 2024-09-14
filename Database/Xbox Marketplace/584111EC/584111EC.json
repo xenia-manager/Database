@@ -33,7 +33,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "58410A7D",
+                "title": "NBA JAM"
+            }
+        ],
         "related": []
     }
 }

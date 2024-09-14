@@ -40,7 +40,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "535107E8",
+                "title": "NieR"
+            }
+        ],
         "related": []
     }
 }

@@ -38,7 +38,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "434D07D5",
+                "title": "Overlord"
+            }
+        ],
         "related": []
     }
 }

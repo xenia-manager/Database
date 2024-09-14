@@ -35,7 +35,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "54540861",
+                "title": "BioShock 2"
+            }
+        ],
         "related": [
             "http://epix.xbox.com/shaXam/0201/03/e3/03e35356-5c6c-404f-95f6-2f2cd135ebbc.PDF?v=1#bioshock2-en.PDF"
         ]

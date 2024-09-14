@@ -45,7 +45,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "454108CE",
+                "title": "Mass Effect 2"
+            }
+        ],
         "related": []
     }
 }

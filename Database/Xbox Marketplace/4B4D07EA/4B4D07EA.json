@@ -44,7 +44,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "415407D7",
+                "title": "Catherine"
+            }
+        ],
         "related": [
             "http://download.xbox.com/content/4b4d07ea/X360%20Catherine%20Manual%20UK_XBLA.pdf"
         ]

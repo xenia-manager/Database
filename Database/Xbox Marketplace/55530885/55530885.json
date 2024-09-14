@@ -38,7 +38,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "58410A1D",
+                "title": "Hole In The Wall"
+            }
+        ],
         "related": []
     }
 }

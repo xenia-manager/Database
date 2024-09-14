@@ -41,7 +41,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "545A07D1",
+                "title": "DEATHSMILES"
+            }
+        ],
         "related": []
     }
 }

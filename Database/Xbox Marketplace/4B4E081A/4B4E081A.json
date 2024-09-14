@@ -52,7 +52,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4B4E083A",
+                "title": "Otomedius Excellent"
+            }
+        ],
         "related": []
     }
 }

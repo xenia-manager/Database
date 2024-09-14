@@ -55,7 +55,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "5451086D",
+                "title": "Saints Row®: The Third™ "
+            }
+        ],
         "related": []
     }
 }

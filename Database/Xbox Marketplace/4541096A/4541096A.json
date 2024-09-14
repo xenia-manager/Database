@@ -28,7 +28,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "45410964",
+                "title": "NHL®12"
+            }
+        ],
         "related": []
     }
 }

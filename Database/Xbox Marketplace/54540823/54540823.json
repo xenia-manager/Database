@@ -31,7 +31,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "5454080C",
+                "title": "NBA 2K8"
+            }
+        ],
         "related": []
     }
 }

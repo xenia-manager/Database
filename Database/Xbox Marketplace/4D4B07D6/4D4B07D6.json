@@ -42,7 +42,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "545A07D5",
+                "title": "Carrier Command Gaea Mission"
+            }
+        ],
         "related": []
     }
 }

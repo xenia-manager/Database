@@ -33,7 +33,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "484507D5",
+                "title": "Rugby League Live 2"
+            }
+        ],
         "related": [
             "http://download.xbox.com/content/484507d9/RLL2%20WCE%20XBOX%20ANZ%20Manual.pdf"
         ]

@@ -36,7 +36,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4B5607D4",
+                "title": "NINJA GAIDEN 3"
+            }
+        ],
         "related": [
             "http://download.xbox.com/content/4b5607e4/360god_NG3RE_ENG.pdf"
         ]

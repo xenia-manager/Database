@@ -31,7 +31,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "415407D7",
+                "title": "Catherine"
+            }
+        ],
         "related": []
     }
 }

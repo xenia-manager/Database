@@ -31,7 +31,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "545107DA",
+                "title": "Conan"
+            }
+        ],
         "related": []
     }
 }

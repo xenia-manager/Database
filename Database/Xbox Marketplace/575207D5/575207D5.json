@@ -32,7 +32,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "575207D2",
+                "title": "Looney Tunes AA"
+            }
+        ],
         "related": []
     }
 }

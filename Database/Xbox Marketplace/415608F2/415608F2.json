@@ -31,7 +31,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "415608C3",
+                "title": "Call of Duty Black Ops II"
+            }
+        ],
         "related": []
     }
 }

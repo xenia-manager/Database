@@ -38,7 +38,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "464F07E9",
+                "title": "Brunswick Pro Bowling"
+            }
+        ],
         "related": []
     }
 }

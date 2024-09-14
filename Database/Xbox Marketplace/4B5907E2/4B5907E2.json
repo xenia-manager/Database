@@ -35,7 +35,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "443607D0",
+                "title": "Jurassic Park The Game"
+            }
+        ],
         "related": []
     }
 }

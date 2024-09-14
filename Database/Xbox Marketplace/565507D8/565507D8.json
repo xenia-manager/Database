@@ -34,7 +34,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "565507E0",
+                "title": "Eragon"
+            }
+        ],
         "related": []
     }
 }

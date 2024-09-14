@@ -32,7 +32,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "575207F5",
+                "title": "Scene It"
+            }
+        ],
         "related": []
     }
 }

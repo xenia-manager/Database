@@ -30,7 +30,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4B5607EB",
+                "title": "Ninja Gaiden Black"
+            }
+        ],
         "related": []
     }
 }

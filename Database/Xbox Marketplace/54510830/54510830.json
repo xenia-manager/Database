@@ -39,7 +39,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "54510824",
+                "title": "WALLE"
+            }
+        ],
         "related": []
     }
 }

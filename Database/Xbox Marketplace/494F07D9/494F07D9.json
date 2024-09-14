@@ -35,7 +35,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "494F07D1",
+                "title": "El Shaddai"
+            }
+        ],
         "related": []
     }
 }

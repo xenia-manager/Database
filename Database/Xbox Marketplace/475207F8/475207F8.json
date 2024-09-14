@@ -32,7 +32,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "475207F9",
+                "title": "旋光の輪舞 DUO"
+            }
+        ],
         "related": []
     }
 }

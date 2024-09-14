@@ -43,7 +43,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "464507DB",
+                "title": "Game of Thrones"
+            }
+        ],
         "related": []
     }
 }

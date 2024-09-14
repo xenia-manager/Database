@@ -45,7 +45,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "454108DF",
+                "title": "Dead Space™ 2"
+            }
+        ],
         "related": []
     }
 }

@@ -37,7 +37,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "534307D3",
+                "title": "Conflict Denied Ops"
+            }
+        ],
         "related": []
     }
 }

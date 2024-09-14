@@ -42,7 +42,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4541095D",
+                "title": "Mass Effect™ 3"
+            }
+        ],
         "related": []
     }
 }

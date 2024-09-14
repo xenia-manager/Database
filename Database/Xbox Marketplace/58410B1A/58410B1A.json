@@ -25,7 +25,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4D5309DF",
+                "title": "The Gunstringer"
+            }
+        ],
         "related": []
     }
 }

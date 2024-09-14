@@ -36,7 +36,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4541090B",
+                "title": "Dragon Age 2"
+            }
+        ],
         "related": []
     }
 }

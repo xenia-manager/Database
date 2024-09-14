@@ -30,7 +30,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4541099B",
+                "title": "NHL®13"
+            }
+        ],
         "related": []
     }
 }

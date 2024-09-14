@@ -37,7 +37,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "455607D7",
+                "title": "Venetica"
+            }
+        ],
         "related": []
     }
 }

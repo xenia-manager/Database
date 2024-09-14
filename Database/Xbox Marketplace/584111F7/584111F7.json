@@ -46,7 +46,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4D530A81",
+                "title": "Minecraft Xbox 360 Edition"
+            }
+        ],
         "related": []
     }
 }

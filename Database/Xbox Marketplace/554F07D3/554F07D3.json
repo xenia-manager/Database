@@ -50,7 +50,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "534407FC",
+                "title": "Way of the Samurai 3"
+            }
+        ],
         "related": []
     }
 }

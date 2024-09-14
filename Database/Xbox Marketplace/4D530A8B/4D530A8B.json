@@ -46,7 +46,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4D530A8C",
+                "title": "World of Tanks"
+            }
+        ],
         "related": []
     }
 }

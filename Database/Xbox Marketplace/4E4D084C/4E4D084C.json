@@ -46,7 +46,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4E4D081C",
+                "title": "ACE COMBAT: AH"
+            }
+        ],
         "related": []
     }
 }

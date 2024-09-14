@@ -72,7 +72,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "425307E0",
+                "title": "Fallout New Vegas"
+            }
+        ],
         "related": []
     }
 }

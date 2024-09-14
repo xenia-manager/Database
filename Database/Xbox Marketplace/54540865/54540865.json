@@ -43,7 +43,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "54540861",
+                "title": "BioShock 2"
+            }
+        ],
         "related": []
     }
 }

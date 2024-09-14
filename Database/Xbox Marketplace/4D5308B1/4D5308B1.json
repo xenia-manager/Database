@@ -24,7 +24,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4D530877",
+                "title": "Halo 3 ODST Campaign Edition"
+            }
+        ],
         "related": []
     }
 }

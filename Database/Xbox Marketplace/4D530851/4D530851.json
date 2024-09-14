@@ -35,7 +35,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4D530AC8",
+                "title": "Crimson Skies High Road to Revenge"
+            }
+        ],
         "related": []
     }
 }

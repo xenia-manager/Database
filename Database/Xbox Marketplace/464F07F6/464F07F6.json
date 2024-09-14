@@ -46,7 +46,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4D4A07E5",
+                "title": "Jillian Michaels Fitness Adventure"
+            }
+        ],
         "related": []
     }
 }

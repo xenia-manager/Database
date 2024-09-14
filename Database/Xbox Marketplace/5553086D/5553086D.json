@@ -31,7 +31,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "5553084F",
+                "title": "Your Shape™ : Fitness Evolved"
+            }
+        ],
         "related": []
     }
 }

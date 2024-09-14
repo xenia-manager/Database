@@ -52,7 +52,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "55530807",
+                "title": "Rainbow Six Vegas 2"
+            }
+        ],
         "related": []
     }
 }

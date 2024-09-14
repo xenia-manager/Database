@@ -30,7 +30,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "54510896",
+                "title": "Darksiders II"
+            }
+        ],
         "related": []
     }
 }

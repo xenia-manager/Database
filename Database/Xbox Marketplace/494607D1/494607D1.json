@@ -49,7 +49,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "494607D1",
+                "title": "Spectral Force 3"
+            }
+        ],
         "related": []
     }
 }

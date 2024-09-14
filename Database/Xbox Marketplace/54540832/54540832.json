@@ -31,7 +31,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "5454081A",
+                "title": "Bully Scholarship Ed"
+            }
+        ],
         "related": []
     }
 }

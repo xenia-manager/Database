@@ -74,7 +74,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "425307F3",
+                "title": "Dishonored Game of the Year Edition"
+            }
+        ],
         "related": []
     }
 }

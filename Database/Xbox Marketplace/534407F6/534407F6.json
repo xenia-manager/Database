@@ -43,7 +43,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "534307E0",
+                "title": "Kane and Lynch Dead Men"
+            }
+        ],
         "related": []
     }
 }

@@ -33,7 +33,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "5752081D",
+                "title": "LEGO® Lord of the Rings™"
+            }
+        ],
         "related": []
     }
 }

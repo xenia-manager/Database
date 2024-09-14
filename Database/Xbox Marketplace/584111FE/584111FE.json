@@ -34,7 +34,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "534507EE",
+                "title": "Virtua Fighter 5"
+            }
+        ],
         "related": []
     }
 }

@@ -24,7 +24,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "58550E7C",
+                "title": "Paintball Wars 2"
+            }
+        ],
         "related": []
     }
 }

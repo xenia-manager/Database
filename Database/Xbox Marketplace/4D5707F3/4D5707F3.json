@@ -31,7 +31,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4D5707DB",
+                "title": "Unreal Tournament III"
+            }
+        ],
         "related": []
     }
 }

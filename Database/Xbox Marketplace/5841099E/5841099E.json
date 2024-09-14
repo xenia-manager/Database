@@ -46,7 +46,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4D5309F6",
+                "title": "Toy Soldiers"
+            }
+        ],
         "related": []
     }
 }

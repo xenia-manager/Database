@@ -31,7 +31,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "443607D5",
+                "title": "The Wolf Among Us"
+            }
+        ],
         "related": []
     }
 }

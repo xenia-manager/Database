@@ -37,7 +37,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4B5607E5",
+                "title": "Dynasty Warriors 8"
+            }
+        ],
         "related": []
     }
 }

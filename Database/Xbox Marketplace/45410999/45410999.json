@@ -33,7 +33,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "45410998",
+                "title": "FIFA Soccer 13"
+            }
+        ],
         "related": []
     }
 }

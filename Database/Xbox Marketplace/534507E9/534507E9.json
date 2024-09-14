@@ -24,7 +24,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "534507E3",
+                "title": "Phantasy Star Universe"
+            }
+        ],
         "related": []
     }
 }

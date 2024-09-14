@@ -41,7 +41,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "464507D5",
+                "title": "The Testament of Sherlock Holmes"
+            }
+        ],
         "related": []
     }
 }

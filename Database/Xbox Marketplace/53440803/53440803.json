@@ -44,7 +44,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4B4D07DF",
+                "title": "Dead Island"
+            }
+        ],
         "related": []
     }
 }

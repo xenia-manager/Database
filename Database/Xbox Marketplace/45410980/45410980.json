@@ -31,7 +31,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "45410972",
+                "title": "Tiger Woods PGA TOUR® 13"
+            }
+        ],
         "related": []
     }
 }

@@ -48,7 +48,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "424107DD",
+                "title": "Culdcept SAGA"
+            }
+        ],
         "related": []
     }
 }

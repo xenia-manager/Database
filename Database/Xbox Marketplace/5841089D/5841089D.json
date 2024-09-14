@@ -24,7 +24,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "58410847",
+                "title": "Castlevania Symphony of the Night"
+            }
+        ],
         "related": []
     }
 }

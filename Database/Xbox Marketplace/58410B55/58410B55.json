@@ -33,7 +33,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "584113E3",
+                "title": "Who Wants To Be A Millionaire Special Editions"
+            }
+        ],
         "related": []
     }
 }

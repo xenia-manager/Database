@@ -37,7 +37,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "454108C0",
+                "title": "Dragon Age Origins"
+            }
+        ],
         "related": []
     }
 }

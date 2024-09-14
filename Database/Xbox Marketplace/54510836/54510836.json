@@ -50,7 +50,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "545107FC",
+                "title": "Saints Row 2"
+            }
+        ],
         "related": []
     }
 }

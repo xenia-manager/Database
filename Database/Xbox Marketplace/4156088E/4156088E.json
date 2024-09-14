@@ -24,7 +24,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "415608CB",
+                "title": "Modern Warfare® 3"
+            }
+        ],
         "related": []
     }
 }

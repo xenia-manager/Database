@@ -35,7 +35,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "58410937",
+                "title": "Bionic Commando Rearmed"
+            }
+        ],
         "related": []
     }
 }

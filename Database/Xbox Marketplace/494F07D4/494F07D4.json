@@ -40,7 +40,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4D5607D1",
+                "title": "Deadly Premonition"
+            }
+        ],
         "related": []
     }
 }

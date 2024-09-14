@@ -36,7 +36,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "545408B9",
+                "title": "Tales from the Borderlands"
+            }
+        ],
         "related": []
     }
 }

@@ -32,7 +32,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "545407EE",
+                "title": "The Darkness"
+            }
+        ],
         "related": []
     }
 }

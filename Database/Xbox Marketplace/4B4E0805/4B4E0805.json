@@ -31,7 +31,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4B4E0801",
+                "title": "PES 2010"
+            }
+        ],
         "related": []
     }
 }

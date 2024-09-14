@@ -36,7 +36,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "535007ED",
+                "title": "Phantom Breaker"
+            }
+        ],
         "related": []
     }
 }

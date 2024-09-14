@@ -32,7 +32,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "54540828",
+                "title": "Sid Meiers Pirates"
+            }
+        ],
         "related": []
     }
 }

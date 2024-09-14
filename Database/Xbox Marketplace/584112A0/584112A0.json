@@ -41,7 +41,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "5841145E",
+                "title": "Max The Curse of Brotherhood"
+            }
+        ],
         "related": []
     }
 }

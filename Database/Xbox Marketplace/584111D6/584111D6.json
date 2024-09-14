@@ -36,7 +36,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "504707D8",
+                "tile": "Bejeweled 3"
+            }
+        ],
         "related": []
     }
 }

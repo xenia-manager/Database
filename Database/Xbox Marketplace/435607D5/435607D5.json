@@ -31,7 +31,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "524C07D1",
+                "title": "Crash Time"
+            }
+        ],
         "related": []
     }
 }
