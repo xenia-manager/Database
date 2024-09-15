@@ -33,7 +33,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4B4D07F6",
+                "title": "Saints Row IV"
+            }
+        ],
         "related": [
             "http://download.xbox.com/content/4b4d07f6/3/X360%20SR4%20Manual%20UK+INT+SCA%20zur%20Ansicht.pdf"
         ]

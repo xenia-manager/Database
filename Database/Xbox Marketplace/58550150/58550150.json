@@ -24,7 +24,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "58550104",
+                "title": "Beat IT"
+            }
+        ],
         "related": []
     }
 }

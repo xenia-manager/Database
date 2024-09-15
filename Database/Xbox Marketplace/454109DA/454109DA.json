@@ -32,7 +32,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "454109D9",
+                "title": "Madden NFL 15"
+            }
+        ],
         "related": []
     }
 }

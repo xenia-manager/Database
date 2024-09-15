@@ -52,7 +52,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "464507D6",
+                "title": "Divinity II - DKS"
+            }
+        ],
         "related": []
     }
 }

@@ -24,7 +24,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "58550265",
+                "title": "Super Xblox 360"
+            }
+        ],
         "related": []
     }
 }

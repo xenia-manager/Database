@@ -1,7 +1,7 @@
 {
     "id": "5841128D",
     "title": {
-        "full": "Double Dragon II the wander of Dragons-",
+        "full": "Double Dragon II - The Wander of The Dragons",
         "reduced": "Double Dragon II"
     },
     "genre": [
@@ -39,7 +39,7 @@
         "parent": [
             {
                 "id": "58410A74",
-                "title": "Double Dragon II  Wander of The Dragons"
+                "title": "Double Dragon II - Wander of The Dragons"
             }
         ],
         "related": []

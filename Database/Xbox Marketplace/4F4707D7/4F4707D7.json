@@ -46,7 +46,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "435607DB",
+                "title": "Cartoon Network: Punch Time Explosion XL"
+            }
+        ],
         "related": []
     }
 }

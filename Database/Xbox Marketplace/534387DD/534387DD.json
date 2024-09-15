@@ -27,7 +27,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "534307D5",
+                "title": "Just Cause"
+            }
+        ],
         "related": []
     }
 }

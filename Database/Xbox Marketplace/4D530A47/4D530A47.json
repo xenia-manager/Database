@@ -32,7 +32,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4D5309CD",
+                "title": "Kinect Nat Geo TV"
+            }
+        ],
         "related": []
     }
 }

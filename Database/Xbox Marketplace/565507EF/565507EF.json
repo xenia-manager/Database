@@ -33,12 +33,7 @@
         ]
     },
     "products": {
-        "parent": [
-            {
-                "id": "415608A7",
-                "title": "PROTOTYPE 2"
-            }
-        ],
+        "parent": [],
         "related": []
     }
 }

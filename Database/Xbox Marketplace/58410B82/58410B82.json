@@ -34,7 +34,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "545108AB",
+                "title": "Nexuiz "
+            }
+        ],
         "related": []
     }
 }

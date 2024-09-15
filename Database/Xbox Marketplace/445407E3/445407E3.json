@@ -36,7 +36,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "535507D4",
+                "title": "RAIDEN FIGHTERS ACES"
+            }
+        ],
         "related": []
     }
 }

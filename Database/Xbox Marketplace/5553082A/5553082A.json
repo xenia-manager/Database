@@ -33,7 +33,12 @@
         "gallery": []
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "555307EA",
+                "title": "Brothers in Arms - Hell's Highway"
+            }
+        ],
         "related": []
     }
 }
