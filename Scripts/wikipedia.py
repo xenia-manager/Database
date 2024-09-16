@@ -67,7 +67,9 @@ for url in urls:
                 game_data = {
                     "title": title,
                     "url": game_link,
-                    "boxart": image_url
+                    "artwork": {
+                        "boxart": image_url
+                    }
                 }
                 # Append the dictionary to the list
                 print(game_data)
