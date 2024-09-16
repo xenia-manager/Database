@@ -33,7 +33,12 @@
         ]
     },
     "products": {
-        "parent": [],
+        "parent": [
+            {
+                "id": "4156084E",
+                "title": "PROTOTYPE"
+            }
+        ],
         "related": []
     }
 }
