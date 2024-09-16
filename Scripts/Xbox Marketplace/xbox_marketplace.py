@@ -9,7 +9,7 @@ import xml.etree.ElementTree as ET
 import re
 import time
 from datetime import datetime
-from config import BASE_GAMES_LIST_JSON_URL, URL_TEMPLATE, MAX_RETRIES, RETRY_DELAY, MIME_TYPE_TO_EXTENSION, DOWNLOAD_ARTWORK
+from config import BASE_GAMES_LIST_JSON_URL, URL_TEMPLATE, MAX_RETRIES, RETRY_DELAY, MIME_TYPE_TO_EXTENSION, UPDATE_DATA, DOWNLOAD_ARTWORK
 import os
 import sys
 from PIL import Image
@@ -151,9 +151,9 @@ def extract_game_data(xml_content, titleid, media):
                 game_data['artwork']['icon'] = fileUrl
     
     # Checking if the game has artwork, if it doesn't, don't add it to the list of games
-    if game_data['artwork']['boxart'] is None:
+    """if game_data['artwork']['boxart'] is None:
         print(f"{game_data['id']} has no boxart. Skipping it")
-        return None
+        return None"""
     
     # Parse Slideshow
     slideshow = entry.find('.//slideShows/slideShow', namespaces=ns)
@@ -162,8 +162,7 @@ def extract_game_data(xml_content, titleid, media):
         for image in slideshow_images:
             imageUrl = image.find('fileUrl', namespaces=ns).text
             game_data['artwork']['gallery'].append(imageUrl)
-    #game_data['artwork']['gallery'].sort() # Sort the URLs of images for Slideshow
-    game_data['artwork']['gallery'] = sorted(game_data['artwork']['gallery'], key=extract_number)
+    game_data['artwork']['gallery'] = sorted(game_data['artwork']['gallery'], key=extract_number) # Sort the URLs of images for Slideshow
     
     # Parse parent products
     parent_products_element = entry.find('.//parentProducts', namespaces=ns)
@@ -317,12 +316,12 @@ def scrape_game_data(base_games_list):
         json_filename = f"Database/Xbox Marketplace/{titleid}/{titleid}.json"
 
         # Check if the game data has already been scraped
-        """if os.path.exists(json_filename):
+        if os.path.exists(json_filename) and UPDATE_DATA == False:
             print(f"{game['title']} ({titleid}) has already been scraped. Reading data from the file.")
             with open(json_filename, 'r', encoding='utf-8') as file:
                  game_data = json.load(file)
             output_data.append(save_game_data(game_data, json_filename, titleid))
-            continue # Continue on with the for loop since we already have the data for this entry"""
+            continue # Continue on with the for loop since we already have the data for this entry
         
         url = URL_TEMPLATE.format(id=titleid) # Replaces the 'id' with the actual id in the API URL
         success = False # This is just to check if it successfuly scraped the data for the game
