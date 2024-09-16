@@ -65,9 +65,9 @@ for url in urls:
             
             if title and (game_link or image_url):
                 game_data = {
-                    "Title": title,
-                    "Link": game_link,
-                    "Image URL": image_url
+                    "title": title,
+                    "url": game_link,
+                    "boxart": image_url
                 }
                 # Append the dictionary to the list
                 print(game_data)

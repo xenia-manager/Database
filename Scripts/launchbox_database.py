@@ -23,9 +23,9 @@ def getgamecontent(gamelinks):
 
         # Artwork
         artwork = {
-            "Front Image": None,
-            "Disc": None,
-            "Logo": None
+            "boxart": None,
+            "disc": None,
+            "logo": None
         }
         artworkcontainer = soup.findAll('div', class_='imageContainerColumn')
         if artworkcontainer:
@@ -36,23 +36,23 @@ def getgamecontent(gamelinks):
                         img_src = img.get('src')
                         img_alt = img.get('alt', '')
                         if "Box - Front Image" in img_alt and "Fanart" not in img_alt:
-                            artwork['Front Image'] = img_src
+                            artwork['boxart'] = img_src
                         if "Disc" in img_alt:
-                            artwork['Disc'] = img_src
+                            artwork['disc'] = img_src
                         if "Clear Logo Image" in img_alt:
-                            artwork['Logo'] = img_src
+                            artwork['logo'] = img_src
                     
         # Parsed Game
         parsed_game = {
-            'Title': title,
-            'URL': url.replace('images', 'details')
+            'title': title,
+            'url': url.replace('images', 'details')
         }
 
-        if artwork and artwork['Front Image']:
+        if artwork and artwork['boxart']:
             # Check if artwork as disc image
-            if artwork.get('Disc') is None:
-                artwork['Disc'] = "https://raw.githubusercontent.com/xenia-manager/xenia-manager-database/main/Assets/disc.png"
-            parsed_game['Artwork'] = artwork
+            if artwork.get('disc') is None:
+                artwork['disc'] = "https://raw.githubusercontent.com/xenia-manager/xenia-manager-database/main/Assets/disc.png"
+            parsed_game['artwork'] = artwork
             print(parsed_game)
             games.append(parsed_game)
 
