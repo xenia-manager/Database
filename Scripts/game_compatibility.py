@@ -61,8 +61,9 @@ def parse_request(data):
                 "state": state,
                 "url": game["html_url"]
             }
-            print(parsed_game)
-            parsed_response.append(parsed_game)
+            if parsed_game["url"] != "https://github.com/xenia-canary/game-compatibility/issues/1":
+                print(parsed_game)
+                parsed_response.append(parsed_game)
         return parsed_response
     except Exception as e:
         print(f"Error processing request data: {e}")

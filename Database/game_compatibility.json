@@ -1228,11 +1228,5 @@
         "title": "Enchanted Arms",
         "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/2"
-    },
-    {
-        "id": null,
-        "title": "Spam",
-        "state": "Unplayable",
-        "url": "https://github.com/xenia-canary/game-compatibility/issues/1"
     }
 ]
