@@ -9,10 +9,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
@@ -47,11 +47,10 @@ jobs:
 
       - name: Create Pull Request
         if: success()
-        uses: peter-evans/create-pull-request@v5
+        uses: peter-evans/create-pull-request@v7
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          head: ${{ steps.commit_and_push.outputs.BRANCH_NAME }}  # Use the branch we just created
+          branch: ${{ steps.commit_and_push.outputs.BRANCH_NAME }}  # Use the branch we just created
           base: main  # Target branch for the PR (adjust if needed)
           title: "Update game compatibility"
           body: "Automated update of game compatibility data."
-          draft: false  # Set to true if you want to create a draft PR
+          draft: true  # Set to true if you want to create a draft PR
