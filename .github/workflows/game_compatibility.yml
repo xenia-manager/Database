@@ -34,6 +34,7 @@ jobs:
 
           # Create a new branch
           BRANCH_NAME="update-game-compatibility-$(date +%Y%m%d)"
+          echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
           git checkout -b $BRANCH_NAME
 
           # Add and commit changes
@@ -49,7 +50,7 @@ jobs:
         if: success()
         uses: peter-evans/create-pull-request@v7
         with:
-          branch: ${{ steps.commit_and_push.outputs.BRANCH_NAME }}  # Use the branch we just created
+          branch: ${{ env.BRANCH_NAME }}  # Use the branch we just created
           base: main  # Target branch for the PR (adjust if needed)
           title: "Update game compatibility"
           body: "Automated update of game compatibility data."
