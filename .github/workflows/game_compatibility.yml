@@ -32,15 +32,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Check if output file exists
-        run: |
-          if [ ! -f "Database/game_compatibility.json" ]; then
-            echo "Output file not found!"
-            exit 1
-          else
-            echo "Output file found. Checking for changes."
-        id: check_file  # Set an ID to reference later
-
       - name: Commit and push changes to a new branch
         if: success() # Only run if previous steps succeeded
         run: |
