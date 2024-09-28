@@ -1,6 +1,8 @@
 name: Fetch game compatibility
 
 on:
+  schedule:
+    - cron: '0 12 * * 1'  # Runs every monday at 12:00
   workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
