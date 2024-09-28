@@ -21,13 +21,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests python-dotenv
 
-      - name: Run the Python script
-        run: python Scripts/game_compatibility.py
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit and push changes to a new branch
-        if: success() # Only run if previous steps succeeded
+      - name: Create a new branch
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
@@ -37,6 +31,14 @@ jobs:
           echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
           git checkout -b $BRANCH_NAME
 
+      - name: Run the Python script
+        run: python Scripts/game_compatibility.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push changes to the new branch
+        if: success() # Only run if previous steps succeeded
+        run: |
           # Add and commit changes
           git add Database/game_compatibility.json
           git diff-index --quiet HEAD || git commit -m "Update game compatibility"
