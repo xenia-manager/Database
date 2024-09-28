@@ -10,7 +10,7 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-        
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -33,7 +33,7 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
           # Create a new branch
-          BRANCH_NAME="update-game-compatibility-$(date +%Y%m%d%H%M%S)"
+          BRANCH_NAME="update-game-compatibility-$(date +%Y%m%d)"
           git checkout -b $BRANCH_NAME
 
           # Add and commit changes
