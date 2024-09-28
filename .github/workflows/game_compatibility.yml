@@ -21,39 +21,31 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests python-dotenv
 
-      - name: Create a new branch
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-          # Create a new branch
-          BRANCH_NAME="update-game-compatibility-$(date +%Y%m%d)"
-          echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
-          git checkout -b $BRANCH_NAME
-
       - name: Run the Python script
         run: python Scripts/game_compatibility.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit and push changes to the new branch
-        if: success() # Only run if previous steps succeeded
+      - name: Configure Git
         run: |
-          # Add and commit changes
-          git add Database/game_compatibility.json
-          git diff-index --quiet HEAD || git commit -m "Update game compatibility"
+          git config --local user.name "GitHub Action"
+          git config --local user.email "action@github.com"
 
-          # Push the new branch
-          git push origin $BRANCH_NAME
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Create a new branch
+        run: |
+          git checkout -b update-game-compatibility
+
+      - name: Add changes
+        run: |
+          git add .
+          git commit -m "Update game compatibility data"
+
+      - name: Push changes
+        run: |
+          git push origin update-game-compatibility
 
       - name: Create Pull Request
-        if: success()
-        uses: peter-evans/create-pull-request@v7
-        with:
-          branch: ${{ env.BRANCH_NAME }}  # Use the branch we just created
-          base: main  # Target branch for the PR (adjust if needed)
-          title: "Update game compatibility"
-          body: "Automated update of game compatibility data."
-          draft: false  # Set to true if you want to create a draft PR
+        run: |
+          gh pr create --title "Update Game Compatibility" --body "This PR updates the game compatibility data." --base main --head update-game-compatibility
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
