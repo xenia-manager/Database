@@ -1,9 +1,11 @@
 name: Fetch game compatibility
 
 on:
-  schedule:
-    - cron: '0 12 * * 1'  # Runs every monday at 12:00
   workflow_dispatch: # Allows manual triggering of the workflow
+  workflow_run:
+    workflows: ["Update Game Patches JSON file from Github API"]
+    types:
+      - completed
 
 jobs:
   fetch_game_compatibility:
