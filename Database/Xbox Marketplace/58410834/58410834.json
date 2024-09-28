@@ -20,7 +20,7 @@
     "artwork": {
         "background": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410834/1033/background.jpg",
         "banner": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410834/1033/banner.png",
-        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410a23/1033/boxartlg.jpg",
+        "boxart": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410834/1033/boxartlg.jpg",
         "icon": "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410834/1033/tile.png",
         "gallery": [
             "http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410834/1033/screenlg1.jpg",
@@ -46,12 +46,7 @@
         ]
     },
     "products": {
-        "parent": [
-            {
-                "id": "58410A23",
-                "title": "Pinball FX2"
-            }
-        ],
+        "parent": [],
         "related": []
     }
 }
