@@ -54,4 +54,4 @@ jobs:
           base: main  # Target branch for the PR (adjust if needed)
           title: "Update game compatibility"
           body: "Automated update of game compatibility data."
-          draft: true  # Set to true if you want to create a draft PR
+          draft: false  # Set to true if you want to create a draft PR
