@@ -10,13 +10,7 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          # Only check out the necessary file
-          sparse-checkout: |
-            Database/game_compatibility.json
-            Scripts/game_compatibility.py
-          sparse-checkout-cone-mode: false
-
+        
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
