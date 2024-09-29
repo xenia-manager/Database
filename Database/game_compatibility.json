@@ -572,7 +572,7 @@
     {
         "id": "58410960",
         "title": "Portal: Still Alive",
-        "state": "Loads",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/142"
     },
     {
@@ -686,7 +686,7 @@
     {
         "id": "41560803",
         "title": "Monster Jam",
-        "state": "Loads",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/118"
     },
     {
@@ -740,7 +740,7 @@
     {
         "id": "535507D4",
         "title": "Raiden Fighters Aces",
-        "state": "Loads",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/105"
     },
     {
@@ -806,7 +806,7 @@
     {
         "id": "58410825",
         "title": "Eets: Chowdown",
-        "state": "Unplayable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/86"
     },
     {
@@ -1040,7 +1040,7 @@
     {
         "id": "485507D2",
         "title": "天外魔境ＺＩＲＩＡ",
-        "state": "Loads",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/36"
     },
     {
