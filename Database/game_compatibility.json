@@ -1,5 +1,17 @@
 [
     {
+        "id": "45410876",
+        "title": "Need for Speed: Undercover ",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/251"
+    },
+    {
+        "id": "45410903",
+        "title": "Need for Speed Hot Pursuit",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/250"
+    },
+    {
         "id": "45410822",
         "title": "Need for Speed: ProStreet",
         "state": "Gameplay",
@@ -284,7 +296,7 @@
     {
         "id": "5553080B",
         "title": "Tom Clancy’s Splinter Cell: Conviction ",
-        "state": "Loads",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/196"
     },
     {
@@ -446,7 +458,7 @@
     {
         "id": "484507D2",
         "title": "AFL Live",
-        "state": "Unplayable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/165"
     },
     {
@@ -1010,7 +1022,7 @@
     {
         "id": "5454086B",
         "title": "Max Payne 3",
-        "state": "Loads",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/42"
     },
     {
