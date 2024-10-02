@@ -3200,6 +3200,22 @@
     }
   },
   {
+    "name": "58411408 - Castlevania LOS-MOF HD.patch.toml",
+    "path": "patches/58411408 - Castlevania LOS-MOF HD.patch.toml",
+    "sha": "f10a2df8cffa42f982d78af4cace47c5f464d4fe",
+    "size": 465,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/58411408%20-%20Castlevania%20LOS-MOF%20HD.patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/58411408%20-%20Castlevania%20LOS-MOF%20HD.patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/f10a2df8cffa42f982d78af4cace47c5f464d4fe",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/58411408%20-%20Castlevania%20LOS-MOF%20HD.patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/58411408%20-%20Castlevania%20LOS-MOF%20HD.patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/f10a2df8cffa42f982d78af4cace47c5f464d4fe",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/58411408%20-%20Castlevania%20LOS-MOF%20HD.patch.toml"
+    }
+  },
+  {
     "name": "58411436 - Peggle 2.patch.toml",
     "path": "patches/58411436 - Peggle 2.patch.toml",
     "sha": "b97ac89b135850a12acbdff388d25cb2a0ae80d6",
