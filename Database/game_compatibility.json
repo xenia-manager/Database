@@ -284,7 +284,7 @@
     {
         "id": "443607D9",
         "title": "Minecraft Story Mode",
-        "state": "Unplayable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/199"
     },
     {
@@ -350,7 +350,7 @@
     {
         "id": "454109EC",
         "title": "EA SPORTS™ NHL™ Legacy Edition",
-        "state": "Loads",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/187"
     },
     {
@@ -476,7 +476,7 @@
     {
         "id": "5451086D",
         "title": "Saints Row: The Third",
-        "state": "Loads",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/161"
     },
     {
@@ -536,7 +536,7 @@
     {
         "id": "545407E6",
         "title": "Mafia II",
-        "state": "Loads",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/151"
     },
     {
@@ -770,7 +770,7 @@
     {
         "id": "4D5307DC",
         "title": "Crackdown",
-        "state": "Loads",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/102"
     },
     {
@@ -872,7 +872,7 @@
     {
         "id": "54510890",
         "title": "WWE '12",
-        "state": "Loads",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/72"
     },
     {
@@ -956,7 +956,7 @@
     {
         "id": "424107D6",
         "title": "Gundam: Operation Troy",
-        "state": "Loads",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/53"
     },
     {
@@ -974,7 +974,7 @@
     {
         "id": "4D5307D2",
         "title": "Kameo: Elements of Power",
-        "state": "Loads",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/50"
     },
     {
