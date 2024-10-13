@@ -34,64 +34,64 @@
   {
     "name": "415607E1 - Call Of Duty 3 (TU3).patch.toml",
     "path": "patches/415607E1 - Call Of Duty 3 (TU3).patch.toml",
-    "sha": "294c539d04d9f6e4481d11a73ef081126f9ef8f4",
-    "size": 1413,
+    "sha": "6094331914d49c8b61e2add2fc035022cac0b524",
+    "size": 1644,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/415607E1%20-%20Call%20Of%20Duty%203%20(TU3).patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/415607E1%20-%20Call%20Of%20Duty%203%20(TU3).patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/294c539d04d9f6e4481d11a73ef081126f9ef8f4",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/6094331914d49c8b61e2add2fc035022cac0b524",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/415607E1%20-%20Call%20Of%20Duty%203%20(TU3).patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/415607E1%20-%20Call%20Of%20Duty%203%20(TU3).patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/294c539d04d9f6e4481d11a73ef081126f9ef8f4",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/6094331914d49c8b61e2add2fc035022cac0b524",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/415607E1%20-%20Call%20Of%20Duty%203%20(TU3).patch.toml"
     }
   },
   {
     "name": "415607E1 - Call Of Duty 3 MP (TU3).patch.toml",
     "path": "patches/415607E1 - Call Of Duty 3 MP (TU3).patch.toml",
-    "sha": "922b728a39c55e2a39acea1d108980615a1744d2",
-    "size": 1742,
+    "sha": "951858bd5fa8625b6073196e27c610ef4801e35e",
+    "size": 1973,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/415607E1%20-%20Call%20Of%20Duty%203%20MP%20(TU3).patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/415607E1%20-%20Call%20Of%20Duty%203%20MP%20(TU3).patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/922b728a39c55e2a39acea1d108980615a1744d2",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/951858bd5fa8625b6073196e27c610ef4801e35e",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/415607E1%20-%20Call%20Of%20Duty%203%20MP%20(TU3).patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/415607E1%20-%20Call%20Of%20Duty%203%20MP%20(TU3).patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/922b728a39c55e2a39acea1d108980615a1744d2",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/951858bd5fa8625b6073196e27c610ef4801e35e",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/415607E1%20-%20Call%20Of%20Duty%203%20MP%20(TU3).patch.toml"
     }
   },
   {
     "name": "415607E1 - Call Of Duty 3 MP.patch.toml",
     "path": "patches/415607E1 - Call Of Duty 3 MP.patch.toml",
-    "sha": "102c40c2fee26499db40e6f39a7429583b828d00",
-    "size": 1491,
+    "sha": "8faefc493f9af47cebed72504c71584341fe585f",
+    "size": 1722,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/415607E1%20-%20Call%20Of%20Duty%203%20MP.patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/415607E1%20-%20Call%20Of%20Duty%203%20MP.patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/102c40c2fee26499db40e6f39a7429583b828d00",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/8faefc493f9af47cebed72504c71584341fe585f",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/415607E1%20-%20Call%20Of%20Duty%203%20MP.patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/415607E1%20-%20Call%20Of%20Duty%203%20MP.patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/102c40c2fee26499db40e6f39a7429583b828d00",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/8faefc493f9af47cebed72504c71584341fe585f",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/415607E1%20-%20Call%20Of%20Duty%203%20MP.patch.toml"
     }
   },
   {
     "name": "415607E1 - Call Of Duty 3.patch.toml",
     "path": "patches/415607E1 - Call Of Duty 3.patch.toml",
-    "sha": "bf60db0fb6c3ba96094b05a5cbc30c7402821228",
-    "size": 1413,
+    "sha": "3940e31d16e18045462ee16858edb8beedd94fd8",
+    "size": 1644,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/415607E1%20-%20Call%20Of%20Duty%203.patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/415607E1%20-%20Call%20Of%20Duty%203.patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/bf60db0fb6c3ba96094b05a5cbc30c7402821228",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/3940e31d16e18045462ee16858edb8beedd94fd8",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/415607E1%20-%20Call%20Of%20Duty%203.patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/415607E1%20-%20Call%20Of%20Duty%203.patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/bf60db0fb6c3ba96094b05a5cbc30c7402821228",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/3940e31d16e18045462ee16858edb8beedd94fd8",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/415607E1%20-%20Call%20Of%20Duty%203.patch.toml"
     }
   },
