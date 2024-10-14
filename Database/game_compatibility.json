@@ -1,5 +1,23 @@
 [
     {
+        "id": "425307F4",
+        "title": "The Evil Within",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/255"
+    },
+    {
+        "id": "555308CA",
+        "title": "Far Cry 4",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/254"
+    },
+    {
+        "id": "5841095A",
+        "title": "Trials HD",
+        "state": "Unplayable",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/253"
+    },
+    {
         "id": "5A4507DA",
         "title": "Two Worlds II",
         "state": "Unknown",
