@@ -432,6 +432,22 @@
     }
   },
   {
+    "name": "434D07E0 - Turning Point Fall of Liberty.patch.toml",
+    "path": "patches/434D07E0 - Turning Point Fall of Liberty.patch.toml",
+    "sha": "d902cbab6f97b858bcdc91a334f168afd49a38d9",
+    "size": 391,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/434D07E0%20-%20Turning%20Point%20Fall%20of%20Liberty.patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/434D07E0%20-%20Turning%20Point%20Fall%20of%20Liberty.patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/d902cbab6f97b858bcdc91a334f168afd49a38d9",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/434D07E0%20-%20Turning%20Point%20Fall%20of%20Liberty.patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/434D07E0%20-%20Turning%20Point%20Fall%20of%20Liberty.patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/d902cbab6f97b858bcdc91a334f168afd49a38d9",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/434D07E0%20-%20Turning%20Point%20Fall%20of%20Liberty.patch.toml"
+    }
+  },
+  {
     "name": "434D0822 - Leisure Suit Larry Box Office Bust.patch.toml",
     "path": "patches/434D0822 - Leisure Suit Larry Box Office Bust.patch.toml",
     "sha": "eed945e54adb2f687c7b21e4fceb16c8e67afdf7",
