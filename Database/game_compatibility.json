@@ -1,5 +1,23 @@
 [
     {
+        "id": "545107EF",
+        "title": "BAJA: Edge of Control",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/258"
+    },
+    {
+        "id": "454109E0",
+        "title": "Battlefield Hardline",
+        "state": "Loads",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/257"
+    },
+    {
+        "id": "454107E9",
+        "title": "The Godfather",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/256"
+    },
+    {
         "id": "425307F4",
         "title": "The Evil Within",
         "state": "Gameplay",
