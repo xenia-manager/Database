@@ -1,5 +1,35 @@
 [
     {
+        "id": "5345085E",
+        "title": "Alien: Isolation",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/263"
+    },
+    {
+        "id": "4541083F",
+        "title": "UEFA Euro 2008",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/262"
+    },
+    {
+        "id": "4541081F",
+        "title": "FIFA 08",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/261"
+    },
+    {
+        "id": "454107E6",
+        "title": "2006 FIFA World Cup",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/260"
+    },
+    {
+        "id": "4541083B",
+        "title": "FIFA Street 3",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/259"
+    },
+    {
         "id": "545107EF",
         "title": "BAJA: Edge of Control",
         "state": "Gameplay",
