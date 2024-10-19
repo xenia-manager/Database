@@ -1,20 +1,32 @@
 [
     {
+        "id": "454108CE",
+        "title": "Mass Effect 2",
+        "state": "Playable",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/265"
+    },
+    {
+        "id": "4D5308C5",
+        "title": "Mass Effect 2 Importer",
+        "state": "Playable",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/264"
+    },
+    {
         "id": "5345085E",
         "title": "Alien: Isolation",
-        "state": "Unknown",
+        "state": "Loads",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/263"
     },
     {
         "id": "4541083F",
         "title": "UEFA Euro 2008",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/262"
     },
     {
         "id": "4541081F",
         "title": "FIFA 08",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/261"
     },
     {
@@ -488,7 +500,7 @@
     {
         "id": "555307D7",
         "title": "Splinter Cell Double Agent",
-        "state": "Loads",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/172"
     },
     {
@@ -1232,7 +1244,7 @@
     {
         "id": "545408B8",
         "title": "GTA: San Andreas",
-        "state": "Gameplay",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/15"
     },
     {
