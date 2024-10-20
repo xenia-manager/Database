@@ -2752,6 +2752,22 @@
     }
   },
   {
+    "name": "57520828 - Batman Arkham Origins.patch.toml",
+    "path": "patches/57520828 - Batman Arkham Origins.patch.toml",
+    "sha": "580b4e9e9b685cf4cb422b520202adf4bf96be62",
+    "size": 790,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/57520828%20-%20Batman%20Arkham%20Origins.patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/57520828%20-%20Batman%20Arkham%20Origins.patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/580b4e9e9b685cf4cb422b520202adf4bf96be62",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/57520828%20-%20Batman%20Arkham%20Origins.patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/57520828%20-%20Batman%20Arkham%20Origins.patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/580b4e9e9b685cf4cb422b520202adf4bf96be62",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/57520828%20-%20Batman%20Arkham%20Origins.patch.toml"
+    }
+  },
+  {
     "name": "584107D5 - Small Arms.patch.toml",
     "path": "patches/584107D5 - Small Arms.patch.toml",
     "sha": "3bc2e36e79b33cb43a542677489f80cf3b3e1e55",
@@ -3122,16 +3138,16 @@
   {
     "name": "584111F7 - Minecraft (XBLA, TU0).patch.toml",
     "path": "patches/584111F7 - Minecraft (XBLA, TU0).patch.toml",
-    "sha": "1f7075cf2fddca9a6a4700147cfa898f2a3eec87",
-    "size": 1225,
+    "sha": "34875f2b25beae7e48127f583dcc0e1e3467be6c",
+    "size": 2200,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/584111F7%20-%20Minecraft%20(XBLA,%20TU0).patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/584111F7%20-%20Minecraft%20(XBLA,%20TU0).patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/1f7075cf2fddca9a6a4700147cfa898f2a3eec87",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/34875f2b25beae7e48127f583dcc0e1e3467be6c",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/584111F7%20-%20Minecraft%20(XBLA%2C%20TU0).patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/584111F7%20-%20Minecraft%20(XBLA,%20TU0).patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/1f7075cf2fddca9a6a4700147cfa898f2a3eec87",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/34875f2b25beae7e48127f583dcc0e1e3467be6c",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/584111F7%20-%20Minecraft%20(XBLA,%20TU0).patch.toml"
     }
   },
@@ -3213,6 +3229,22 @@
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/5841124F%20-%20Doritos%20Crash%20Course%202.patch.toml?ref=main",
       "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/d92b76d3fa1a7b75638792fd26c1009838173013",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/5841124F%20-%20Doritos%20Crash%20Course%202.patch.toml"
+    }
+  },
+  {
+    "name": "584112B0 - Call of Juarez Gunslinger.patch.toml",
+    "path": "patches/584112B0 - Call of Juarez Gunslinger.patch.toml",
+    "sha": "6a044a8d94259f0ccf4277553a4d044707b540de",
+    "size": 609,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/584112B0%20-%20Call%20of%20Juarez%20Gunslinger.patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/584112B0%20-%20Call%20of%20Juarez%20Gunslinger.patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/6a044a8d94259f0ccf4277553a4d044707b540de",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/584112B0%20-%20Call%20of%20Juarez%20Gunslinger.patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/584112B0%20-%20Call%20of%20Juarez%20Gunslinger.patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/6a044a8d94259f0ccf4277553a4d044707b540de",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/584112B0%20-%20Call%20of%20Juarez%20Gunslinger.patch.toml"
     }
   },
   {
