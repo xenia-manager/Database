@@ -1,5 +1,11 @@
 [
     {
+        "id": "41560801",
+        "title": "Hot Wheels: Beat That!",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/266"
+    },
+    {
         "id": "454108CE",
         "title": "Mass Effect 2",
         "state": "Playable",
