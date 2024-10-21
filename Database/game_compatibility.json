@@ -1,8 +1,20 @@
 [
     {
+        "id": "53510802",
+        "title": "Tomb Raider",
+        "state": "Playable",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/268"
+    },
+    {
+        "id": "454D07D2",
+        "title": "FlatOut: Ultimate Carnage",
+        "state": "Playable",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/267"
+    },
+    {
         "id": "41560801",
         "title": "Hot Wheels: Beat That!",
-        "state": "Gameplay",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/266"
     },
     {
