@@ -1,5 +1,17 @@
 [
     {
+        "id": "474907D1",
+        "title": "Bass Pro Shops - The Strike (USA)",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/271"
+    },
+    {
+        "id": "485507D1",
+        "title": "BOMBERMAN: ACT ZERO",
+        "state": "Unplayable",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/270"
+    },
+    {
         "id": "4B4E07E6",
         "title": "PES 2008: Pro Evolution Soccer",
         "state": "Loads",
