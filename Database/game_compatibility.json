@@ -1,5 +1,41 @@
 [
     {
+        "id": "494D87E4",
+        "title": "Xbox 360 The Official Xbox Magazine (OXM) - Issue 09 (July 2006)",
+        "state": "Unplayable",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/279"
+    },
+    {
+        "id": "584B8806",
+        "title": "Xbox 360 Experience Disc Version 2.3 (Kiosk)(2007-01-31)",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/278"
+    },
+    {
+        "id": "584B8842",
+        "title": "Xbox 360 Experience Disc Version 5.0 (Kiosk)(2009)",
+        "state": "Loads",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/277"
+    },
+    {
+        "id": "584B8817",
+        "title": "Xbox 360 Experience Disc Version 3.4 (Kiosk)(2008-06-05)",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/276"
+    },
+    {
+        "id": "584B8814",
+        "title": "Xbox 360 Experience Disc Version 3.1 (Kiosk)(2007-08-02)",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/275"
+    },
+    {
+        "id": "584B87D2",
+        "title": "Xbox 360 Experience Disc Version 1.0 (Kiosk)(2005-09-28)",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/274"
+    },
+    {
         "id": "494D882B",
         "title": "Xbox 360 The Official Xbox Magazine (OXM) - Issue 33 (May 2008)",
         "state": "Gameplay",
