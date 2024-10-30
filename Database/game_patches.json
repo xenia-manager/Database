@@ -2562,16 +2562,16 @@
   {
     "name": "54540830 - The Bigs 2.patch.toml",
     "path": "patches/54540830 - The Bigs 2.patch.toml",
-    "sha": "6380161e8647a8ecbcbd72ff517cb9bce7129b69",
-    "size": 581,
+    "sha": "03de3f039c22c2f01ed0ed82c1eeedb648182966",
+    "size": 617,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/54540830%20-%20The%20Bigs%202.patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/54540830%20-%20The%20Bigs%202.patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/6380161e8647a8ecbcbd72ff517cb9bce7129b69",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/03de3f039c22c2f01ed0ed82c1eeedb648182966",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/54540830%20-%20The%20Bigs%202.patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/54540830%20-%20The%20Bigs%202.patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/6380161e8647a8ecbcbd72ff517cb9bce7129b69",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/03de3f039c22c2f01ed0ed82c1eeedb648182966",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/54540830%20-%20The%20Bigs%202.patch.toml"
     }
   },
