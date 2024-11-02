@@ -1,5 +1,41 @@
 [
     {
+        "id": "454108F3",
+        "title": "FIFA 11",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/285"
+    },
+    {
+        "id": "4541081D",
+        "title": "Madden NFL 08",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/284"
+    },
+    {
+        "id": "4541082B",
+        "title": "NBA LIVE 08",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/283"
+    },
+    {
+        "id": "454107D8",
+        "title": "NBA LIVE 06",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/282"
+    },
+    {
+        "id": "4541085B",
+        "title": "FIFA 09",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/281"
+    },
+    {
+        "id": "454108BC",
+        "title": "FIFA 10",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/280"
+    },
+    {
         "id": "494D87E4",
         "title": "Xbox 360 The Official Xbox Magazine (OXM) - Issue 09 (July 2006)",
         "state": "Unplayable",
