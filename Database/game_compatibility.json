@@ -1,8 +1,56 @@
 [
     {
+        "id": "454108BA",
+        "title": "NHL 10",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/293"
+    },
+    {
+        "id": "45410872",
+        "title": "NHL 09",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/292"
+    },
+    {
+        "id": "45410820",
+        "title": "NHL 08",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/291"
+    },
+    {
+        "id": "454107F3",
+        "title": "NHL 07",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/290"
+    },
+    {
+        "id": "454108C6",
+        "title": "Madden NFL 10",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/289"
+    },
+    {
+        "id": "45410864",
+        "title": "Madden NFL 09",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/288"
+    },
+    {
+        "id": "454108C1",
+        "title": "NBA LIVE 10",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/287"
+    },
+    {
+        "id": "4541087A",
+        "title": "NBA LIVE 09",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/286"
+    },
+    {
         "id": "454108F3",
         "title": "FIFA 11",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/285"
     },
     {
@@ -14,25 +62,25 @@
     {
         "id": "4541082B",
         "title": "NBA LIVE 08",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/283"
     },
     {
         "id": "454107D8",
         "title": "NBA LIVE 06",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/282"
     },
     {
         "id": "4541085B",
         "title": "FIFA 09",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/281"
     },
     {
         "id": "454108BC",
         "title": "FIFA 10",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/280"
     },
     {
