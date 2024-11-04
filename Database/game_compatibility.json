@@ -1,5 +1,17 @@
 [
     {
+        "id": "454108FD",
+        "title": "NHL 11",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/295"
+    },
+    {
+        "id": "454108FE",
+        "title": "Madden NFL 11",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/294"
+    },
+    {
         "id": "454108BA",
         "title": "NHL 10",
         "state": "Gameplay",
