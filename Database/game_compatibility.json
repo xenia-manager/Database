@@ -1,5 +1,11 @@
 [
     {
+        "id": "4B4E07E5",
+        "title": "Silent Hill Homecoming",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/296"
+    },
+    {
         "id": "454108FD",
         "title": "NHL 11",
         "state": "Gameplay",
