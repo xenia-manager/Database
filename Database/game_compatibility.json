@@ -1,5 +1,11 @@
 [
     {
+        "id": "434307DF",
+        "title": "Devil May Cry 4",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/297"
+    },
+    {
         "id": "4B4E07E5",
         "title": "Silent Hill Homecoming",
         "state": "Unknown",
