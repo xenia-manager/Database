@@ -1,5 +1,17 @@
 [
     {
+        "id": "5752082C",
+        "title": "Shadow of Mordor",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/299"
+    },
+    {
+        "id": "555308B7",
+        "title": "Watch Dogs",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/298"
+    },
+    {
         "id": "434307DF",
         "title": "Devil May Cry 4",
         "state": "Unknown",
