@@ -1,5 +1,17 @@
 [
     {
+        "id": "415608D2",
+        "title": "NASCAR The Game: Inside Line",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/302"
+    },
+    {
+        "id": "41560893",
+        "title": "NASCAR The Game: 2011",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/301"
+    },
+    {
         "id": "43430814",
         "title": "Dragon's Dogma: Dark Arisen",
         "state": "Unknown",
