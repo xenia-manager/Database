@@ -1,5 +1,47 @@
 [
     {
+        "id": "4B4D07FD",
+        "title": "Risen 3: Titan Lords",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/309"
+    },
+    {
+        "id": "4B4E084D",
+        "title": "Castlevania: Lords of Shadow 2",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/308"
+    },
+    {
+        "id": "584113F3",
+        "title": "Final Exam",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/307"
+    },
+    {
+        "id": "4B4D07FE",
+        "title": "Escape Dead Island",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/306"
+    },
+    {
+        "id": "584112C3",
+        "title": "Blood Knights",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/305"
+    },
+    {
+        "id": "534307F6",
+        "title": "Batman: Arkham Asylum",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/304"
+    },
+    {
+        "id": "54510850",
+        "title": "SpongeBob's Truth or Square",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/303"
+    },
+    {
         "id": "415608D2",
         "title": "NASCAR The Game: Inside Line",
         "state": "Unknown",
