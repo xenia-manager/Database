@@ -336,6 +336,22 @@
     }
   },
   {
+    "name": "434107D2 - Tetris The Grand Master Ace.patch.toml",
+    "path": "patches/434107D2 - Tetris The Grand Master Ace.patch.toml",
+    "sha": "81a3a88169f73bbd6d1308c400d89f4997271f67",
+    "size": 672,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/434107D2%20-%20Tetris%20The%20Grand%20Master%20Ace.patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/434107D2%20-%20Tetris%20The%20Grand%20Master%20Ace.patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/81a3a88169f73bbd6d1308c400d89f4997271f67",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/434107D2%20-%20Tetris%20The%20Grand%20Master%20Ace.patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/434107D2%20-%20Tetris%20The%20Grand%20Master%20Ace.patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/81a3a88169f73bbd6d1308c400d89f4997271f67",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/434107D2%20-%20Tetris%20The%20Grand%20Master%20Ace.patch.toml"
+    }
+  },
+  {
     "name": "434307D4 - Resident Evil 5.patch.toml",
     "path": "patches/434307D4 - Resident Evil 5.patch.toml",
     "sha": "d1e08711b0806fc3fd955b6477a158998e75e6ba",
