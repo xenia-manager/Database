@@ -1,5 +1,11 @@
 [
     {
+        "id": "4D5309D6",
+        "title": "Kinect Sports Season Two",
+        "state": "Loads",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/310"
+    },
+    {
         "id": "4B4D07FD",
         "title": "Risen 3: Titan Lords",
         "state": "Loads",
