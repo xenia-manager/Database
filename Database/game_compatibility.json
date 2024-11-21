@@ -1,5 +1,11 @@
 [
     {
+        "id": "584108BE",
+        "title": "Schizoid",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/311"
+    },
+    {
         "id": "4D5309D6",
         "title": "Kinect Sports Season Two",
         "state": "Loads",
