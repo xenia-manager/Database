@@ -1,5 +1,11 @@
 [
     {
+        "id": "545407F2",
+        "title": "Grand Theft Auto Episodes From Liberty City",
+        "state": "Playable",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/314"
+    },
+    {
         "id": "494D8846",
         "title": "Official Xbox Magazine Game Disc 101",
         "state": "Gameplay",
