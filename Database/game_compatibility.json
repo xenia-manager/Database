@@ -1,5 +1,11 @@
 [
     {
+        "id": "5841123E",
+        "title": "Far Cry Classic",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/318"
+    },
+    {
         "id": "454107F2",
         "title": "NCAA March Madness 07",
         "state": "Gameplay",
