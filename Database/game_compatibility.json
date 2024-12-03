@@ -1,8 +1,14 @@
 [
     {
+        "id": "45410813",
+        "title": "Skate.",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/319"
+    },
+    {
         "id": "5841123E",
         "title": "Far Cry Classic",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/318"
     },
     {
@@ -20,7 +26,7 @@
     {
         "id": "434D07D8",
         "title": "ICC Cricket 2007",
-        "state": "Loads",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/315"
     },
     {
