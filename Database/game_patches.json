@@ -2210,16 +2210,16 @@
   {
     "name": "545107D1 - Saints Row (TU1).patch.toml",
     "path": "patches/545107D1 - Saints Row (TU1).patch.toml",
-    "sha": "ea2ffec0d3df59646ece072b36d85760aa7af097",
-    "size": 5236,
+    "sha": "6e17806970d3d3878929487abbb52b47aaf5922c",
+    "size": 9365,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/545107D1%20-%20Saints%20Row%20(TU1).patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/545107D1%20-%20Saints%20Row%20(TU1).patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/ea2ffec0d3df59646ece072b36d85760aa7af097",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/6e17806970d3d3878929487abbb52b47aaf5922c",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/545107D1%20-%20Saints%20Row%20(TU1).patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/545107D1%20-%20Saints%20Row%20(TU1).patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/ea2ffec0d3df59646ece072b36d85760aa7af097",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/6e17806970d3d3878929487abbb52b47aaf5922c",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/545107D1%20-%20Saints%20Row%20(TU1).patch.toml"
     }
   },
@@ -2258,16 +2258,16 @@
   {
     "name": "545107FC - Saints Row 2 (TU3).patch.toml",
     "path": "patches/545107FC - Saints Row 2 (TU3).patch.toml",
-    "sha": "dae01bff1db40de28c2f9cc9f8d318abc8dfade7",
-    "size": 6273,
+    "sha": "f2a032399389c9cc9f23bf6abbdfb137513d4034",
+    "size": 7368,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/545107FC%20-%20Saints%20Row%202%20(TU3).patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/545107FC%20-%20Saints%20Row%202%20(TU3).patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/dae01bff1db40de28c2f9cc9f8d318abc8dfade7",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/f2a032399389c9cc9f23bf6abbdfb137513d4034",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/545107FC%20-%20Saints%20Row%202%20(TU3).patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/545107FC%20-%20Saints%20Row%202%20(TU3).patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/dae01bff1db40de28c2f9cc9f8d318abc8dfade7",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/f2a032399389c9cc9f23bf6abbdfb137513d4034",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/545107FC%20-%20Saints%20Row%202%20(TU3).patch.toml"
     }
   },
