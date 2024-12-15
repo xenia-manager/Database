@@ -704,6 +704,22 @@
     }
   },
   {
+    "name": "454108CE - Mass Effect 2 (TU2).patch.toml",
+    "path": "patches/454108CE - Mass Effect 2 (TU2).patch.toml",
+    "sha": "68504dd8e4e04ae478f17683ab3a44326f7a6076",
+    "size": 2059,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/454108CE%20-%20Mass%20Effect%202%20(TU2).patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/454108CE%20-%20Mass%20Effect%202%20(TU2).patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/68504dd8e4e04ae478f17683ab3a44326f7a6076",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/454108CE%20-%20Mass%20Effect%202%20(TU2).patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/454108CE%20-%20Mass%20Effect%202%20(TU2).patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/68504dd8e4e04ae478f17683ab3a44326f7a6076",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/454108CE%20-%20Mass%20Effect%202%20(TU2).patch.toml"
+    }
+  },
+  {
     "name": "454108D8 - Army of Two The 40th Day.patch.toml",
     "path": "patches/454108D8 - Army of Two The 40th Day.patch.toml",
     "sha": "e8302a5da8a55c87c0f72ffd2f1e4c8e44563c67",
@@ -749,6 +765,22 @@
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/454108EF%20-%20Bulletstorm.patch.toml?ref=main",
       "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/2108ee4c572af4f30307d24ed0298d7242743795",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/454108EF%20-%20Bulletstorm.patch.toml"
+    }
+  },
+  {
+    "name": "454108F7 - Medal of Honor.patch.toml",
+    "path": "patches/454108F7 - Medal of Honor.patch.toml",
+    "sha": "1ce70adc003e81441f5657770fdba5ad17d575ed",
+    "size": 464,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/454108F7%20-%20Medal%20of%20Honor.patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/454108F7%20-%20Medal%20of%20Honor.patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/1ce70adc003e81441f5657770fdba5ad17d575ed",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/454108F7%20-%20Medal%20of%20Honor.patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/454108F7%20-%20Medal%20of%20Honor.patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/1ce70adc003e81441f5657770fdba5ad17d575ed",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/454108F7%20-%20Medal%20of%20Honor.patch.toml"
     }
   },
   {
@@ -1277,6 +1309,22 @@
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4D5307E6%20-%20Halo%203.patch.toml?ref=main",
       "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/1c26f94c87d8d768ec3326ac9c8b6a56e26d4150",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/4D5307E6%20-%20Halo%203.patch.toml"
+    }
+  },
+  {
+    "name": "4D5307E8 - Mass Effect.patch.toml",
+    "path": "patches/4D5307E8 - Mass Effect.patch.toml",
+    "sha": "fcbd0fdf4225715a83fc4d7536d87cc1e1c42f79",
+    "size": 548,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4D5307E8%20-%20Mass%20Effect.patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/4D5307E8%20-%20Mass%20Effect.patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/fcbd0fdf4225715a83fc4d7536d87cc1e1c42f79",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/4D5307E8%20-%20Mass%20Effect.patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4D5307E8%20-%20Mass%20Effect.patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/fcbd0fdf4225715a83fc4d7536d87cc1e1c42f79",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/4D5307E8%20-%20Mass%20Effect.patch.toml"
     }
   },
   {
@@ -2608,6 +2656,38 @@
     }
   },
   {
+    "name": "545408A7 - Grand Theft Auto V (TU10).patch.toml",
+    "path": "patches/545408A7 - Grand Theft Auto V (TU10).patch.toml",
+    "sha": "bd56629d69d59a5f20d468aa1c56df954fb95d04",
+    "size": 373,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/545408A7%20-%20Grand%20Theft%20Auto%20V%20(TU10).patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/545408A7%20-%20Grand%20Theft%20Auto%20V%20(TU10).patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/bd56629d69d59a5f20d468aa1c56df954fb95d04",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/545408A7%20-%20Grand%20Theft%20Auto%20V%20(TU10).patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/545408A7%20-%20Grand%20Theft%20Auto%20V%20(TU10).patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/bd56629d69d59a5f20d468aa1c56df954fb95d04",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/545408A7%20-%20Grand%20Theft%20Auto%20V%20(TU10).patch.toml"
+    }
+  },
+  {
+    "name": "545408A7 - Grand Theft Auto V (TU18).patch.toml",
+    "path": "patches/545408A7 - Grand Theft Auto V (TU18).patch.toml",
+    "sha": "6793e307dadcfee629cf7c31071c27396e6f9151",
+    "size": 401,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/545408A7%20-%20Grand%20Theft%20Auto%20V%20(TU18).patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/545408A7%20-%20Grand%20Theft%20Auto%20V%20(TU18).patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/6793e307dadcfee629cf7c31071c27396e6f9151",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/545408A7%20-%20Grand%20Theft%20Auto%20V%20(TU18).patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/545408A7%20-%20Grand%20Theft%20Auto%20V%20(TU18).patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/6793e307dadcfee629cf7c31071c27396e6f9151",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/545408A7%20-%20Grand%20Theft%20Auto%20V%20(TU18).patch.toml"
+    }
+  },
+  {
     "name": "545408A7 - Grand Theft Auto V (TU26).patch.toml",
     "path": "patches/545408A7 - Grand Theft Auto V (TU26).patch.toml",
     "sha": "dd5b8f32d72751a39865835a7a97bb94920b5af9",
@@ -3245,6 +3325,22 @@
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/584111F7%20-%20Minecraft%20(XBLA,%20TU4).patch.toml?ref=main",
       "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/649693e2b577d750722ce7f919fe30c38b36de7f",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/584111F7%20-%20Minecraft%20(XBLA,%20TU4).patch.toml"
+    }
+  },
+  {
+    "name": "584111F7 - Minecraft (XBLA, TU75).patch.toml",
+    "path": "patches/584111F7 - Minecraft (XBLA, TU75).patch.toml",
+    "sha": "514afd577accb18c1bbe3e49cb042c65f24f1071",
+    "size": 381,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/584111F7%20-%20Minecraft%20(XBLA,%20TU75).patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/584111F7%20-%20Minecraft%20(XBLA,%20TU75).patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/514afd577accb18c1bbe3e49cb042c65f24f1071",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/584111F7%20-%20Minecraft%20(XBLA%2C%20TU75).patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/584111F7%20-%20Minecraft%20(XBLA,%20TU75).patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/514afd577accb18c1bbe3e49cb042c65f24f1071",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/584111F7%20-%20Minecraft%20(XBLA,%20TU75).patch.toml"
     }
   },
   {
