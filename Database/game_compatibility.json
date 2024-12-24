@@ -1,5 +1,47 @@
 [
     {
+        "id": "464507E1",
+        "title": "Farming Simulator 15",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/328"
+    },
+    {
+        "id": "464507DC",
+        "title": "Farming Simulator",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/327"
+    },
+    {
+        "id": "434D0819",
+        "title": "DiRT 2",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/326"
+    },
+    {
+        "id": "58410873",
+        "title": "Undertow",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/325"
+    },
+    {
+        "id": "58410922",
+        "title": "Shadow Assault/Tenchu",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/324"
+    },
+    {
+        "id": "455607D7",
+        "title": "Venetica",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/323"
+    },
+    {
+        "id": "41560914",
+        "title": "Call of Duty: Advanced Warfare",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/322"
+    },
+    {
         "id": "4156091D",
         "title": "Call Of Duty: Black Ops III",
         "state": "Loads",
