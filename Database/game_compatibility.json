@@ -1,14 +1,20 @@
 [
     {
+        "id": "573607E3",
+        "title": "Rugby World Cup 2015",
+        "state": "Unplayable",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/329"
+    },
+    {
         "id": "464507E1",
         "title": "Farming Simulator 15",
-        "state": "Unknown",
+        "state": "Loads",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/328"
     },
     {
         "id": "464507DC",
         "title": "Farming Simulator",
-        "state": "Unknown",
+        "state": "Loads",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/327"
     },
     {
@@ -20,25 +26,25 @@
     {
         "id": "58410873",
         "title": "Undertow",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/325"
     },
     {
         "id": "58410922",
         "title": "Shadow Assault/Tenchu",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/324"
     },
     {
         "id": "455607D7",
         "title": "Venetica",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/323"
     },
     {
         "id": "41560914",
         "title": "Call of Duty: Advanced Warfare",
-        "state": "Unknown",
+        "state": "Loads",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/322"
     },
     {
