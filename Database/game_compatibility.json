@@ -1,5 +1,29 @@
 [
     {
+        "id": "55530810",
+        "title": "Far Cry 2",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/334"
+    },
+    {
+        "id": "584114B0",
+        "title": "Prison Architect: Xbox 360 Edition",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/333"
+    },
+    {
+        "id": "4D5707E8",
+        "title": "Blitz: The League II",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/332"
+    },
+    {
+        "id": "424507D1",
+        "title": "KUF: Circle of Doom",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/331"
+    },
+    {
         "id": "573607E3",
         "title": "Rugby World Cup 2015",
         "state": "Gameplay",
