@@ -1,5 +1,23 @@
 [
     {
+        "id": "434307D4",
+        "title": "Resident Evil 5",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/337"
+    },
+    {
+        "id": "58410B7A",
+        "title": "Bloodforge",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/336"
+    },
+    {
+        "id": "4B4E07DA",
+        "title": "Pro Evolution Soccer 6",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/335"
+    },
+    {
         "id": "55530810",
         "title": "Far Cry 2",
         "state": "Gameplay",
