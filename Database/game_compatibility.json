@@ -1,5 +1,29 @@
 [
     {
+        "id": "58410B52",
+        "title": "Warhammer 40,000: Kill Team",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/341"
+    },
+    {
+        "id": "584111DC",
+        "title": "WARP",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/340"
+    },
+    {
+        "id": "58410B32",
+        "title": "Gatling Gears",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/339"
+    },
+    {
+        "id": "58411441",
+        "title": "Batman: Arkham Origins Blackgate Deluxe Edition",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/338"
+    },
+    {
         "id": "434307D4",
         "title": "Resident Evil 5",
         "state": "Unknown",
