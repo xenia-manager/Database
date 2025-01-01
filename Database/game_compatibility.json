@@ -1,5 +1,23 @@
 [
     {
+        "id": "584113D1",
+        "title": "WRC Powerslide",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/344"
+    },
+    {
+        "id": "58411293",
+        "title": "Narco Terror",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/343"
+    },
+    {
+        "id": "584113FE",
+        "title": "Flashback",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/342"
+    },
+    {
         "id": "58410B52",
         "title": "Warhammer 40,000: Kill Team",
         "state": "Unknown",
