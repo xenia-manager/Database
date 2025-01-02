@@ -1,5 +1,53 @@
 [
     {
+        "id": "58411233",
+        "title": "Alan Wake's American Nightmare",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/353"
+    },
+    {
+        "id": "45410964",
+        "title": "NHL 12",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/351"
+    },
+    {
+        "id": "41560815",
+        "title": "Spider-Man: Web of Shadows",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/350"
+    },
+    {
+        "id": "454108E6",
+        "title": "Skate 3",
+        "state": "Playable",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/349"
+    },
+    {
+        "id": "454109C3",
+        "title": "FIFA 14",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/348"
+    },
+    {
+        "id": "45410998",
+        "title": "FIFA 13",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/347"
+    },
+    {
+        "id": "45410967",
+        "title": "FIFA 12",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/346"
+    },
+    {
+        "id": "5841129E",
+        "title": "Sonic The Fighters",
+        "state": "Playable",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/345"
+    },
+    {
         "id": "584113D1",
         "title": "WRC Powerslide",
         "state": "Unknown",
@@ -8,37 +56,37 @@
     {
         "id": "58411293",
         "title": "Narco Terror",
-        "state": "Unknown",
+        "state": "Loads",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/343"
     },
     {
         "id": "584113FE",
         "title": "Flashback",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/342"
     },
     {
         "id": "58410B52",
         "title": "Warhammer 40,000: Kill Team",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/341"
     },
     {
         "id": "584111DC",
         "title": "WARP",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/340"
     },
     {
         "id": "58410B32",
         "title": "Gatling Gears",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/339"
     },
     {
         "id": "58411441",
         "title": "Batman: Arkham Origins Blackgate Deluxe Edition",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/338"
     },
     {
@@ -50,13 +98,13 @@
     {
         "id": "58410B7A",
         "title": "Bloodforge",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/336"
     },
     {
         "id": "4B4E07DA",
         "title": "Pro Evolution Soccer 6",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/335"
     },
     {
@@ -1652,7 +1700,7 @@
     {
         "id": "415607D1",
         "title": "Call of Duty 2",
-        "state": "Loads",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/26"
     },
     {
