@@ -1,5 +1,23 @@
 [
     {
+        "id": "58410B3A",
+        "title": "I Am Alive",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/356"
+    },
+    {
+        "id": "584113BC",
+        "title": "Magrunner: Dark Pulse",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/355"
+    },
+    {
+        "id": "58410AF7",
+        "title": "Crazy Machines Elements",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/354"
+    },
+    {
         "id": "58411233",
         "title": "Alan Wake's American Nightmare",
         "state": "Gameplay",
@@ -194,7 +212,7 @@
     {
         "id": "45410813",
         "title": "Skate.",
-        "state": "Gameplay",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/319"
     },
     {
