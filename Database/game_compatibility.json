@@ -1,5 +1,23 @@
 [
     {
+        "id": "494707D1",
+        "title": "Alone In The Dark",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/359"
+    },
+    {
+        "id": "54540859",
+        "title": "Top Spin 4",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/358"
+    },
+    {
+        "id": "545407FF",
+        "title": "Top Spin 3",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/357"
+    },
+    {
         "id": "58410B3A",
         "title": "I Am Alive",
         "state": "Gameplay",
@@ -14,7 +32,7 @@
     {
         "id": "58410AF7",
         "title": "Crazy Machines Elements",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/354"
     },
     {
