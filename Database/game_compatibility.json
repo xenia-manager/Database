@@ -1,5 +1,35 @@
 [
     {
+        "id": "454109A9",
+        "title": "Tiger Woods PGA Tour 14: Masters Historic Edition",
+        "state": "Playable",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/364"
+    },
+    {
+        "id": "45410972",
+        "title": "Tiger Woods PGA Tour 13",
+        "state": "Playable",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/363"
+    },
+    {
+        "id": "454108EE",
+        "title": "Tiger Woods PGA Tour 11",
+        "state": "Playable",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/362"
+    },
+    {
+        "id": "454108AD",
+        "title": "Tiger Woods PGA Tour 10",
+        "state": "Playable",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/361"
+    },
+    {
+        "id": "45410870",
+        "title": "Tiger Woods PGA Tour 09",
+        "state": "Playable",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/360"
+    },
+    {
         "id": "494707D1",
         "title": "Alone In The Dark",
         "state": "Playable",
