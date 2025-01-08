@@ -1,5 +1,131 @@
 [
     {
+        "id": "534307F8",
+        "title": "Kane & Lynch 2: Dog Days",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/385"
+    },
+    {
+        "id": "534307E0",
+        "title": "Kane & Lynch: Dead Men",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/384"
+    },
+    {
+        "id": "434D0845",
+        "title": "DiRT Showdown",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/383"
+    },
+    {
+        "id": "434D083D",
+        "title": "DiRT 3",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/382"
+    },
+    {
+        "id": null,
+        "title": "584113E7- Takedown: Red Sabre",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/381"
+    },
+    {
+        "id": "58410987",
+        "title": "Scrap Metal",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/380"
+    },
+    {
+        "id": "58410920",
+        "title": "Raskulls",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/379"
+    },
+    {
+        "id": "58410821",
+        "title": "Commanders: Attack",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/378"
+    },
+    {
+        "id": "58410A20",
+        "title": "Comic Jumper",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/377"
+    },
+    {
+        "id": "434D07DB",
+        "title": "DiRT",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/376"
+    },
+    {
+        "id": "434D0851",
+        "title": "GRID: Autosport",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/375"
+    },
+    {
+        "id": "434D0844",
+        "title": "GRID 2",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/374"
+    },
+    {
+        "id": "434D07FF",
+        "title": "GRID",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/373"
+    },
+    {
+        "id": "58411406",
+        "title": "Syberia 2",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/372"
+    },
+    {
+        "id": "58411405",
+        "title": "Syberia",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/371"
+    },
+    {
+        "id": "45410806",
+        "title": "Burnout Paradise",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/370"
+    },
+    {
+        "id": "454108A8",
+        "title": "Battlefield: Bad Company 2",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/369"
+    },
+    {
+        "id": "454107F6",
+        "title": "Medal of Honor: Airborne",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/368"
+    },
+    {
+        "id": "454108F7",
+        "title": "Medal of Honor",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/367"
+    },
+    {
+        "id": "545407D5",
+        "title": "Top Spin 2",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/366"
+    },
+    {
+        "id": "4541094D",
+        "title": "Tiger Woods PGA Tour 12: The Masters",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/365"
+    },
+    {
         "id": "454109A9",
         "title": "Tiger Woods PGA Tour 14: Masters Historic Edition",
         "state": "Playable",
