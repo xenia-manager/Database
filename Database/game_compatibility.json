@@ -1,5 +1,53 @@
 [
     {
+        "id": "4B4D07F5",
+        "title": "Metro Last Light",
+        "state": "Playable",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/393"
+    },
+    {
+        "id": "534307D4",
+        "title": "Tomb Raider: Legend ",
+        "state": "Playable",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/392"
+    },
+    {
+        "id": "534307DB",
+        "title": "Hitman HD Trilogy (Disk 2 - Hitman: Blood Money)",
+        "state": "Playable",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/391"
+    },
+    {
+        "id": "464F0800",
+        "title": "PayDay 2",
+        "state": "Playable",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/390"
+    },
+    {
+        "id": "53510804",
+        "title": "Hitman: Absolution",
+        "state": "Playable",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/389"
+    },
+    {
+        "id": "5351081C",
+        "title": "Hitman HD Trilogy (Disk 1 - Hitman 2: Silent Assassin and Hitman: Contracts)",
+        "state": "Playable",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/388"
+    },
+    {
+        "id": "54510842",
+        "title": "Metro 2033",
+        "state": "Playable",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/387"
+    },
+    {
+        "id": "4541096D",
+        "title": "SSX™",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/386"
+    },
+    {
         "id": "534307F8",
         "title": "Kane & Lynch 2: Dog Days",
         "state": "Unknown",
@@ -8,121 +56,121 @@
     {
         "id": "534307E0",
         "title": "Kane & Lynch: Dead Men",
-        "state": "Unknown",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/384"
     },
     {
         "id": "434D0845",
         "title": "DiRT Showdown",
-        "state": "Unknown",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/383"
     },
     {
         "id": "434D083D",
         "title": "DiRT 3",
-        "state": "Unknown",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/382"
     },
     {
         "id": null,
         "title": "584113E7- Takedown: Red Sabre",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/381"
     },
     {
         "id": "58410987",
         "title": "Scrap Metal",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/380"
     },
     {
         "id": "58410920",
         "title": "Raskulls",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/379"
     },
     {
         "id": "58410821",
         "title": "Commanders: Attack",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/378"
     },
     {
         "id": "58410A20",
         "title": "Comic Jumper",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/377"
     },
     {
         "id": "434D07DB",
         "title": "DiRT",
-        "state": "Unknown",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/376"
     },
     {
         "id": "434D0851",
         "title": "GRID: Autosport",
-        "state": "Unknown",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/375"
     },
     {
         "id": "434D0844",
         "title": "GRID 2",
-        "state": "Unknown",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/374"
     },
     {
         "id": "434D07FF",
         "title": "GRID",
-        "state": "Unknown",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/373"
     },
     {
         "id": "58411406",
         "title": "Syberia 2",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/372"
     },
     {
         "id": "58411405",
         "title": "Syberia",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/371"
     },
     {
         "id": "45410806",
         "title": "Burnout Paradise",
-        "state": "Unknown",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/370"
     },
     {
         "id": "454108A8",
         "title": "Battlefield: Bad Company 2",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/369"
     },
     {
         "id": "454107F6",
         "title": "Medal of Honor: Airborne",
-        "state": "Unknown",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/368"
     },
     {
         "id": "454108F7",
         "title": "Medal of Honor",
-        "state": "Unknown",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/367"
     },
     {
         "id": "545407D5",
         "title": "Top Spin 2",
-        "state": "Unknown",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/366"
     },
     {
         "id": "4541094D",
         "title": "Tiger Woods PGA Tour 12: The Masters",
-        "state": "Unknown",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/365"
     },
     {
