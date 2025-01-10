@@ -1,5 +1,47 @@
 [
     {
+        "id": "58410870",
+        "title": "Teenage Mutant Ninja Turtles (1989) - Classic Arcade",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/400"
+    },
+    {
+        "id": "58411412",
+        "title": "Halo Spartan Assault",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/399"
+    },
+    {
+        "id": "584112C7",
+        "title": "Castle of Illusion Starring Mickey Mouse",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/398"
+    },
+    {
+        "id": "58410931",
+        "title": "South Park Let's Go Tower Defense Play!",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/397"
+    },
+    {
+        "id": "58410B8D",
+        "title": "Deadlight",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/396"
+    },
+    {
+        "id": "58410B39",
+        "title": "Backbreaker Vengeance",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/395"
+    },
+    {
+        "id": "464F07DA",
+        "title": "Backbreaker",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/394"
+    },
+    {
         "id": "4B4D07F5",
         "title": "Metro Last Light",
         "state": "Playable",
