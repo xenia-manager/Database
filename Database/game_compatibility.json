@@ -1,5 +1,17 @@
 [
     {
+        "id": "4156089C",
+        "title": "Transformers: Fall of Cybertron",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/402"
+    },
+    {
+        "id": "54510896",
+        "title": "Darksiders II",
+        "state": "Playable",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/401"
+    },
+    {
         "id": "58410870",
         "title": "Teenage Mutant Ninja Turtles (1989) - Classic Arcade",
         "state": "Unknown",
@@ -8,79 +20,79 @@
     {
         "id": "58411412",
         "title": "Halo Spartan Assault",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/399"
     },
     {
         "id": "584112C7",
         "title": "Castle of Illusion Starring Mickey Mouse",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/398"
     },
     {
         "id": "58410931",
         "title": "South Park Let's Go Tower Defense Play!",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/397"
     },
     {
         "id": "58410B8D",
         "title": "Deadlight",
-        "state": "Unknown",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/396"
     },
     {
         "id": "58410B39",
         "title": "Backbreaker Vengeance",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/395"
     },
     {
         "id": "464F07DA",
         "title": "Backbreaker",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/394"
     },
     {
         "id": "4B4D07F5",
         "title": "Metro Last Light",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/393"
     },
     {
         "id": "534307D4",
         "title": "Tomb Raider: Legend ",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/392"
     },
     {
         "id": "534307DB",
         "title": "Hitman HD Trilogy (Disk 2 - Hitman: Blood Money)",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/391"
     },
     {
         "id": "464F0800",
         "title": "PayDay 2",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/390"
     },
     {
         "id": "53510804",
         "title": "Hitman: Absolution",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/389"
     },
     {
         "id": "5351081C",
         "title": "Hitman HD Trilogy (Disk 1 - Hitman 2: Silent Assassin and Hitman: Contracts)",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/388"
     },
     {
         "id": "54510842",
         "title": "Metro 2033",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/387"
     },
     {
@@ -98,19 +110,19 @@
     {
         "id": "534307E0",
         "title": "Kane & Lynch: Dead Men",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/384"
     },
     {
         "id": "434D0845",
         "title": "DiRT Showdown",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/383"
     },
     {
         "id": "434D083D",
         "title": "DiRT 3",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/382"
     },
     {
@@ -146,25 +158,25 @@
     {
         "id": "434D07DB",
         "title": "DiRT",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/376"
     },
     {
         "id": "434D0851",
         "title": "GRID: Autosport",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/375"
     },
     {
         "id": "434D0844",
         "title": "GRID 2",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/374"
     },
     {
         "id": "434D07FF",
         "title": "GRID",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/373"
     },
     {
@@ -182,7 +194,7 @@
     {
         "id": "45410806",
         "title": "Burnout Paradise",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/370"
     },
     {
@@ -194,73 +206,73 @@
     {
         "id": "454107F6",
         "title": "Medal of Honor: Airborne",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/368"
     },
     {
         "id": "454108F7",
         "title": "Medal of Honor",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/367"
     },
     {
         "id": "545407D5",
         "title": "Top Spin 2",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/366"
     },
     {
         "id": "4541094D",
         "title": "Tiger Woods PGA Tour 12: The Masters",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/365"
     },
     {
         "id": "454109A9",
         "title": "Tiger Woods PGA Tour 14: Masters Historic Edition",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/364"
     },
     {
         "id": "45410972",
         "title": "Tiger Woods PGA Tour 13",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/363"
     },
     {
         "id": "454108EE",
         "title": "Tiger Woods PGA Tour 11",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/362"
     },
     {
         "id": "454108AD",
         "title": "Tiger Woods PGA Tour 10",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/361"
     },
     {
         "id": "45410870",
         "title": "Tiger Woods PGA Tour 09",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/360"
     },
     {
         "id": "494707D1",
         "title": "Alone In The Dark",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/359"
     },
     {
         "id": "54540859",
         "title": "Top Spin 4",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/358"
     },
     {
         "id": "545407FF",
         "title": "Top Spin 3",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/357"
     },
     {
@@ -302,7 +314,7 @@
     {
         "id": "454108E6",
         "title": "Skate 3",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/349"
     },
     {
@@ -332,7 +344,7 @@
     {
         "id": "584113D1",
         "title": "WRC Powerslide",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/344"
     },
     {
@@ -374,7 +386,7 @@
     {
         "id": "434307D4",
         "title": "Resident Evil 5",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/337"
     },
     {
@@ -476,7 +488,7 @@
     {
         "id": "45410813",
         "title": "Skate.",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/319"
     },
     {
@@ -494,7 +506,7 @@
     {
         "id": "534507D2",
         "title": "Condemned: Criminal Origins",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/316"
     },
     {
@@ -506,7 +518,7 @@
     {
         "id": "545407F2",
         "title": "Grand Theft Auto Episodes From Liberty City",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/314"
     },
     {
@@ -524,7 +536,7 @@
     {
         "id": "584108BE",
         "title": "Schizoid",
-        "state": "Unknown",
+        "state": "Unplayable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/311"
     },
     {
@@ -782,13 +794,13 @@
     {
         "id": "53510802",
         "title": "Tomb Raider",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/268"
     },
     {
         "id": "454D07D2",
         "title": "FlatOut: Ultimate Carnage",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/267"
     },
     {
@@ -902,7 +914,7 @@
     {
         "id": "454107EC",
         "title": "Need for Speed: Carbon",
-        "state": "Playable",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/248"
     },
     {
