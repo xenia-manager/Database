@@ -1,5 +1,23 @@
 [
     {
+        "id": "454109F4",
+        "title": "FIFA 17",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/405"
+    },
+    {
+        "id": "454109EE",
+        "title": "FIFA 16",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/404"
+    },
+    {
+        "id": "454109DB",
+        "title": "FIFA 15",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/403"
+    },
+    {
         "id": "4156089C",
         "title": "Transformers: Fall of Cybertron",
         "state": "Gameplay",
@@ -488,7 +506,7 @@
     {
         "id": "45410813",
         "title": "Skate.",
-        "state": "Gameplay",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/319"
     },
     {
@@ -506,7 +524,7 @@
     {
         "id": "534507D2",
         "title": "Condemned: Criminal Origins",
-        "state": "Gameplay",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/316"
     },
     {
@@ -518,7 +536,7 @@
     {
         "id": "545407F2",
         "title": "Grand Theft Auto Episodes From Liberty City",
-        "state": "Gameplay",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/314"
     },
     {
@@ -914,7 +932,7 @@
     {
         "id": "454107EC",
         "title": "Need for Speed: Carbon",
-        "state": "Gameplay",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/248"
     },
     {
