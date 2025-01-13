@@ -1,5 +1,77 @@
 [
     {
+        "id": "534307EC",
+        "title": "Tomb Raider: Underworld",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/418"
+    },
+    {
+        "id": "58410A59",
+        "title": "Lara Croft and the Guardian of Light",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/417"
+    },
+    {
+        "id": "545107F4",
+        "title": "Stuntman: Ignition ",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/415"
+    },
+    {
+        "id": "415607DD",
+        "title": "Tony Hawk's Project 8",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/414"
+    },
+    {
+        "id": "4D5307D1",
+        "title": "Project Gotham Racing 3 ",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/413"
+    },
+    {
+        "id": "58411447",
+        "title": "The Legend of Korra",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/412"
+    },
+    {
+        "id": "555307EE",
+        "title": "IMPORT TUNER CHALLENGE",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/411"
+    },
+    {
+        "id": "415607F0",
+        "title": "Tony Hawk's Proving Ground",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/410"
+    },
+    {
+        "id": "4D53084D",
+        "title": "Forza Motorsport 3",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/409"
+    },
+    {
+        "id": "4D5307EA",
+        "title": "Forza Motorsport 2",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/408"
+    },
+    {
+        "id": "444507D2",
+        "title": "Indianapolis 500: Evolution",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/407"
+    },
+    {
+        "id": "555307DC",
+        "title": "Far Cry: Instincts Predator",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/406"
+    },
+    {
         "id": "454109F4",
         "title": "FIFA 17",
         "state": "Gameplay",
@@ -332,7 +404,7 @@
     {
         "id": "454108E6",
         "title": "Skate 3",
-        "state": "Gameplay",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/349"
     },
     {
