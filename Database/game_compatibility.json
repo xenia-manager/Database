@@ -1,5 +1,29 @@
 [
     {
+        "id": "465607D2",
+        "title": "Dodonpachi Dai Ou Jou Black Label Extra",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/422"
+    },
+    {
+        "id": "4B4E0845",
+        "title": "Silent Hill 3",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/421"
+    },
+    {
+        "id": "4541087F",
+        "title": "Skate 2 ",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/420"
+    },
+    {
+        "id": "4B4E0823",
+        "title": "Silent Hill: Downpour",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/419"
+    },
+    {
         "id": "534307EC",
         "title": "Tomb Raider: Underworld",
         "state": "Gameplay",
@@ -1964,7 +1988,7 @@
     {
         "id": "454107F1",
         "title": "NBA LIVE 07",
-        "state": "Loads",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/49"
     },
     {
