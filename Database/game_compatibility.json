@@ -1,5 +1,23 @@
 [
     {
+        "id": "45410923",
+        "title": "Syndicate",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/425"
+    },
+    {
+        "id": "575207FD",
+        "title": "MKKE (Mortal Kombat Komplete Edition)",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/424"
+    },
+    {
+        "id": "4541088F",
+        "title": "The Saboteur",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/423"
+    },
+    {
         "id": "465607D2",
         "title": "Dodonpachi Dai Ou Jou Black Label Extra",
         "state": "Unknown",
