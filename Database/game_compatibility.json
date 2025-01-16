@@ -1,5 +1,41 @@
 [
     {
+        "id": "4E4D0862",
+        "title": "DRAGON BALL XENOVERSE ",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/431"
+    },
+    {
+        "id": "5841124B",
+        "title": "The Expendables 2 Videogame",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/430"
+    },
+    {
+        "id": "58410A60",
+        "title": "Tecmo Bowl Throwback",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/429"
+    },
+    {
+        "id": "425407D4",
+        "title": "Space Chimps",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/428"
+    },
+    {
+        "id": "58411403",
+        "title": "Marlow Briggs and the Mask of Death",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/427"
+    },
+    {
+        "id": "4D5707D4",
+        "title": "Blitz: The League",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/426"
+    },
+    {
         "id": "45410923",
         "title": "Syndicate",
         "state": "Unknown",
