@@ -1,5 +1,35 @@
 [
     {
+        "id": "4B4E0816",
+        "title": "Ninety-Nine Nights II",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/437"
+    },
+    {
+        "id": "4541097B",
+        "title": "FIFA Street",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/436"
+    },
+    {
+        "id": "454109D4",
+        "title": "2014 FIFA World Cup Brazil",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/435"
+    },
+    {
+        "id": "454108E4",
+        "title": "2010 FIFA World Cup South Africa",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/434"
+    },
+    {
+        "id": "4E4D07E4 ",
+        "title": "Eternal Sonata",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/433"
+    },
+    {
         "id": "415607E7",
         "title": "Guitar Hero II",
         "state": "Unknown",
