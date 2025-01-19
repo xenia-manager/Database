@@ -1,5 +1,17 @@
 [
     {
+        "id": "45410845",
+        "title": "NASCAR 09",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/439"
+    },
+    {
+        "id": "45410814",
+        "title": "NASCAR 08",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/438"
+    },
+    {
         "id": "4B4E0816",
         "title": "Ninety-Nine Nights II",
         "state": "Unknown",
