@@ -1,5 +1,53 @@
 [
     {
+        "id": "4B4E0856",
+        "title": "PES 2014",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/448"
+    },
+    {
+        "id": "4B4E084C",
+        "title": "PES 2013",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/447"
+    },
+    {
+        "id": "4B4E0837",
+        "title": "PES 2012",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/446"
+    },
+    {
+        "id": "4B4E081D",
+        "title": "PES 2011",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/445"
+    },
+    {
+        "id": "4B4E0801",
+        "title": "PES 2010",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/444"
+    },
+    {
+        "id": "4B4E07F0",
+        "title": "PES 2009",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/443"
+    },
+    {
+        "id": "58410930",
+        "title": "The Warriors: SB",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/442"
+    },
+    {
+        "id": "555307FA",
+        "title": "Call of Juarez",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/441"
+    },
+    {
         "id": "584107E5",
         "title": "RoboBlitz",
         "state": "Gameplay",
