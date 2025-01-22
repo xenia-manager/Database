@@ -1,50 +1,80 @@
 [
     {
+        "id": "415607EF",
+        "title": "Singularity",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/453"
+    },
+    {
+        "id": "4B5907EA",
+        "title": "Tropico 5",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/452"
+    },
+    {
+        "id": "5345080E",
+        "title": "Alpha Protocol",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/451"
+    },
+    {
+        "id": "4D5707D2",
+        "title": "Stranglehold",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/450"
+    },
+    {
+        "id": "565507DA",
+        "title": "TimeShift",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/449"
+    },
+    {
         "id": "4B4E0856",
         "title": "PES 2014",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/448"
     },
     {
         "id": "4B4E084C",
         "title": "PES 2013",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/447"
     },
     {
         "id": "4B4E0837",
         "title": "PES 2012",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/446"
     },
     {
         "id": "4B4E081D",
         "title": "PES 2011",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/445"
     },
     {
         "id": "4B4E0801",
         "title": "PES 2010",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/444"
     },
     {
         "id": "4B4E07F0",
         "title": "PES 2009",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/443"
     },
     {
         "id": "58410930",
         "title": "The Warriors: SB",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/442"
     },
     {
         "id": "555307FA",
         "title": "Call of Juarez",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/441"
     },
     {
@@ -56,37 +86,37 @@
     {
         "id": "45410845",
         "title": "NASCAR 09",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/439"
     },
     {
         "id": "45410814",
         "title": "NASCAR 08",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/438"
     },
     {
         "id": "4B4E0816",
         "title": "Ninety-Nine Nights II",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/437"
     },
     {
         "id": "4541097B",
         "title": "FIFA Street",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/436"
     },
     {
         "id": "454109D4",
         "title": "2014 FIFA World Cup Brazil",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/435"
     },
     {
         "id": "454108E4",
         "title": "2010 FIFA World Cup South Africa",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/434"
     },
     {
@@ -98,7 +128,7 @@
     {
         "id": "415607E7",
         "title": "Guitar Hero II",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/432"
     },
     {
@@ -110,73 +140,73 @@
     {
         "id": "5841124B",
         "title": "The Expendables 2 Videogame",
-        "state": "Unknown",
+        "state": "Loads",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/430"
     },
     {
         "id": "58410A60",
         "title": "Tecmo Bowl Throwback",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/429"
     },
     {
         "id": "425407D4",
         "title": "Space Chimps",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/428"
     },
     {
         "id": "58411403",
         "title": "Marlow Briggs and the Mask of Death",
-        "state": "Unknown",
+        "state": "Loads",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/427"
     },
     {
         "id": "4D5707D4",
         "title": "Blitz: The League",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/426"
     },
     {
         "id": "45410923",
         "title": "Syndicate",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/425"
     },
     {
         "id": "575207FD",
         "title": "MKKE (Mortal Kombat Komplete Edition)",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/424"
     },
     {
         "id": "4541088F",
         "title": "The Saboteur",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/423"
     },
     {
         "id": "465607D2",
         "title": "Dodonpachi Dai Ou Jou Black Label Extra",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/422"
     },
     {
         "id": "4B4E0845",
         "title": "Silent Hill 3",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/421"
     },
     {
         "id": "4541087F",
         "title": "Skate 2 ",
-        "state": "Unknown",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/420"
     },
     {
         "id": "4B4E0823",
         "title": "Silent Hill: Downpour",
-        "state": "Unknown",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/419"
     },
     {
@@ -224,7 +254,7 @@
     {
         "id": "415607F0",
         "title": "Tony Hawk's Proving Ground",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/410"
     },
     {
@@ -374,7 +404,7 @@
     {
         "id": "534307F8",
         "title": "Kane & Lynch 2: Dog Days",
-        "state": "Unknown",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/385"
     },
     {
