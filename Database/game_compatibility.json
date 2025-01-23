@@ -1,32 +1,92 @@
 [
     {
+        "id": "4A3007D3",
+        "title": "PES 2018",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/463"
+    },
+    {
+        "id": "4A3007D1",
+        "title": "PES 2017",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/462"
+    },
+    {
+        "id": "4B4E0861",
+        "title": "PES 2016",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/461"
+    },
+    {
+        "id": "4B4E085F",
+        "title": "PES 2015",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/460"
+    },
+    {
+        "id": "4343080B",
+        "title": "MotoGP 10/11",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/459"
+    },
+    {
+        "id": "545407DF",
+        "title": "Rockstar Games Presents Table Tennis",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/458"
+    },
+    {
+        "id": "434307F0",
+        "title": "MotoGP 09/10",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/457"
+    },
+    {
+        "id": "534507EF",
+        "title": "Condemned 2: Bloodshot",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/456"
+    },
+    {
+        "id": "504307D4",
+        "title": "Infernal",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/455"
+    },
+    {
+        "id": "545107D4",
+        "title": "MotoGP 06",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/454"
+    },
+    {
         "id": "415607EF",
         "title": "Singularity",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/453"
     },
     {
         "id": "4B5907EA",
         "title": "Tropico 5",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/452"
     },
     {
         "id": "5345080E",
         "title": "Alpha Protocol",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/451"
     },
     {
         "id": "4D5707D2",
         "title": "Stranglehold",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/450"
     },
     {
         "id": "565507DA",
         "title": "TimeShift",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/449"
     },
     {
@@ -134,7 +194,7 @@
     {
         "id": "4E4D0862",
         "title": "DRAGON BALL XENOVERSE ",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/431"
     },
     {
