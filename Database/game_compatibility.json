@@ -1,5 +1,11 @@
 [
     {
+        "id": "5841122F",
+        "title": " Darkstalkers Resurrection",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/468"
+    },
+    {
         "id": "4E4D07E0",
         "title": "Soulcalibur IV",
         "state": "Unplayable",
@@ -2354,7 +2360,7 @@
     {
         "id": "4D5309C9",
         "title": "Forza Horizon",
-        "state": "Gameplay",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/30"
     },
     {
