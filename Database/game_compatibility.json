@@ -1,5 +1,23 @@
 [
     {
+        "id": "555307D6",
+        "title": "Tom Clancy's Rainbow Six Vegas",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/471"
+    },
+    {
+        "id": "55530807",
+        "title": "Tom Clancy's Rainbow Six Vegas 2",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/470"
+    },
+    {
+        "id": "4E4D083D",
+        "title": "Soulcalibur V",
+        "state": "Unplayable",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/469"
+    },
+    {
         "id": "5841122F",
         "title": " Darkstalkers Resurrection",
         "state": "Gameplay",
