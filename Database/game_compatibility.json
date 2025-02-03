@@ -1,5 +1,23 @@
 [
     {
+        "id": "545408A7",
+        "title": "Grand Theft Auto V",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/474"
+    },
+    {
+        "id": "00000000",
+        "title": "Dolphin example",
+        "state": "Playable",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/473"
+    },
+    {
+        "id": "584107D1",
+        "title": "Hexic HD",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/472"
+    },
+    {
         "id": "555307D6",
         "title": "Tom Clancy's Rainbow Six Vegas",
         "state": "Gameplay",
