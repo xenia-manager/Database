@@ -1,5 +1,11 @@
 [
     {
+        "id": "5454086C",
+        "title": "L.A. Noire - The Complete Edition",
+        "state": "Loads",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/477"
+    },
+    {
         "id": "5841083C",
         "title": "Aegis Wing",
         "state": "Gameplay",
