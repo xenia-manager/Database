@@ -2706,32 +2706,32 @@
   {
     "name": "545408A7 - Grand Theft Auto V (TU26).patch.toml",
     "path": "patches/545408A7 - Grand Theft Auto V (TU26).patch.toml",
-    "sha": "dd5b8f32d72751a39865835a7a97bb94920b5af9",
-    "size": 454,
+    "sha": "011d8a626c814991c757151cf8026a5b476a8c12",
+    "size": 1029,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/545408A7%20-%20Grand%20Theft%20Auto%20V%20(TU26).patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/545408A7%20-%20Grand%20Theft%20Auto%20V%20(TU26).patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/dd5b8f32d72751a39865835a7a97bb94920b5af9",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/011d8a626c814991c757151cf8026a5b476a8c12",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/545408A7%20-%20Grand%20Theft%20Auto%20V%20(TU26).patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/545408A7%20-%20Grand%20Theft%20Auto%20V%20(TU26).patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/dd5b8f32d72751a39865835a7a97bb94920b5af9",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/011d8a626c814991c757151cf8026a5b476a8c12",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/545408A7%20-%20Grand%20Theft%20Auto%20V%20(TU26).patch.toml"
     }
   },
   {
     "name": "545408A7 - Grand Theft Auto V (TU27).patch.toml",
     "path": "patches/545408A7 - Grand Theft Auto V (TU27).patch.toml",
-    "sha": "ac55c97136275d952d40d6667c9896d1727dd099",
-    "size": 800,
+    "sha": "062d0394aa54f84574c7cfbfd1094da452d9cfd8",
+    "size": 1375,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/545408A7%20-%20Grand%20Theft%20Auto%20V%20(TU27).patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/545408A7%20-%20Grand%20Theft%20Auto%20V%20(TU27).patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/ac55c97136275d952d40d6667c9896d1727dd099",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/062d0394aa54f84574c7cfbfd1094da452d9cfd8",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/545408A7%20-%20Grand%20Theft%20Auto%20V%20(TU27).patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/545408A7%20-%20Grand%20Theft%20Auto%20V%20(TU27).patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/ac55c97136275d952d40d6667c9896d1727dd099",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/062d0394aa54f84574c7cfbfd1094da452d9cfd8",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/545408A7%20-%20Grand%20Theft%20Auto%20V%20(TU27).patch.toml"
     }
   },
