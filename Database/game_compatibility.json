@@ -1,5 +1,17 @@
 [
     {
+        "id": "465607DE",
+        "title": "Phantom Breaker",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/481"
+    },
+    {
+        "id": "54540843",
+        "title": "Spec Ops: The Line",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/480"
+    },
+    {
         "id": "454107F7",
         "title": "NBA Street Homecourt",
         "state": "Unknown",
