@@ -1,8 +1,44 @@
 [
     {
+        "id": "4B4D07E6",
+        "title": "Risen 2: Dark Waters",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/488"
+    },
+    {
+        "id": "415608E1",
+        "title": "The Walking Dead: Survival Instinct",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/487"
+    },
+    {
+        "id": "4B4E081F",
+        "title": "NeverDead",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/486"
+    },
+    {
+        "id": "425607D3",
+        "title": "Turok",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/485"
+    },
+    {
+        "id": "464F0803",
+        "title": "Sniper Elite 3: Ultimate Edition",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/484"
+    },
+    {
+        "id": "58410976",
+        "title": "Marvel vs. Capcom 2: New Age Of Heroes",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/482"
+    },
+    {
         "id": "465607DE",
         "title": "Phantom Breaker",
-        "state": "Unknown",
+        "state": "Loads",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/481"
     },
     {
@@ -20,7 +56,7 @@
     {
         "id": "5454086C",
         "title": "L.A. Noire - The Complete Edition",
-        "state": "Loads",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/477"
     },
     {
@@ -1466,7 +1502,7 @@
     {
         "id": "545407EE",
         "title": "The Darkness",
-        "state": "Gameplay",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/229"
     },
     {
