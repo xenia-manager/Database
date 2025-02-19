@@ -2048,6 +2048,22 @@
     }
   },
   {
+    "name": "5345082B - Planet 51 The Game.patch.toml",
+    "path": "patches/5345082B - Planet 51 The Game.patch.toml",
+    "sha": "e05be795c0f46c74ff889a961c5ed6969e81f8cd",
+    "size": 466,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/5345082B%20-%20Planet%2051%20The%20Game.patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/5345082B%20-%20Planet%2051%20The%20Game.patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/e05be795c0f46c74ff889a961c5ed6969e81f8cd",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/5345082B%20-%20Planet%2051%20The%20Game.patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/5345082B%20-%20Planet%2051%20The%20Game.patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/e05be795c0f46c74ff889a961c5ed6969e81f8cd",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/5345082B%20-%20Planet%2051%20The%20Game.patch.toml"
+    }
+  },
+  {
     "name": "53450848 - Sonic Generations.patch.toml",
     "path": "patches/53450848 - Sonic Generations.patch.toml",
     "sha": "7775799aabb39640359b5336587774abad851dda",
