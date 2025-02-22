@@ -1,5 +1,35 @@
 [
     {
+        "id": "5553085D v2.0",
+        "title": "Assassins Creed Brotherhood",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/496"
+    },
+    {
+        "id": "5553084C",
+        "title": "Child of Eden",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/495"
+    },
+    {
+        "id": "58410A9B",
+        "title": "Trine 2",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/494"
+    },
+    {
+        "id": "584107DB",
+        "title": "Outpost Kaloki X",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/493"
+    },
+    {
+        "id": "544307D5",
+        "title": "NINJA GAIDEN II",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/492"
+    },
+    {
         "id": "58410957",
         "title": "Call of Duty Classic",
         "state": "Loads",
