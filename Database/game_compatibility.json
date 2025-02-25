@@ -1,5 +1,11 @@
 [
     {
+        "id": "4541095D",
+        "title": "Mass Effect 3",
+        "state": "Playable",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/498"
+    },
+    {
         "id": "545408A2",
         "title": "NBA 2K13",
         "state": "Loads",
