@@ -1,5 +1,17 @@
 [
     {
+        "id": "545408B0",
+        "title": "NBA 2K14",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/502"
+    },
+    {
+        "id": "4156084E",
+        "title": "PROTOTYPE",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/501"
+    },
+    {
         "id": "434307ED",
         "title": "Lost Planet 2",
         "state": "Gameplay",
