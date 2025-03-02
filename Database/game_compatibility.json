@@ -1,5 +1,11 @@
 [
     {
+        "id": "4D5307ED",
+        "title": "Banjo-Kazooie: Nuts & Bolts",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/503"
+    },
+    {
         "id": "545408B0",
         "title": "NBA 2K14",
         "state": "Unknown",
