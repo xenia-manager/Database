@@ -2,31 +2,31 @@
     {
         "id": "565507D8",
         "title": "Eragon",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/509"
     },
     {
         "id": "454108E3",
         "title": "Crysis 2",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/508"
     },
     {
         "id": "45410968",
         "title": "Crysis",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/507"
     },
     {
         "id": "494707F4",
         "title": "Ghostbusters",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/506"
     },
     {
         "id": "4C5307DD",
         "title": "WRC FIA World Rally Championship",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/505"
     },
     {
@@ -44,13 +44,13 @@
     {
         "id": "545408B0",
         "title": "NBA 2K14",
-        "state": "Unknown",
+        "state": "Loads",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/502"
     },
     {
         "id": "4156084E",
         "title": "PROTOTYPE",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/501"
     },
     {
