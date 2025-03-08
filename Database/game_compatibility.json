@@ -1,5 +1,29 @@
 [
     {
+        "id": "5841144C",
+        "title": "Resident Evil Revelations 2 (XBLA)",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/514"
+    },
+    {
+        "id": "43430833",
+        "title": "Resident Evil Revelations",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/513"
+    },
+    {
+        "id": "43430842",
+        "title": "Resident Evil 0 HD",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/512"
+    },
+    {
+        "id": "43430841",
+        "title": "Resident Evil HD",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/511"
+    },
+    {
         "id": "565507D8",
         "title": "Eragon",
         "state": "Gameplay",
