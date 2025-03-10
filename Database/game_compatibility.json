@@ -1,32 +1,38 @@
 [
     {
+        "id": "454108CF",
+        "title": "Dante's Inferno",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/516"
+    },
+    {
         "id": "584111D9",
         "title": "Puddle",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/515"
     },
     {
         "id": "5841144C",
         "title": "Resident Evil Revelations 2 (XBLA)",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/514"
     },
     {
         "id": "43430833",
         "title": "Resident Evil Revelations",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/513"
     },
     {
         "id": "43430842",
         "title": "Resident Evil 0 HD",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/512"
     },
     {
         "id": "43430841",
         "title": "Resident Evil HD",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/511"
     },
     {
