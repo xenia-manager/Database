@@ -1,5 +1,23 @@
 [
     {
+        "id": "45410955",
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/519"
+    },
+    {
+        "id": "454108F9",
+        "title": "Harry Potter DH1",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/518"
+    },
+    {
+        "id": "45410850",
+        "title": "Mirror's Edge",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/517"
+    },
+    {
         "id": "454108CF",
         "title": "Dante's Inferno",
         "state": "Unknown",
