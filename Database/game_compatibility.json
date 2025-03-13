@@ -1,5 +1,11 @@
 [
     {
+        "id": "4D530AB5",
+        "title": "Forza Horizon 2 Presents Fast & Furious",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/520"
+    },
+    {
         "id": "45410955",
         "title": "Harry Potter and the Deathly Hallows: Part 2",
         "state": "Gameplay",
