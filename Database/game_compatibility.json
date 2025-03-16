@@ -1,5 +1,17 @@
 [
     {
+        "id": "4B4E085C",
+        "title": "Metal Gear Solid V: Ground Zeroes",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/531"
+    },
+    {
+        "id": "57520800",
+        "title": "F.E.A.R. 3",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/530"
+    },
+    {
         "id": "58410954",
         "title": "Banjo-Kazooie",
         "state": "Playable",
