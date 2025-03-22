@@ -1,5 +1,11 @@
 [
     {
+        "id": "545407E2",
+        "title": "NBA 2K6",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/532"
+    },
+    {
         "id": "4B4E085C",
         "title": "Metal Gear Solid V: Ground Zeroes",
         "state": "Gameplay",
