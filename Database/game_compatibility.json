@@ -1,5 +1,11 @@
 [
     {
+        "id": "5841083B",
+        "title": "Tetris Splash",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/533"
+    },
+    {
         "id": "545407E2",
         "title": "NBA 2K6",
         "state": "Gameplay",
