@@ -1,5 +1,17 @@
 [
     {
+        "id": "434D0838",
+        "title": "Operation Flashpoint: Red River",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/535"
+    },
+    {
+        "id": "434D0811",
+        "title": "Operation Flashpoint: Dragon Rising",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/534"
+    },
+    {
         "id": "5841083B",
         "title": "Tetris Splash",
         "state": "Unknown",
