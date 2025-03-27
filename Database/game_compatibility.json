@@ -1,5 +1,23 @@
 [
     {
+        "id": "4D530805",
+        "title": "Alan Wake",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/538"
+    },
+    {
+        "id": "45410819",
+        "title": "Harry Potter OOTP",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/537"
+    },
+    {
+        "id": "454107FA",
+        "title": "Harry Potter and the Half-Blood Prince",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/536"
+    },
+    {
         "id": "434D0838",
         "title": "Operation Flashpoint: Red River",
         "state": "Unknown",
