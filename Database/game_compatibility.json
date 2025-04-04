@@ -1,5 +1,17 @@
 [
     {
+        "id": "53450813",
+        "title": "Bayonetta",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/540"
+    },
+    {
+        "id": "45410919",
+        "title": "NBA Elite 11",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/539"
+    },
+    {
         "id": "4D530805",
         "title": "Alan Wake",
         "state": "Gameplay",
