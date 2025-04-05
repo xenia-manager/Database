@@ -1,5 +1,11 @@
 [
     {
+        "id": "415607F2",
+        "title": "Kung Fu Panda",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/541"
+    },
+    {
         "id": "53450813",
         "title": "Bayonetta",
         "state": "Gameplay",
