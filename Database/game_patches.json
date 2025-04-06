@@ -96,6 +96,38 @@
     }
   },
   {
+    "name": "415607E6 - Call of Duty 4 Modern Warfare (TU4).patch.toml",
+    "path": "patches/415607E6 - Call of Duty 4 Modern Warfare (TU4).patch.toml",
+    "sha": "7d3bebe2c5c28c73c3f5e24e1f4d62ee7159771f",
+    "size": 723,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/415607E6%20-%20Call%20of%20Duty%204%20Modern%20Warfare%20(TU4).patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/415607E6%20-%20Call%20of%20Duty%204%20Modern%20Warfare%20(TU4).patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/7d3bebe2c5c28c73c3f5e24e1f4d62ee7159771f",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/415607E6%20-%20Call%20of%20Duty%204%20Modern%20Warfare%20(TU4).patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/415607E6%20-%20Call%20of%20Duty%204%20Modern%20Warfare%20(TU4).patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/7d3bebe2c5c28c73c3f5e24e1f4d62ee7159771f",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/415607E6%20-%20Call%20of%20Duty%204%20Modern%20Warfare%20(TU4).patch.toml"
+    }
+  },
+  {
+    "name": "415607E6 - Call of Duty 4 Modern Warfare MP (TU4).patch.toml",
+    "path": "patches/415607E6 - Call of Duty 4 Modern Warfare MP (TU4).patch.toml",
+    "sha": "b76e7fdd1b4b7e22a84c98bfc659b846c276f2e4",
+    "size": 726,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/415607E6%20-%20Call%20of%20Duty%204%20Modern%20Warfare%20MP%20(TU4).patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/415607E6%20-%20Call%20of%20Duty%204%20Modern%20Warfare%20MP%20(TU4).patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/b76e7fdd1b4b7e22a84c98bfc659b846c276f2e4",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/415607E6%20-%20Call%20of%20Duty%204%20Modern%20Warfare%20MP%20(TU4).patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/415607E6%20-%20Call%20of%20Duty%204%20Modern%20Warfare%20MP%20(TU4).patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/b76e7fdd1b4b7e22a84c98bfc659b846c276f2e4",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/415607E6%20-%20Call%20of%20Duty%204%20Modern%20Warfare%20MP%20(TU4).patch.toml"
+    }
+  },
+  {
     "name": "415607F2 - Kung Fu Panda.patch.toml",
     "path": "patches/415607F2 - Kung Fu Panda.patch.toml",
     "sha": "f9ca0c63196a4e527d6b26c86f905ae57aaae6e4",
