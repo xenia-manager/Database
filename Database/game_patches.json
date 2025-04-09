@@ -272,19 +272,115 @@
     }
   },
   {
+    "name": "4156084C - Transformers War for Cybertron (TU1).patch.toml",
+    "path": "patches/4156084C - Transformers War for Cybertron (TU1).patch.toml",
+    "sha": "1e2aa6a6850d28435201fed352893b8edd7e1aed",
+    "size": 1422,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4156084C%20-%20Transformers%20War%20for%20Cybertron%20(TU1).patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/4156084C%20-%20Transformers%20War%20for%20Cybertron%20(TU1).patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/1e2aa6a6850d28435201fed352893b8edd7e1aed",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/4156084C%20-%20Transformers%20War%20for%20Cybertron%20(TU1).patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4156084C%20-%20Transformers%20War%20for%20Cybertron%20(TU1).patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/1e2aa6a6850d28435201fed352893b8edd7e1aed",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/4156084C%20-%20Transformers%20War%20for%20Cybertron%20(TU1).patch.toml"
+    }
+  },
+  {
     "name": "4156084C - Transformers War for Cybertron.patch.toml",
     "path": "patches/4156084C - Transformers War for Cybertron.patch.toml",
-    "sha": "2ef549543bd450664d44b5a6b09fa13a9e721dc4",
-    "size": 422,
+    "sha": "fdb90cc24f7db73432d1b92cc5c0bd8ef1b5e5a4",
+    "size": 1413,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4156084C%20-%20Transformers%20War%20for%20Cybertron.patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/4156084C%20-%20Transformers%20War%20for%20Cybertron.patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/2ef549543bd450664d44b5a6b09fa13a9e721dc4",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/fdb90cc24f7db73432d1b92cc5c0bd8ef1b5e5a4",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/4156084C%20-%20Transformers%20War%20for%20Cybertron.patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4156084C%20-%20Transformers%20War%20for%20Cybertron.patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/2ef549543bd450664d44b5a6b09fa13a9e721dc4",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/fdb90cc24f7db73432d1b92cc5c0bd8ef1b5e5a4",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/4156084C%20-%20Transformers%20War%20for%20Cybertron.patch.toml"
+    }
+  },
+  {
+    "name": "4156089C - Transformers Fall of Cybertron (TU1).patch.toml",
+    "path": "patches/4156089C - Transformers Fall of Cybertron (TU1).patch.toml",
+    "sha": "f28cb49e8e9bc3df60d0cf94fa8a993ec90e2ebe",
+    "size": 1000,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4156089C%20-%20Transformers%20Fall%20of%20Cybertron%20(TU1).patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/4156089C%20-%20Transformers%20Fall%20of%20Cybertron%20(TU1).patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/f28cb49e8e9bc3df60d0cf94fa8a993ec90e2ebe",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/4156089C%20-%20Transformers%20Fall%20of%20Cybertron%20(TU1).patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4156089C%20-%20Transformers%20Fall%20of%20Cybertron%20(TU1).patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/f28cb49e8e9bc3df60d0cf94fa8a993ec90e2ebe",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/4156089C%20-%20Transformers%20Fall%20of%20Cybertron%20(TU1).patch.toml"
+    }
+  },
+  {
+    "name": "4156089C - Transformers Fall of Cybertron (TU2).patch.toml",
+    "path": "patches/4156089C - Transformers Fall of Cybertron (TU2).patch.toml",
+    "sha": "b874505f073cee9711bbb418ff6a73bd59910b5b",
+    "size": 1000,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4156089C%20-%20Transformers%20Fall%20of%20Cybertron%20(TU2).patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/4156089C%20-%20Transformers%20Fall%20of%20Cybertron%20(TU2).patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/b874505f073cee9711bbb418ff6a73bd59910b5b",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/4156089C%20-%20Transformers%20Fall%20of%20Cybertron%20(TU2).patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4156089C%20-%20Transformers%20Fall%20of%20Cybertron%20(TU2).patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/b874505f073cee9711bbb418ff6a73bd59910b5b",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/4156089C%20-%20Transformers%20Fall%20of%20Cybertron%20(TU2).patch.toml"
+    }
+  },
+  {
+    "name": "4156089C - Transformers Fall of Cybertron.patch.toml",
+    "path": "patches/4156089C - Transformers Fall of Cybertron.patch.toml",
+    "sha": "152e76257cf51aea5aeb2acf2594ade0b458d283",
+    "size": 991,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4156089C%20-%20Transformers%20Fall%20of%20Cybertron.patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/4156089C%20-%20Transformers%20Fall%20of%20Cybertron.patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/152e76257cf51aea5aeb2acf2594ade0b458d283",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/4156089C%20-%20Transformers%20Fall%20of%20Cybertron.patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4156089C%20-%20Transformers%20Fall%20of%20Cybertron.patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/152e76257cf51aea5aeb2acf2594ade0b458d283",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/4156089C%20-%20Transformers%20Fall%20of%20Cybertron.patch.toml"
+    }
+  },
+  {
+    "name": "415608A4 - Transformers Dark of the Moon (TU1).patch.toml",
+    "path": "patches/415608A4 - Transformers Dark of the Moon (TU1).patch.toml",
+    "sha": "a84a33861060a491cabe48e450481f1145232ecc",
+    "size": 995,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/415608A4%20-%20Transformers%20Dark%20of%20the%20Moon%20(TU1).patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/415608A4%20-%20Transformers%20Dark%20of%20the%20Moon%20(TU1).patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/a84a33861060a491cabe48e450481f1145232ecc",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/415608A4%20-%20Transformers%20Dark%20of%20the%20Moon%20(TU1).patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/415608A4%20-%20Transformers%20Dark%20of%20the%20Moon%20(TU1).patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/a84a33861060a491cabe48e450481f1145232ecc",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/415608A4%20-%20Transformers%20Dark%20of%20the%20Moon%20(TU1).patch.toml"
+    }
+  },
+  {
+    "name": "415608A4 - Transformers Dark of the Moon.patch.toml",
+    "path": "patches/415608A4 - Transformers Dark of the Moon.patch.toml",
+    "sha": "411507cae4c29ed6b31a16abfef1dd4cca4605d0",
+    "size": 986,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/415608A4%20-%20Transformers%20Dark%20of%20the%20Moon.patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/415608A4%20-%20Transformers%20Dark%20of%20the%20Moon.patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/411507cae4c29ed6b31a16abfef1dd4cca4605d0",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/415608A4%20-%20Transformers%20Dark%20of%20the%20Moon.patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/415608A4%20-%20Transformers%20Dark%20of%20the%20Moon.patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/411507cae4c29ed6b31a16abfef1dd4cca4605d0",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/415608A4%20-%20Transformers%20Dark%20of%20the%20Moon.patch.toml"
     }
   },
   {
@@ -320,18 +416,34 @@
     }
   },
   {
+    "name": "415608EC - Deadpool.patch.toml",
+    "path": "patches/415608EC - Deadpool.patch.toml",
+    "sha": "eb621860f27bac71a419dfb2ffd5158740bf9c89",
+    "size": 990,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/415608EC%20-%20Deadpool.patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/415608EC%20-%20Deadpool.patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/eb621860f27bac71a419dfb2ffd5158740bf9c89",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/415608EC%20-%20Deadpool.patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/415608EC%20-%20Deadpool.patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/eb621860f27bac71a419dfb2ffd5158740bf9c89",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/415608EC%20-%20Deadpool.patch.toml"
+    }
+  },
+  {
     "name": "41560904 - Transformers-Rise of The Dark Spark.patch.toml",
     "path": "patches/41560904 - Transformers-Rise of The Dark Spark.patch.toml",
-    "sha": "ae1d654798fe3d93e209ff63e6be1871e5d50b85",
-    "size": 577,
+    "sha": "ae01c834e847e5d1a34824de8462c49d4547aa35",
+    "size": 986,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/41560904%20-%20Transformers-Rise%20of%20The%20Dark%20Spark.patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/41560904%20-%20Transformers-Rise%20of%20The%20Dark%20Spark.patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/ae1d654798fe3d93e209ff63e6be1871e5d50b85",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/ae01c834e847e5d1a34824de8462c49d4547aa35",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/41560904%20-%20Transformers-Rise%20of%20The%20Dark%20Spark.patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/41560904%20-%20Transformers-Rise%20of%20The%20Dark%20Spark.patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/ae1d654798fe3d93e209ff63e6be1871e5d50b85",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/ae01c834e847e5d1a34824de8462c49d4547aa35",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/41560904%20-%20Transformers-Rise%20of%20The%20Dark%20Spark.patch.toml"
     }
   },
@@ -642,16 +754,16 @@
   {
     "name": "434D07DE - Rise of the Argonauts.patch.toml",
     "path": "patches/434D07DE - Rise of the Argonauts.patch.toml",
-    "sha": "203050a79c3dbf41b327c48ea1e480619d973bd4",
-    "size": 708,
+    "sha": "bdfeb2082419cc7fadbff423a28300efa4eb4cd5",
+    "size": 981,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/434D07DE%20-%20Rise%20of%20the%20Argonauts.patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/434D07DE%20-%20Rise%20of%20the%20Argonauts.patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/203050a79c3dbf41b327c48ea1e480619d973bd4",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/bdfeb2082419cc7fadbff423a28300efa4eb4cd5",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/434D07DE%20-%20Rise%20of%20the%20Argonauts.patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/434D07DE%20-%20Rise%20of%20the%20Argonauts.patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/203050a79c3dbf41b327c48ea1e480619d973bd4",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/bdfeb2082419cc7fadbff423a28300efa4eb4cd5",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/434D07DE%20-%20Rise%20of%20the%20Argonauts.patch.toml"
     }
   },
@@ -754,32 +866,32 @@
   {
     "name": "454107F8 - Army of Two (USA)(TU2).patch.toml",
     "path": "patches/454107F8 - Army of Two (USA)(TU2).patch.toml",
-    "sha": "6f23111708e970bb59f2638b762cc0e77dc1cd57",
-    "size": 372,
+    "sha": "6128183b689c23771c8ae968e43fdb7a19f10ac0",
+    "size": 746,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/454107F8%20-%20Army%20of%20Two%20(USA)(TU2).patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/454107F8%20-%20Army%20of%20Two%20(USA)(TU2).patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/6f23111708e970bb59f2638b762cc0e77dc1cd57",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/6128183b689c23771c8ae968e43fdb7a19f10ac0",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/454107F8%20-%20Army%20of%20Two%20(USA)(TU2).patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/454107F8%20-%20Army%20of%20Two%20(USA)(TU2).patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/6f23111708e970bb59f2638b762cc0e77dc1cd57",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/6128183b689c23771c8ae968e43fdb7a19f10ac0",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/454107F8%20-%20Army%20of%20Two%20(USA)(TU2).patch.toml"
     }
   },
   {
     "name": "454107F8 - Army of Two (USA).patch.toml",
     "path": "patches/454107F8 - Army of Two (USA).patch.toml",
-    "sha": "723a9cf618d80b1bb4c3f042d6623df2ce8f2dcf",
-    "size": 363,
+    "sha": "33dda46a0baffd163b4bad770c161749f94d7497",
+    "size": 737,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/454107F8%20-%20Army%20of%20Two%20(USA).patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/454107F8%20-%20Army%20of%20Two%20(USA).patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/723a9cf618d80b1bb4c3f042d6623df2ce8f2dcf",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/33dda46a0baffd163b4bad770c161749f94d7497",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/454107F8%20-%20Army%20of%20Two%20(USA).patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/454107F8%20-%20Army%20of%20Two%20(USA).patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/723a9cf618d80b1bb4c3f042d6623df2ce8f2dcf",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/33dda46a0baffd163b4bad770c161749f94d7497",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/454107F8%20-%20Army%20of%20Two%20(USA).patch.toml"
     }
   },
@@ -930,32 +1042,32 @@
   {
     "name": "4541084C - Army of Two (Europe)(TU2).patch.toml",
     "path": "patches/4541084C - Army of Two (Europe)(TU2).patch.toml",
-    "sha": "b8b96838c46c6332b3a604ce30afa237e3b90db6",
-    "size": 375,
+    "sha": "6beb081e97dbed3846a08d3adb4bd7bc09da3abe",
+    "size": 749,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4541084C%20-%20Army%20of%20Two%20(Europe)(TU2).patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/4541084C%20-%20Army%20of%20Two%20(Europe)(TU2).patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/b8b96838c46c6332b3a604ce30afa237e3b90db6",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/6beb081e97dbed3846a08d3adb4bd7bc09da3abe",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/4541084C%20-%20Army%20of%20Two%20(Europe)(TU2).patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4541084C%20-%20Army%20of%20Two%20(Europe)(TU2).patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/b8b96838c46c6332b3a604ce30afa237e3b90db6",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/6beb081e97dbed3846a08d3adb4bd7bc09da3abe",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/4541084C%20-%20Army%20of%20Two%20(Europe)(TU2).patch.toml"
     }
   },
   {
     "name": "4541084C - Army of Two (Europe).patch.toml",
     "path": "patches/4541084C - Army of Two (Europe).patch.toml",
-    "sha": "5b0e863b4a5da3be534b3a2c021f5a472b64fef5",
-    "size": 366,
+    "sha": "5559d215f93eb72462200814a8b570a8940a7b92",
+    "size": 740,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4541084C%20-%20Army%20of%20Two%20(Europe).patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/4541084C%20-%20Army%20of%20Two%20(Europe).patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/5b0e863b4a5da3be534b3a2c021f5a472b64fef5",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/5559d215f93eb72462200814a8b570a8940a7b92",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/4541084C%20-%20Army%20of%20Two%20(Europe).patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4541084C%20-%20Army%20of%20Two%20(Europe).patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/5b0e863b4a5da3be534b3a2c021f5a472b64fef5",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/5559d215f93eb72462200814a8b570a8940a7b92",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/4541084C%20-%20Army%20of%20Two%20(Europe).patch.toml"
     }
   },
@@ -1389,6 +1501,22 @@
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4B4F07D7%20-%20Fatal%20Inertia.patch.toml?ref=main",
       "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/a21df76cc5e0213a0bffa7d21d91c39d02eec4ce",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/4B4F07D7%20-%20Fatal%20Inertia.patch.toml"
+    }
+  },
+  {
+    "name": "4B5607E2 - Yaiba Ninja Gaiden Z.patch.toml",
+    "path": "patches/4B5607E2 - Yaiba Ninja Gaiden Z.patch.toml",
+    "sha": "1a85e9d356505c3a134159581c4ecfccdd108fda",
+    "size": 682,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4B5607E2%20-%20Yaiba%20Ninja%20Gaiden%20Z.patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/4B5607E2%20-%20Yaiba%20Ninja%20Gaiden%20Z.patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/1a85e9d356505c3a134159581c4ecfccdd108fda",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/4B5607E2%20-%20Yaiba%20Ninja%20Gaiden%20Z.patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4B5607E2%20-%20Yaiba%20Ninja%20Gaiden%20Z.patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/1a85e9d356505c3a134159581c4ecfccdd108fda",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/4B5607E2%20-%20Yaiba%20Ninja%20Gaiden%20Z.patch.toml"
     }
   },
   {
@@ -2880,6 +3008,38 @@
     }
   },
   {
+    "name": "545407DD - The Bureau XCOM Declassified (TU1).patch.toml",
+    "path": "patches/545407DD - The Bureau XCOM Declassified (TU1).patch.toml",
+    "sha": "b154076ceec011269f17d094965ed726f0eb9958",
+    "size": 954,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/545407DD%20-%20The%20Bureau%20XCOM%20Declassified%20(TU1).patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/545407DD%20-%20The%20Bureau%20XCOM%20Declassified%20(TU1).patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/b154076ceec011269f17d094965ed726f0eb9958",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/545407DD%20-%20The%20Bureau%20XCOM%20Declassified%20(TU1).patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/545407DD%20-%20The%20Bureau%20XCOM%20Declassified%20(TU1).patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/b154076ceec011269f17d094965ed726f0eb9958",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/545407DD%20-%20The%20Bureau%20XCOM%20Declassified%20(TU1).patch.toml"
+    }
+  },
+  {
+    "name": "545407DD - The Bureau XCOM Declassified.patch.toml",
+    "path": "patches/545407DD - The Bureau XCOM Declassified.patch.toml",
+    "sha": "413fd06022484043d19f015ba5d1fc97595b3d31",
+    "size": 945,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/545407DD%20-%20The%20Bureau%20XCOM%20Declassified.patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/545407DD%20-%20The%20Bureau%20XCOM%20Declassified.patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/413fd06022484043d19f015ba5d1fc97595b3d31",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/545407DD%20-%20The%20Bureau%20XCOM%20Declassified.patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/545407DD%20-%20The%20Bureau%20XCOM%20Declassified.patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/413fd06022484043d19f015ba5d1fc97595b3d31",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/545407DD%20-%20The%20Bureau%20XCOM%20Declassified.patch.toml"
+    }
+  },
+  {
     "name": "545407DF - Table Tennis.patch.toml",
     "path": "patches/545407DF - Table Tennis.patch.toml",
     "sha": "846b6a748e8fa1619a97317c131784a23feccd96",
@@ -3104,6 +3264,54 @@
     }
   },
   {
+    "name": "54540882 - XCOM Enemy Unknown (TU1).patch.toml",
+    "path": "patches/54540882 - XCOM Enemy Unknown (TU1).patch.toml",
+    "sha": "a0a5f569e039e15ff01432a06e21fd2eed75111e",
+    "size": 923,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/54540882%20-%20XCOM%20Enemy%20Unknown%20(TU1).patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/54540882%20-%20XCOM%20Enemy%20Unknown%20(TU1).patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/a0a5f569e039e15ff01432a06e21fd2eed75111e",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/54540882%20-%20XCOM%20Enemy%20Unknown%20(TU1).patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/54540882%20-%20XCOM%20Enemy%20Unknown%20(TU1).patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/a0a5f569e039e15ff01432a06e21fd2eed75111e",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/54540882%20-%20XCOM%20Enemy%20Unknown%20(TU1).patch.toml"
+    }
+  },
+  {
+    "name": "54540882 - XCOM Enemy Unknown (TU2).patch.toml",
+    "path": "patches/54540882 - XCOM Enemy Unknown (TU2).patch.toml",
+    "sha": "b0265e2f53e596836dab1769d0f12e2c7f3f7657",
+    "size": 923,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/54540882%20-%20XCOM%20Enemy%20Unknown%20(TU2).patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/54540882%20-%20XCOM%20Enemy%20Unknown%20(TU2).patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/b0265e2f53e596836dab1769d0f12e2c7f3f7657",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/54540882%20-%20XCOM%20Enemy%20Unknown%20(TU2).patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/54540882%20-%20XCOM%20Enemy%20Unknown%20(TU2).patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/b0265e2f53e596836dab1769d0f12e2c7f3f7657",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/54540882%20-%20XCOM%20Enemy%20Unknown%20(TU2).patch.toml"
+    }
+  },
+  {
+    "name": "54540882 - XCOM Enemy Unknown.patch.toml",
+    "path": "patches/54540882 - XCOM Enemy Unknown.patch.toml",
+    "sha": "b2a8e93f06a8c31b363c5089ddf9f7e794bc8421",
+    "size": 914,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/54540882%20-%20XCOM%20Enemy%20Unknown.patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/54540882%20-%20XCOM%20Enemy%20Unknown.patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/b2a8e93f06a8c31b363c5089ddf9f7e794bc8421",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/54540882%20-%20XCOM%20Enemy%20Unknown.patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/54540882%20-%20XCOM%20Enemy%20Unknown.patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/b2a8e93f06a8c31b363c5089ddf9f7e794bc8421",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/54540882%20-%20XCOM%20Enemy%20Unknown.patch.toml"
+    }
+  },
+  {
     "name": "545408A7 - Grand Theft Auto V (TU10).patch.toml",
     "path": "patches/545408A7 - Grand Theft Auto V (TU10).patch.toml",
     "sha": "684e66a6ee13093302b130646dcd8d2c115fa29d",
@@ -3165,6 +3373,38 @@
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/545408A7%20-%20Grand%20Theft%20Auto%20V%20(TU27).patch.toml?ref=main",
       "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/f9693637286297996375f285a5c8288ef640e9d5",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/545408A7%20-%20Grand%20Theft%20Auto%20V%20(TU27).patch.toml"
+    }
+  },
+  {
+    "name": "545408AE - XCOM Enemy Within (TU1).patch.toml",
+    "path": "patches/545408AE - XCOM Enemy Within (TU1).patch.toml",
+    "sha": "25c732bcd9ffef3bdb80bbff0a80d00b22b55253",
+    "size": 929,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/545408AE%20-%20XCOM%20Enemy%20Within%20(TU1).patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/545408AE%20-%20XCOM%20Enemy%20Within%20(TU1).patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/25c732bcd9ffef3bdb80bbff0a80d00b22b55253",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/545408AE%20-%20XCOM%20Enemy%20Within%20(TU1).patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/545408AE%20-%20XCOM%20Enemy%20Within%20(TU1).patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/25c732bcd9ffef3bdb80bbff0a80d00b22b55253",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/545408AE%20-%20XCOM%20Enemy%20Within%20(TU1).patch.toml"
+    }
+  },
+  {
+    "name": "545408AE - XCOM Enemy Within.patch.toml",
+    "path": "patches/545408AE - XCOM Enemy Within.patch.toml",
+    "sha": "a2d14436b66e3b0dc75b402f547e6cbf1b500319",
+    "size": 913,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/545408AE%20-%20XCOM%20Enemy%20Within.patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/545408AE%20-%20XCOM%20Enemy%20Within.patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/a2d14436b66e3b0dc75b402f547e6cbf1b500319",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/545408AE%20-%20XCOM%20Enemy%20Within.patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/545408AE%20-%20XCOM%20Enemy%20Within.patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/a2d14436b66e3b0dc75b402f547e6cbf1b500319",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/545408AE%20-%20XCOM%20Enemy%20Within.patch.toml"
     }
   },
   {
@@ -3776,6 +4016,22 @@
     }
   },
   {
+    "name": "58410AA2 - Dungeons & Dragons Daggerdale.patch.toml",
+    "path": "patches/58410AA2 - Dungeons & Dragons Daggerdale.patch.toml",
+    "sha": "ce0e269879928dd2ad1e69b8a10851eb15e82086",
+    "size": 730,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/58410AA2%20-%20Dungeons%20&%20Dragons%20Daggerdale.patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/58410AA2%20-%20Dungeons%20&%20Dragons%20Daggerdale.patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/ce0e269879928dd2ad1e69b8a10851eb15e82086",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/58410AA2%20-%20Dungeons%20%26%20Dragons%20Daggerdale.patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/58410AA2%20-%20Dungeons%20&%20Dragons%20Daggerdale.patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/ce0e269879928dd2ad1e69b8a10851eb15e82086",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/58410AA2%20-%20Dungeons%20&%20Dragons%20Daggerdale.patch.toml"
+    }
+  },
+  {
     "name": "58410AA3 - Alien Breed 3 Descent.patch.toml",
     "path": "patches/58410AA3 - Alien Breed 3 Descent.patch.toml",
     "sha": "7deef0224ac32762a0740c0f72113d956b7c82d8",
@@ -4093,6 +4349,38 @@
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/58411408%20-%20Castlevania%20LOS-MOF%20HD.patch.toml?ref=main",
       "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/f10a2df8cffa42f982d78af4cace47c5f464d4fe",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/58411408%20-%20Castlevania%20LOS-MOF%20HD.patch.toml"
+    }
+  },
+  {
+    "name": "5841141A - Contrast (TU1).patch.toml",
+    "path": "patches/5841141A - Contrast (TU1).patch.toml",
+    "sha": "a6913f5cd1815861677b095e1a45a8a124189161",
+    "size": 899,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/5841141A%20-%20Contrast%20(TU1).patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/5841141A%20-%20Contrast%20(TU1).patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/a6913f5cd1815861677b095e1a45a8a124189161",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/5841141A%20-%20Contrast%20(TU1).patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/5841141A%20-%20Contrast%20(TU1).patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/a6913f5cd1815861677b095e1a45a8a124189161",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/5841141A%20-%20Contrast%20(TU1).patch.toml"
+    }
+  },
+  {
+    "name": "5841141A - Contrast.patch.toml",
+    "path": "patches/5841141A - Contrast.patch.toml",
+    "sha": "e021783c248307d5330719d1383508ad96fa6c31",
+    "size": 890,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/5841141A%20-%20Contrast.patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/5841141A%20-%20Contrast.patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/e021783c248307d5330719d1383508ad96fa6c31",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/5841141A%20-%20Contrast.patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/5841141A%20-%20Contrast.patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/e021783c248307d5330719d1383508ad96fa6c31",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/5841141A%20-%20Contrast.patch.toml"
     }
   },
   {
