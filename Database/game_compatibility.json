@@ -1,5 +1,17 @@
 [
     {
+        "id": "454108D8",
+        "title": "Army of Two: The 40th Day",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/544"
+    },
+    {
+        "id": "454107F8",
+        "title": "Army of Two",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/543"
+    },
+    {
         "id": "4C4107D4",
         "title": "Fracture",
         "state": "Playable",
