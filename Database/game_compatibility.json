@@ -1,5 +1,23 @@
 [
     {
+        "id": "434D07DE",
+        "title": "Rise of the Argonauts",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/547"
+    },
+    {
+        "id": "434307E0",
+        "title": "Dark Void",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/546"
+    },
+    {
+        "id": "584109E2",
+        "title": "Earthworm Jim HD",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/545"
+    },
+    {
         "id": "454108D8",
         "title": "Army of Two: The 40th Day",
         "state": "Unknown",
