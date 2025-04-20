@@ -1,5 +1,11 @@
 [
     {
+        "id": "415407E2",
+        "title": "Persona 4 Arena Ultimax",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/548"
+    },
+    {
         "id": "434D07DE",
         "title": "Rise of the Argonauts",
         "state": "Unknown",
