@@ -1,5 +1,17 @@
 [
     {
+        "id": "534507EE",
+        "title": "Virtua Fighter 5",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/550"
+    },
+    {
+        "id": "41560845",
+        "title": "Blur",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/549"
+    },
+    {
         "id": "415407E2",
         "title": "Persona 4 Arena Ultimax",
         "state": "Unknown",
