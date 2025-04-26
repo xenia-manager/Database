@@ -1,5 +1,17 @@
 [
     {
+        "id": "4D5309B1",
+        "title": "Halo: Combat Evolved Anniversary",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/552"
+    },
+    {
+        "id": "58410964",
+        "title": "Alien Breed Episode 1",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/551"
+    },
+    {
         "id": "534507EE",
         "title": "Virtua Fighter 5",
         "state": "Unknown",
