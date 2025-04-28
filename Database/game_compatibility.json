@@ -1,56 +1,68 @@
 [
     {
+        "id": "584107FB",
+        "title": "Jetpac Refuelled",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/554"
+    },
+    {
+        "id": "465607D1",
+        "title": "Ketsui Kizuna Jigoku Tachi Extra",
+        "state": "Loads",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/553"
+    },
+    {
         "id": "4D5309B1",
         "title": "Halo: Combat Evolved Anniversary",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/552"
     },
     {
         "id": "58410964",
         "title": "Alien Breed Episode 1",
-        "state": "Unknown",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/551"
     },
     {
         "id": "534507EE",
         "title": "Virtua Fighter 5",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/550"
     },
     {
         "id": "41560845",
         "title": "Blur",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/549"
     },
     {
         "id": "415407E2",
         "title": "Persona 4 Arena Ultimax",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/548"
     },
     {
         "id": "434D07DE",
         "title": "Rise of the Argonauts",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/547"
     },
     {
         "id": "434307E0",
         "title": "Dark Void",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/546"
     },
     {
         "id": "584109E2",
         "title": "Earthworm Jim HD",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/545"
     },
     {
         "id": "454108D8",
         "title": "Army of Two: The 40th Day",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/544"
     },
     {
@@ -218,7 +230,7 @@
     {
         "id": "454108CF",
         "title": "Dante's Inferno",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/516"
     },
     {
