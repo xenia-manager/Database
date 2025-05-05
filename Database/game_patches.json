@@ -1810,16 +1810,16 @@
   {
     "name": "4D5307ED - Banjo-Kazooie Nuts & Bolts (TU3).patch.toml",
     "path": "patches/4D5307ED - Banjo-Kazooie Nuts & Bolts (TU3).patch.toml",
-    "sha": "deff1a37f55aba909bc733af019e79ddc5982930",
-    "size": 1817,
+    "sha": "45aa6c433698ed6f8e203653e2133155072b7714",
+    "size": 2612,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4D5307ED%20-%20Banjo-Kazooie%20Nuts%20&%20Bolts%20(TU3).patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/4D5307ED%20-%20Banjo-Kazooie%20Nuts%20&%20Bolts%20(TU3).patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/deff1a37f55aba909bc733af019e79ddc5982930",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/45aa6c433698ed6f8e203653e2133155072b7714",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/4D5307ED%20-%20Banjo-Kazooie%20Nuts%20%26%20Bolts%20(TU3).patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4D5307ED%20-%20Banjo-Kazooie%20Nuts%20&%20Bolts%20(TU3).patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/deff1a37f55aba909bc733af019e79ddc5982930",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/45aa6c433698ed6f8e203653e2133155072b7714",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/4D5307ED%20-%20Banjo-Kazooie%20Nuts%20&%20Bolts%20(TU3).patch.toml"
     }
   },
@@ -3773,6 +3773,22 @@
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/58410921%20-%20CellFactor%20PW.patch.toml?ref=main",
       "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/f580d2f6a73e2d4debc795655967f571ef12c4b9",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/58410921%20-%20CellFactor%20PW.patch.toml"
+    }
+  },
+  {
+    "name": "58410954 - Banjo-Kazooie (TU2).patch.toml",
+    "path": "patches/58410954 - Banjo-Kazooie (TU2).patch.toml",
+    "sha": "807a3d2294184da55b7a77ac2e52a4439006627a",
+    "size": 350,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/58410954%20-%20Banjo-Kazooie%20(TU2).patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/58410954%20-%20Banjo-Kazooie%20(TU2).patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/807a3d2294184da55b7a77ac2e52a4439006627a",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/58410954%20-%20Banjo-Kazooie%20(TU2).patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/58410954%20-%20Banjo-Kazooie%20(TU2).patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/807a3d2294184da55b7a77ac2e52a4439006627a",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/58410954%20-%20Banjo-Kazooie%20(TU2).patch.toml"
     }
   },
   {
