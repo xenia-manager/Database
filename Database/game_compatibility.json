@@ -1,5 +1,35 @@
 [
     {
+        "id": "58410A57",
+        "title": "Bejeweled Blitz LIVE",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/563"
+    },
+    {
+        "id": "454109C6",
+        "title": "Need For Speed Rivals",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/561"
+    },
+    {
+        "id": "4F4807D1",
+        "title": "NASCAR '15",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/560"
+    },
+    {
+        "id": "545408B5",
+        "title": "NBA 2K15",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/559"
+    },
+    {
+        "id": "45410937",
+        "title": "Madden NFL 12",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/558"
+    },
+    {
         "id": "415608FA",
         "title": "Cabela's African Adventures",
         "state": "Gameplay",
