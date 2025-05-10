@@ -1,5 +1,17 @@
 [
     {
+        "id": "545407DD",
+        "title": "The Bureau: XCOM Declassified",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/565"
+    },
+    {
+        "id": "415607FF",
+        "title": "Quantum of Solace",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/564"
+    },
+    {
         "id": "58410A57",
         "title": "Bejeweled Blitz LIVE",
         "state": "Unknown",
