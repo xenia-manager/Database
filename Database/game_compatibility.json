@@ -1,5 +1,17 @@
 [
     {
+        "id": "58410A22",
+        "title": "Alien Breed 2: Assault",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/567"
+    },
+    {
+        "id": "5841089A",
+        "title": "UNO RUSH",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/566"
+    },
+    {
         "id": "545407DD",
         "title": "The Bureau: XCOM Declassified",
         "state": "Unknown",
