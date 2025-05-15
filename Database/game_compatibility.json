@@ -1,5 +1,17 @@
 [
     {
+        "id": "545407E5",
+        "title": "Civilization Revolution",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/569"
+    },
+    {
+        "id": "464507DD",
+        "title": "Bound by Flame",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/568"
+    },
+    {
         "id": "58410A22",
         "title": "Alien Breed 2: Assault",
         "state": "Unknown",
