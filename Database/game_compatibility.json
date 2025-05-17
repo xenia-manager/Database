@@ -1,5 +1,11 @@
 [
     {
+        "id": "544F07D1",
+        "title": "Zoids Infinity EX Neo",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/570"
+    },
+    {
         "id": "545407E5",
         "title": "Civilization Revolution",
         "state": "Unknown",
