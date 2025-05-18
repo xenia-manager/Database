@@ -1,5 +1,11 @@
 [
     {
+        "id": "584108FF",
+        "title": "Geometry Wars Retro Evolved²",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/571"
+    },
+    {
         "id": "544F07D1",
         "title": "Zoids Infinity EX Neo",
         "state": "Unknown",
