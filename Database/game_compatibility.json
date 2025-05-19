@@ -1,32 +1,68 @@
 [
     {
+        "id": "454107DE",
+        "title": "Fight Night Round 3",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/577"
+    },
+    {
+        "id": null,
+        "title": "FFFE07D1- Xbox 360 Dashboard",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/576"
+    },
+    {
+        "id": "594B07D1",
+        "title": "レッスルキングダム (WRESTLE KINGDOM)",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/575"
+    },
+    {
+        "id": "4C4107F2",
+        "title": "Star Wars: The Force Unleashed II",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/574"
+    },
+    {
+        "id": "454108B4",
+        "title": "Need for Speed Shift",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/573"
+    },
+    {
+        "id": "534307E2",
+        "title": "Bionicle Heroes",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/572"
+    },
+    {
         "id": "584108FF",
         "title": "Geometry Wars Retro Evolved²",
-        "state": "Unknown",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/571"
     },
     {
         "id": "544F07D1",
         "title": "Zoids Infinity EX Neo",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/570"
     },
     {
         "id": "545407E5",
         "title": "Civilization Revolution",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/569"
     },
     {
         "id": "464507DD",
         "title": "Bound by Flame",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/568"
     },
     {
         "id": "58410A22",
         "title": "Alien Breed 2: Assault",
-        "state": "Unknown",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/567"
     },
     {
@@ -38,13 +74,13 @@
     {
         "id": "545407DD",
         "title": "The Bureau: XCOM Declassified",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/565"
     },
     {
         "id": "415607FF",
         "title": "Quantum of Solace",
-        "state": "Unknown",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/564"
     },
     {
@@ -62,19 +98,19 @@
     {
         "id": "4F4807D1",
         "title": "NASCAR '15",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/560"
     },
     {
         "id": "545408B5",
         "title": "NBA 2K15",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/559"
     },
     {
         "id": "45410937",
         "title": "Madden NFL 12",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/558"
     },
     {
