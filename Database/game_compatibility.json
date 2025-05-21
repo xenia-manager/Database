@@ -1,5 +1,23 @@
 [
     {
+        "id": "5351081E",
+        "title": "Murdered: Soul Suspect",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/580"
+    },
+    {
+        "id": "54510846",
+        "title": "Homefront",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/579"
+    },
+    {
+        "id": "425307E3",
+        "title": "Dishonored",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/578"
+    },
+    {
         "id": "454107DE",
         "title": "Fight Night Round 3",
         "state": "Unknown",
