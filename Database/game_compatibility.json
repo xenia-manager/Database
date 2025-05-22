@@ -1,20 +1,32 @@
 [
     {
+        "id": "545407D4",
+        "title": "Amped 3",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/583"
+    },
+    {
+        "id": "425607ED",
+        "title": "Tron: Evolution",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/582"
+    },
+    {
         "id": "5351081E",
         "title": "Murdered: Soul Suspect",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/580"
     },
     {
         "id": "54510846",
         "title": "Homefront",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/579"
     },
     {
         "id": "425307E3",
         "title": "Dishonored",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/578"
     },
     {
@@ -32,7 +44,7 @@
     {
         "id": "4C4107F2",
         "title": "Star Wars: The Force Unleashed II",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/574"
     },
     {
