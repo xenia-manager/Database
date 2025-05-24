@@ -8,7 +8,7 @@
     {
         "id": "425607ED",
         "title": "Tron: Evolution",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/582"
     },
     {
@@ -32,7 +32,7 @@
     {
         "id": "454107DE",
         "title": "Fight Night Round 3",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/577"
     },
     {
@@ -50,13 +50,13 @@
     {
         "id": "454108B4",
         "title": "Need for Speed Shift",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/573"
     },
     {
         "id": "534307E2",
         "title": "Bionicle Heroes",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/572"
     },
     {
@@ -68,7 +68,7 @@
     {
         "id": "544F07D1",
         "title": "Zoids Infinity EX Neo",
-        "state": "Gameplay",
+        "state": "Unknown",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/570"
     },
     {
@@ -92,7 +92,7 @@
     {
         "id": "5841089A",
         "title": "UNO RUSH",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/566"
     },
     {
@@ -110,13 +110,13 @@
     {
         "id": "58410A57",
         "title": "Bejeweled Blitz LIVE",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/563"
     },
     {
         "id": "454109C6",
         "title": "Need For Speed Rivals",
-        "state": "Unknown",
+        "state": "Loads",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/561"
     },
     {
@@ -145,8 +145,8 @@
     },
     {
         "id": "45410806",
-        "title": "Burnout Paradise",
-        "state": "Unknown",
+        "title": "Burnout Paradise (Jan 30, 2008 prototype)",
+        "state": "Loads",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/556"
     },
     {
@@ -224,7 +224,7 @@
     {
         "id": "454107F8",
         "title": "Army of Two",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/543"
     },
     {
@@ -236,7 +236,7 @@
     {
         "id": "415607F2",
         "title": "Kung Fu Panda",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/541"
     },
     {
@@ -380,7 +380,7 @@
     {
         "id": "45410850",
         "title": "Mirror's Edge",
-        "state": "Unknown",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/517"
     },
     {
@@ -2846,7 +2846,7 @@
     {
         "id": "415608D8",
         "title": "007 Legends",
-        "state": "Gameplay",
+        "state": "Playable",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/62"
     },
     {
