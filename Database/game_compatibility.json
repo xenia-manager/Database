@@ -1,5 +1,23 @@
 [
     {
+        "id": "4156081F",
+        "title": "James Bond 007 Blood Stone",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/587"
+    },
+    {
+        "id": "4D5308BC",
+        "title": "Crackdown 2",
+        "state": "Gameplay",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/586"
+    },
+    {
+        "id": "41560891",
+        "title": "Bakugan DOTC",
+        "state": "Loads",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/585"
+    },
+    {
         "id": "4D5307F2",
         "title": "Viva Piñata",
         "state": "Gameplay",
