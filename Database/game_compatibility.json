@@ -1,5 +1,11 @@
 [
     {
+        "id": "4E4D081C",
+        "title": "Ace Combat: Assault Horizon",
+        "state": "Unknown",
+        "url": "https://github.com/xenia-canary/game-compatibility/issues/590"
+    },
+    {
         "id": "584E07D2",
         "title": "Supercow",
         "state": "Unknown",
@@ -1412,7 +1418,7 @@
     {
         "id": "58411293",
         "title": "Narco Terror",
-        "state": "Loads",
+        "state": "Gameplay",
         "url": "https://github.com/xenia-canary/game-compatibility/issues/343"
     },
     {
