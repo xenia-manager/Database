@@ -1,4 +1,4 @@
-name: Update Game Patches JSON files from GitHub API
+name: Update Xenia Game Patches from GitHub API
 
 on:
   schedule:
@@ -10,7 +10,7 @@ env:
   XENIA_NETPLAY_REPO: AdrianCassar/Xenia-WebServices
 
 jobs:
-  update-json:
+  update-xenia-game-patches:
     runs-on: ubuntu-latest
     permissions:
       contents: write  # Required for pushing changes
@@ -21,7 +21,7 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         sparse-checkout: |
-          Database/
+          Database/Patches/
         sparse-checkout-cone-mode: false
         
     - name: Create required directories
@@ -180,8 +180,3 @@ jobs:
         git push
         
         echo "✓ Changes committed and pushed successfully"
-        
-    - name: Report failures
-      if: failure()
-      run: |
-        echo "::error::Workflow failed. Check the logs above for details."
