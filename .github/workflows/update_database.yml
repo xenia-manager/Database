@@ -1,0 +1,250 @@
+name: Database Updater
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # daily at 00:00 UTC
+    - cron: '0 12 * * *'  # daily at 12:00 UTC
+  workflow_dispatch:
+  
+env:
+  XENIA_CANARY_REPO: xenia-canary/game-patches
+  XENIA_NETPLAY_REPO: AdrianCassar/Xenia-WebServices
+
+jobs:
+  xenia-manager-versions:
+    name: Xenia Manager Versions
+    runs-on: ubuntu-latest
+    outputs:
+      versions-changed: ${{ steps.check-changes.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fetch release data & write JSON
+        id: fetch-versions
+        run: |
+          # Create version.json with error handling
+          cat > fetch_versions.py << 'EOF'
+          import json
+          import urllib.request
+          import urllib.error
+          import sys
+          
+          def fetch_version(url, name):
+              try:
+                  req = urllib.request.Request(url, headers={'User-Agent': 'github-actions'})
+                  with urllib.request.urlopen(req, timeout=10) as response:
+                      data = json.loads(response.read())
+                      return data.get('tag_name', 'unknown')
+              except (urllib.error.URLError, json.JSONDecodeError, KeyError) as e:
+                  print(f"Error fetching {name}: {e}", file=sys.stderr)
+                  return 'unknown'
+          
+          urls = {
+              'stable': 'https://api.github.com/repos/xenia-manager/xenia-manager/releases/latest',
+              'experimental': 'https://api.github.com/repos/xenia-manager/experimental-builds/releases/latest'
+          }
+          
+          data = {key: fetch_version(url, key) for key, url in urls.items()}
+          
+          with open('Database/version.json', 'w', encoding='utf-8') as f:
+              json.dump(data, f, indent=2)
+          
+          print("Versions fetched successfully")
+          EOF
+          
+          python fetch_versions.py
+
+      - name: Check for changes
+        id: check-changes
+        run: |
+          git add Database/version.json
+          if git diff --cached --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No version changes detected"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Version changes detected"
+          fi
+
+      - name: Commit & push if changed
+        if: steps.check-changes.outputs.changed == 'true'
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Update version.json with latest Xenia Manager versions'
+          git push
+
+  game-compatibility:
+    name: Game Compatibility Database
+    runs-on: ubuntu-latest
+    outputs:
+      compatibility-changed: ${{ steps.check-changes.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run compatibility script
+        run: python Scripts/game_compatibility.py --debug
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Check for changes
+        id: check-changes
+        run: |
+          git add Database/game_compatibility.json
+          if git diff --cached --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No compatibility changes detected"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Compatibility changes detected"
+            git diff --stat Database/game_compatibility.json
+          fi
+
+      - name: Commit & push if changed
+        if: steps.check-changes.outputs.changed == 'true'
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Update game compatibility data'
+          git push
+
+  game-patches:
+    name: Xenia Game Patches
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    outputs:
+      patches-changed: ${{ steps.check-changes.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          sparse-checkout: |
+            Database/
+          sparse-checkout-cone-mode: false
+
+      - name: Ensure patch directory
+        run: mkdir -p Database/Patches
+
+      - name: Fetch patches with retry logic
+        id: fetch-patches
+        run: |
+          # Function to fetch with retries
+          fetch_with_retry() {
+            local url=$1
+            local output=$2
+            local name=$3
+            local max_attempts=3
+            local attempt=1
+            
+            while [ $attempt -le $max_attempts ]; do
+              echo "Fetching $name (attempt $attempt/$max_attempts)..."
+              status=$(curl -L \
+                -H "Accept: application/vnd.github+json" \
+                -H "X-GitHub-Api-Version: 2022-11-28" \
+                -H "User-Agent: GitHub-Actions-Bot" \
+                -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+                -o "$output" \
+                -s -w "%{http_code}" \
+                --max-time 30 \
+                --retry 2 \
+                --retry-delay 5 \
+                "$url")
+              
+              if [ "$status" -eq 200 ]; then
+                if jq empty "$output" 2>/dev/null; then
+                  echo "$name fetched successfully"
+                  echo "${name}_success=true" >> $GITHUB_OUTPUT
+                  return 0
+                else
+                  echo "Invalid JSON in $name response"
+                fi
+              else
+                echo "HTTP $status for $name"
+              fi
+              
+              attempt=$((attempt + 1))
+              [ $attempt -le $max_attempts ] && sleep 10
+            done
+            
+            echo "${name}_success=false" >> $GITHUB_OUTPUT
+            return 1
+          }
+          
+          # Fetch both patch sources
+          fetch_with_retry \
+            "https://api.github.com/repos/${{ env.XENIA_CANARY_REPO }}/contents/patches" \
+            "Database/Patches/canary_patches.json" \
+            "canary"
+          
+          fetch_with_retry \
+            "https://api.github.com/repos/${{ env.XENIA_NETPLAY_REPO }}/contents/patches" \
+            "Database/Patches/netplay_patches.json" \
+            "netplay"
+
+      - name: Check for changes
+        id: check-changes
+        run: |
+          if git diff --quiet Database/Patches/; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No patch changes detected"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Patch changes detected:"
+            git diff --name-status Database/Patches/
+          fi
+
+      - name: Commit & push patches
+        if: steps.check-changes.outputs.changed == 'true'
+        run: |
+          git config --local user.name 'github-actions[bot]'
+          git config --local user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          
+          # Add successfully fetched files
+          [ "${{ steps.fetch-patches.outputs.canary_success }}" = "true" ] && git add Database/Patches/canary_patches.json
+          [ "${{ steps.fetch-patches.outputs.netplay_success }}" = "true" ] && git add Database/Patches/netplay_patches.json
+          
+          # Create commit message
+          timestamp=$(date -u '+%Y-%m-%d %H:%M:%S')
+          commit_msg="Update game patches - $timestamp UTC"
+          
+          if [ "${{ steps.fetch-patches.outputs.canary_success }}" = "true" ] && [ "${{ steps.fetch-patches.outputs.netplay_success }}" = "true" ]; then
+            commit_msg="$commit_msg"$'\n- Updated Xenia Canary patches\n- Updated Xenia Netplay patches'
+          elif [ "${{ steps.fetch-patches.outputs.canary_success }}" = "true" ]; then
+            commit_msg="$commit_msg"$'\n- Updated Xenia Canary patches\n- Netplay fetch failed'
+          elif [ "${{ steps.fetch-patches.outputs.netplay_success }}" = "true" ]; then
+            commit_msg="$commit_msg"$'\n- Canary fetch failed\n- Updated Xenia Netplay patches'
+          fi
+          
+          git commit -m "$commit_msg"
+          git push
+
+  notify-completion:
+    name: Workflow Summary
+    runs-on: ubuntu-latest
+    needs: [xenia-manager-versions, game-compatibility, game-patches]
+    if: always()
+    steps:
+      - name: Generate summary
+        run: |
+          echo "## Xenia Data Sync Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| Component | Status | Changes |" >> $GITHUB_STEP_SUMMARY
+          echo "|-----------|--------|---------|" >> $GITHUB_STEP_SUMMARY
+          echo "| Versions | ${{ needs.update-versions.result }} | ${{ needs.update-versions.outputs.versions-changed == 'true' && '✅ Updated' || '➖ No changes' }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Compatibility | ${{ needs.fetch-game-compatibility.result }} | ${{ needs.fetch-game-compatibility.outputs.compatibility-changed == 'true' && '✅ Updated' || '➖ No changes' }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Patches | ${{ needs.fetch-game-patches.result }} | ${{ needs.fetch-game-patches.outputs.patches-changed == 'true' && '✅ Updated' || '➖ No changes' }} |" >> $GITHUB_STEP_SUMMARY
