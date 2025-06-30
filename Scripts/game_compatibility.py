@@ -31,18 +31,25 @@ def get_headers() -> Dict[str, str]:
         headers['Authorization'] = f'token {GITHUB_TOKEN}'
     return headers
 
-def parse_title(issue_title: str) -> Dict[str, Optional[str]]:
+def parse_title(issue_title: str, debug: bool = False) -> Dict[str, Optional[str]]:
     """Parse game ID and title from issue title."""
     try:
         title = issue_title.strip()
+        if debug:
+            print(f"🔍 Parsing title: '{title}'")
         
         # Try standard format first: "12345678 - Game Title"
         if ' - ' in title:
             parts = title.split(' - ', 1)
-            return {"id": parts[0].strip(), "title": parts[1].strip()}
+            result = {"id": parts[0].strip(), "title": parts[1].strip()}
+            if debug:
+                print(f"  ✅ Standard format found: ID='{result['id']}', Title='{result['title']}'")
+            return result
         
         # Handle missing space before dash: "12345678- Game Title" or "12345678-Game Title"
         if '-' in title:
+            if debug:
+                print(f"  🔧 Trying dash fallback...")
             # Find the first dash
             dash_index = title.find('-')
             if dash_index > 0:
@@ -51,20 +58,36 @@ def parse_title(issue_title: str) -> Dict[str, Optional[str]]:
                 # Extract title (everything after the dash)
                 potential_title = title[dash_index + 1:].strip()
                 
+                if debug:
+                    print(f"    Potential ID: '{potential_id}' (len={len(potential_id)})")
+                    print(f"    Potential Title: '{potential_title}'")
+                
                 # Validate that the ID part looks like a game ID (8 hex characters)
                 if len(potential_id) == 8 and all(c in '0123456789ABCDEFabcdef' for c in potential_id):
-                    return {"id": potential_id.upper(), "title": potential_title}
+                    result = {"id": potential_id.upper(), "title": potential_title}
+                    if debug:
+                        print(f"  ✅ Dash format parsed: ID='{result['id']}', Title='{result['title']}'")
+                    return result
+                elif debug:
+                    print(f"    ❌ Invalid ID format (not 8 hex chars)")
         
         # If no valid ID-title split found, return as title only
-        return {"id": None, "title": title}
+        result = {"id": None, "title": title}
+        if debug:
+            print(f"  ⚠️  No ID found, using as title only: '{result['title']}'")
+        return result
         
     except Exception as e:
-        print(f"Error parsing title '{issue_title}': {e}", file=sys.stderr)
+        print(f"❌ Error parsing title '{issue_title}': {e}", file=sys.stderr)
         return {"id": None, "title": issue_title}
 
-def parse_labels(labels: List[Dict]) -> str:
+def parse_labels(labels: List[Dict], debug: bool = False) -> str:
     """Parse game state from labels."""
     try:
+        if debug:
+            label_names = [label.get("name", "") for label in labels]
+            print(f"🏷️  Labels found: {label_names}")
+        
         # Define state mappings for better maintainability
         state_mappings = {
             "state-nothing": "Unplayable",
@@ -84,11 +107,16 @@ def parse_labels(labels: List[Dict]) -> str:
         for label in labels:
             label_name = label.get("name", "")
             if label_name in state_mappings:
-                return state_mappings[label_name]
+                result = state_mappings[label_name]
+                if debug:
+                    print(f"  ✅ State label found: '{label_name}' → '{result}'")
+                return result
         
+        if debug:
+            print(f"  ⚠️  No state labels found, defaulting to 'Unknown'")
         return "Unknown"
     except Exception as e:
-        print(f"Error parsing labels: {e}", file=sys.stderr)
+        print(f"❌ Error parsing labels: {e}", file=sys.stderr)
         return "Unknown"
 
 def make_request(url: str, params: Optional[Dict] = None) -> Optional[Dict]:
@@ -125,38 +153,56 @@ def make_request(url: str, params: Optional[Dict] = None) -> Optional[Dict]:
     
     return None
 
-def process_issues(issues_data: List[Dict]) -> List[Dict]:
+def process_issues(issues_data: List[Dict], debug: bool = False) -> List[Dict]:
     """Process raw issue data into game compatibility format."""
     processed = []
     
-    for issue in issues_data:
+    if debug:
+        print(f"\n📦 Processing {len(issues_data)} issues...")
+    
+    for i, issue in enumerate(issues_data):
         try:
+            issue_number = issue.get("number", "unknown")
+            issue_url = issue.get("html_url", "")
+            
+            if debug:
+                print(f"\n🎮 Issue #{issue_number} ({i+1}/{len(issues_data)})")
+                print(f"   URL: {issue_url}")
+            
             # Skip the main repository issue
-            if issue.get("html_url") == "https://github.com/xenia-canary/game-compatibility/issues/1":
+            if issue_url == "https://github.com/xenia-canary/game-compatibility/issues/1":
+                if debug:
+                    print(f"   ⏭️  Skipping main repository issue")
                 continue
             
             # Parse title for game ID and name
-            title_data = parse_title(issue.get("title", ""))
+            title_data = parse_title(issue.get("title", ""), debug)
             
             # Parse labels for compatibility state
-            state = parse_labels(issue.get("labels", []))
+            state = parse_labels(issue.get("labels", []), debug)
             
             game_data = {
                 "id": title_data["id"],
                 "title": title_data["title"],
                 "state": state,
-                "url": issue.get("html_url")
+                "url": issue_url
             }
+            
+            if debug:
+                print(f"   📊 Final result: ID='{game_data['id']}', Title='{game_data['title']}', State='{game_data['state']}'")
             
             processed.append(game_data)
             
         except Exception as e:
-            print(f"Error processing issue {issue.get('number', 'unknown')}: {e}", file=sys.stderr)
+            print(f"❌ Error processing issue {issue.get('number', 'unknown')}: {e}", file=sys.stderr)
             continue
+    
+    if debug:
+        print(f"\n✅ Processed {len(processed)} games successfully")
     
     return processed
 
-def fetch_all_issues() -> List[Dict]:
+def fetch_all_issues(debug: bool = False) -> List[Dict]:
     """Fetch all issues from the repository."""
     all_issues = []
     page = 1
@@ -164,7 +210,7 @@ def fetch_all_issues() -> List[Dict]:
     print("Fetching game compatibility issues...")
     
     while True:
-        print(f"Fetching page {page}...", end=" ")
+        print(f"📄 Fetching page {page}...", end=" ")
         
         params = {
             'state': STATE,
@@ -176,14 +222,14 @@ def fetch_all_issues() -> List[Dict]:
         data = make_request(url, params)
         
         if not data:
-            print("Failed to fetch data")
+            print("❌ Failed to fetch data")
             break
             
         if not isinstance(data, list) or len(data) == 0:
-            print("No more issues")
+            print("✅ No more issues")
             break
         
-        processed_issues = process_issues(data)
+        processed_issues = process_issues(data, debug)
         all_issues.extend(processed_issues)
         
         print(f"Got {len(data)} issues, processed {len(processed_issues)}")
@@ -203,8 +249,15 @@ def save_compatibility_data(issues: List[Dict]) -> bool:
         # Ensure directory exists
         os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
         
-        # Sort by game ID for consistent output
-        issues.sort(key=lambda x: (x["id"] or "", x["title"] or ""))
+        # Sort by URL (which contains issue number) in descending order
+        def extract_issue_number(url: str) -> int:
+            try:
+                # Extract issue number from URL like "https://github.com/xenia-canary/game-compatibility/issues/533"
+                return int(url.split('/')[-1])
+            except (ValueError, IndexError):
+                return 0  # Fallback for malformed URLs
+        
+        issues.sort(key=lambda x: extract_issue_number(x.get("url", "")), reverse=True)
         
         with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
             json.dump(issues, f, ensure_ascii=False, indent=2)
@@ -218,13 +271,19 @@ def save_compatibility_data(issues: List[Dict]) -> bool:
 
 def main():
     """Main function."""
+    # Check for debug mode
+    debug_mode = '--debug' in sys.argv or '-d' in sys.argv
+    
+    if debug_mode:
+        print("🐛 Debug mode enabled")
+    
     if not GITHUB_TOKEN:
         print("⚠️  Warning: GITHUB_TOKEN not set. API requests may be rate-limited.", file=sys.stderr)
     
     print(f"Fetching compatibility data from {OWNER}/{REPO}")
     
     # Fetch all issues
-    issues = fetch_all_issues()
+    issues = fetch_all_issues(debug_mode)
     
     if not issues:
         print("❌ No issues fetched or error occurred", file=sys.stderr)
@@ -245,6 +304,14 @@ def main():
         print(f"  {state}: {count}")
     
     print(f"\n🎮 Total games: {len(issues)}")
+    
+    if debug_mode:
+        print(f"\n🔍 Debug Summary:")
+        print(f"  - First 3 games:")
+        for i, game in enumerate(issues[:3]):
+            print(f"    {i+1}. ID={game['id']}, Title='{game['title']}', State={game['state']}")
+        if len(issues) > 3:
+            print(f"    ... and {len(issues) - 3} more")
 
 if __name__ == '__main__':
     main()
