@@ -1,5 +1,41 @@
 [
   {
+    "id": "58410B45",
+    "title": "Section 8: Prejudice",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/656"
+  },
+  {
+    "id": "475007D4",
+    "title": "Section 8",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/655"
+  },
+  {
+    "id": "55530888",
+    "title": "Just Dance 3",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/654"
+  },
+  {
+    "id": "555308C3",
+    "title": "Rayman Legends",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/653"
+  },
+  {
+    "id": "5841123F",
+    "title": "Rayman 3 HD",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/652"
+  },
+  {
+    "id": "55530884",
+    "title": "Rayman Origins",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/651"
+  },
+  {
     "id": "454107F4",
     "title": "Tiger Woods PGA Tour 07",
     "state": "Gameplay",
