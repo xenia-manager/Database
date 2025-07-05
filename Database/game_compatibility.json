@@ -1,5 +1,65 @@
 [
   {
+    "id": "41560881",
+    "title": "Spider-Man: Shattered Dimensions",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/666"
+  },
+  {
+    "id": "415607FA",
+    "title": "Spider-Man: Friend or Foe",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/665"
+  },
+  {
+    "id": "415608B2",
+    "title": "Spider Man: Edge Of Time",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/664"
+  },
+  {
+    "id": "55530848",
+    "title": "Tom Clancy's H.A.W.X 2",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/663"
+  },
+  {
+    "id": "415608B5",
+    "title": "The Amazing Spider-Man",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/662"
+  },
+  {
+    "id": "41560905",
+    "title": "The Amazing Spider-Man 2",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/661"
+  },
+  {
+    "id": "5345082A",
+    "title": "Aliens vs Predator",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/660"
+  },
+  {
+    "id": "43430830",
+    "title": "Lost Planet 3",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/659"
+  },
+  {
+    "id": "434307DE",
+    "title": "Lost Planet Extreme Conditions: Colonies Edition",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/658"
+  },
+  {
+    "id": "55530816",
+    "title": "Tom Clancy's H.A.W.X",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/657"
+  },
+  {
     "id": "58410B45",
     "title": "Section 8: Prejudice",
     "state": "Unknown",
