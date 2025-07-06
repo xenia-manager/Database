@@ -1,5 +1,167 @@
 [
   {
+    "id": "534507D4",
+    "title": "Chromehounds",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/693"
+  },
+  {
+    "id": "584109DD",
+    "title": "Final Fight: Double Impact",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/692"
+  },
+  {
+    "id": "584108A4",
+    "title": "Super Street Fighter 2 THD",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/691"
+  },
+  {
+    "id": "58410939",
+    "title": "FLOCK!",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/690"
+  },
+  {
+    "id": "5841086F",
+    "title": "Rocketmen: Axis of Evil",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/689"
+  },
+  {
+    "id": "5841086E",
+    "title": "Puzzle Fighter HD",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/688"
+  },
+  {
+    "id": "584109DE",
+    "title": "Bionic Commando: Rearmed 2",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/687"
+  },
+  {
+    "id": "584108AB",
+    "title": "WOTB: Commando 3",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/686"
+  },
+  {
+    "id": "58410A19",
+    "title": "Might & Magic Clash of Heroes",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/685"
+  },
+  {
+    "id": "424107DD",
+    "title": "Culdcept SAGA",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/684"
+  },
+  {
+    "id": "584108AA",
+    "title": "1942: Joint Strike",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/683"
+  },
+  {
+    "id": "464F07F2",
+    "title": "Blackwater",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/682"
+  },
+  {
+    "id": "5841089B",
+    "title": "Crazy Mouse",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/681"
+  },
+  {
+    "id": "5841087D",
+    "title": "Coffeetime Crosswords",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/680"
+  },
+  {
+    "id": "58410866",
+    "title": "Chessmaster Live",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/679"
+  },
+  {
+    "id": "5841083E",
+    "title": "Catan",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/678"
+  },
+  {
+    "id": "58410840",
+    "title": "Carcassonne",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/677"
+  },
+  {
+    "id": "584109B2",
+    "title": "Bomberman Battlefest",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/676"
+  },
+  {
+    "id": "5841087E",
+    "title": "Beat'n Groovy",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/675"
+  },
+  {
+    "id": "58410850",
+    "title": "Battlezone",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/674"
+  },
+  {
+    "id": "55530808",
+    "title": "America's Army: True Soldiers",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/673"
+  },
+  {
+    "id": "545107D2",
+    "title": "The Outfit",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/672"
+  },
+  {
+    "id": "584109B7",
+    "title": "0 Day Attack on Earth",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/671"
+  },
+  {
+    "id": "584108C3",
+    "title": "Assault Heroes 2",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/670"
+  },
+  {
+    "id": "584107FE",
+    "title": "Assault Heroes",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/669"
+  },
+  {
+    "id": "584107EC",
+    "title": "Bankshot Billiards 2",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/668"
+  },
+  {
+    "id": "58410AF2",
+    "title": "Bangai-O HD",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/667"
+  },
+  {
     "id": "41560881",
     "title": "Spider-Man: Shattered Dimensions",
     "state": "Unknown",
