@@ -1,5 +1,143 @@
 [
   {
+    "id": "544907D1",
+    "title": "Over G Fighters",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/716"
+  },
+  {
+    "id": "5841091C",
+    "title": "Meteos Wars",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/715"
+  },
+  {
+    "id": "5841081E",
+    "title": "Mutant Storm Empire",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/714"
+  },
+  {
+    "id": "584109AA",
+    "title": "Islands of WAKFU",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/713"
+  },
+  {
+    "id": "584108FB",
+    "title": "Lost Cities",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/712"
+  },
+  {
+    "id": "584108DC",
+    "title": "Minesweeper Flags",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/711"
+  },
+  {
+    "id": "584107E9",
+    "title": "Novadrome",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/710"
+  },
+  {
+    "id": "58410826",
+    "title": "Hexic 2",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/709"
+  },
+  {
+    "id": "58410A70",
+    "title": "Harm's Way",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/708"
+  },
+  {
+    "id": "584108A1",
+    "title": "Golf Tee It Up!",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/707"
+  },
+  {
+    "id": "584108B8",
+    "title": "Go! Go! Break Steady",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/706"
+  },
+  {
+    "id": "5841090F",
+    "title": "Gin Rummy",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/705"
+  },
+  {
+    "id": "58410844",
+    "title": "Geon",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/704"
+  },
+  {
+    "id": "58410908",
+    "title": "Gel",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/703"
+  },
+  {
+    "id": "58410932",
+    "title": "FunTown Mahjong",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/702"
+  },
+  {
+    "id": "5841087C",
+    "title": "Frogger 2",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/701"
+  },
+  {
+    "id": "58410813",
+    "title": "Frogger",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/700"
+  },
+  {
+    "id": "584109B1",
+    "title": "Football Genius",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/699"
+  },
+  {
+    "id": "5841091D",
+    "title": "Fable 2 Pub Games",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/698"
+  },
+  {
+    "id": "58410B86",
+    "title": "Fable Heroes",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/697"
+  },
+  {
+    "id": "584108EF",
+    "title": "Double D Dodgeball",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/696"
+  },
+  {
+    "id": "5841090B",
+    "title": "Doritos Dash Of Destruction",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/695"
+  },
+  {
+    "id": "58410872",
+    "title": "E4 (Every Extend Extra Extreme)",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/694"
+  },
+  {
     "id": "534507D4",
     "title": "Chromehounds",
     "state": "Unknown",
