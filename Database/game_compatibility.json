@@ -1,5 +1,17 @@
 [
   {
+    "id": "435907D4",
+    "title": "Sniper Ghost Warrior 2",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/718"
+  },
+  {
+    "id": "584113CF",
+    "title": "God Mode",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/717"
+  },
+  {
     "id": "544907D1",
     "title": "Over G Fighters",
     "state": "Unknown",
