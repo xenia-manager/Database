@@ -1,5 +1,47 @@
 [
   {
+    "id": "5345081A",
+    "title": "Vancouver 2010",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/745"
+  },
+  {
+    "id": "584109CB",
+    "title": "Wolfenstein 3D",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/744"
+  },
+  {
+    "id": "54510851",
+    "title": "UFC Undisputed 2010",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/743"
+  },
+  {
+    "id": "5451082A",
+    "title": "UFC Undisputed 2009",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/742"
+  },
+  {
+    "id": "5841124A",
+    "title": "Tony Hawk's PS HD",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/741"
+  },
+  {
+    "id": "4156091B",
+    "title": "Tony Hawk's Pro Skater 5",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/740"
+  },
+  {
+    "id": "415607D4",
+    "title": "Tony Hawk's American Wasteland",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/739"
+  },
+  {
     "id": "5841096A",
     "title": "Hydro Thunder Hurricane",
     "state": "Gameplay",
