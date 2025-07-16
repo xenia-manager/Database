@@ -1,5 +1,41 @@
 [
   {
+    "id": "4D5707D6",
+    "title": "Wheelman",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/751"
+  },
+  {
+    "id": "4B4D07F2",
+    "title": "Dead Island: Riptide",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/750"
+  },
+  {
+    "id": "4E4D0859",
+    "title": "Tekken Tag Tournament 2)",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/749"
+  },
+  {
+    "id": "4541098E",
+    "title": "Crysis 3",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/748"
+  },
+  {
+    "id": "4E4D07FC",
+    "title": "Tekken 6",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/747"
+  },
+  {
+    "id": "4343080F",
+    "title": "Street Fighter X Tekken",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/746"
+  },
+  {
     "id": "5345081A",
     "title": "Vancouver 2010",
     "state": "Unknown",
