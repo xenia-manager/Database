@@ -1,5 +1,17 @@
 [
   {
+    "id": "534A07D1",
+    "title": "Williams Pinball Classics",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/753"
+  },
+  {
+    "id": "454109D0",
+    "title": "Titanfall",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/752"
+  },
+  {
     "id": "4D5707D6",
     "title": "Wheelman",
     "state": "Unknown",
