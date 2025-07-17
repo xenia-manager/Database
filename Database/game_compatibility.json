@@ -1,5 +1,65 @@
 [
   {
+    "id": "4E4D07F1",
+    "title": "Enslaved: Odyssey to the West",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/763"
+  },
+  {
+    "id": "57520828",
+    "title": "Batman: Arkham Origins",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/762"
+  },
+  {
+    "id": "57520802",
+    "title": "Batman: Arkham City",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/761"
+  },
+  {
+    "id": "4541099D",
+    "title": "Dead Space 3",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/760"
+  },
+  {
+    "id": "45410857",
+    "title": "Dead Space",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/759"
+  },
+  {
+    "id": "53510811",
+    "title": "Sleeping Dogs",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/758"
+  },
+  {
+    "id": "4B4D07F6",
+    "title": "Saints Row IV",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/757"
+  },
+  {
+    "id": "434307EC",
+    "title": "Dead Rising 2",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/756"
+  },
+  {
+    "id": "434307D2",
+    "title": "Dead Rising",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/755"
+  },
+  {
+    "id": "4343081F",
+    "title": "Dead Rising 2: Off the Record",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/754"
+  },
+  {
     "id": "534A07D1",
     "title": "Williams Pinball Classics",
     "state": "Unknown",
