@@ -1,5 +1,17 @@
 [
   {
+    "id": "534507F2",
+    "title": "Iron Man",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/766"
+  },
+  {
+    "id": "434D0839",
+    "title": "Bodycount",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/765"
+  },
+  {
     "id": "415607E0",
     "title": "Pimp My Ride",
     "state": "Unknown",
