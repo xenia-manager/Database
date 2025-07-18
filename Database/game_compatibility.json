@@ -1,5 +1,11 @@
 [
   {
+    "id": "415607E0",
+    "title": "Pimp My Ride",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/764"
+  },
+  {
     "id": "4E4D07F1",
     "title": "Enslaved: Odyssey to the West",
     "state": "Unknown",
@@ -3900,12 +3906,6 @@
     "url": "https://github.com/xenia-canary/game-compatibility/issues/58"
   },
   {
-    "id": "454189B0",
-    "title": "Army Of Two The Devils Cartel Demo",
-    "state": "Loads",
-    "url": "https://github.com/xenia-canary/game-compatibility/issues/57"
-  },
-  {
     "id": "4B4E0806",
     "title": "Tornado Outbreak",
     "state": "Gameplay",
@@ -4080,24 +4080,6 @@
     "url": "https://github.com/xenia-canary/game-compatibility/issues/25"
   },
   {
-    "id": "4B4D07DF",
-    "title": "Dead Island",
-    "state": "Gameplay",
-    "url": "https://github.com/xenia-canary/game-compatibility/issues/24"
-  },
-  {
-    "id": "5553088C",
-    "title": "Far Cry 3",
-    "state": "Gameplay",
-    "url": "https://github.com/xenia-canary/game-compatibility/issues/23"
-  },
-  {
-    "id": "584112B0",
-    "title": "Call of Juarez: Gunslinger",
-    "state": "Gameplay",
-    "url": "https://github.com/xenia-canary/game-compatibility/issues/22"
-  },
-  {
     "id": "545107D1",
     "title": "Saints Row",
     "state": "Playable",
@@ -4108,12 +4090,6 @@
     "title": "Bully Scholarship Edition",
     "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/19"
-  },
-  {
-    "id": "53450841",
-    "title": "VANQUISH",
-    "state": "Gameplay",
-    "url": "https://github.com/xenia-canary/game-compatibility/issues/18"
   },
   {
     "id": "584109C2",
@@ -4138,24 +4114,6 @@
     "title": "Grand Theft Auto IV",
     "state": "Playable",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/14"
-  },
-  {
-    "id": "5841147C",
-    "title": "Life is Strange",
-    "state": "Gameplay",
-    "url": "https://github.com/xenia-canary/game-compatibility/issues/13"
-  },
-  {
-    "id": "4B4F07D7",
-    "title": "Fatal Inertia",
-    "state": "Playable",
-    "url": "https://github.com/xenia-canary/game-compatibility/issues/12"
-  },
-  {
-    "id": "45418851",
-    "title": "Mirror's Edge Demo",
-    "state": "Playable",
-    "url": "https://github.com/xenia-canary/game-compatibility/issues/11"
   },
   {
     "id": "485507D4",
