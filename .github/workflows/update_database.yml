@@ -66,10 +66,10 @@ jobs:
           
           python fetch_versions.py
 
-      - name: Update game compatibility database
-        run: python Scripts/game_compatibility.py --debug
+      - name: Update game compatibility database (Canary)
+        run: python Scripts/game_compatibility.py --complete --debug
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TOKEN: ${{ secrets.COMPATIBILITY_TOKEN }}
 
       - name: Ensure patch directory
         run: mkdir -p Database/Patches
