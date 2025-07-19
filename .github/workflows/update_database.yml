@@ -26,6 +26,7 @@ jobs:
             Database/Game Compatibility/stable.json
             Database/Game Compatibility/canary.json
             Database/version.json
+            Scripts/game_compatibility.py
           sparse-checkout-cone-mode: false
 
 
