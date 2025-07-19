@@ -20,6 +20,14 @@ jobs:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          sparse-checkout: |
+            Database/Patches/canary_patches.json
+            Database/Patches/netplay_patches.json
+            Database/Game Compatibility/stable.json
+            Database/Game Compatibility/canary.json
+            Database/version.json
+          sparse-checkout-cone-mode: false
+
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -90,6 +98,7 @@ jobs:
             local name=$3
             local max_attempts=3
             local attempt=1
+            local temp_file="${output}.tmp"
             
             while [ $attempt -le $max_attempts ]; do
               echo "Fetching $name (attempt $attempt/$max_attempts)..."
@@ -106,7 +115,9 @@ jobs:
                 "$url")
               
               if [ "$status" -eq 200 ]; then
-                if jq empty "$output" 2>/dev/null; then
+                if jq empty "$temp_file" 2>/dev/null; then
+                  jq '.' "$temp_file" > "$output"
+                  rm "$temp_file"
                   echo "$name fetched successfully"
                   echo "${name}_success=true" >> $GITHUB_OUTPUT
                   return 0
@@ -124,6 +135,8 @@ jobs:
             echo "${name}_success=false" >> $GITHUB_OUTPUT
             return 1
           }
+
+          mkdir -p Database/Patches
           
           # Fetch both patch sources
           fetch_with_retry \
