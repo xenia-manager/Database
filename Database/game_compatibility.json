@@ -1,410 +1,728 @@
 [
   {
+    "id": "4B4E0839",
+    "title": "Birds of Steel",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/771"
+  },
+  {
+    "id": "4D4A07D5",
+    "title": "Night at the Museum 2",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/770"
+  },
+  {
+    "id": "584111E0",
+    "title": "Real Steel",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/769"
+  },
+  {
+    "id": "58410AF7",
+    "title": "Crazy Machines Elements",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/768"
+  },
+  {
+    "id": null,
+    "title": "Call of Duty: Black Ops II erro crash",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/767"
+  },
+  {
+    "id": "534507F2",
+    "title": "Iron Man",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/766"
+  },
+  {
+    "id": "434D0839",
+    "title": "Bodycount",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/765"
+  },
+  {
+    "id": "415607E0",
+    "title": "Pimp My Ride",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/764"
+  },
+  {
+    "id": "4E4D07F1",
+    "title": "Enslaved: Odyssey to the West",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/763"
+  },
+  {
+    "id": "57520828",
+    "title": "Batman: Arkham Origins",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/762"
+  },
+  {
+    "id": "57520802",
+    "title": "Batman: Arkham City",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/761"
+  },
+  {
+    "id": "4541099D",
+    "title": "Dead Space 3",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/760"
+  },
+  {
+    "id": "45410857",
+    "title": "Dead Space",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/759"
+  },
+  {
+    "id": "53510811",
+    "title": "Sleeping Dogs",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/758"
+  },
+  {
+    "id": "4B4D07F6",
+    "title": "Saints Row IV",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/757"
+  },
+  {
+    "id": "434307EC",
+    "title": "Dead Rising 2",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/756"
+  },
+  {
+    "id": "434307D2",
+    "title": "Dead Rising",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/755"
+  },
+  {
+    "id": "4343081F",
+    "title": "Dead Rising 2: Off the Record",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/754"
+  },
+  {
+    "id": "534A07D1",
+    "title": "Williams Pinball Classics",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/753"
+  },
+  {
+    "id": "454109D0",
+    "title": "Titanfall",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/752"
+  },
+  {
+    "id": "4D5707D6",
+    "title": "Wheelman",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/751"
+  },
+  {
+    "id": "4B4D07F2",
+    "title": "Dead Island: Riptide",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/750"
+  },
+  {
+    "id": "4E4D0859",
+    "title": "Tekken Tag Tournament 2)",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/749"
+  },
+  {
+    "id": "4541098E",
+    "title": "Crysis 3",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/748"
+  },
+  {
+    "id": "4E4D07FC",
+    "title": "Tekken 6",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/747"
+  },
+  {
+    "id": "4343080F",
+    "title": "Street Fighter X Tekken",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/746"
+  },
+  {
+    "id": "5345081A",
+    "title": "Vancouver 2010",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/745"
+  },
+  {
+    "id": "584109CB",
+    "title": "Wolfenstein 3D",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/744"
+  },
+  {
+    "id": "54510851",
+    "title": "UFC Undisputed 2010",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/743"
+  },
+  {
+    "id": "5451082A",
+    "title": "UFC Undisputed 2009",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/742"
+  },
+  {
+    "id": "5841124A",
+    "title": "Tony Hawk's PS HD",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/741"
+  },
+  {
+    "id": "4156091B",
+    "title": "Tony Hawk's Pro Skater 5",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/740"
+  },
+  {
+    "id": "415607D4",
+    "title": "Tony Hawk's American Wasteland",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/739"
+  },
+  {
+    "id": "5841096A",
+    "title": "Hydro Thunder Hurricane",
+    "state": "Gameplay",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/738"
+  },
+  {
+    "id": "4D4A07D8",
+    "title": "GHP2",
+    "state": "Gameplay",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/737"
+  },
+  {
+    "id": "4D5307DE",
+    "title": "Too Human",
+    "state": "Gameplay",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/736"
+  },
+  {
+    "id": "58410895",
+    "title": "Screwjumper!",
+    "state": "Gameplay",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/735"
+  },
+  {
+    "id": "535107D4",
+    "title": "PROJECT SYLPHEED",
+    "state": "Gameplay",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/734"
+  },
+  {
+    "id": "58410879",
+    "title": "Shred Nebula",
+    "state": "Gameplay",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/733"
+  },
+  {
+    "id": "58410874",
+    "title": "Word Puzzle",
+    "state": "Gameplay",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/732"
+  },
+  {
+    "id": "58410868",
+    "title": "Wing Commander Arena",
+    "state": "Gameplay",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/731"
+  },
+  {
+    "id": "58410834",
+    "title": "Pinball FX",
+    "state": "Playable",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/730"
+  },
+  {
+    "id": "5841098F",
+    "title": "Splosion Man",
+    "state": "Gameplay",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/729"
+  },
+  {
+    "id": "5841088D",
+    "title": "Speedball 2",
+    "state": "Gameplay",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/728"
+  },
+  {
+    "id": "5841087F",
+    "title": "Yaris",
+    "state": "Gameplay",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/727"
+  },
+  {
+    "id": "5841083D",
+    "title": "Soltrio Solitaire",
+    "state": "Gameplay",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/726"
+  },
+  {
+    "id": "584109B4",
+    "title": "Panzer General: Allied Assault",
+    "state": "Gameplay",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/725"
+  },
+  {
+    "id": "584108D8",
+    "title": "Zombie Wranglers",
+    "state": "Gameplay",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/724"
+  },
+  {
+    "id": "584107F5",
+    "title": "Spyglass Board Games",
+    "state": "Gameplay",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/723"
+  },
+  {
+    "id": "415407D3",
+    "title": "Spectral Force 3",
+    "state": "Gameplay",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/722"
+  },
+  {
+    "id": "584107F0",
+    "title": "Street Trace:NYC",
+    "state": "Gameplay",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/721"
+  },
+  {
+    "id": "584107D5",
+    "title": "Small Arms",
+    "state": "Gameplay",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/720"
+  },
+  {
+    "id": "58410A23",
+    "title": "Pinball FX2",
+    "state": "Gameplay",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/719"
+  },
+  {
     "id": "435907D4",
     "title": "Sniper Ghost Warrior 2",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/718"
   },
   {
     "id": "584113CF",
     "title": "God Mode",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/717"
   },
   {
     "id": "544907D1",
     "title": "Over G Fighters",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/716"
   },
   {
     "id": "5841091C",
     "title": "Meteos Wars",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/715"
   },
   {
     "id": "5841081E",
     "title": "Mutant Storm Empire",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/714"
   },
   {
     "id": "584109AA",
     "title": "Islands of WAKFU",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/713"
   },
   {
     "id": "584108FB",
     "title": "Lost Cities",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/712"
   },
   {
     "id": "584108DC",
     "title": "Minesweeper Flags",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/711"
   },
   {
     "id": "584107E9",
     "title": "Novadrome",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/710"
   },
   {
     "id": "58410826",
     "title": "Hexic 2",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/709"
   },
   {
     "id": "58410A70",
     "title": "Harm's Way",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/708"
   },
   {
     "id": "584108A1",
     "title": "Golf Tee It Up!",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/707"
   },
   {
     "id": "584108B8",
     "title": "Go! Go! Break Steady",
-    "state": "Unknown",
+    "state": "Playable",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/706"
   },
   {
     "id": "5841090F",
     "title": "Gin Rummy",
-    "state": "Unknown",
+    "state": "Playable",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/705"
   },
   {
     "id": "58410844",
     "title": "Geon",
-    "state": "Unknown",
+    "state": "Playable",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/704"
   },
   {
     "id": "58410908",
     "title": "Gel",
-    "state": "Unknown",
+    "state": "Playable",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/703"
   },
   {
     "id": "58410932",
     "title": "FunTown Mahjong",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/702"
   },
   {
     "id": "5841087C",
     "title": "Frogger 2",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/701"
   },
   {
     "id": "58410813",
     "title": "Frogger",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/700"
   },
   {
     "id": "584109B1",
     "title": "Football Genius",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/699"
   },
   {
     "id": "5841091D",
     "title": "Fable 2 Pub Games",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/698"
   },
   {
     "id": "58410B86",
     "title": "Fable Heroes",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/697"
   },
   {
     "id": "584108EF",
     "title": "Double D Dodgeball",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/696"
   },
   {
     "id": "5841090B",
     "title": "Doritos Dash Of Destruction",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/695"
   },
   {
     "id": "58410872",
     "title": "E4 (Every Extend Extra Extreme)",
-    "state": "Unknown",
+    "state": "Playable",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/694"
   },
   {
     "id": "534507D4",
     "title": "Chromehounds",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/693"
   },
   {
     "id": "584109DD",
     "title": "Final Fight: Double Impact",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/692"
   },
   {
     "id": "584108A4",
     "title": "Super Street Fighter 2 THD",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/691"
   },
   {
     "id": "58410939",
     "title": "FLOCK!",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/690"
   },
   {
     "id": "5841086F",
     "title": "Rocketmen: Axis of Evil",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/689"
   },
   {
     "id": "5841086E",
     "title": "Puzzle Fighter HD",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/688"
   },
   {
     "id": "584109DE",
     "title": "Bionic Commando: Rearmed 2",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/687"
   },
   {
     "id": "584108AB",
     "title": "WOTB: Commando 3",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/686"
   },
   {
     "id": "58410A19",
     "title": "Might & Magic Clash of Heroes",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/685"
   },
   {
     "id": "424107DD",
     "title": "Culdcept SAGA",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/684"
   },
   {
     "id": "584108AA",
     "title": "1942: Joint Strike",
-    "state": "Unknown",
+    "state": "Playable",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/683"
   },
   {
     "id": "464F07F2",
     "title": "Blackwater",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/682"
   },
   {
     "id": "5841089B",
     "title": "Crazy Mouse",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/681"
   },
   {
     "id": "5841087D",
     "title": "Coffeetime Crosswords",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/680"
   },
   {
     "id": "58410866",
     "title": "Chessmaster Live",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/679"
   },
   {
     "id": "5841083E",
     "title": "Catan",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/678"
   },
   {
     "id": "58410840",
     "title": "Carcassonne",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/677"
   },
   {
     "id": "584109B2",
     "title": "Bomberman Battlefest",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/676"
   },
   {
     "id": "5841087E",
     "title": "Beat'n Groovy",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/675"
   },
   {
     "id": "58410850",
     "title": "Battlezone",
-    "state": "Unknown",
+    "state": "Playable",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/674"
   },
   {
     "id": "55530808",
     "title": "America's Army: True Soldiers",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/673"
   },
   {
     "id": "545107D2",
     "title": "The Outfit",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/672"
   },
   {
     "id": "584109B7",
     "title": "0 Day Attack on Earth",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/671"
   },
   {
     "id": "584108C3",
     "title": "Assault Heroes 2",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/670"
   },
   {
     "id": "584107FE",
     "title": "Assault Heroes",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/669"
   },
   {
     "id": "584107EC",
     "title": "Bankshot Billiards 2",
-    "state": "Unknown",
+    "state": "Playable",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/668"
   },
   {
     "id": "58410AF2",
     "title": "Bangai-O HD",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/667"
   },
   {
     "id": "41560881",
     "title": "Spider-Man: Shattered Dimensions",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/666"
   },
   {
     "id": "415607FA",
     "title": "Spider-Man: Friend or Foe",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/665"
   },
   {
     "id": "415608B2",
     "title": "Spider Man: Edge Of Time",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/664"
   },
   {
     "id": "55530848",
     "title": "Tom Clancy's H.A.W.X 2",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/663"
   },
   {
     "id": "415608B5",
     "title": "The Amazing Spider-Man",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/662"
   },
   {
     "id": "41560905",
     "title": "The Amazing Spider-Man 2",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/661"
   },
   {
     "id": "5345082A",
     "title": "Aliens vs Predator",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/660"
   },
   {
     "id": "43430830",
     "title": "Lost Planet 3",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/659"
   },
   {
     "id": "434307DE",
     "title": "Lost Planet Extreme Conditions: Colonies Edition",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/658"
   },
   {
     "id": "55530816",
     "title": "Tom Clancy's H.A.W.X",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/657"
   },
   {
     "id": "58410B45",
     "title": "Section 8: Prejudice",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/656"
   },
   {
     "id": "475007D4",
     "title": "Section 8",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/655"
   },
   {
     "id": "55530888",
     "title": "Just Dance 3",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/654"
   },
   {
     "id": "555308C3",
     "title": "Rayman Legends",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/653"
   },
   {
     "id": "5841123F",
     "title": "Rayman 3 HD",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/652"
   },
   {
     "id": "55530884",
     "title": "Rayman Origins",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/651"
   },
   {
@@ -3630,12 +3948,6 @@
     "url": "https://github.com/xenia-canary/game-compatibility/issues/58"
   },
   {
-    "id": "454189B0",
-    "title": "Army Of Two The Devils Cartel Demo",
-    "state": "Loads",
-    "url": "https://github.com/xenia-canary/game-compatibility/issues/57"
-  },
-  {
     "id": "4B4E0806",
     "title": "Tornado Outbreak",
     "state": "Gameplay",
@@ -3788,7 +4100,7 @@
   {
     "id": "454107D9",
     "title": "Need for Speed Most Wanted (2005)",
-    "state": "Playable",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/28"
   },
   {
@@ -3810,24 +4122,6 @@
     "url": "https://github.com/xenia-canary/game-compatibility/issues/25"
   },
   {
-    "id": "4B4D07DF",
-    "title": "Dead Island",
-    "state": "Gameplay",
-    "url": "https://github.com/xenia-canary/game-compatibility/issues/24"
-  },
-  {
-    "id": "5553088C",
-    "title": "Far Cry 3",
-    "state": "Gameplay",
-    "url": "https://github.com/xenia-canary/game-compatibility/issues/23"
-  },
-  {
-    "id": "584112B0",
-    "title": "Call of Juarez: Gunslinger",
-    "state": "Gameplay",
-    "url": "https://github.com/xenia-canary/game-compatibility/issues/22"
-  },
-  {
     "id": "545107D1",
     "title": "Saints Row",
     "state": "Playable",
@@ -3838,12 +4132,6 @@
     "title": "Bully Scholarship Edition",
     "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/19"
-  },
-  {
-    "id": "53450841",
-    "title": "VANQUISH",
-    "state": "Gameplay",
-    "url": "https://github.com/xenia-canary/game-compatibility/issues/18"
   },
   {
     "id": "584109C2",
@@ -3868,24 +4156,6 @@
     "title": "Grand Theft Auto IV",
     "state": "Playable",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/14"
-  },
-  {
-    "id": "5841147C",
-    "title": "Life is Strange",
-    "state": "Gameplay",
-    "url": "https://github.com/xenia-canary/game-compatibility/issues/13"
-  },
-  {
-    "id": "4B4F07D7",
-    "title": "Fatal Inertia",
-    "state": "Playable",
-    "url": "https://github.com/xenia-canary/game-compatibility/issues/12"
-  },
-  {
-    "id": "45418851",
-    "title": "Mirror's Edge Demo",
-    "state": "Playable",
-    "url": "https://github.com/xenia-canary/game-compatibility/issues/11"
   },
   {
     "id": "485507D4",
