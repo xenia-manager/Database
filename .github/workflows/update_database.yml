@@ -22,7 +22,9 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           sparse-checkout: |
             Database/Patches/canary_patches.json
+            Database/Patches/canary_patches.tmp
             Database/Patches/netplay_patches.json
+            Database/Patches/netplay_patches.tmp
             Database/Game Compatibility/stable.json
             Database/Game Compatibility/canary.json
             Database/version.json
@@ -108,7 +110,7 @@ jobs:
                 -H "X-GitHub-Api-Version: 2022-11-28" \
                 -H "User-Agent: GitHub-Actions-Bot" \
                 -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-                -o "$output" \
+                -o "$temp_file" \
                 -s -w "%{http_code}" \
                 --max-time 30 \
                 --retry 2 \
