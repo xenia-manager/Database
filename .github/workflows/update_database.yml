@@ -71,6 +71,12 @@ jobs:
         env:
           TOKEN: ${{ secrets.COMPATIBILITY_TOKEN }}
 
+      - name: Update game compatibility database (Stable)
+        if: github.event_name == 'workflow_dispatch'
+        run: python Scripts/game_compatibility.py --stable --complete --debug
+        env:
+          TOKEN: ${{ secrets.COMPATIBILITY_TOKEN }}
+
       - name: Ensure patch directory
         run: mkdir -p Database/Patches
 
