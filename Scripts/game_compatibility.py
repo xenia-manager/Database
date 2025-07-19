@@ -6,6 +6,7 @@ from typing import Dict, List, Optional
 from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
 from urllib.parse import urlencode
+from datetime import datetime, timedelta
 
 # Configuration defaults (overridden in main)
 DEFAULT_OWNER = 'xenia-canary'
@@ -16,23 +17,67 @@ STATE = 'open'
 PER_PAGE = 100
 BASE_URL = 'https://api.github.com'
 
-# Rate limiting
-RATE_LIMIT_DELAY = 0.1
-MAX_RETRIES = 3
-RETRY_DELAY = 5
-
+# Enhanced rate limiting
+RATE_LIMIT_DELAY = 1.0 
+SEARCH_API_DELAY = 2.0  # Separate delay for search API
+MAX_RETRIES = 5
+RETRY_BASE_DELAY = 10
 GITHUB_TOKEN = os.getenv('TOKEN')
+
+# Rate limiting tracking
+last_request_time = 0
+remaining_requests = 5000  # Default for authenticated users
 
 
 def get_headers() -> Dict[str, str]:
     headers = {
-        'Accept': 'application/vnd.github+json',  # Updated to newer API version
-        'X-GitHub-Api-Version': '2022-11-28',    # Specify API version
+        'Accept': 'application/vnd.github+json',
+        'X-GitHub-Api-Version': '2022-11-28',
         'User-Agent': 'xenia-data-sync/1.0'
     }
     if GITHUB_TOKEN:
-        headers['Authorization'] = f'Bearer {GITHUB_TOKEN}'  # Use Bearer instead of token
+        headers['Authorization'] = f'Bearer {GITHUB_TOKEN}'
     return headers
+
+
+def smart_rate_limit():
+    """Intelligent rate limiting based on remaining quota and request history"""
+    global last_request_time, remaining_requests
+    
+    current_time = time.time()
+    time_since_last = current_time - last_request_time
+    
+    # Dynamic delay based on remaining requests
+    if remaining_requests < 100:
+        delay = 5.0  # Very conservative when low
+    elif remaining_requests < 500:
+        delay = 2.0  # Conservative when medium
+    else:
+        delay = RATE_LIMIT_DELAY  # Normal rate
+    
+    # Ensure minimum time between requests
+    if time_since_last < delay:
+        sleep_time = delay - time_since_last
+        print(f"⏱️  Rate limiting: sleeping {sleep_time:.1f}s (remaining: {remaining_requests})")
+        time.sleep(sleep_time)
+    
+    last_request_time = time.time()
+
+
+def update_rate_limit_info(response_headers: Dict[str, str]):
+    """Update rate limit tracking from response headers"""
+    global remaining_requests
+    
+    if 'x-ratelimit-remaining' in response_headers:
+        remaining_requests = int(response_headers['x-ratelimit-remaining'])
+    
+    if 'x-ratelimit-reset' in response_headers:
+        reset_time = int(response_headers['x-ratelimit-reset'])
+        current_time = int(time.time())
+        if reset_time > current_time:
+            reset_in = reset_time - current_time
+            if remaining_requests < 50:
+                print(f"⚠️  Low rate limit: {remaining_requests} remaining, resets in {reset_in}s")
 
 
 def parse_title(issue_title: str, debug: bool = False) -> Dict[str, Optional[str]]:
@@ -95,8 +140,10 @@ def validate_repo_exists(owner: str, repo: str, debug: bool = False) -> bool:
         print(f"🔍 Checking if repository {owner}/{repo} exists...")
     
     try:
+        smart_rate_limit()
         request = Request(url, headers=get_headers())
         with urlopen(request, timeout=30) as response:
+            update_rate_limit_info(dict(response.headers))
             if response.status == 200:
                 if debug:
                     print(f"✅ Repository {owner}/{repo} exists and is accessible")
@@ -116,10 +163,15 @@ def validate_repo_exists(owner: str, repo: str, debug: bool = False) -> bool:
     return False
 
 
-def make_request(url: str, params: Optional[Dict] = None, debug: bool = False) -> Optional[Dict]:
+def make_request(url: str, params: Optional[Dict] = None, debug: bool = False, is_search: bool = False) -> Optional[Dict]:
+    # Apply appropriate rate limiting
+    if is_search:
+        time.sleep(SEARCH_API_DELAY)
+    else:
+        smart_rate_limit()
+    
     # Validate parameters
     if params:
-        # Ensure all values are strings or numbers
         clean_params = {}
         for k, v in params.items():
             if isinstance(v, (str, int)):
@@ -138,6 +190,8 @@ def make_request(url: str, params: Optional[Dict] = None, debug: bool = False) -
         try:
             request = Request(url, headers=get_headers())
             with urlopen(request, timeout=30) as response:
+                update_rate_limit_info(dict(response.headers))
+                
                 if response.status == 200:
                     data = json.loads(response.read().decode('utf-8'))
                     if debug:
@@ -147,26 +201,27 @@ def make_request(url: str, params: Optional[Dict] = None, debug: bool = False) -
                     print(f"❌ Unexpected status code: {response.status}", file=sys.stderr)
         except HTTPError as e:
             if e.code == 403:
-                print(f"Rate limited (403). Waiting {RETRY_DELAY * (attempt + 1)} seconds...", file=sys.stderr)
-                time.sleep(RETRY_DELAY * (attempt + 1))
+                # Exponential backoff for rate limiting
+                wait_time = RETRY_BASE_DELAY * (2 ** attempt)
+                print(f"⏱️  Rate limited (403). Waiting {wait_time} seconds... (attempt {attempt + 1}/{MAX_RETRIES})", file=sys.stderr)
+                time.sleep(wait_time)
             elif e.code == 422:
                 print(f"❌ Unprocessable Entity (422). Likely reached end of available pages.", file=sys.stderr)
                 if debug:
                     print(f"   URL: {url}", file=sys.stderr)
-                    if params:
-                        print(f"   Params: {params}", file=sys.stderr)
-                # Return empty list to indicate no more data instead of None
                 return []
             else:
-                print(f"HTTP Error {e.code}: {e.reason}", file=sys.stderr)
+                print(f"❌ HTTP Error {e.code}: {e.reason}", file=sys.stderr)
+                if attempt < MAX_RETRIES - 1:
+                    time.sleep(RETRY_BASE_DELAY * (attempt + 1))
         except URLError as e:
-            print(f"URL Error: {e.reason}", file=sys.stderr)
+            print(f"❌ URL Error: {e.reason}", file=sys.stderr)
+            if attempt < MAX_RETRIES - 1:
+                time.sleep(RETRY_BASE_DELAY * (attempt + 1))
         except Exception as e:
-            print(f"Unexpected error: {e}", file=sys.stderr)
-
-        if attempt < MAX_RETRIES - 1:
-            print(f"Retrying in {RETRY_DELAY} seconds... (attempt {attempt + 1}/{MAX_RETRIES})", file=sys.stderr)
-            time.sleep(RETRY_DELAY)
+            print(f"❌ Unexpected error: {e}", file=sys.stderr)
+            if attempt < MAX_RETRIES - 1:
+                time.sleep(RETRY_BASE_DELAY * (attempt + 1))
 
     return None
 
@@ -210,6 +265,7 @@ def process_issues(issues_data: List[Dict], debug: bool = False, owner: str = ''
             continue
     return processed
 
+
 def get_repo_stats(owner: str, repo: str, debug: bool = False) -> Dict[str, int]:
     """Get repository statistics to understand total issue counts"""
     url = f"{BASE_URL}/repos/{owner}/{repo}"
@@ -218,33 +274,64 @@ def get_repo_stats(owner: str, repo: str, debug: bool = False) -> Dict[str, int]
     if data and isinstance(data, dict):
         return {
             'open_issues': data.get('open_issues_count', 0),
-            'total_issues': data.get('open_issues_count', 0)  # This includes PRs
+            'total_issues': data.get('open_issues_count', 0)
         }
     return {'open_issues': 0, 'total_issues': 0}
 
 
-def fetch_issues_by_date_ranges(owner: str, repo: str, debug: bool = False) -> List[Dict]:
-    """Fetch all issues by breaking them into date ranges to bypass pagination limits"""
-    from datetime import datetime, timedelta
-    import calendar
+def generate_smart_date_ranges(owner: str, repo: str, debug: bool = False) -> List[tuple]:
+    """Generate optimal date ranges based on repository activity"""
+    current_date = datetime.now()
+    ranges = []
     
-    all_issues = []
+    # For older repositories, use larger chunks for older dates
+    # and smaller chunks for recent dates where activity is higher
     
-    # Start from 2013 (when Xenia project likely started) to now
-    start_year = 2013
-    current_year = datetime.now().year
-    
-    print(f"🗓️  Fetching issues by year ranges from {start_year} to {current_year}...")
-    
-    for year in range(start_year, current_year + 1):
-        # Create date range for this year
+    # 2013-2018: Yearly chunks (likely low activity)
+    for year in range(2013, 2019):
         start_date = f"{year}-01-01"
         end_date = f"{year}-12-31"
+        ranges.append((start_date, end_date, f"{year}"))
+    
+    # 2019-2021: 6-month chunks (medium activity)
+    for year in range(2019, 2022):
+        ranges.append((f"{year}-01-01", f"{year}-06-30", f"{year} H1"))
+        ranges.append((f"{year}-07-01", f"{year}-12-31", f"{year} H2"))
+    
+    # 2022-current: Quarterly chunks (high activity)
+    for year in range(2022, current_date.year + 1):
+        quarters = [
+            ("01-01", "03-31", "Q1"),
+            ("04-01", "06-30", "Q2"),
+            ("07-01", "09-30", "Q3"),
+            ("10-01", "12-31", "Q4")
+        ]
         
-        print(f"📅 Fetching issues from {year}...")
+        for start_month_day, end_month_day, quarter in quarters:
+            start_date = f"{year}-{start_month_day}"
+            end_date = f"{year}-{end_month_day}"
+            
+            # Don't process future dates
+            if datetime.strptime(start_date, "%Y-%m-%d") > current_date:
+                break
+                
+            ranges.append((start_date, end_date, f"{year} {quarter}"))
+    
+    return ranges
+
+
+def fetch_issues_optimized_chunks(owner: str, repo: str, debug: bool = False) -> List[Dict]:
+    """Optimized chunking strategy with better rate limiting"""
+    all_issues = []
+    date_ranges = generate_smart_date_ranges(owner, repo, debug)
+    
+    print(f"🗓️  Using optimized chunking: {len(date_ranges)} date ranges")
+    
+    for i, (start_date, end_date, label) in enumerate(date_ranges):
+        print(f"📅 Fetching issues from {label} ({i+1}/{len(date_ranges)})...")
         
         page = 1
-        year_issues = []
+        range_issues = []
         
         while True:
             params = {
@@ -256,34 +343,41 @@ def fetch_issues_by_date_ranges(owner: str, repo: str, debug: bool = False) -> L
             }
             
             url = f"{BASE_URL}/search/issues"
-            data = make_request(url, params, debug)
+            data = make_request(url, params, debug, is_search=True)
             
             if not data or not isinstance(data, dict):
                 break
                 
             items = data.get('items', [])
+            total_count = data.get('total_count', 0)
+            
             if not items:
                 break
             
             if debug:
-                print(f"  📄 {year} Page {page}: {len(items)} issues")
+                print(f"  📄 {label} Page {page}: {len(items)} issues (total in range: {total_count})")
             
             processed_issues = process_issues(items, debug, owner, repo)
-            year_issues.extend(processed_issues)
+            range_issues.extend(processed_issues)
             
             if len(items) < PER_PAGE:
                 break
                 
             page += 1
-            time.sleep(RATE_LIMIT_DELAY * 2)  # Be more conservative with search API
             
-            if page > 10:  # Safety valve
+            # Safety valve - search API has a 1000 result limit anyway
+            if page > 10:
+                print(f"  ⚠️  Reached pagination limit for {label}")
                 break
         
-        print(f"✅ {year}: Found {len(year_issues)} issues")
-        all_issues.extend(year_issues)
+        print(f"✅ {label}: Found {len(range_issues)} issues")
+        all_issues.extend(range_issues)
+        
+        # Extra pause between date ranges to be respectful
+        if i < len(date_ranges) - 1:  # Don't sleep after the last range
+            time.sleep(1)
     
-    # Remove duplicates (just in case)
+    # Remove duplicates
     seen_urls = set()
     unique_issues = []
     for issue in all_issues:
@@ -297,64 +391,18 @@ def fetch_issues_by_date_ranges(owner: str, repo: str, debug: bool = False) -> L
     return unique_issues
 
 
-def fetch_issues_via_search(owner: str, repo: str, debug: bool = False) -> List[Dict]:
-    """Alternative method using GitHub Search API with single query"""
-    all_issues = []
-    page = 1
-    
-    while True:
-        # Search API allows different queries and may have higher limits
-        params = {
-            'q': f'repo:{owner}/{repo} is:issue is:open',
-            'sort': 'created',
-            'order': 'desc',
-            'per_page': PER_PAGE,
-            'page': page
-        }
-        
-        url = f"{BASE_URL}/search/issues"
-        data = make_request(url, params, debug)
-        
-        if not data or not isinstance(data, dict):
-            break
-            
-        items = data.get('items', [])
-        if not items:
-            break
-            
-        if debug:
-            print(f"🔍 Search API - Page {page}: {len(items)} issues (total: {data.get('total_count', 'unknown')})")
-        
-        processed_issues = process_issues(items, debug, owner, repo)
-        all_issues.extend(processed_issues)
-        
-        if len(items) < PER_PAGE:
-            break
-            
-        page += 1
-        time.sleep(RATE_LIMIT_DELAY * 2)  # Search API needs more conservative rate limiting
-        
-        # Search API has stricter rate limits, so be more conservative
-        if page > 10:  # 1000 results max for search API too
-            print("⚠️  Reached Search API pagination limit")
-            break
-    
-    return all_issues
-
-
 def fetch_all_issues(owner: str, repo: str, debug: bool = False) -> List[Dict]:
-    # First, validate that the repository exists
+    """Standard API fetch with improved rate limiting"""
     if not validate_repo_exists(owner, repo, debug):
         return []
     
-    # Get repository stats for comparison
     repo_stats = get_repo_stats(owner, repo, debug)
     if debug:
         print(f"📊 Repository stats: {repo_stats['open_issues']} open issues (includes PRs)")
     
     all_issues = []
     page = 1
-    max_pages = 100  # Safety limit to prevent infinite loops
+    max_pages = 100
 
     while page <= max_pages:
         params = {
@@ -368,7 +416,6 @@ def fetch_all_issues(owner: str, repo: str, debug: bool = False) -> List[Dict]:
         url = f"{BASE_URL}/repos/{owner}/{repo}/issues"
         data = make_request(url, params, debug)
 
-        # Handle different return cases
         if data is None:
             print("❌ Failed to fetch data (connection error)")
             break
@@ -377,7 +424,7 @@ def fetch_all_issues(owner: str, repo: str, debug: bool = False) -> List[Dict]:
                 print("✅ No issues found in repository")
             else:
                 if debug:
-                    print(f"✅ No more issues (reached end of available data at page {page})")
+                    print(f"✅ No more issues (reached end at page {page})")
                 else:
                     print("✅ Reached end of available data")
             break
@@ -389,24 +436,21 @@ def fetch_all_issues(owner: str, repo: str, debug: bool = False) -> List[Dict]:
             break
 
         if debug:
-            print(f"📄 Processing page {page} with {len(data)} issues (total so far: {len(all_issues)})")
+            print(f"📄 Processing page {page} with {len(data)} issues (total: {len(all_issues)})")
 
         processed_issues = process_issues(data, debug, owner, repo)
         all_issues.extend(processed_issues)
 
-        # Check if we've reached the last page
         if len(data) < PER_PAGE:
             if debug:
                 print(f"📄 Last page reached (got {len(data)} < {PER_PAGE})")
             break
 
         page += 1
-        time.sleep(RATE_LIMIT_DELAY)
 
-    # Warn if we hit the GitHub API pagination limit
     if len(all_issues) >= 999 and page > 10:
-        print("⚠️  Note: You may have hit GitHub's ~1000 result pagination limit.", file=sys.stderr)
-        print("   This is a known limitation of the GitHub API.", file=sys.stderr)
+        print("⚠️  Note: Hit GitHub's pagination limit (~1000 results).", file=sys.stderr)
+        print("   Use --complete flag to fetch all issues via search API.", file=sys.stderr)
 
     return all_issues
 
@@ -433,9 +477,39 @@ def save_compatibility_data(issues: List[Dict], output_file: str) -> bool:
         return False
 
 
+def check_rate_limit_status():
+    """Check current rate limit status"""
+    url = f"{BASE_URL}/rate_limit"
+    try:
+        request = Request(url, headers=get_headers())
+        with urlopen(request, timeout=10) as response:
+            if response.status == 200:
+                data = json.loads(response.read().decode('utf-8'))
+                core_limit = data['resources']['core']
+                search_limit = data['resources']['search']
+                
+                print(f"📊 Rate Limit Status:")
+                print(f"   Core API: {core_limit['remaining']}/{core_limit['limit']} remaining")
+                print(f"   Search API: {search_limit['remaining']}/{search_limit['limit']} remaining")
+                
+                if core_limit['remaining'] < 100:
+                    reset_time = datetime.fromtimestamp(core_limit['reset'])
+                    print(f"   ⚠️  Core API resets at: {reset_time}")
+                
+                return core_limit['remaining'], search_limit['remaining']
+    except Exception as e:
+        print(f"⚠️  Could not check rate limit: {e}")
+        return None, None
+
+
 def main():
     debug_mode = '--debug' in sys.argv or '-d' in sys.argv
     complete_fetch = '--complete' in sys.argv or '-c' in sys.argv
+    check_limits = '--check-limits' in sys.argv
+
+    if check_limits:
+        check_rate_limit_status()
+        return
 
     if '--stable' in sys.argv:
         owner = 'xenia-project'
@@ -450,23 +524,29 @@ def main():
         print("🐛 Debug mode enabled")
         
     if complete_fetch:
-        print("🔄 Complete fetch mode enabled - will attempt to get all issues")
+        print("🔄 Complete fetch mode enabled - using optimized chunking")
 
     if not GITHUB_TOKEN:
-        print("⚠️  Warning: GITHUB_TOKEN not set. API requests may be rate-limited.", file=sys.stderr)
+        print("⚠️  Warning: GITHUB_TOKEN not set. API requests will be severely rate-limited.", file=sys.stderr)
+        print("   Please set the TOKEN environment variable with your GitHub token.", file=sys.stderr)
+
+    # Check initial rate limit status
+    core_remaining, search_remaining = check_rate_limit_status()
+    
+    if core_remaining is not None and core_remaining < 100:
+        print("⚠️  Warning: Low API quota remaining. Consider waiting or using a token.", file=sys.stderr)
 
     print(f"Fetching compatibility data from {owner}/{repo}")
 
-    # Choose strategy based on flags
     if complete_fetch:
-        print("🗓️  Using date-based chunking for complete fetch...")
-        issues = fetch_issues_by_date_ranges(owner, repo, debug_mode)
+        print("🔍 Using optimized search API with smart chunking...")
+        issues = fetch_issues_optimized_chunks(owner, repo, debug_mode)
     else:
-        print("📡 Using standard API fetch (limited to ~1000 results)...")
+        print("📡 Using standard issues API (limited to ~1000 results)...")
         issues = fetch_all_issues(owner, repo, debug_mode)
         
         if len(issues) >= 999:
-            print("⚠️  Hit API pagination limit. Use --complete flag to fetch all issues.")
+            print("💡 Tip: Use --complete flag to fetch all issues via search API.")
 
     if not issues:
         print("❌ No issues fetched or error occurred", file=sys.stderr)
@@ -475,6 +555,7 @@ def main():
     if not save_compatibility_data(issues, output_file):
         sys.exit(1)
 
+    # Summary statistics
     states = {}
     for issue in issues:
         state = issue["state"]
