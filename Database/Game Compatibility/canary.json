@@ -1,5 +1,29 @@
 [
   {
+    "id": "41560858",
+    "title": "Madagascar Kartz",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/776"
+  },
+  {
+    "id": "4156081D",
+    "title": "Madagascar Escape 2 Africa",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/775"
+  },
+  {
+    "id": "44500801",
+    "title": "Madagascar 3",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/774"
+  },
+  {
+    "id": "435A07D5",
+    "title": "Deathsmiles",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/773"
+  },
+  {
     "id": "58410909",
     "title": "Blazing Birds",
     "state": "Unknown",
