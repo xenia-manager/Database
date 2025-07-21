@@ -19,16 +19,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.COMPATIBILITY_TOKEN }}
+          token: ${{ secrets.COMMIT_TOKEN }}
           sparse-checkout: |
-            Database/Patches/canary_patches.json
-            Database/Patches/canary_patches.tmp
-            Database/Patches/netplay_patches.json
-            Database/Patches/netplay_patches.tmp
-            Database/Game Compatibility/stable.json
-            Database/Game Compatibility/canary.json
-            Database/version.json
-            Scripts/game_compatibility.py
+            database/patches/canary.json
+            database/patches/canary.tmp
+            database/patches/netplay.json
+            database/patches/netplay.tmp
+            database/game-compatibility/stable.json
+            database/game-compatibility/canary.json
+            database/version.json
+            scripts/game_compatibility.py
           sparse-checkout-cone-mode: false
 
       - name: Set up Python
@@ -40,11 +40,10 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install requests
-
       - name: Fetch Xenia Manager versions
         id: fetch-versions
         env:
-          AUTH_TOKEN: ${{ secrets.COMPATIBILITY_TOKEN }}
+          AUTH_TOKEN: ${{ secrets.COMMIT_TOKEN }}
         run: |
           cat > fetch_versions.py << 'EOF'
           import json
@@ -52,7 +51,6 @@ jobs:
           import urllib.error
           import os
           import sys
-
           def fetch_version(url, name):
               try:
                   headers = {
@@ -62,7 +60,6 @@ jobs:
                   token = os.environ.get("AUTH_TOKEN")
                   if token:
                       headers['Authorization'] = f"Bearer {token}"
-
                   req = urllib.request.Request(url, headers=headers)
                   with urllib.request.urlopen(req, timeout=10) as response:
                       data = json.loads(response.read())
@@ -70,40 +67,31 @@ jobs:
               except (urllib.error.URLError, json.JSONDecodeError, KeyError) as e:
                   print(f"Error fetching {name}: {e}", file=sys.stderr)
                   return 'unknown'
-
           urls = {
               'stable': 'https://api.github.com/repos/xenia-manager/xenia-manager/releases/latest',
               'experimental': 'https://api.github.com/repos/xenia-manager/experimental-builds/releases/latest'
           }
-
           data = {key: fetch_version(url, key) for key, url in urls.items()}
-
-          with open('Database/version.json', 'w', encoding='utf-8') as f:
+          with open('database/version.json', 'w', encoding='utf-8') as f:
               json.dump(data, f, indent=2)
-
           print("Versions fetched successfully")
           EOF
-
           python fetch_versions.py
-
       - name: Update game compatibility database (Canary)
-        run: python Scripts/game_compatibility.py --complete --debug
+        run: python scripts/game_compatibility.py --complete --debug
         env:
-          TOKEN: ${{ secrets.COMPATIBILITY_TOKEN }}
+          TOKEN: ${{ secrets.COMMIT_TOKEN }}
 
       - name: Update game compatibility database (Stable)
         if: github.event_name == 'workflow_dispatch'
-        run: python Scripts/game_compatibility.py --stable --complete --debug
+        run: python scripts/game_compatibility.py --stable --complete --debug
         env:
-          TOKEN: ${{ secrets.COMPATIBILITY_TOKEN }}
-
-      - name: Ensure patch directory
-        run: mkdir -p Database/Patches
+          TOKEN: ${{ secrets.COMMIT_TOKEN }}
 
       - name: Fetch game patches
         id: fetch-patches
         env:
-          AUTH_TOKEN: ${{ secrets.COMPATIBILITY_TOKEN }}
+          AUTH_TOKEN: ${{ secrets.COMMIT_TOKEN }}
         run: |
           fetch_with_retry() {
             local url=$1
@@ -112,7 +100,6 @@ jobs:
             local max_attempts=3
             local attempt=1
             local temp_file="${output}.tmp"
-
             while [ $attempt -le $max_attempts ]; do
               echo "Fetching $name (attempt $attempt/$max_attempts)..."
               status=$(curl -L \
@@ -126,7 +113,6 @@ jobs:
                 --retry 2 \
                 --retry-delay 5 \
                 "$url")
-
               if [ "$status" -eq 200 ]; then
                 if jq empty "$temp_file" 2>/dev/null; then
                   jq '.' "$temp_file" > "$output"
@@ -140,58 +126,51 @@ jobs:
               else
                 echo "HTTP $status for $name"
               fi
-
               attempt=$((attempt + 1))
               [ $attempt -le $max_attempts ] && sleep 10
             done
-
             echo "${name}_success=false" >> $GITHUB_OUTPUT
             return 1
           }
-
-          mkdir -p Database/Patches
-
+          mkdir -p database/patches
           fetch_with_retry \
             "https://api.github.com/repos/${{ env.XENIA_CANARY_REPO }}/contents/patches" \
-            "Database/Patches/canary_patches.json" \
+            "database/patches/canary.json" \
             "canary"
-
           fetch_with_retry \
             "https://api.github.com/repos/${{ env.XENIA_NETPLAY_REPO }}/contents/patches" \
-            "Database/Patches/netplay_patches.json" \
+            "database/patches/netplay.json" \
             "netplay"
-
       - name: Check for changes and commit
         id: check-changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.COMMIT_TOKEN }}
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-
-          git add Database/
-
+          git config --global user.name 'xeniamanager-ci'
+          git config --global user.email '214508751+xeniamanager-ci@users.noreply.github.com'
+          git add database/
           if git diff --cached --quiet; then
             echo "No changes detected in any database files"
             echo "changes=false" >> $GITHUB_OUTPUT
             exit 0
           fi
-
           echo "changes=true" >> $GITHUB_OUTPUT
-
           changed_files=""
           updates=()
-
-          if git diff --cached --name-only | grep -q "Database/version.json"; then
-            changed_files="$changed_files Database/version.json"
+          if git diff --cached --name-only | grep -q "database/version.json"; then
+            changed_files="$changed_files database/version.json"
             updates+=("Xenia Manager versions")
           fi
-
-          if git diff --cached --name-only | grep -q "Database/game_compatibility.json"; then
-            changed_files="$changed_files Database/game_compatibility.json"
-            updates+=("Game compatibility database")
+          if git diff --cached --name-only | grep -q "database/game-compatibility/canary.json"; then
+            changed_files="$changed_files database/game-compatibility/canary.json"
+            updates+=("Game compatibility database (Canary)")
           fi
-
-          if git diff --cached --name-only | grep -q "Database/Patches/"; then
-            changed_files="$changed_files Database/Patches/"
+          if git diff --cached --name-only | grep -q "database/game-compatibility/stable.json"; then
+            changed_files="$changed_files database/game-compatibility/stable.json"
+            updates+=("Game compatibility database (Stable)")
+          fi
+          if git diff --cached --name-only | grep -q "database/patches/"; then
+            changed_files="$changed_files database/patches/"
             if [ "${{ steps.fetch-patches.outputs.canary_success }}" = "true" ] && [ "${{ steps.fetch-patches.outputs.netplay_success }}" = "true" ]; then
               updates+=("Xenia Canary & Netplay patches")
             elif [ "${{ steps.fetch-patches.outputs.canary_success }}" = "true" ]; then
@@ -200,7 +179,6 @@ jobs:
               updates+=("Xenia Netplay patches")
             fi
           fi
-
           timestamp=$(date -u '+%Y-%m-%d %H:%M:%S')
           if [ ${#updates[@]} -eq 1 ]; then
             commit_msg="Update ${updates[0]} - $timestamp UTC"
@@ -210,10 +188,8 @@ jobs:
               commit_msg="$commit_msg"$'\n- '"$update"
             done
           fi
-
           echo "Committing changes:"
           git diff --stat --cached
           git commit -m "$commit_msg"
           git push
-
           echo "Successfully committed and pushed changes"
