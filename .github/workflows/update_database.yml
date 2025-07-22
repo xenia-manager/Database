@@ -21,13 +21,13 @@ jobs:
         with:
           token: ${{ secrets.COMMIT_TOKEN }}
           sparse-checkout: |
-            database/patches/canary.json
-            database/patches/canary.tmp
-            database/patches/netplay.json
-            database/patches/netplay.tmp
-            database/game-compatibility/stable.json
-            database/game-compatibility/canary.json
-            database/version.json
+            data/patches/canary.json
+            data/patches/canary.tmp
+            data/patches/netplay.json
+            data/patches/netplay.tmp
+            data/game-compatibility/stable.json
+            data/game-compatibility/canary.json
+            data/version.json
             scripts/game_compatibility.py
           sparse-checkout-cone-mode: false
 
@@ -72,7 +72,7 @@ jobs:
               'experimental': 'https://api.github.com/repos/xenia-manager/experimental-builds/releases/latest'
           }
           data = {key: fetch_version(url, key) for key, url in urls.items()}
-          with open('database/version.json', 'w', encoding='utf-8') as f:
+          with open('data/version.json', 'w', encoding='utf-8') as f:
               json.dump(data, f, indent=2)
           print("Versions fetched successfully")
           EOF
@@ -132,14 +132,14 @@ jobs:
             echo "${name}_success=false" >> $GITHUB_OUTPUT
             return 1
           }
-          mkdir -p database/patches
+          mkdir -p data/patches
           fetch_with_retry \
             "https://api.github.com/repos/${{ env.XENIA_CANARY_REPO }}/contents/patches" \
-            "database/patches/canary.json" \
+            "data/patches/canary.json" \
             "canary"
           fetch_with_retry \
             "https://api.github.com/repos/${{ env.XENIA_NETPLAY_REPO }}/contents/patches" \
-            "database/patches/netplay.json" \
+            "data/patches/netplay.json" \
             "netplay"
       - name: Check for changes and commit
         id: check-changes
@@ -148,7 +148,7 @@ jobs:
         run: |
           git config --global user.name 'xeniamanager-ci'
           git config --global user.email '214508751+xeniamanager-ci@users.noreply.github.com'
-          git add database/
+          git add data/
           if git diff --cached --quiet; then
             echo "No changes detected in any database files"
             echo "changes=false" >> $GITHUB_OUTPUT
@@ -157,20 +157,20 @@ jobs:
           echo "changes=true" >> $GITHUB_OUTPUT
           changed_files=""
           updates=()
-          if git diff --cached --name-only | grep -q "database/version.json"; then
-            changed_files="$changed_files database/version.json"
+          if git diff --cached --name-only | grep -q "data/version.json"; then
+            changed_files="$changed_files data/version.json"
             updates+=("Xenia Manager versions")
           fi
-          if git diff --cached --name-only | grep -q "database/game-compatibility/canary.json"; then
-            changed_files="$changed_files database/game-compatibility/canary.json"
+          if git diff --cached --name-only | grep -q "data/game-compatibility/canary.json"; then
+            changed_files="$changed_files data/game-compatibility/canary.json"
             updates+=("Game compatibility database (Canary)")
           fi
-          if git diff --cached --name-only | grep -q "database/game-compatibility/stable.json"; then
-            changed_files="$changed_files database/game-compatibility/stable.json"
+          if git diff --cached --name-only | grep -q "data/game-compatibility/stable.json"; then
+            changed_files="$changed_files data/game-compatibility/stable.json"
             updates+=("Game compatibility database (Stable)")
           fi
-          if git diff --cached --name-only | grep -q "database/patches/"; then
-            changed_files="$changed_files database/patches/"
+          if git diff --cached --name-only | grep -q "data/patches/"; then
+            changed_files="$changed_files data/patches/"
             if [ "${{ steps.fetch-patches.outputs.canary_success }}" = "true" ] && [ "${{ steps.fetch-patches.outputs.netplay_success }}" = "true" ]; then
               updates+=("Xenia Canary & Netplay patches")
             elif [ "${{ steps.fetch-patches.outputs.canary_success }}" = "true" ]; then

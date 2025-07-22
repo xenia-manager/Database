@@ -11,7 +11,7 @@ from datetime import datetime, timedelta
 # Configuration defaults (overridden in main)
 DEFAULT_OWNER = 'xenia-canary'
 DEFAULT_REPO = 'game-compatibility'
-DEFAULT_OUTPUT_FILE = 'database/game-compatibility/canary.json'
+DEFAULT_OUTPUT_FILE = 'data/game-compatibility/canary.json'
 
 STATE = 'open'
 PER_PAGE = 100
@@ -514,7 +514,7 @@ def main():
     if '--stable' in sys.argv:
         owner = 'xenia-project'
         repo = 'game-compatibility'
-        output_file = 'database/game-compatibility/stable.json'
+        output_file = 'data/game-compatibility/stable.json'
     else:
         owner = DEFAULT_OWNER
         repo = DEFAULT_REPO
