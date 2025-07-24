@@ -179,11 +179,10 @@ jobs:
               updates+=("Xenia Netplay patches")
             fi
           fi
-          timestamp=$(date -u '+%Y-%m-%d %H:%M:%S')
           if [ ${#updates[@]} -eq 1 ]; then
-            commit_msg="Update ${updates[0]} - $timestamp UTC"
+            commit_msg="chore: Update ${updates[0]}"
           else
-            commit_msg="Update database - $timestamp UTC"
+            commit_msg="chore: Update database"
             for update in "${updates[@]}"; do
               commit_msg="$commit_msg"$'\n- '"$update"
             done
