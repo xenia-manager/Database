@@ -2,10 +2,10 @@ name: Database Updater
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # daily at 00:00 UTC
-    - cron: '0 12 * * *'  # daily at 12:00 UTC
+    - cron: "0 0 * * *" # daily at 00:00 UTC
+    - cron: "0 12 * * *" # daily at 12:00 UTC
   workflow_dispatch:
-  
+
 env:
   XENIA_CANARY_REPO: xenia-canary/game-patches
   XENIA_NETPLAY_REPO: AdrianCassar/Xenia-WebServices
@@ -34,7 +34,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Install dependencies
         run: |
@@ -192,3 +192,50 @@ jobs:
           git commit -m "$commit_msg"
           git push
           echo "Successfully committed and pushed changes"
+
+  update_launchbox_metadata:
+    name: Update Launchbox Database Metadata
+    needs: update-database
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            data/metadata/launchbox/games.json
+            data/metadata/launchbox/search.json
+            data/metadata/launchbox/titles/
+            scripts/launchbox_metadata.py
+          sparse-checkout-cone-mode: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Download Metadata
+        shell: pwsh
+        run: Invoke-WebRequest -Uri "https://gamesdb.launchbox-app.com/Metadata.zip" -OutFile "Metadata.zip"
+
+      - name: Extract Metadata
+        shell: pwsh
+        run: Expand-Archive -Path "Metadata.zip" -DestinationPath "Metadata" -Force
+
+      - name: Parse Metadata
+        run: python scripts/launchbox_metadata.py --debug
+
+      - name: Cleanup temporary files
+        shell: pwsh
+        run: |
+          Remove-Item -Path "Metadata.zip" -Force
+          Remove-Item -Path "Metadata" -Recurse -Force
+
+      - name: Commit and push changes
+        shell: pwsh
+        run: |
+          git config --global user.name "xeniamanager-ci"
+          git config --global user.email "214508751+xeniamanager-ci@users.noreply.github.com"
+          git add data/metadata/launchbox/
+          git diff --cached --quiet || git commit -m "chore: Update Launchbox Metadata"
+          git push
