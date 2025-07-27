@@ -1,0 +1,34 @@
+{
+  "Name": "Ge-Sen Love: Plus Pengo!",
+  "DatabaseID": "458992",
+  "ReleaseDate": "2014-04-24T00:00:00-07:00",
+  "Overview": "Ge-Sen Love: Plus Pengo! (ゲーセンラブ ～プラス ペンゴ!～) is a Sega RingEdge 2 arcade and Japanese Xbox 360 compilation. It contains four games; Actions skills test, Shooting skills test, CombatZeal and Pengo!. It is a sequel to Shooting Love. 2007.\n\nA Nintendo Switch version was announced and released in 2019.",
+  "VideoURL": "https://www.youtube.com/watch?v=ZyEWoT4Eyig",
+  "WikipediaURL": "https://segaretro.org/Ge-Sen_Love:_Plus_Pengo!",
+  "ESRB": "T - Teen",
+  "Genres": " Compilation",
+  "Developer": "Triangle Service",
+  "Publisher": "Triangle Service",
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "d77b577a-97cc-4776-9754-3339b4ce59c4.jpg",
+          "Type": "Box - Back",
+          "Region": "Japan",
+          "CRC32": "2720250242",
+          "URL": "http://images.launchbox-app.com/d77b577a-97cc-4776-9754-3339b4ce59c4.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "0abbc7c5-19d4-4e48-94f6-fe3034f40107.jpg",
+          "Type": "Box - Front",
+          "Region": "Japan",
+          "CRC32": "3386520741",
+          "URL": "http://images.launchbox-app.com/0abbc7c5-19d4-4e48-94f6-fe3034f40107.jpg"
+        }
+      ]
+    }
+  }
+}

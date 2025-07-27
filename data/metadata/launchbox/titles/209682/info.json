@@ -1,0 +1,24 @@
+{
+  "Name": "Meteos Wars",
+  "DatabaseID": "209682",
+  "ReleaseDate": "2010-01-04T00:00:00-08:00",
+  "Overview": "Take a ride through this intergalactic journey where you slide, stack and ignite your blocks to blast away the world-ending Meteos!",
+  "CommunityRating": "2.75",
+  "ESRB": "E - Everyone",
+  "Genres": " Puzzle",
+  "Developer": "Q Entertainment",
+  "Publisher": "Q Entertainment",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "14ca8ffb-17d3-4222-9549-e8fa8cbc9104.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "711066084",
+          "URL": "http://images.launchbox-app.com/14ca8ffb-17d3-4222-9549-e8fa8cbc9104.jpg"
+        }
+      ]
+    }
+  }
+}

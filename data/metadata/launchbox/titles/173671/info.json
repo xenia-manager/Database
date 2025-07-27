@@ -1,0 +1,31 @@
+{
+  "Name": "Rapala Fishing Frenzy 2009",
+  "DatabaseID": "173671",
+  "ReleaseDate": "2008-09-02T00:00:00-07:00",
+  "Overview": "Put your angling skills to the test in the best bass locations in North America\nFeatures 9 species of monster bass and 14 other trophy fish, such as trout, salmon, northern pike, catfish and walleye\nFish in 6 great lakes: Lake Wylie, Clear Lake, Lake of the Ozarks, Lake Amistad, Logan Martin Lake, and Lake Okeechobee\nCompete in 20 events, as well as Open Fishing and Quick Challenge modes",
+  "ESRB": "E - Everyone",
+  "Genres": " Sports",
+  "Developer": "Fun Labs",
+  "Publisher": "Activision",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "4edfcd01-ff4c-4afb-a4a1-3382e6241620.png",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "807562841",
+          "URL": "http://images.launchbox-app.com/4edfcd01-ff4c-4afb-a4a1-3382e6241620.png"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "b1f59ce0-ad26-4f3f-96ec-8828c4bf1f22.png",
+        "Type": "Clear Logo",
+        "CRC32": "2837705630",
+        "URL": "http://images.launchbox-app.com/b1f59ce0-ad26-4f3f-96ec-8828c4bf1f22.png"
+      }
+    ]
+  }
+}

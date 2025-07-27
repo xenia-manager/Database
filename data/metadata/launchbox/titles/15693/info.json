@@ -1,0 +1,51 @@
+{
+  "Name": "Iron Sky: Invasion",
+  "DatabaseID": "15693",
+  "ReleaseDate": "2012-12-12T00:00:00-08:00",
+  "Overview": "\"Iron Sky: Invasion\" puts the player in the pilot seat of defending Earth from a sudden Nazi invasion - from space. The player has at their disposal a variety of experimental, secretly manufactured space fighters, and are tasked with keeping these Moon Nazis off our beloved Planet Earth. \"Iron Sky: Invasion\" will bear the major underlying theme of politics: everything, even defending your planet from \"luna-r-tic\" villains, requires skillful political maneuvers. You will need to know who you are fighting for, whose boots you are stepping on, and choose your friends, or more importantly, enemies carefully",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Iron_Sky:_Invasion",
+  "ESRB": "Not Rated",
+  "Genres": " Action",
+  "Developer": "Reality Pump",
+  "Publisher": "TopWare Interactive",
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "2299a20a-624b-4984-9e16-f2834c06d64c.jpg",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "2409939656",
+          "URL": "http://images.launchbox-app.com/2299a20a-624b-4984-9e16-f2834c06d64c.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "8863f48c-907e-4631-a590-436d951e0804.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "545788269",
+          "URL": "http://images.launchbox-app.com/8863f48c-907e-4631-a590-436d951e0804.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "806e1b49-a9e0-4e5b-a708-c112fe9a281d.jpg",
+          "Type": "Box - Spine",
+          "Region": "Europe",
+          "CRC32": "2030247166",
+          "URL": "http://images.launchbox-app.com/806e1b49-a9e0-4e5b-a708-c112fe9a281d.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "82192672-2f6d-4b58-b2a4-c2c7852d82bb.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "2279727598",
+        "URL": "http://images.launchbox-app.com/82192672-2f6d-4b58-b2a4-c2c7852d82bb.png"
+      }
+    ]
+  }
+}

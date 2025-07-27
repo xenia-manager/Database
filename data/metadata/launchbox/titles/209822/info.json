@@ -1,0 +1,24 @@
+{
+  "Name": "Roogoo",
+  "DatabaseID": "209822",
+  "ReleaseDate": "2009-12-22T00:00:00-08:00",
+  "Overview": "Help Roogoo defeat their opposites, the evil Meemoo, while racing through 45 progressive action based puzzle filled levels. Learn how to swizzle, roll, and boost. Help save planet Roo! Defeat the Prince, Meemoo, and Ninja-Moo. An addicting game for everyone with great multiplayer competition.",
+  "CommunityRating": "3",
+  "ESRB": "E - Everyone",
+  "Genres": " Puzzle",
+  "Developer": "Spidermonk Entertainment",
+  "Publisher": "SouthPeak Games",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "15292b16-7953-4d84-9579-e40323817c4f.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "3746156040",
+          "URL": "http://images.launchbox-app.com/15292b16-7953-4d84-9579-e40323817c4f.jpg"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Name": "Dance! It's Your Stage",
+  "DatabaseID": "14192",
+  "ReleaseDate": "2010-09-08T00:00:00-07:00",
+  "Overview": "In Dance! It's your Stage, players perform 20 dance routines on eight spectacular stages. Besides Career mode with its own success story, players can cut to the chase and attempt Quickstart mode and plunge headlong into the game.",
+  "CommunityRating": "3.1666666666666665",
+  "Genres": " Music",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "277d53c0-8e14-41e4-a446-3b0ed38e058c.jpg",
+          "Type": "Box - Front",
+          "CRC32": "849862972",
+          "URL": "http://images.launchbox-app.com/277d53c0-8e14-41e4-a446-3b0ed38e058c.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "36023231-cb14-4485-bca0-a03ec0872b2f.png",
+        "Type": "Clear Logo",
+        "CRC32": "3335784230",
+        "URL": "http://images.launchbox-app.com/36023231-cb14-4485-bca0-a03ec0872b2f.png"
+      }
+    ]
+  }
+}

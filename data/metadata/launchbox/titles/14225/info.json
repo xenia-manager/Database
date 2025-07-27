@@ -1,0 +1,20 @@
+{
+  "Name": "Ravensdale",
+  "DatabaseID": "14225",
+  "ReleaseDate": "2013-12-01T00:00:00-08:00",
+  "Overview": "Ravensdale is a fast paced fantasy action game in a very unique steam powered setting featuring outrageously over-powered gadgetry. The player will seek out high pressure steam outlets, to supercharge his equipment, allowing him to pulverize his adversaries and overcome the obstacles on his path.",
+  "CommunityRating": "3",
+  "Genres": null,
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "9c5c2f60-7e46-4138-ba1c-75cd9f312bf2.jpg",
+          "Type": "Box - Front",
+          "CRC32": "1075891918",
+          "URL": "http://images.launchbox-app.com/9c5c2f60-7e46-4138-ba1c-75cd9f312bf2.jpg"
+        }
+      ]
+    }
+  }
+}

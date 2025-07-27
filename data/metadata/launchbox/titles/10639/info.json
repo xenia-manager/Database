@@ -1,0 +1,51 @@
+{
+  "Name": "Just Dance 3",
+  "DatabaseID": "10639",
+  "ReleaseDate": "2011-10-07T00:00:00-07:00",
+  "Overview": "Along with solos and duets, Just Dance 3 features quartets which allows 4 players to dance all together, as well as playlists that group songs together. Rewards can be unlocked by dancing, such as new songs, modes, as well as Dance Mashups which combine different dance routines from all three Just Dance games into one. The Wii version has Smart Shuffle, Speed Shuffle, and Non-Stop Shuffle, plus a Hold My Hand dance feature, where up to 8 players can share the 4 Wii Remotes and dance all together.",
+  "VideoURL": "https://www.youtube.com/watch?v=6jGkFunwOK4",
+  "CommunityRating": "4",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Just_Dance_3",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Music",
+  "Developer": "Ubisoft Paris",
+  "Publisher": "Ubisoft",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "da9943e7-3484-4202-9d9a-6dc5c6825c4f.png",
+          "Type": "Box - 3D",
+          "CRC32": "2533380016",
+          "URL": "http://images.launchbox-app.com/da9943e7-3484-4202-9d9a-6dc5c6825c4f.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "41c7abf5-1c5d-4379-aa79-bbf9b0a98aae.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2124386379",
+          "URL": "http://images.launchbox-app.com/41c7abf5-1c5d-4379-aa79-bbf9b0a98aae.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "64a02c69-081c-4064-8ede-80e68f5e44d9.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "4222512077",
+        "URL": "http://images.launchbox-app.com/64a02c69-081c-4064-8ede-80e68f5e44d9.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "28265e0d-d661-4781-a2d8-ed51cd5843e4.png",
+        "Type": "Clear Logo",
+        "CRC32": "2765239802",
+        "URL": "http://images.launchbox-app.com/28265e0d-d661-4781-a2d8-ed51cd5843e4.png"
+      }
+    ]
+  }
+}

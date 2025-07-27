@@ -1,0 +1,57 @@
+{
+  "Name": "Dishonored",
+  "DatabaseID": "10849",
+  "ReleaseDate": "2012-10-12T00:00:00-07:00",
+  "Overview": "You are the once-trusted bodyguard of the beloved Empress. Framed for her murder, you become an infamous assassin, known only by the disturbing mask that has become your calling card. In a time of uncertainty, when the city is being besieged by plague and ruled by an oppressive government armed with neo-industrial technologies, dark forces conspire to bestow upon you, abilities beyond those of any common man but at what cost? The truth behind your betrayal is as murky as the waters surrounding the city, and the life you once had is gone forever.",
+  "CommunityRating": "4.541666666666667",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Dishonored",
+  "ESRB": "M - Mature",
+  "Genres": " Action; Adventure; Role-Playing; Stealth",
+  "Developer": "Arkane Studios",
+  "Publisher": "Bethesda Softworks",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "8e32a8ea-c2fa-45e6-89d5-17f18f861f25.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "275469464",
+        "URL": "http://images.launchbox-app.com/8e32a8ea-c2fa-45e6-89d5-17f18f861f25.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "fd7082c8-f26b-4870-b4c4-0d8191c1a9af.png",
+          "Type": "Box - 3D",
+          "CRC32": "3607487780",
+          "URL": "http://images.launchbox-app.com/fd7082c8-f26b-4870-b4c4-0d8191c1a9af.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "3f54fecd-5100-4054-9f5f-1ebec5ea4798.jpg",
+          "Type": "Box - Front",
+          "CRC32": "1052413497",
+          "URL": "http://images.launchbox-app.com/3f54fecd-5100-4054-9f5f-1ebec5ea4798.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "e15a2ac5-3a2f-428a-b152-746218e791f4.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2153609115",
+        "URL": "http://images.launchbox-app.com/e15a2ac5-3a2f-428a-b152-746218e791f4.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "1a2dfe8c-9257-4747-bb64-cb2292bdc711.png",
+        "Type": "Clear Logo",
+        "CRC32": "4059182180",
+        "URL": "http://images.launchbox-app.com/1a2dfe8c-9257-4747-bb64-cb2292bdc711.png"
+      }
+    ]
+  }
+}

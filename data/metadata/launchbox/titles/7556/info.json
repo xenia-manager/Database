@@ -1,0 +1,59 @@
+{
+  "Name": "NHL 07",
+  "DatabaseID": "7556",
+  "ReleaseDate": "2006-09-12T00:00:00-07:00",
+  "Overview": "EA Sports' 2007 installment of their NHL Hockey franchise refreshes all of the existing NHL team rosters and schedules and adds the Czech Elite League teams to the European Elite League rosters.\n\nPlayer modeling has been improved and features new life-like player specific moves and styles. Additional enhancements to the analog stick controls have also been made, making players easier than ever to control, while still mainting the realism of true hockey.\n\nOther features returning from previous editions include GM Mode, single game and season play, Dynasty mode and online play.",
+  "VideoURL": "http://www.youtube.com/watch?v=CXSoSe_Am-g",
+  "CommunityRating": "4.5",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Sports",
+  "Developer": "Electronic Arts Canada",
+  "Publisher": "Electronic Arts",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "16b13d1a-6fca-4a6e-9be5-b192acd91f83.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2475419073",
+        "URL": "http://images.launchbox-app.com/16b13d1a-6fca-4a6e-9be5-b192acd91f83.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "df2bd392-9f4e-4616-b991-8ccb4ef3a68b.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "136557636",
+          "URL": "http://images.launchbox-app.com/df2bd392-9f4e-4616-b991-8ccb4ef3a68b.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "c783ebc0-9a8b-4c92-bb46-fb1c1cc50a26.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "291441493",
+          "URL": "http://images.launchbox-app.com/c783ebc0-9a8b-4c92-bb46-fb1c1cc50a26.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "87aaffac-077f-4096-9425-04ab471b4e83.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1216113539",
+          "URL": "http://images.launchbox-app.com/87aaffac-077f-4096-9425-04ab471b4e83.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "b7fc4ecb-8fc9-43a7-b987-055f0811ffc4.png",
+        "Type": "Clear Logo",
+        "CRC32": "3254109064",
+        "URL": "http://images.launchbox-app.com/b7fc4ecb-8fc9-43a7-b987-055f0811ffc4.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "Name": "PES 2013: Pro Evolution Soccer",
+  "DatabaseID": "13296",
+  "ReleaseDate": "2012-09-25T00:00:00-07:00",
+  "Overview": "Konami's long-running soccer franchise continues with a focus on giving gamers a greater level of control and realistically portraying the world's top players in Pro Evolution Soccer 2013. For the first time in the series, players have full control over first touches and shooting, as well as trapping, dribbling, and passing. Celebrations and goalkeeper animations have been updated, as have the physical features and skills of the world's best players, and the AI engine has been tweaked to offer better player and team decisions and a more realistic balance between offense and defense.",
+  "CommunityRating": "3.625",
+  "ESRB": "E - Everyone",
+  "Genres": " Sports",
+  "Developer": "Konami",
+  "Publisher": "Konami",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "a165bba3-5b78-444f-85e5-dd7bea850269.jpg",
+        "Type": "Banner",
+        "Region": "North America",
+        "CRC32": "3324356369",
+        "URL": "http://images.launchbox-app.com/a165bba3-5b78-444f-85e5-dd7bea850269.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "4d29e4ac-a179-4986-932f-0acdcc0dfd3e.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "1628207694",
+          "URL": "http://images.launchbox-app.com/4d29e4ac-a179-4986-932f-0acdcc0dfd3e.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "feda75c7-3ff2-4ca5-80fc-78edd3c2eb31.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "385563865",
+          "URL": "http://images.launchbox-app.com/feda75c7-3ff2-4ca5-80fc-78edd3c2eb31.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "10dddcd3-1ce2-4dd0-b6bd-9b89a083e483.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "1061488322",
+          "URL": "http://images.launchbox-app.com/10dddcd3-1ce2-4dd0-b6bd-9b89a083e483.jpg"
+        },
+        {
+          "FileName": "67165d51-0758-4c2f-896c-be0e5ee84ebc.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3753018388",
+          "URL": "http://images.launchbox-app.com/67165d51-0758-4c2f-896c-be0e5ee84ebc.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "631f95be-11ce-4b67-900c-0f0f3c38aa85.png",
+        "Type": "Clear Logo",
+        "CRC32": "1833989558",
+        "URL": "http://images.launchbox-app.com/631f95be-11ce-4b67-900c-0f0f3c38aa85.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Name": "CLANNAD",
+  "DatabaseID": "458996",
+  "ReleaseDate": "2008-08-28T00:00:00-07:00",
+  "Overview": "The story follows the life of Tomoya Okazaki, from adolescence to adulthood. As an average high school student, he meets many people in his last year at school, including five girls, whose individual problems he helps resolve, and his life is further detailed after graduating from high school. The gameplay of Clannad follows a plot that branches into different scenarios based on various courses of interaction by the player character. The game was ranked as the best-selling PC game sold in Japan for the time of its release, and charted in the national top 50 several more times afterwards. Key went on to produce an adult spin-off titled Tomoyo After: It's a Wonderful Life in November 2005, which expanded on the scenario of Tomoyo Sakagami, one of the five heroines from Clannad.",
+  "VideoURL": "https://www.youtube.com/watch?v=hVfAzkKrGII",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Clannad_(video_game)",
+  "ESRB": "T - Teen",
+  "Genres": " Visual Novel",
+  "Developer": "Key",
+  "Publisher": "Prototype",
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "30e891a7-ea0d-4e99-b7bb-1c2cce805724.jpg",
+          "Type": "Box - Back",
+          "Region": "Japan",
+          "CRC32": "3267944658",
+          "URL": "http://images.launchbox-app.com/30e891a7-ea0d-4e99-b7bb-1c2cce805724.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "0714ba5c-d575-40cc-b6b5-16e9ca9ac278.jpg",
+          "Type": "Box - Front",
+          "Region": "Japan",
+          "CRC32": "680422839",
+          "URL": "http://images.launchbox-app.com/0714ba5c-d575-40cc-b6b5-16e9ca9ac278.jpg"
+        }
+      ]
+    }
+  }
+}

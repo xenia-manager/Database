@@ -1,0 +1,83 @@
+{
+  "Name": "Bionic Commando (2009)",
+  "DatabaseID": "12061",
+  "ReleaseDate": "2009-05-22T00:00:00-07:00",
+  "Overview": "Bionic Commando is an action-adventure game, in which the player controls player-character Nathan Spencer. The game uses several mechanics (primarily radiation) which act as barriers. These barriers are used to keep the players within the confines of the linear level design. Nathan Spencer is able to target enemies while hanging, climbing a building or even in mid-swing, while using an implement called the Bionic Arm which can also be used to attack enemies at close range. The bionic arm can be used to grab and launch objects such as boulders and cars at enemies. In addition, he is equipped with boots that enable him to kick said objects at enemies. These boots are also the reason Spencer does not take damage from extremely long falls.",
+  "VideoURL": "http://www.youtube.com/watch?v=F4Wm63bfeEs",
+  "CommunityRating": "3.9545454545454546",
+  "Genres": " Action",
+  "Developer": "GRIN",
+  "Publisher": "Capcom",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "76b87b30-739c-49c3-9bc0-0d1728e0d4ca.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "4265200359",
+        "URL": "http://images.launchbox-app.com/76b87b30-739c-49c3-9bc0-0d1728e0d4ca.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "0a7f94d2-edd7-4bdc-971b-6ff285a6d010.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "2704271944",
+          "URL": "http://images.launchbox-app.com/0a7f94d2-edd7-4bdc-971b-6ff285a6d010.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "33323b56-532a-4be1-b46a-2126ec9239b5.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "58881161",
+          "URL": "http://images.launchbox-app.com/33323b56-532a-4be1-b46a-2126ec9239b5.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "84a26fdc-5340-4b4e-a0e3-45ca512e2142.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2302621577",
+          "URL": "http://images.launchbox-app.com/84a26fdc-5340-4b4e-a0e3-45ca512e2142.jpg"
+        },
+        {
+          "FileName": "2bd318d7-a946-47d5-a21f-c0e62bec0dac.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "North America",
+          "CRC32": "809628250",
+          "URL": "http://images.launchbox-app.com/2bd318d7-a946-47d5-a21f-c0e62bec0dac.png"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "f8eced3a-2d38-436a-bdfa-17b9bcf6df5b.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "3783729508",
+          "URL": "http://images.launchbox-app.com/f8eced3a-2d38-436a-bdfa-17b9bcf6df5b.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "4b8deea9-abfc-439f-9a15-44d25289febb.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "3080723986",
+        "URL": "http://images.launchbox-app.com/4b8deea9-abfc-439f-9a15-44d25289febb.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "22da4dbe-e486-4441-976a-7f29594a33af.png",
+        "Type": "Clear Logo",
+        "CRC32": "1223237236",
+        "URL": "http://images.launchbox-app.com/22da4dbe-e486-4441-976a-7f29594a33af.png"
+      }
+    ]
+  }
+}

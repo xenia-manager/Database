@@ -1,0 +1,99 @@
+{
+  "Name": "DmC: Devil May Cry",
+  "DatabaseID": "14466",
+  "ReleaseDate": "2013-01-15T00:00:00-08:00",
+  "Overview": "Devil May Cry brand new tears -- DmC reinvents Capcom's classic action franchise to explore new frontiers with the series. The \"Devil May Cry DNA\" of stylish action, rewarding combat and a brash, smart-talking protagonist all remains; however, it has now injected with a dark and brutal gameplay that promises to redefine the franchise. The Dante of DmC is a young man who has no respect for authority or society in general. Dante knows that he is not human, but also that he is not like the demons that have tormented him throughout his life. Caught between worlds, he feels like an outcast. He is now discovering and coming to terms with what it means to be the child of a demon and an angel. This split personality has a real impact on gameplay with Dante being able to call upon angel and demon abilities at will, transforming his Rebellion sword on the fly to dramatically affect both combat and movement.",
+  "VideoURL": "https://www.youtube.com/watch?v=qhN5tS3Jt40",
+  "CommunityRating": "4.1363636363636367",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/DmC:_Devil_May_Cry",
+  "ESRB": "M - Mature",
+  "Genres": " Adventure; Beat 'em Up",
+  "Developer": "Ninja Theory",
+  "Publisher": "Capcom",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "ff5e42b1-65bd-4532-a6fa-e6d7cb845615.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "4250288121",
+        "URL": "http://images.launchbox-app.com/ff5e42b1-65bd-4532-a6fa-e6d7cb845615.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "a5fd0cd0-065d-424d-a2db-a6a02dd60cfb.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "3593828215",
+          "URL": "http://images.launchbox-app.com/a5fd0cd0-065d-424d-a2db-a6a02dd60cfb.png"
+        },
+        {
+          "FileName": "9eedf083-caeb-4414-b040-307134ed48c6.png",
+          "Type": "Box - 3D",
+          "CRC32": "2886378183",
+          "URL": "http://images.launchbox-app.com/9eedf083-caeb-4414-b040-307134ed48c6.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "2302c4ba-d26f-48fa-a4d2-4e2cdfdf4d44.png",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "1184383725",
+          "URL": "http://images.launchbox-app.com/2302c4ba-d26f-48fa-a4d2-4e2cdfdf4d44.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "eec11171-3d6e-4a39-b8d2-128bd0113bfc.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1284207566",
+          "URL": "http://images.launchbox-app.com/eec11171-3d6e-4a39-b8d2-128bd0113bfc.jpg"
+        },
+        {
+          "FileName": "8526b43e-6576-4ec8-aa6d-222a3967125b.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "North America",
+          "CRC32": "1238227017",
+          "URL": "http://images.launchbox-app.com/8526b43e-6576-4ec8-aa6d-222a3967125b.png"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "bcf3ccf4-e122-4633-94e7-1c8c6ad45f39.png",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "3376193429",
+          "URL": "http://images.launchbox-app.com/bcf3ccf4-e122-4633-94e7-1c8c6ad45f39.png"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "2d7c6c2e-30b8-451d-aa4d-6f3f3c8aa71d.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1107875652",
+        "URL": "http://images.launchbox-app.com/2d7c6c2e-30b8-451d-aa4d-6f3f3c8aa71d.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "593285f2-7ed1-44d3-b2d1-6ba6f8e96e09.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1578123573",
+        "URL": "http://images.launchbox-app.com/593285f2-7ed1-44d3-b2d1-6ba6f8e96e09.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "07118f81-1ef4-4768-8673-08283c3db351.png",
+        "Type": "Clear Logo",
+        "CRC32": "3036033181",
+        "URL": "http://images.launchbox-app.com/07118f81-1ef4-4768-8673-08283c3db351.png"
+      }
+    ]
+  }
+}

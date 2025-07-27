@@ -1,0 +1,31 @@
+{
+  "Name": "Every Party",
+  "DatabaseID": "448221",
+  "ReleaseDate": "2005-12-10T00:00:00-08:00",
+  "Overview": "Every Party (エブリパーティ, Ebiri Paati) is a party video game developed by Game Republic and published by Microsoft Game Studios. It was a Japanese launch title for the Xbox 360.\n\nThe game plays as a board game in which up to four players compete to be the first to reach a goal. Each board features multiple routes, with some being shorter and riskier, while others are longer but potentially more lucrative in terms of prizes. There are a number (30+) of different mini games which can be triggered during play, similar to the Mario Party series.",
+  "Genres": " Party",
+  "Developer": "Game Republic",
+  "Publisher": "Microsoft Game Studios",
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "15f72445-2680-47ab-8c06-dd1ac4382e0f.jpg",
+          "Type": "Box - Back",
+          "Region": "Japan",
+          "CRC32": "178207256",
+          "URL": "http://images.launchbox-app.com/15f72445-2680-47ab-8c06-dd1ac4382e0f.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "017fea04-b5fa-4ad1-acbf-d16917f29186.jpg",
+          "Type": "Box - Front",
+          "Region": "Japan",
+          "CRC32": "1374943933",
+          "URL": "http://images.launchbox-app.com/017fea04-b5fa-4ad1-acbf-d16917f29186.jpg"
+        }
+      ]
+    }
+  }
+}

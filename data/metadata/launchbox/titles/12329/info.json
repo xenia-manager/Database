@@ -1,0 +1,66 @@
+{
+  "Name": "Sleeping Dogs",
+  "DatabaseID": "12329",
+  "ReleaseDate": "2012-08-14T00:00:00-07:00",
+  "Overview": "Welcome to Hong Kong, a vibrant neon city teeming with life, whose exotic locations and busy streets hide one of the most powerful and dangerous criminal organizations in the world: the Triads.\n\nIn this open world game, you play the role of Wei Shen, an undercover cop trying to take down the Triads from the inside out. You'll have to prove yourself worthy as you fight your way up the organization, taking part in brutal criminal activities without blowing your cover.\nTorn between your loyalty to the badge and a criminal code of honor, you will risk everything as the lines between truth, loyalty and justice become permanently blurred.\n\nKey Features:\n- A mature and gritty undercover cop drama in which you risk blowing your cover at any time.\n- Explosive action fueled by a seamless mix of deadly martial arts, intense gunfights and brutal takedowns.\n- Epic high-speed thrills: Burn up the streets or tear up the sea in a vast array of exotic cars, superbikes and speedboats.\n- Hong Kong is your playground: Enter illegal races, gamble on cock fights, or kick back with some karaoke. There are countless ways to entertain yourself in Hong Kong's diverse districts.",
+  "VideoURL": "https://www.youtube.com/watch?v=lbGs8AJyT_Y",
+  "CommunityRating": "4.115384615384615",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Sleeping_Dogs_(video_game)",
+  "ESRB": "M - Mature",
+  "Genres": " Action; Adventure",
+  "Developer": "United Front Games",
+  "Publisher": "Square Enix",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "722b38ed-b53e-4b36-b8ca-d916dda5fc9e.png",
+          "Type": "Box - 3D",
+          "Region": "Europe",
+          "CRC32": "1466230483",
+          "URL": "http://images.launchbox-app.com/722b38ed-b53e-4b36-b8ca-d916dda5fc9e.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "cba6b8b3-dfce-4541-8b3b-20b85a580309.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1358614830",
+          "URL": "http://images.launchbox-app.com/cba6b8b3-dfce-4541-8b3b-20b85a580309.jpg"
+        },
+        {
+          "FileName": "8e5e3435-a826-4950-9b58-1733291de08f.jpg",
+          "Type": "Box - Front",
+          "Region": "United Kingdom",
+          "CRC32": "3949859647",
+          "URL": "http://images.launchbox-app.com/8e5e3435-a826-4950-9b58-1733291de08f.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "3556f325-8ef6-4583-9caa-0a165dbfa4a4.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "73559177",
+        "URL": "http://images.launchbox-app.com/3556f325-8ef6-4583-9caa-0a165dbfa4a4.png"
+      },
+      {
+        "FileName": "cdb6dded-d087-4572-8236-24f458375c30.png",
+        "Type": "Disc",
+        "Region": "United Kingdom",
+        "CRC32": "11322449",
+        "URL": "http://images.launchbox-app.com/cdb6dded-d087-4572-8236-24f458375c30.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "e7649728-3303-4dcd-b427-b828b4c61348.png",
+        "Type": "Clear Logo",
+        "CRC32": "134652455",
+        "URL": "http://images.launchbox-app.com/e7649728-3303-4dcd-b427-b828b4c61348.png"
+      }
+    ]
+  }
+}

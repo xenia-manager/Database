@@ -1,0 +1,49 @@
+{
+  "Name": "NBA Live 08",
+  "DatabaseID": "7545",
+  "ReleaseDate": "2007-10-02T00:00:00-07:00",
+  "Overview": "NBA Live 08 is the 2007 installment of the NBA Live series by EA Sports. It was released for the Xbox 360, PlayStation 3, Wii, PlayStation 2, Windows and PlayStation Portable. This is the first NBA video game to include all three next-generation consoles. It was the last NBA Live game for the Windows platform.",
+  "VideoURL": "https://www.youtube.com/watch?v=eIYvrY08MKI",
+  "CommunityRating": "2.8333333333333335",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/NBA_Live_08",
+  "ESRB": "E - Everyone",
+  "Genres": " Sports",
+  "Developer": "Electronic Arts Canada",
+  "Publisher": "Electronic Arts",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "d55a553a-e1cb-4e7e-88d9-1a4f37b0dd8b.png",
+          "Type": "Box - 3D",
+          "CRC32": "522015504",
+          "URL": "http://images.launchbox-app.com/d55a553a-e1cb-4e7e-88d9-1a4f37b0dd8b.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "5b307343-a5ac-4dbc-934f-19d772115c6c.jpg",
+          "Type": "Box - Back",
+          "CRC32": "2369421427",
+          "URL": "http://images.launchbox-app.com/5b307343-a5ac-4dbc-934f-19d772115c6c.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "0c1dfc15-5ad9-45a1-ad43-6a118849adf8.jpg",
+          "Type": "Box - Front",
+          "CRC32": "2414357927",
+          "URL": "http://images.launchbox-app.com/0c1dfc15-5ad9-45a1-ad43-6a118849adf8.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "bcb15407-b21f-4606-ae03-80a779e3727f.png",
+        "Type": "Clear Logo",
+        "CRC32": "686013184",
+        "URL": "http://images.launchbox-app.com/bcb15407-b21f-4606-ae03-80a779e3727f.png"
+      }
+    ]
+  }
+}

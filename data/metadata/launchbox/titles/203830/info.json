@@ -1,0 +1,29 @@
+{
+  "Name": "Crash Time 4: The Syndicate",
+  "DatabaseID": "203830",
+  "CommunityRating": "4",
+  "ESRB": "E - Everyone",
+  "Genres": " Racing; Sports",
+  "Developer": "Synetic",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "22d4fdd9-8323-4ec9-8031-e85fbb39e7b9.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "130193648",
+          "URL": "http://images.launchbox-app.com/22d4fdd9-8323-4ec9-8031-e85fbb39e7b9.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "f410f8a7-e339-4e8b-9ba6-7e5bf1ebec50.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "24476015",
+        "URL": "http://images.launchbox-app.com/f410f8a7-e339-4e8b-9ba6-7e5bf1ebec50.jpg"
+      }
+    ]
+  }
+}

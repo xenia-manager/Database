@@ -1,0 +1,58 @@
+{
+  "Name": "Doom 3: BFG Edition",
+  "DatabaseID": "12515",
+  "ReleaseDate": "2012-10-16T00:00:00-07:00",
+  "Overview": "Welcome Back to Hell. The ruins of an ancient Martian civilization have unlocked the secrets to teleportation, and the UAC (Union Aerospace Corporation) will stop at nothing to harness this world-altering technology. As part of a marine detachment sent to protect the facility, your duty seemed simple enough... until the invasion. Now, in an epic clash against pure evil you must fight to understand who is with you, who is against you, and what must be done to stop this nightmare from reaching earth.\n\nDOOM 3: BFG Edition is the ultimate collection of groundbreaking games that defined the First-Person Shooter (FPS) game genre. The collection includes DOOM, DOOM 2, DOOM 3, and DOOM 3: Resurrection of Evil, as well as the 'Lost Mission.' All DOOM 3 content has been re-mastered for Xbox 360 for an even more terrifying FPS experience, and as the subtext to the edition's name suggests, all the content included feature guns and other weapons of substantial power and size.",
+  "VideoURL": "https://www.youtube.com/watch?v=h8TnP-mgDoI",
+  "CommunityRating": "4.1538461538461542",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Doom_3:_BFG_Edition",
+  "ESRB": "M - Mature",
+  "Genres": " Shooter",
+  "Developer": "id Software",
+  "Publisher": "Bethesda Softworks",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "5fbb9190-327f-4b6b-8e58-cc62a424910d.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1925852801",
+        "URL": "http://images.launchbox-app.com/5fbb9190-327f-4b6b-8e58-cc62a424910d.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "6833d2aa-f011-4ec8-a9c5-7c5cf9a2fec3.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2082637838",
+          "URL": "http://images.launchbox-app.com/6833d2aa-f011-4ec8-a9c5-7c5cf9a2fec3.jpg"
+        },
+        {
+          "FileName": "5a4e4acd-0c43-4e1e-80c2-b18568ce7082.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "49551619",
+          "URL": "http://images.launchbox-app.com/5a4e4acd-0c43-4e1e-80c2-b18568ce7082.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "3d08db99-379b-447b-a926-8380a6820612.png",
+        "Type": "Disc",
+        "Region": "World",
+        "CRC32": "3913669517",
+        "URL": "http://images.launchbox-app.com/3d08db99-379b-447b-a926-8380a6820612.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "1dcd8781-35ef-4eaf-ae2d-ca41e7e21cc8.png",
+        "Type": "Clear Logo",
+        "CRC32": "524328480",
+        "URL": "http://images.launchbox-app.com/1dcd8781-35ef-4eaf-ae2d-ca41e7e21cc8.png"
+      }
+    ]
+  }
+}

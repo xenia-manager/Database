@@ -1,0 +1,40 @@
+{
+  "Name": "Cabela's Outdoor Adventures",
+  "DatabaseID": "15340",
+  "ReleaseDate": "2009-09-09T00:00:00-07:00",
+  "Overview": "Cabela's Outdoor Adventures is a hunting video game released in 2005 by Activision. The game gives a player the ability to drive vehicles, fish and hunt. This is the very first video game to hunt and fish all in one game. There are 11 exotic locations, 32 animals to hunt and harvest, thousands of Cabela's gear options and much more. Some of the animals in the game include White-tailed deer, Mule deer, bear, moose, coyote, Bobcat, Lynx and many more.",
+  "CommunityRating": "4.5",
+  "ESRB": "T - Teen",
+  "Genres": " Shooter; Sports",
+  "Publisher": "Activision",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "41ccc9bc-17a7-4fc4-8be4-f71d3c653fbe.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "1359624766",
+          "URL": "http://images.launchbox-app.com/41ccc9bc-17a7-4fc4-8be4-f71d3c653fbe.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "8fc74ee2-2213-4151-ade5-fb5ea9027ce5.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "4193576379",
+          "URL": "http://images.launchbox-app.com/8fc74ee2-2213-4151-ade5-fb5ea9027ce5.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "5d204b84-5381-4ad3-b205-68e314ef2cca.png",
+        "Type": "Clear Logo",
+        "CRC32": "1690203531",
+        "URL": "http://images.launchbox-app.com/5d204b84-5381-4ad3-b205-68e314ef2cca.png"
+      }
+    ]
+  }
+}

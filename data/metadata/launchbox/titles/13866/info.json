@@ -1,0 +1,83 @@
+{
+  "Name": "Cabela's Survival: Shadows of Katmai",
+  "DatabaseID": "13866",
+  "ReleaseDate": "2011-11-01T00:00:00-07:00",
+  "Overview": "Cabela’s Survival: Shadows of Katmai puts you face to face with the unforgiving forces of nature! A strikingly deep storyline is riddled with harrowing challenges of extreme survival. Test your instinct while scavenging for gear and hunting for your food. Be prepared to face non-stop challenges and the ride of a lifetime through the daunting Alaskan wilderness in an effort to complete a mysterious mission.",
+  "VideoURL": "https://m.youtube.com/watch?v=Dk04Vr1rxg4",
+  "CommunityRating": "2.8333333333333335",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Cabela%27s_Survival:_Shadows_of_Katmai",
+  "ESRB": "T - Teen",
+  "Genres": " Shooter",
+  "Developer": "FUN Labs Romania",
+  "Publisher": "Activision Value Publishing",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "6c61f1a8-6f33-4fe8-8b02-f56873984cdb.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2610258292",
+        "URL": "http://images.launchbox-app.com/6c61f1a8-6f33-4fe8-8b02-f56873984cdb.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "9762e23e-37cd-4d53-8c52-1a50d595cc2f.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "2387339552",
+          "URL": "http://images.launchbox-app.com/9762e23e-37cd-4d53-8c52-1a50d595cc2f.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "0b27241b-7230-4c1c-8ce9-6298275ba1b7.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "3003247217",
+          "URL": "http://images.launchbox-app.com/0b27241b-7230-4c1c-8ce9-6298275ba1b7.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "5f8c0b87-84a9-44cc-954f-16384c90d8bf.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2064459612",
+          "URL": "http://images.launchbox-app.com/5f8c0b87-84a9-44cc-954f-16384c90d8bf.jpg"
+        },
+        {
+          "FileName": "01f773c9-ea46-4ce9-83ea-096e3104aa21.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "North America",
+          "CRC32": "2387632952",
+          "URL": "http://images.launchbox-app.com/01f773c9-ea46-4ce9-83ea-096e3104aa21.png"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "e9d698e0-8796-40b2-a217-e8464483eb38.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1663727057",
+        "URL": "http://images.launchbox-app.com/e9d698e0-8796-40b2-a217-e8464483eb38.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "b2f883c2-7e47-4233-b322-e3e5a443a4a7.png",
+        "Type": "Clear Logo",
+        "Region": "North America",
+        "CRC32": "1519180689",
+        "URL": "http://images.launchbox-app.com/b2f883c2-7e47-4233-b322-e3e5a443a4a7.png"
+      },
+      {
+        "FileName": "b18a3137-a4cf-4db6-83cf-269bdaa47061.png",
+        "Type": "Clear Logo",
+        "CRC32": "960736223",
+        "URL": "http://images.launchbox-app.com/b18a3137-a4cf-4db6-83cf-269bdaa47061.png"
+      }
+    ]
+  }
+}

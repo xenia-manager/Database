@@ -1,0 +1,95 @@
+{
+  "Name": "Borderlands",
+  "DatabaseID": "10915",
+  "ReleaseDate": "2009-10-20T00:00:00-07:00",
+  "Overview": "A sci-fi/action RPG from acclaimed developer Gearbox, Borderlands combines the best in first-person action gaming with elements of a traditional role-playing game. The excitement of this hybridization is further magnified by the game's groundbreaking content generation system which allows for a near-endless variety in missions, environments, enemies, weapons, item drops and character customization, making the game's single player, multiplayer and online campaigns not to be missed. \n\nAs in a traditional RPG, Borderlands is built around the continual leveling of characters as they delve into quests. These quests include both story-driven adventures and side quests that offer players rewards such as items exclusive to quest completion and/or forward movement of the story. Players can look forward to action set in both single player and multiplayer modes, including co-op play, as well as vehicular combat and literally thousands of different types of weapons that change each time you play. \n\nBorderlands features several playable characters, each with their own unique backstory, abilities, and skills. Skills can be leveled up, allowing for improvement of things like health, accuracy with weapons, and capacity for items. In addition to this, characters possess unique skill tree development, ensuring that each will develop differently regardless of time spend leveling them up.",
+  "VideoURL": "https://www.youtube.com/watch?v=oHnlBzVK3Zk",
+  "CommunityRating": "4.21875",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Borderlands_(video_game)",
+  "ESRB": "M - Mature",
+  "Genres": " Role-Playing; Shooter",
+  "Developer": "Gearbox Software",
+  "Publisher": "2K Games",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "f1c727f0-61df-419b-b4ef-69028ae002be.jpg",
+        "Type": "Banner",
+        "Region": "World",
+        "CRC32": "3990154683",
+        "URL": "http://images.launchbox-app.com/f1c727f0-61df-419b-b4ef-69028ae002be.jpg"
+      },
+      {
+        "FileName": "0025365c-46e7-46a8-96ec-0319e1ef954f.jpg",
+        "Type": "Banner",
+        "Region": "United Kingdom",
+        "CRC32": "1360732476",
+        "URL": "http://images.launchbox-app.com/0025365c-46e7-46a8-96ec-0319e1ef954f.jpg"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "bf0f5bb2-6310-48a7-960b-1cd93251207c.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "223287013",
+        "URL": "http://images.launchbox-app.com/bf0f5bb2-6310-48a7-960b-1cd93251207c.jpg"
+      },
+      {
+        "FileName": "5fc85eef-d468-4bc9-a6e2-c6fcfeefbfd9.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1327443545",
+        "URL": "http://images.launchbox-app.com/5fc85eef-d468-4bc9-a6e2-c6fcfeefbfd9.jpg"
+      },
+      {
+        "FileName": "58c72d20-213b-4537-9004-cdc88a5237b6.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1274649865",
+        "URL": "http://images.launchbox-app.com/58c72d20-213b-4537-9004-cdc88a5237b6.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "619175d3-2918-435b-b8b0-1ce4046c3106.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "93847567",
+          "URL": "http://images.launchbox-app.com/619175d3-2918-435b-b8b0-1ce4046c3106.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "2fc7ad45-67e3-4a94-9fb8-908edf2f1c84.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2626825063",
+          "URL": "http://images.launchbox-app.com/2fc7ad45-67e3-4a94-9fb8-908edf2f1c84.jpg"
+        },
+        {
+          "FileName": "0e0fde1c-5e6f-4119-a013-ccd97c35c02f.jpg",
+          "Type": "Box - Front",
+          "Region": "United Kingdom",
+          "CRC32": "2168652518",
+          "URL": "http://images.launchbox-app.com/0e0fde1c-5e6f-4119-a013-ccd97c35c02f.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "b02232fc-3830-4c9d-a1bb-24314ab1afe6.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "3115614206",
+        "URL": "http://images.launchbox-app.com/b02232fc-3830-4c9d-a1bb-24314ab1afe6.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "30f62113-a8cd-4f5f-a9a9-3678f5bc66b4.png",
+        "Type": "Clear Logo",
+        "CRC32": "2331470214",
+        "URL": "http://images.launchbox-app.com/30f62113-a8cd-4f5f-a9a9-3678f5bc66b4.png"
+      }
+    ]
+  }
+}

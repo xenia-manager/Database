@@ -1,0 +1,40 @@
+{
+  "Name": "Self-Defense Training Camp",
+  "DatabaseID": "156335",
+  "ReleaseDate": "2011-11-08T00:00:00-08:00",
+  "Overview": "Self-Defense Training Camp is a Kinect-only game that aims to teach players how to defend themselves in situations where they feel threatened. The game takes place in a dojo where the player goes through different exercises with a training partner in what-if scenarios. Exercises are performed by mimicking the shown gestures and movement, combining fitness with self-defense. The character is rendered semi-transparent to make the attacker also visible. The player's performance is graded based on four statistics: technique, stamina, composure and reflexes.\n\nSupplementary training sessions exists of yogo (presented as meditation to stay calm is stressful situations, by following the on-screen prompts), fighting activities (punching, boxing, kicking), and a cardio session.",
+  "ESRB": "T - Teen",
+  "Genres": " Action; Education",
+  "Developer": "Ama Studios SA",
+  "Publisher": "Ubisoft",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "62f6040b-930a-47ee-9d37-aac2c533158f.png",
+          "Type": "Box - 3D",
+          "CRC32": "3190758511",
+          "URL": "http://images.launchbox-app.com/62f6040b-930a-47ee-9d37-aac2c533158f.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "187b8c76-64bb-4ced-a2f5-380b12f05e79.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2942837925",
+          "URL": "http://images.launchbox-app.com/187b8c76-64bb-4ced-a2f5-380b12f05e79.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "e0558a26-1cb7-445e-89f0-e1873859a5a6.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1922479536",
+        "URL": "http://images.launchbox-app.com/e0558a26-1cb7-445e-89f0-e1873859a5a6.png"
+      }
+    ]
+  }
+}

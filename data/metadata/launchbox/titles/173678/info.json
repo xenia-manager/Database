@@ -1,0 +1,62 @@
+{
+  "Name": "Sniper Elite III: Ultimate Edition",
+  "DatabaseID": "173678",
+  "ReleaseDate": "2015-03-10T00:00:00-07:00",
+  "Overview": "This ultimate edition contains the acclaimed main thrilling game, as well as a ton of additional DLC content in one explosive package. Includes THREE additional single player missions, SIX additional weapon packs with EIGHTEEN new weapons. Additionally the original game has now been expanded with bonus updates since launch to include 6 additional multiplayer maps, a Shooting Range mode, Capture The Flag mode and a brand new Co-Op Overwatch Mission.",
+  "ESRB": "M - Mature",
+  "Genres": " Action; Shooter; Stealth",
+  "Developer": "Rebellion",
+  "Publisher": "505 Games",
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "3e18ed9d-10db-4591-8384-8123938f8e48.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "755702796",
+          "URL": "http://images.launchbox-app.com/3e18ed9d-10db-4591-8384-8123938f8e48.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "ccf67f83-9e61-4d58-849a-0ea297e64432.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2525341459",
+          "URL": "http://images.launchbox-app.com/ccf67f83-9e61-4d58-849a-0ea297e64432.jpg"
+        },
+        {
+          "FileName": "96d83ac7-d9de-4a7e-b6b2-ec31c5f4c5e4.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "North America",
+          "CRC32": "2927631683",
+          "URL": "http://images.launchbox-app.com/96d83ac7-d9de-4a7e-b6b2-ec31c5f4c5e4.png"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "5ad065f3-84c2-43a6-a4dd-3f4437533d53.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "4161712593",
+        "URL": "http://images.launchbox-app.com/5ad065f3-84c2-43a6-a4dd-3f4437533d53.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "1db8e695-6bc3-4c1f-9e04-11dd48d1696e.png",
+        "Type": "Clear Logo",
+        "CRC32": "404307264",
+        "URL": "http://images.launchbox-app.com/1db8e695-6bc3-4c1f-9e04-11dd48d1696e.png"
+      },
+      {
+        "FileName": "b8b316a0-4157-4159-8c2e-ca55acd391ff.png",
+        "Type": "Clear Logo",
+        "CRC32": "4257009582",
+        "URL": "http://images.launchbox-app.com/b8b316a0-4157-4159-8c2e-ca55acd391ff.png"
+      }
+    ]
+  }
+}

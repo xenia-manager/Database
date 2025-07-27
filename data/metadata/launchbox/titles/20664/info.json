@@ -1,0 +1,65 @@
+{
+  "Name": "Ducktales Remastered",
+  "DatabaseID": "20664",
+  "ReleaseDate": "2013-11-09T00:00:00-08:00",
+  "Overview": "DuckTales: Remastered is a hand-crafted, beautiful reimagining of one of the most cherished 8-bit titles of all time. Go back to one of the golden ages of gaming, but now refined with a level of detail that will please the most hardened devoted Disney or retro Capcom fan, alike. Featuring hand-drawn animated sprites, authentic Disney character voices talent and richly painted level backgrounds from the classic cartoon TV series, Scrooge McDuck and family come to life like never before. The gameplay retains the authenticity of its 8-bit predecessor, simple and fun, with slight modifications to improve gameplay flow and design. Embark on an authentic DuckTales adventure, as Scrooge McDuck and his three nephews; Huey, Dewey and Louie travel to exotic locations throughout the world in their quest to retrieve the five Legendary Treasures.",
+  "VideoURL": "http://www.youtube.com/watch?v=Egk8IusIzdI",
+  "CommunityRating": "4.041666666666667",
+  "ESRB": "E - Everyone",
+  "Genres": " Adventure; Platform",
+  "Developer": "Capcom",
+  "Publisher": "Microsoft",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "31278242-96c9-4d40-b343-975a27baf362.png",
+          "Type": "Box - 3D",
+          "Region": "World",
+          "CRC32": "2004458880",
+          "URL": "http://images.launchbox-app.com/31278242-96c9-4d40-b343-975a27baf362.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "2549a82a-0d5f-4fa9-ad22-92218d84b534.png",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1430341736",
+          "URL": "http://images.launchbox-app.com/2549a82a-0d5f-4fa9-ad22-92218d84b534.png"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "49b6bab9-b0cb-4ea9-99c6-aea610f52759.png",
+        "Type": "Disc",
+        "Region": "World",
+        "CRC32": "28875435",
+        "URL": "http://images.launchbox-app.com/49b6bab9-b0cb-4ea9-99c6-aea610f52759.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "b64ced01-615f-404a-b891-73e6fe8a9d17.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1785482655",
+        "URL": "http://images.launchbox-app.com/b64ced01-615f-404a-b891-73e6fe8a9d17.jpg"
+      },
+      {
+        "FileName": "2b3d8707-b36c-4dac-8b5f-6e10edf28315.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "373686723",
+        "URL": "http://images.launchbox-app.com/2b3d8707-b36c-4dac-8b5f-6e10edf28315.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "45fadcea-de30-4527-9782-058d04e818aa.png",
+        "Type": "Clear Logo",
+        "CRC32": "2830425127",
+        "URL": "http://images.launchbox-app.com/45fadcea-de30-4527-9782-058d04e818aa.png"
+      }
+    ]
+  }
+}

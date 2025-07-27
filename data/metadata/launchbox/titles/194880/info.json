@@ -1,0 +1,25 @@
+{
+  "Name": "Just Dance 2018",
+  "DatabaseID": "194880",
+  "ReleaseDate": "2017-10-26T00:00:00-07:00",
+  "Overview": "No matter where you come from, how old you are, if you are a panda or a carrot: turn up the volume and get ready to unleash your inner dancer!\n\nJust Dance 2018 is coming back this fall on October 26th 2017 with over 40 tracks at launch, and more than 300 songs available with Just Dance Unlimited and the 3-month trial included!",
+  "CommunityRating": "3",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Just_Dance_2018",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Music",
+  "Developer": "Ubisoft Shanghai",
+  "Publisher": "Ubisoft",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "66a6bf83-d21e-47df-85d7-2fef1d52a842.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2008427364",
+          "URL": "http://images.launchbox-app.com/66a6bf83-d21e-47df-85d7-2fef1d52a842.jpg"
+        }
+      ]
+    }
+  }
+}

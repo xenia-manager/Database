@@ -1,0 +1,77 @@
+{
+  "Name": "Ice Age: Dawn of the Dinosaurs",
+  "DatabaseID": "15144",
+  "ReleaseDate": "2009-06-30T00:00:00-07:00",
+  "Overview": "Based on the computer-animated movie starring the voices of Ray Romano and John Leguizamo, Ice Age: Dawn of the Dinosaurs is a 3D platform game that has you controlling multiple prehistoric protagonists across more than 15 levels of lighthearted action. Help Manny, Sid, Diego, Scrat, and friends navigate their way through the lush jungles of a world lurking underneath the ice: a tropical world inhabited by dinosaurs. Master each character's distinct moves while exploring caves, riding a pterodactyl, avoiding a rampaging Tyrannosaurus rex, running atop a ball of ice, and more. Those having difficulty during certain sequences can receive tips from woolly mammoth Ellie as well as possums Crash and Eddie. In addition to the single-player campaign, Ice Age 2 offers eight competitive mini-games supporting up to four players.",
+  "VideoURL": "http://www.youtube.com/watch?v=pXI-jPy4y2c",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Action",
+  "Developer": "Eurocom Developments",
+  "Publisher": "Activision Publishing",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "d273ffc9-ed8d-4053-afa1-12da4f1a5c61.png",
+        "Type": "Fanart - Background",
+        "CRC32": "2496793962",
+        "URL": "http://images.launchbox-app.com/d273ffc9-ed8d-4053-afa1-12da4f1a5c61.png"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "27b57446-bf85-4368-80e4-864b93948e7c.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "381430775",
+          "URL": "http://images.launchbox-app.com/27b57446-bf85-4368-80e4-864b93948e7c.jpg"
+        },
+        {
+          "FileName": "446352d2-5ecf-42d5-9f7c-cb13286b9695.jpg",
+          "Type": "Box - Front",
+          "Region": "Australia",
+          "CRC32": "572114257",
+          "URL": "http://images.launchbox-app.com/446352d2-5ecf-42d5-9f7c-cb13286b9695.jpg"
+        },
+        {
+          "FileName": "9b663695-9870-429b-816d-6f673298858d.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2898217833",
+          "URL": "http://images.launchbox-app.com/9b663695-9870-429b-816d-6f673298858d.jpg"
+        },
+        {
+          "FileName": "b54d98fb-9e23-4961-8782-0c6a6c15bb83.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "United Kingdom",
+          "CRC32": "2706069853",
+          "URL": "http://images.launchbox-app.com/b54d98fb-9e23-4961-8782-0c6a6c15bb83.png"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "77bf2f08-f0a0-4d0b-a1dd-52fb3afd3252.png",
+        "Type": "Disc",
+        "Region": "Australia",
+        "CRC32": "3053359629",
+        "URL": "http://images.launchbox-app.com/77bf2f08-f0a0-4d0b-a1dd-52fb3afd3252.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "11f8d2af-213f-4e04-ba71-9ac782466134.png",
+        "Type": "Clear Logo",
+        "CRC32": "2116107595",
+        "URL": "http://images.launchbox-app.com/11f8d2af-213f-4e04-ba71-9ac782466134.png"
+      },
+      {
+        "FileName": "a34fdc67-c4a9-4050-ae5b-7f2207a8f89e.png",
+        "Type": "Clear Logo",
+        "Region": "Spain",
+        "CRC32": "1101642496",
+        "URL": "http://images.launchbox-app.com/a34fdc67-c4a9-4050-ae5b-7f2207a8f89e.png"
+      }
+    ]
+  }
+}

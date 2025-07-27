@@ -1,0 +1,51 @@
+{
+  "Name": "Air Conflicts: Vietnam",
+  "DatabaseID": "173118",
+  "ReleaseDate": "2013-10-15T00:00:00-07:00",
+  "Overview": "Air Conflicts: Vietnam is an arcade-styled air-combat game that immerses players in the harrowing skies over Vietnam. Take to the air in screaming fighter jets or grab the controls of devastating helicopter gunships as you shatter enemy encampments with explosive ordinance, decimate North Vietnamese fighter squadrons, and deliver troops to the ever-changing front lines of the vicious battlefield.\nKEY FEATURES\nLive a thrilling wartime narrative. In an epic campaign, filled with heroic moments and the darker side of war\nJump into the cockpit for instant action. Pilot and customize more than 20 planes and – for the first time in the Air Conflict series – helicopters\nLead your squadron to victory. Command up to four jets or helicopters, maximizing their unique abilities to complete challenging objectives\nChallenge your friends for air supremacy. Play up to 8 online opponents in nail-biting air battles.\nTreat your ears to a cool rock soundtrack in the style of vintage Vietnam-era tunes.",
+  "VideoURL": "https://www.youtube.com/watch?v=TXMPAiH4zTM",
+  "CommunityRating": "3.25",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Air_Conflicts:_Vietnam",
+  "ESRB": "T - Teen",
+  "Genres": " Flight Simulator; Shooter",
+  "Developer": "Games Farm",
+  "Publisher": "bitComposer Entertainment",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "5f64485e-a269-4fee-adf5-d9835b9c339e.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3987982942",
+          "URL": "http://images.launchbox-app.com/5f64485e-a269-4fee-adf5-d9835b9c339e.jpg"
+        },
+        {
+          "FileName": "8b6a9a2a-c94c-4b27-b980-86ef0a7e291e.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "45839290",
+          "URL": "http://images.launchbox-app.com/8b6a9a2a-c94c-4b27-b980-86ef0a7e291e.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "afb17b55-a428-4819-91bb-9b72b5d8446b.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "342408695",
+        "URL": "http://images.launchbox-app.com/afb17b55-a428-4819-91bb-9b72b5d8446b.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "c6966814-f647-4620-9e62-fa23736c366d.png",
+        "Type": "Screenshot - Game Title",
+        "Region": "North America",
+        "CRC32": "1308735358",
+        "URL": "http://images.launchbox-app.com/c6966814-f647-4620-9e62-fa23736c366d.png"
+      }
+    ]
+  }
+}

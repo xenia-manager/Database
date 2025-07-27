@@ -1,0 +1,66 @@
+{
+  "Name": "Boulder Dash XL",
+  "DatabaseID": "209159",
+  "ReleaseDate": "2011-07-13T00:00:00-07:00",
+  "Overview": "This tricky, action-puzzle and dexterity game made its debut in the early 80s and has continued to fascinate its enormous fan base and new players for decades. Today the game is recognized as one of the best loved retro games in the history of computer and video gaming. Now Boulder Dash is back with a hot new look to take the Xbox Live Arcade platform by storm. The multimillion units selling hit game's core remains unchanged: in a race against time players must collect sparkling diamonds while besting hordes of enemies; and, avoiding numerous traps, and of course, falling boulders!",
+  "CommunityRating": "0.5",
+  "ESRB": "E - Everyone",
+  "Genres": " Action; Puzzle",
+  "Developer": "Catnip Games",
+  "Publisher": "Kalypso Media",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "56c98c0a-ca39-4e23-9917-89c742461f4a.png",
+        "Type": "Banner",
+        "CRC32": "744219750",
+        "URL": "http://images.launchbox-app.com/56c98c0a-ca39-4e23-9917-89c742461f4a.png"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "163ff017-a48c-4d57-a888-251b17ac45ae.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "2998708429",
+          "URL": "http://images.launchbox-app.com/163ff017-a48c-4d57-a888-251b17ac45ae.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "a414437b-9173-4cf5-ba67-7f872d5a2049.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "599619767",
+        "URL": "http://images.launchbox-app.com/a414437b-9173-4cf5-ba67-7f872d5a2049.jpg"
+      },
+      {
+        "FileName": "0aec4ca7-a094-4e3a-9d21-1769fc0a6314.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1611775327",
+        "URL": "http://images.launchbox-app.com/0aec4ca7-a094-4e3a-9d21-1769fc0a6314.jpg"
+      },
+      {
+        "FileName": "21baf451-985d-4620-a661-e33245b99754.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "647808567",
+        "URL": "http://images.launchbox-app.com/21baf451-985d-4620-a661-e33245b99754.jpg"
+      },
+      {
+        "FileName": "7e0e26d2-1c99-4e54-a8f3-01b3f3f9ebaf.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2522368727",
+        "URL": "http://images.launchbox-app.com/7e0e26d2-1c99-4e54-a8f3-01b3f3f9ebaf.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "3297b9df-c411-48d0-ba8b-8ccc7193ff66.png",
+        "Type": "Clear Logo",
+        "CRC32": "3961586390",
+        "URL": "http://images.launchbox-app.com/3297b9df-c411-48d0-ba8b-8ccc7193ff66.png"
+      }
+    ]
+  }
+}

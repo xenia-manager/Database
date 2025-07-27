@@ -1,0 +1,95 @@
+{
+  "Name": "Assassin's Creed: Liberation HD",
+  "DatabaseID": "22653",
+  "ReleaseDate": "2014-01-15T00:00:00-08:00",
+  "Overview": "Introducing Assassin’s Creed® Liberation HD, the striking chapter of the pre-American Revolution Assassin’s Creed saga which arrives for the first time on HD consoles and PC. With improved gameplay, deeper story and HD graphics makes Liberation an immersive and full Assassin’s Creed experience.\n\nThe year is 1765. As the events leading up to the American Revolution heat up in the north, Spanish forces plan to take control of Louisiana in the south – but they have yet to reckon with Aveline, a deadly Assassin who will use every weapon and ability in her arsenal on her quest for freedom. . Whether eliminating her enemies with her multiple assassinations technique or luring them into deadly traps using her tools, Aveline strikes mortal fear into the hearts of those who stand in her way.\n\nAs an Assassin, Aveline soon finds herself on an unforgettable journey that will take her from the crowded streets of New Orleans to voodoo-haunted swamps and ancient Mayan ruins. She will play a pivotal role in the turbulent New Orleans revolution and the beginning of a new nation. As she fights for freedom, not for herself, but for those whose life and hopes have been squashed.",
+  "VideoURL": "https://www.youtube.com/watch?v=q5RxYUw4DFY",
+  "CommunityRating": "4.166666666666667",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_III:_Liberation",
+  "ESRB": "M - Mature",
+  "Genres": " Action; Adventure",
+  "Developer": "Ubisoft Eood",
+  "Publisher": "Ubisoft Entertainment",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "4cc613d6-2d35-4962-a44a-af21d99b3fd1.png",
+        "Type": "Banner",
+        "CRC32": "2632945507",
+        "URL": "http://images.launchbox-app.com/4cc613d6-2d35-4962-a44a-af21d99b3fd1.png"
+      },
+      {
+        "FileName": "9e93b13a-da5d-46bb-bfb5-1c232490cea4.png",
+        "Type": "Banner",
+        "CRC32": "1213349961",
+        "URL": "http://images.launchbox-app.com/9e93b13a-da5d-46bb-bfb5-1c232490cea4.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "27f66bd0-0862-4436-89ad-c60d7bb2f1cb.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3518436315",
+        "URL": "http://images.launchbox-app.com/27f66bd0-0862-4436-89ad-c60d7bb2f1cb.jpg"
+      }
+    ],
+    "Box": {
+      "Back": [
+        {
+          "FileName": "7cbafdf4-76e3-46a9-b59d-2d54d3b7b691.png",
+          "Type": "Box - Back",
+          "Region": "World",
+          "CRC32": "1670880513",
+          "URL": "http://images.launchbox-app.com/7cbafdf4-76e3-46a9-b59d-2d54d3b7b691.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "66fe7e5d-14b5-413c-a8a2-bc92724dad5f.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "399509718",
+          "URL": "http://images.launchbox-app.com/66fe7e5d-14b5-413c-a8a2-bc92724dad5f.jpg"
+        },
+        {
+          "FileName": "faa48061-3a7f-45dd-bb78-c6e66db39a80.png",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "598819691",
+          "URL": "http://images.launchbox-app.com/faa48061-3a7f-45dd-bb78-c6e66db39a80.png"
+        },
+        {
+          "FileName": "9b49771b-3a3b-4636-818a-622b7b2b23c9.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "474480796",
+          "URL": "http://images.launchbox-app.com/9b49771b-3a3b-4636-818a-622b7b2b23c9.jpg"
+        },
+        {
+          "FileName": "ae2dd2a3-73a9-47db-af8c-6a650469db77.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "2650911919",
+          "URL": "http://images.launchbox-app.com/ae2dd2a3-73a9-47db-af8c-6a650469db77.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "42dfebf1-d46c-4fb0-8e50-f282126e41ac.png",
+          "Type": "Box - Spine",
+          "Region": "World",
+          "CRC32": "2026837025",
+          "URL": "http://images.launchbox-app.com/42dfebf1-d46c-4fb0-8e50-f282126e41ac.png"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "dbee3afe-26d7-4d67-82de-a3101ec29e7c.png",
+        "Type": "Clear Logo",
+        "CRC32": "1470706372",
+        "URL": "http://images.launchbox-app.com/dbee3afe-26d7-4d67-82de-a3101ec29e7c.png"
+      }
+    ]
+  }
+}

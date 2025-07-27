@@ -1,0 +1,85 @@
+{
+  "Name": "Dead Island",
+  "DatabaseID": "8174",
+  "ReleaseDate": "2011-09-06T00:00:00-07:00",
+  "Overview": "Dead Island feature open world gameplay, played from a first person perspective, with up to four-player co-operative play in a heavily interactive environment. The focus will be on melee combat, incorporating customizable weaponry, vehicular customization/combat, and RPG elements.",
+  "VideoURL": "http://www.youtube.com/watch?v=lZqrG1bdGtg",
+  "CommunityRating": "4.1875",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Dead_Island",
+  "ESRB": "M - Mature",
+  "Genres": " Horror; Role-Playing",
+  "Developer": "Techland",
+  "Publisher": "Deep Silver",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "9111681c-6223-46c2-a1f5-51265340d488.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2975830975",
+        "URL": "http://images.launchbox-app.com/9111681c-6223-46c2-a1f5-51265340d488.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "1fb7b27d-39fe-4f9c-9b7d-92c8f335918c.png",
+          "Type": "Box - 3D",
+          "Region": "Europe",
+          "CRC32": "4196728059",
+          "URL": "http://images.launchbox-app.com/1fb7b27d-39fe-4f9c-9b7d-92c8f335918c.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "23ae0fb7-288a-4d6c-8c9e-6979c13096ba.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "515640894",
+          "URL": "http://images.launchbox-app.com/23ae0fb7-288a-4d6c-8c9e-6979c13096ba.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "6b69cf14-5d42-421b-bc1b-583cb0bb8ecc.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2791366846",
+          "URL": "http://images.launchbox-app.com/6b69cf14-5d42-421b-bc1b-583cb0bb8ecc.jpg"
+        },
+        {
+          "FileName": "23474c06-8353-4d3e-a35c-21e9aaac23c1.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "North America",
+          "CRC32": "423419190",
+          "URL": "http://images.launchbox-app.com/23474c06-8353-4d3e-a35c-21e9aaac23c1.png"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "16194421-d2e0-45d8-ad65-2aa5f1cfa2cf.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "3493673907",
+          "URL": "http://images.launchbox-app.com/16194421-d2e0-45d8-ad65-2aa5f1cfa2cf.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "2b8af697-4c13-4435-888f-9edc78442017.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2753508930",
+        "URL": "http://images.launchbox-app.com/2b8af697-4c13-4435-888f-9edc78442017.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "8bf3d613-dbb7-4fdb-8577-0817f8e5ce21.png",
+        "Type": "Clear Logo",
+        "CRC32": "3778764011",
+        "URL": "http://images.launchbox-app.com/8bf3d613-dbb7-4fdb-8577-0817f8e5ce21.png"
+      }
+    ]
+  }
+}

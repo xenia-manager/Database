@@ -1,0 +1,82 @@
+{
+  "Name": "LEGO The Lord of the Rings",
+  "DatabaseID": "12291",
+  "ReleaseDate": "2012-11-13T00:00:00-08:00",
+  "Overview": "LEGO The Lord of the Rings takes players along on the adventures of Frodo Baggins and his unlikely fellowship as they set out on a perilous journey to destroy The One Ring and save Middle-earth. Kids, tweens, teens and parents can traverse the Misty Mountains, explore the Mines of Moria, knock on the Black Gate of Mordor, and partake in epic battles with Orcs, Uruk-hai, the Balrog and other fearsome foes while harnessing the humor and imagination of LEGO gameplay to solve puzzles and explore Middle-earth. Players will take on the form of their favorite members of the fellowship – Frodo the Hobbit, Aragorn the Ranger, Gandalf the Wizard, Legolas the Elf, Gimli the Dwarf, Boromir a Man of Gondor, and Frodo's Hobbit friends Sam, Merry and Pippin – as they relive the most momentous events from the films.",
+  "VideoURL": "http://www.youtube.com/watch?v=5hOVFJRBqEw",
+  "CommunityRating": "3.8571428571428572",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Action; Adventure",
+  "Developer": "Traveller's Tales (UK)",
+  "Publisher": "Warner Bros. Interactive Entertainment",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "f4735b74-c325-416e-96e7-d42cd631d8e0.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3103806051",
+        "URL": "http://images.launchbox-app.com/f4735b74-c325-416e-96e7-d42cd631d8e0.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "f4216d8a-df8b-41af-9c4a-cef0a2ef682b.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "3140218989",
+          "URL": "http://images.launchbox-app.com/f4216d8a-df8b-41af-9c4a-cef0a2ef682b.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "3ade9faa-947a-45c0-b09a-19ce6debd84c.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "2707229827",
+          "URL": "http://images.launchbox-app.com/3ade9faa-947a-45c0-b09a-19ce6debd84c.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "c6f60c59-b318-4d7d-a7ca-bf996d5aa9a2.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3479273049",
+          "URL": "http://images.launchbox-app.com/c6f60c59-b318-4d7d-a7ca-bf996d5aa9a2.jpg"
+        },
+        {
+          "FileName": "a2e7efd4-435f-43fa-9e9b-ccb85f0294cb.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "North America",
+          "CRC32": "4192905166",
+          "URL": "http://images.launchbox-app.com/a2e7efd4-435f-43fa-9e9b-ccb85f0294cb.png"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "6495e778-3fbc-44b4-b3af-d76f0dbb5ba2.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1265136184",
+        "URL": "http://images.launchbox-app.com/6495e778-3fbc-44b4-b3af-d76f0dbb5ba2.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "1bd1bb39-a58f-4afa-851a-4997b54a37a2.png",
+        "Type": "Clear Logo",
+        "CRC32": "1958639791",
+        "URL": "http://images.launchbox-app.com/1bd1bb39-a58f-4afa-851a-4997b54a37a2.png"
+      },
+      {
+        "FileName": "1fa564c3-745f-49f5-aa4b-155cf4839d97.png",
+        "Type": "Clear Logo",
+        "Region": "Spain",
+        "CRC32": "523495602",
+        "URL": "http://images.launchbox-app.com/1fa564c3-745f-49f5-aa4b-155cf4839d97.png"
+      }
+    ]
+  }
+}

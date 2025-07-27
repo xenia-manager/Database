@@ -1,0 +1,80 @@
+{
+  "Name": "Madden NFL 06",
+  "DatabaseID": "15794",
+  "ReleaseDate": "2005-08-08T00:00:00-07:00",
+  "Overview": "Everything you know about the NFL is about to change.  With cleat marks tearing up the grass, thousands of life-like animations, and the emotion and intensity on each player's face, the stunning graphics and completely redesigned gameplay put you on an NFL field like never before.  Whether you're going head-to-head, playing online, or creating a Franchise mode powerhouse, you're about to experience the NFL in a whole new way.",
+  "CommunityRating": "1.75",
+  "ESRB": "E - Everyone",
+  "Genres": " Sports",
+  "Developer": "Electronic Arts Tiburon",
+  "Publisher": "Electronic Arts",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "9f89af8b-7bb6-473b-89ba-bdd20afbbd53.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "307601934",
+        "URL": "http://images.launchbox-app.com/9f89af8b-7bb6-473b-89ba-bdd20afbbd53.jpg"
+      },
+      {
+        "FileName": "95b669b9-517e-4413-80fb-44c55ad9f235.png",
+        "Type": "Fanart - Background",
+        "CRC32": "3941599166",
+        "URL": "http://images.launchbox-app.com/95b669b9-517e-4413-80fb-44c55ad9f235.png"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "92dd9429-3667-4d30-b4ac-e88ab794b17d.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "2805188693",
+          "URL": "http://images.launchbox-app.com/92dd9429-3667-4d30-b4ac-e88ab794b17d.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "bac22aae-dd70-41e8-8823-98a321ebb946.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "1482783458",
+          "URL": "http://images.launchbox-app.com/bac22aae-dd70-41e8-8823-98a321ebb946.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "defbaf34-9602-4241-abab-079a0fc4b4cd.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1722712140",
+          "URL": "http://images.launchbox-app.com/defbaf34-9602-4241-abab-079a0fc4b4cd.jpg"
+        },
+        {
+          "FileName": "9785301d-4f30-455d-b731-4965445cfb26.jpg",
+          "Type": "Box - Front",
+          "Region": "Australia",
+          "CRC32": "1415385588",
+          "URL": "http://images.launchbox-app.com/9785301d-4f30-455d-b731-4965445cfb26.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "5f01929a-c9ab-4971-9e5e-aa2a840daf0c.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1121625105",
+        "URL": "http://images.launchbox-app.com/5f01929a-c9ab-4971-9e5e-aa2a840daf0c.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "182b5148-e179-4549-b7ac-23452e59f2d6.png",
+        "Type": "Clear Logo",
+        "CRC32": "817202969",
+        "URL": "http://images.launchbox-app.com/182b5148-e179-4549-b7ac-23452e59f2d6.png"
+      }
+    ]
+  }
+}

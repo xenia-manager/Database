@@ -1,0 +1,54 @@
+{
+  "Name": "Dragon Ball: Xenoverse",
+  "DatabaseID": "25640",
+  "ReleaseDate": "2015-02-27T00:00:00-08:00",
+  "CommunityRating": "4.1428571428571432",
+  "ESRB": "T - Teen",
+  "Genres": " Fighting; Role-Playing",
+  "Developer": "Dimps",
+  "Publisher": "Bandai Namco Games",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "8f7295ba-3093-4257-aeaf-ed11c3e6db6a.png",
+          "Type": "Box - 3D",
+          "Region": "Europe",
+          "CRC32": "3273067515",
+          "URL": "http://images.launchbox-app.com/8f7295ba-3093-4257-aeaf-ed11c3e6db6a.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "953eae16-eb94-452c-968a-9ede038b4157.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "3321274309",
+          "URL": "http://images.launchbox-app.com/953eae16-eb94-452c-968a-9ede038b4157.jpg"
+        },
+        {
+          "FileName": "97a0c228-51d1-4488-8d30-f0482c0e48b5.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "386495413",
+          "URL": "http://images.launchbox-app.com/97a0c228-51d1-4488-8d30-f0482c0e48b5.jpg"
+        },
+        {
+          "FileName": "r2_2281a79f-deb9-4fd5-8bbb-03eb7a42a9df.jpg",
+          "Type": "Fanart - Box - Front",
+          "Region": "United States",
+          "CRC32": "1899768681",
+          "URL": "http://images.launchbox-app.com/r2_2281a79f-deb9-4fd5-8bbb-03eb7a42a9df.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "cd6aa408-3011-4ed6-842d-70cb7aedfdd8.png",
+        "Type": "Clear Logo",
+        "CRC32": "2157471609",
+        "URL": "http://images.launchbox-app.com/cd6aa408-3011-4ed6-842d-70cb7aedfdd8.png"
+      }
+    ]
+  }
+}

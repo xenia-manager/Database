@@ -1,0 +1,92 @@
+{
+  "Name": "Dark Messiah: Might and Magic Elements",
+  "DatabaseID": "13181",
+  "ReleaseDate": "2008-02-12T00:00:00-08:00",
+  "Overview": "Dark Messiah of Might and Magic (additionally subtitled Elements on Xbox 360) is a first-person action video game with role-playing elements developed by Arkane Studios and Floodgate Entertainment. Kuju Entertainment developed the multiplayer mode. The player controls Sareth, the apprentice of the wizard Phenrig, after he is sent to the city of Stonehelm to accompany an expedition trying to retrieve a powerful artifact known as \"The Skull of Shadows\".\n\nDark Messiah of Might and Magic was released on October 24, 2006 on PC, and Dark Messiah of Might and Magic: Elements was released later on February 12, 2008 for the Xbox 360. It adds new levels in the single-player campaign, a revamped multiplayer mode, numerous bug-fixes, and adjustments for the console experience.",
+  "VideoURL": "https://www.youtube.com/watch?v=45nROWagPEg",
+  "CommunityRating": "3",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Dark_Messiah_of_Might_and_Magic",
+  "ESRB": "M - Mature",
+  "Genres": " Role-Playing",
+  "Developer": "Ubisoft Annecy",
+  "Publisher": "Ubisoft",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "7cf648ac-4a92-4e59-ae7b-8ccac88cb3cb.png",
+        "Type": "Banner",
+        "CRC32": "2262758703",
+        "URL": "http://images.launchbox-app.com/7cf648ac-4a92-4e59-ae7b-8ccac88cb3cb.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "b108174a-d6c0-43d5-9927-b574ad4dee53.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1624015150",
+        "URL": "http://images.launchbox-app.com/b108174a-d6c0-43d5-9927-b574ad4dee53.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "bf4f6ddb-5fd8-4622-99f6-071614be8588.png",
+          "Type": "Box - 3D",
+          "CRC32": "3695593253",
+          "URL": "http://images.launchbox-app.com/bf4f6ddb-5fd8-4622-99f6-071614be8588.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "9235fb7e-c308-4b72-9ed6-f0bab5a7b1f6.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "4040710757",
+          "URL": "http://images.launchbox-app.com/9235fb7e-c308-4b72-9ed6-f0bab5a7b1f6.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "ba31a41c-cb5c-4eda-9e63-5ad5a05b46d5.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3986597470",
+          "URL": "http://images.launchbox-app.com/ba31a41c-cb5c-4eda-9e63-5ad5a05b46d5.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "b0a6a4da-4b32-4d42-8a94-0c02631049d9.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "3946655801",
+          "URL": "http://images.launchbox-app.com/b0a6a4da-4b32-4d42-8a94-0c02631049d9.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "b7dfd802-8d7b-4d6c-b37d-9b14c9bb906b.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "711109132",
+        "URL": "http://images.launchbox-app.com/b7dfd802-8d7b-4d6c-b37d-9b14c9bb906b.png"
+      },
+      {
+        "FileName": "09545a13-d351-4da1-9762-50ffce70c0e8.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "3128162762",
+        "URL": "http://images.launchbox-app.com/09545a13-d351-4da1-9762-50ffce70c0e8.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "a612abe0-e6fb-40c3-a290-1b1abdcec006.png",
+        "Type": "Clear Logo",
+        "CRC32": "801118267",
+        "URL": "http://images.launchbox-app.com/a612abe0-e6fb-40c3-a290-1b1abdcec006.png"
+      }
+    ]
+  }
+}

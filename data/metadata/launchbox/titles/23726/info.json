@@ -1,0 +1,58 @@
+{
+  "Name": "Espgaluda II: Black Label",
+  "DatabaseID": "23726",
+  "ReleaseDate": "2021-02-25T00:00:00-08:00",
+  "Overview": "Espgaluda II (エスプガルーダII) is a bullet hell shoot'em up originally released by Cave in the arcades in 2005 as a sequel to Espgaluda. An Xbox 360 release, titled Espgaluda II Black Label, was released in 2010 in Japan.\n\nThe Xbox 360 version features online leaderboards, redrawn HD graphics, the ability to save replays, and has the following modes: Arcade Mode, Xbox 360 Mode (identical to arcade but with HD graphics), Novice Mode, Black Label Novice Mode (Seseri is playable), Black Label (Seseri is playable), Arrange Mode, Omake Mode (unlocked after beating any mode on any settings).",
+  "CommunityRating": "3.2272727272727271",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Espgaluda_II",
+  "ESRB": "Not Rated",
+  "Genres": " Shooter",
+  "Developer": "Cave",
+  "Publisher": "Cave",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "fce5b7cc-2a04-4298-a8b4-869bc92f08f5.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2741872686",
+        "URL": "http://images.launchbox-app.com/fce5b7cc-2a04-4298-a8b4-869bc92f08f5.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "dce9102b-eaf2-48e7-a561-9da2d603f82b.png",
+          "Type": "Box - 3D",
+          "CRC32": "789577817",
+          "URL": "http://images.launchbox-app.com/dce9102b-eaf2-48e7-a561-9da2d603f82b.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "9270e846-1575-4cf5-a1bc-3d42fdae3822.jpg",
+          "Type": "Box - Front",
+          "Region": "Japan",
+          "CRC32": "509667833",
+          "URL": "http://images.launchbox-app.com/9270e846-1575-4cf5-a1bc-3d42fdae3822.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "82bd8828-9a1f-47d1-84ef-377d20404fc1.png",
+        "Type": "Disc",
+        "Region": "Japan",
+        "CRC32": "2666024838",
+        "URL": "http://images.launchbox-app.com/82bd8828-9a1f-47d1-84ef-377d20404fc1.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "5eb0a0c8-69f1-463d-b510-011f66715a47.png",
+        "Type": "Clear Logo",
+        "CRC32": "982803414",
+        "URL": "http://images.launchbox-app.com/5eb0a0c8-69f1-463d-b510-011f66715a47.png"
+      }
+    ]
+  }
+}

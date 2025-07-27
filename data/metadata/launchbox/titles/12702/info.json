@@ -1,0 +1,67 @@
+{
+  "Name": "Birds of Steel",
+  "DatabaseID": "12702",
+  "ReleaseDate": "2012-03-13T00:00:00-07:00",
+  "Overview": "Get ready to strap in, go back in time and take stick in the most pivotal battles in the history of air combat. Birds of Steel puts you right in the crosshairs of WWII's most intense skirmishes. This original IP blends next gen supremacy and the fine details of aerial combat into a historical recreation fit for flight sim fans and history buffs alike. Use your skills to pilot the top planes from all combatants in WWII to recreate history or to change the outcomes of the most prolific battles in history. Online and offline elements add an entire new element to the game which will ensure Birds of Steel remains a fresh combat experience long after you've played for the first time.",
+  "VideoURL": "http://www.youtube.com/watch?v=8-lpR0W1UhU",
+  "CommunityRating": "2.1666666666666665",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Birds_of_Steel",
+  "ESRB": "T - Teen",
+  "Genres": " Flight Simulator; Shooter",
+  "Developer": "Gaijin Entertainment",
+  "Publisher": "Konami",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "c750bec3-c60c-4017-a254-8a32c1340de4.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "183566267",
+          "URL": "http://images.launchbox-app.com/c750bec3-c60c-4017-a254-8a32c1340de4.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "a943245e-d2eb-4503-91f5-9de7a98a4fee.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "3819487731",
+          "URL": "http://images.launchbox-app.com/a943245e-d2eb-4503-91f5-9de7a98a4fee.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "09d1e8d6-bec6-46d5-99b1-0257981a508f.jpg",
+          "Type": "Box - Front",
+          "CRC32": "610920551",
+          "URL": "http://images.launchbox-app.com/09d1e8d6-bec6-46d5-99b1-0257981a508f.jpg"
+        },
+        {
+          "FileName": "1cb13f1d-3317-4809-be7a-b505852671a1.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "North America",
+          "CRC32": "2018742640",
+          "URL": "http://images.launchbox-app.com/1cb13f1d-3317-4809-be7a-b505852671a1.png"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "b18c83bb-c2fa-45e4-9343-a469291be502.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1649646839",
+        "URL": "http://images.launchbox-app.com/b18c83bb-c2fa-45e4-9343-a469291be502.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "6659629d-3ac4-483a-bc55-ec08c1f73933.png",
+        "Type": "Clear Logo",
+        "CRC32": "2331105696",
+        "URL": "http://images.launchbox-app.com/6659629d-3ac4-483a-bc55-ec08c1f73933.png"
+      }
+    ]
+  }
+}

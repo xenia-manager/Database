@@ -1,0 +1,55 @@
+{
+  "Name": "SpongeBob's Surf & Skate Roadtrip",
+  "DatabaseID": "8890",
+  "ReleaseDate": "2011-11-08T00:00:00-08:00",
+  "Overview": "SpongeBob's Surf & Skate Roadtrip is a SpongeBob SquarePants video game developed by Blitz Games and published by THQ. It is the final SpongeBob game made by Blitz Games and the last SpongeBob game to be published by THQ.[1] It is available for Nintendo DS and Xbox 360. It is the first SpongeBob game on Xbox to use Kinect.[2]",
+  "CommunityRating": "4",
+  "Genres": null,
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "fa6da5aa-d8d0-4fcc-8552-25192e83936f.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "4034993966",
+          "URL": "http://images.launchbox-app.com/fa6da5aa-d8d0-4fcc-8552-25192e83936f.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "53a3e99e-c2e4-4d35-87a9-322dea8938ba.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1244977153",
+          "URL": "http://images.launchbox-app.com/53a3e99e-c2e4-4d35-87a9-322dea8938ba.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "19357448-b828-486d-8d00-691d7b63943c.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "185321375",
+        "URL": "http://images.launchbox-app.com/19357448-b828-486d-8d00-691d7b63943c.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "04d05925-a848-467a-8dd8-fc57022b517c.png",
+        "Type": "Clear Logo",
+        "Region": "Spain",
+        "CRC32": "2287019371",
+        "URL": "http://images.launchbox-app.com/04d05925-a848-467a-8dd8-fc57022b517c.png"
+      },
+      {
+        "FileName": "134d615e-8451-463b-bc12-4ce8bef907f1.png",
+        "Type": "Clear Logo",
+        "Region": "North America",
+        "CRC32": "2192404181",
+        "URL": "http://images.launchbox-app.com/134d615e-8451-463b-bc12-4ce8bef907f1.png"
+      }
+    ]
+  }
+}

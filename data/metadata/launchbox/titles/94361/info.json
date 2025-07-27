@@ -1,0 +1,33 @@
+{
+  "Name": "Worms 2: Armageddon",
+  "DatabaseID": "94361",
+  "ReleaseDate": "2009-07-01T00:00:00-07:00",
+  "Overview": "Worms 2: Armageddon is a 2D artillery turn-based tactics video game developed by Team17. It was released on July 1, 2009 on Xbox Live Arcade. The game is a follow up to the 2007 Worms game. It adds a new 30-mission campaign, three tutorials, and five secret missions. 40 weapons are available, including returning favorites (the sheep variants and the Holy Hand Grenade), and some new additions (a Bunker Buster and the Buffalo of Lies).\n\nPlayers control a team of armed worms fighting atop a 2-D randomized battlefield. Players take turns controlling one worm at a time, and can either position the worm until time runs out, or use one weapon from a selection menu.",
+  "CommunityRating": "4.166666666666667",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Worms_2:_Armageddon",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Strategy",
+  "Developer": "Team17 Software",
+  "Publisher": "Team17 Software",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "dd4afdc1-7e18-498a-aaf4-2bda36a27dd4.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "4241603556",
+          "URL": "http://images.launchbox-app.com/dd4afdc1-7e18-498a-aaf4-2bda36a27dd4.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "efb40903-ff4d-4f28-bcf2-5eedc914d1f9.png",
+        "Type": "Clear Logo",
+        "CRC32": "2940611321",
+        "URL": "http://images.launchbox-app.com/efb40903-ff4d-4f28-bcf2-5eedc914d1f9.png"
+      }
+    ]
+  }
+}

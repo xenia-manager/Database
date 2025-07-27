@@ -1,0 +1,31 @@
+{
+  "Name": "Megamind: Ultimate Showdown",
+  "DatabaseID": "13713",
+  "ReleaseDate": "2010-11-02T00:00:00-07:00",
+  "Overview": "Just as Megamind has become our new Mega Hero, a sudden crime wave hits the city. The Doom Syndicate & their Doom Goons have emerged and are looking to take over! Only Megamind and his arsenal of gadgets can stop them!",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Action",
+  "Developer": "THQ",
+  "Publisher": "THQ",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "84c90fd9-c71a-407c-98cc-65e6aef80830.jpg",
+          "Type": "Box - Front",
+          "CRC32": "3376591054",
+          "URL": "http://images.launchbox-app.com/84c90fd9-c71a-407c-98cc-65e6aef80830.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "530bb73e-e158-4e73-a69c-3e58f082802d.png",
+        "Type": "Clear Logo",
+        "Region": "Spain",
+        "CRC32": "1940454468",
+        "URL": "http://images.launchbox-app.com/530bb73e-e158-4e73-a69c-3e58f082802d.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "Name": "Jane's Advanced Strike Fighters",
+  "DatabaseID": "15705",
+  "ReleaseDate": "2011-10-18T00:00:00-07:00",
+  "Overview": "JASF: Jane's Advanced Strike Fighters is an arcade styled flight simulator developed by Trickstar Games and published by Maximum Family Games.[1] Released in October 2011,[1] it was the first game to have the Jane's title in over a decade.[citation needed] Unlike the previous games in the Jane's Combat Simulations line, JASF does not feature realistic gameplay and instead focuses more on arcade-style action.[2]",
+  "CommunityRating": "4",
+  "ESRB": "T - Teen",
+  "Genres": " Flight Simulator",
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "763df7c5-f75d-484d-bd6d-488890c4ece4.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "1831689154",
+          "URL": "http://images.launchbox-app.com/763df7c5-f75d-484d-bd6d-488890c4ece4.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "b2bba1d6-a38b-4aef-9be4-f6ae9e3e9321.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3879292913",
+          "URL": "http://images.launchbox-app.com/b2bba1d6-a38b-4aef-9be4-f6ae9e3e9321.jpg"
+        },
+        {
+          "FileName": "48f4e31b-9625-4a4e-98f1-8e9dc3056e66.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "North America",
+          "CRC32": "2268007527",
+          "URL": "http://images.launchbox-app.com/48f4e31b-9625-4a4e-98f1-8e9dc3056e66.png"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "4ffe208e-cb3d-4e86-8ad0-0abe181d9539.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "1515217739",
+          "URL": "http://images.launchbox-app.com/4ffe208e-cb3d-4e86-8ad0-0abe181d9539.jpg"
+        },
+        {
+          "FileName": "afc5e309-75fc-4312-a1d4-1c8421cae0ad.png",
+          "Type": "Box - Spine",
+          "Region": "World",
+          "CRC32": "642877648",
+          "URL": "http://images.launchbox-app.com/afc5e309-75fc-4312-a1d4-1c8421cae0ad.png"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "33c38c0a-ea36-404e-bc13-3dd8c15d0423.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "3116607099",
+        "URL": "http://images.launchbox-app.com/33c38c0a-ea36-404e-bc13-3dd8c15d0423.png"
+      }
+    ]
+  }
+}

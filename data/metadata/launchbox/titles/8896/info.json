@@ -1,0 +1,56 @@
+{
+  "Name": "Winter Stars",
+  "DatabaseID": "8896",
+  "ReleaseDate": "2011-11-09T00:00:00-08:00",
+  "Overview": "Winter Stars brings the thrill and fun of winter sports to the player's home and lets them compete with friends and family for trophies and medals.",
+  "CommunityRating": "2.5",
+  "ESRB": "E - Everyone",
+  "Genres": " Sports",
+  "Developer": "49Games",
+  "Publisher": "Deep Silver",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "545187dd-7c28-43d9-a71c-66d104a080de.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "841555550",
+        "URL": "http://images.launchbox-app.com/545187dd-7c28-43d9-a71c-66d104a080de.jpg"
+      }
+    ],
+    "Box": {
+      "Back": [
+        {
+          "FileName": "18320c6e-8520-44ae-b2eb-51ada6f85967.jpg",
+          "Type": "Box - Back",
+          "CRC32": "4161711564",
+          "URL": "http://images.launchbox-app.com/18320c6e-8520-44ae-b2eb-51ada6f85967.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "86023002-3fa7-49a4-8ffb-0eba5296ce16.jpg",
+          "Type": "Box - Front",
+          "CRC32": "1273298866",
+          "URL": "http://images.launchbox-app.com/86023002-3fa7-49a4-8ffb-0eba5296ce16.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "efc94bd9-a313-4027-8917-69a2aa65a509.png",
+        "Type": "Disc",
+        "Region": "Germany",
+        "CRC32": "3927009801",
+        "URL": "http://images.launchbox-app.com/efc94bd9-a313-4027-8917-69a2aa65a509.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "55b7a887-2a95-443d-8834-bd39917993ad.png",
+        "Type": "Clear Logo",
+        "CRC32": "156405236",
+        "URL": "http://images.launchbox-app.com/55b7a887-2a95-443d-8834-bd39917993ad.png"
+      }
+    ]
+  }
+}

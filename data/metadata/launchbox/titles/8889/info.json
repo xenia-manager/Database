@@ -1,0 +1,64 @@
+{
+  "Name": "Spider-Man: Edge of Time",
+  "DatabaseID": "8889",
+  "ReleaseDate": "2011-10-04T00:00:00-07:00",
+  "Overview": "Spider-Man: Edge of Time challenges the player to take on the roles of both classic Amazing Spider-Man and Spider-Man 2099 to correct a timestream gone awry and prevent a catastrophic future brought on by the early and untimely death of Peter Parker.",
+  "CommunityRating": "3.8125",
+  "ESRB": "T - Teen",
+  "Genres": null,
+  "Developer": "Beenox",
+  "Publisher": "Activision",
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "6c6f993b-732d-42b2-8438-0317deecc99a.jpg",
+          "Type": "Box - Back",
+          "CRC32": "1272897149",
+          "URL": "http://images.launchbox-app.com/6c6f993b-732d-42b2-8438-0317deecc99a.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "64d1b7da-f6a1-4df8-83cd-dd4545bfa7c7.jpg",
+          "Type": "Box - Front",
+          "CRC32": "3168348918",
+          "URL": "http://images.launchbox-app.com/64d1b7da-f6a1-4df8-83cd-dd4545bfa7c7.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "314b31ae-4766-41ad-87ff-04d1ed3c8829.jpg",
+          "Type": "Box - Spine",
+          "Region": "Australia",
+          "CRC32": "862718804",
+          "URL": "http://images.launchbox-app.com/314b31ae-4766-41ad-87ff-04d1ed3c8829.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "4d2e7f7f-24c0-4bcc-b5ce-a5abe03e8b15.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1565532679",
+        "URL": "http://images.launchbox-app.com/4d2e7f7f-24c0-4bcc-b5ce-a5abe03e8b15.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "130a96f3-17e5-4b0f-9a86-71bec36bc6ae.png",
+        "Type": "Clear Logo",
+        "CRC32": "1080502124",
+        "URL": "http://images.launchbox-app.com/130a96f3-17e5-4b0f-9a86-71bec36bc6ae.png"
+      },
+      {
+        "FileName": "r2_a9b2e87d-e5d6-4cca-ac8a-dcb64b46d647.png",
+        "Type": "Clear Logo",
+        "Region": "United States",
+        "CRC32": "2560199990",
+        "URL": "http://images.launchbox-app.com/r2_a9b2e87d-e5d6-4cca-ac8a-dcb64b46d647.png"
+      }
+    ]
+  }
+}

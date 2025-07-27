@@ -1,0 +1,23 @@
+{
+  "Name": "Pool Nation",
+  "DatabaseID": "209794",
+  "ReleaseDate": "2012-10-31T00:00:00-07:00",
+  "Overview": "Slow down and rewind time with the replay system which lets you review the action close up. Take on skilled virtual opponents in the career modes, unlocking new balls, locations, and cues. Play other users around the world on Xbox LIVE, with single matches and tournaments. Get hooked on the challenging Endurance mode, a frantic pot-against-the clock game which promises to keep you coming back for more.",
+  "CommunityRating": "3.8333333333333335",
+  "ESRB": "E - Everyone",
+  "Genres": " Sports",
+  "Developer": "Cherry Pop Games",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "8e71c057-5c2f-42ed-84ec-adc6e4fff344.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "594051896",
+          "URL": "http://images.launchbox-app.com/8e71c057-5c2f-42ed-84ec-adc6e4fff344.jpg"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "Name": "Dragon Age: Origins: Ultimate Edition",
+  "DatabaseID": "12651",
+  "ReleaseDate": "2010-10-25T00:00:00-07:00",
+  "Overview": "Dragon Age Origins:You are a Grey Warden, one of the last of this legendary order of guardians. With the return of mankind's ancient foe and the kingdom engulfed in civil war, you have been chosen by fate to unite the shattered lands and slay the archdemon once and for all. Explore a stunning world, make complex moral choices, and engage in bone-crushing combat against massive and terrifying creatures.",
+  "VideoURL": "https://en.wikipedia.org/wiki/Dragon_Age:_Origins",
+  "CommunityRating": "4.5",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Dragon_Age:_Origins",
+  "ESRB": "M - Mature",
+  "Genres": " Action; Role-Playing",
+  "Developer": "BioWare",
+  "Publisher": "Electronic Arts",
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "bbe9fed6-c23b-492f-a872-88dcc32fd6f2.jpg",
+          "Type": "Box - Back",
+          "CRC32": "3338096510",
+          "URL": "http://images.launchbox-app.com/bbe9fed6-c23b-492f-a872-88dcc32fd6f2.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "85e4e7d5-0d54-4351-aacf-9b68b52b9915.jpg",
+          "Type": "Box - Front",
+          "CRC32": "3956672770",
+          "URL": "http://images.launchbox-app.com/85e4e7d5-0d54-4351-aacf-9b68b52b9915.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "fbfe0fb4-541d-4959-8699-3dc681699fd9.png",
+        "Type": "Clear Logo",
+        "CRC32": "3444232208",
+        "URL": "http://images.launchbox-app.com/fbfe0fb4-541d-4959-8699-3dc681699fd9.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "Name": "G-Force",
+  "DatabaseID": "15593",
+  "ReleaseDate": "2009-07-21T00:00:00-07:00",
+  "Overview": "G-Force is a licensed game based on the movie of the same name. The player takes the control of Darwin who is member of a secret government organization consisting of guinea pigs. His mission: defending the evil industrial magnate Saber who manipulates home appliances and uses them as weapons. \n\nNot surprisingly these are the main foes in this game. But Darwin is not even close to helpless: various guns and gadgets, e.g. a jet pack, a electronic whip or a grappling hook, are used to dispatch of them. Most of the time is spent in fights but there are also puzzles. Many of them require the usage of Mooch, a fly. It can be summoned at any time and is able to reach high grounds, to deactivate electronic devices, to fly through small holes and even to slow down time to pass through fast moving obstacles.",
+  "CommunityRating": "3.625",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Action",
+  "Developer": "Eurocom Developments",
+  "Publisher": "Disney Interactive",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "ade179b2-0424-4810-a481-c5ef3660f83b.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "166906638",
+          "URL": "http://images.launchbox-app.com/ade179b2-0424-4810-a481-c5ef3660f83b.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "3ed6a12f-fad9-4a7d-8001-bd1dcba40be8.jpg",
+          "Type": "Box - Back",
+          "Region": "United States",
+          "CRC32": "222582979",
+          "URL": "http://images.launchbox-app.com/3ed6a12f-fad9-4a7d-8001-bd1dcba40be8.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "f7ce0663-e299-40d8-a386-914c48d5e103.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "3532343255",
+          "URL": "http://images.launchbox-app.com/f7ce0663-e299-40d8-a386-914c48d5e103.jpg"
+        },
+        {
+          "FileName": "538a1863-9a41-4fbd-8dd5-100d6bab3675.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2921272341",
+          "URL": "http://images.launchbox-app.com/538a1863-9a41-4fbd-8dd5-100d6bab3675.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "cf948a27-b549-4443-bb53-e1636305aa7a.jpg",
+          "Type": "Box - Spine",
+          "Region": "United States",
+          "CRC32": "4161828281",
+          "URL": "http://images.launchbox-app.com/cf948a27-b549-4443-bb53-e1636305aa7a.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "9f65f2c2-a8ca-4a20-a49e-e26eaeb23316.jpg",
+        "Type": "Disc",
+        "Region": "United States",
+        "CRC32": "1078702406",
+        "URL": "http://images.launchbox-app.com/9f65f2c2-a8ca-4a20-a49e-e26eaeb23316.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "1651154d-015a-4761-bc70-882c8ce7fe34.png",
+        "Type": "Clear Logo",
+        "CRC32": "3517660179",
+        "URL": "http://images.launchbox-app.com/1651154d-015a-4761-bc70-882c8ce7fe34.png"
+      },
+      {
+        "FileName": "5977ebff-f653-465b-b6ea-e0560f311b1a.png",
+        "Type": "Clear Logo",
+        "Region": "Spain",
+        "CRC32": "447445748",
+        "URL": "http://images.launchbox-app.com/5977ebff-f653-465b-b6ea-e0560f311b1a.png"
+      }
+    ]
+  }
+}

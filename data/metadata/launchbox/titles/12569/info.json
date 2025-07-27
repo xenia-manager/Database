@@ -1,0 +1,106 @@
+{
+  "Name": "Ridge Racer Unbounded",
+  "DatabaseID": "12569",
+  "ReleaseDate": "2012-03-27T00:00:00-07:00",
+  "Overview": "This latest entry in the celebrated RIDGE RACER series turbo-charges the racing genre with full environmental and vehicular destruction. The signature arcade handling and drifting elements that fans have come to know and love combined with explosive action takes RIDGE RACER UNBOUNDED to the next level of competitive racing. With a new car selection including powerful vintage muscle cars, take over every alley and street corner in Shatter Bay in the most visceral and destructive racing game of 2012.",
+  "VideoURL": "http://www.youtube.com/watch?v=LZ4ZNPDHQDY",
+  "CommunityRating": "2.5",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Ridge_Racer_Unbounded",
+  "ESRB": "T - Teen",
+  "Genres": " Racing",
+  "Developer": "Bugbear Entertainment",
+  "Publisher": "Namco Bandai Games America",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "21b64fea-b1fc-4878-a92d-d5779a59e100.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "448595786",
+        "URL": "http://images.launchbox-app.com/21b64fea-b1fc-4878-a92d-d5779a59e100.jpg"
+      },
+      {
+        "FileName": "240de8e4-db57-400c-96f9-1b470ad8fa56.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3985092547",
+        "URL": "http://images.launchbox-app.com/240de8e4-db57-400c-96f9-1b470ad8fa56.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "3ca3b450-bec4-4fb6-bea6-c93a6a5e8bba.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "2388816928",
+          "URL": "http://images.launchbox-app.com/3ca3b450-bec4-4fb6-bea6-c93a6a5e8bba.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "5fbecb8b-fc7d-45d8-a6fe-8236f4faa972.png",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "4211387081",
+          "URL": "http://images.launchbox-app.com/5fbecb8b-fc7d-45d8-a6fe-8236f4faa972.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "5d4ed576-56a7-4e25-a202-3a03ea4632db.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "3762375680",
+          "URL": "http://images.launchbox-app.com/5d4ed576-56a7-4e25-a202-3a03ea4632db.jpg"
+        },
+        {
+          "FileName": "fb92baff-e9f0-4289-adf8-857516965225.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1589119496",
+          "URL": "http://images.launchbox-app.com/fb92baff-e9f0-4289-adf8-857516965225.jpg"
+        },
+        {
+          "FileName": "9ff3c936-93ea-4005-9bee-3c2dcce533d6.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "North America",
+          "CRC32": "2486086854",
+          "URL": "http://images.launchbox-app.com/9ff3c936-93ea-4005-9bee-3c2dcce533d6.png"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "8d82c755-bcc7-4486-be82-e8a978118add.jpg",
+          "Type": "Box - Spine",
+          "Region": "Europe",
+          "CRC32": "2100130685",
+          "URL": "http://images.launchbox-app.com/8d82c755-bcc7-4486-be82-e8a978118add.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "458b2d8e-7939-4fcb-b18d-245efe1fddcc.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "2539516268",
+        "URL": "http://images.launchbox-app.com/458b2d8e-7939-4fcb-b18d-245efe1fddcc.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "cba5059a-f9b3-48ed-8167-b908653dcaa1.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "1390385091",
+        "URL": "http://images.launchbox-app.com/cba5059a-f9b3-48ed-8167-b908653dcaa1.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "f9abc77b-a421-44b8-a634-5ccda3b6cbe9.png",
+        "Type": "Clear Logo",
+        "CRC32": "3658761664",
+        "URL": "http://images.launchbox-app.com/f9abc77b-a421-44b8-a634-5ccda3b6cbe9.png"
+      }
+    ]
+  }
+}

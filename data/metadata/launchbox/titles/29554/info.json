@@ -1,0 +1,60 @@
+{
+  "Name": "Farming Simulator 15",
+  "DatabaseID": "29554",
+  "Overview": "Farming Simulator 15 was released to Windows and Mac OS on October 30, 2014. This version introduced forestry, washable vehicles. 41 brands, amounting to around 140 pieces of equipment are in the new game, 160 in the 'gold edition' DLC pack. Farming Simulator 15 was released to consoles on May 19, 2015.[4]",
+  "VideoURL": "http://www.youtube.com/watch?v=z_8POY6gHeM",
+  "CommunityRating": "5",
+  "Genres": " Construction and Management Simulation",
+  "Developer": "Giants Software",
+  "Publisher": "Focus Home Interactive",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "bb192c4f-0a5f-4975-b8d1-05b280b2ef98.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "1975906927",
+          "URL": "http://images.launchbox-app.com/bb192c4f-0a5f-4975-b8d1-05b280b2ef98.png"
+        },
+        {
+          "FileName": "35844e71-69c5-4787-a97f-4583123c3ce2.png",
+          "Type": "Box - 3D",
+          "Region": "Europe",
+          "CRC32": "1511377167",
+          "URL": "http://images.launchbox-app.com/35844e71-69c5-4787-a97f-4583123c3ce2.png"
+        },
+        {
+          "FileName": "020d36ee-e759-4f94-bd3e-d459656ad9a3.png",
+          "Type": "Box - 3D",
+          "CRC32": "17458681",
+          "URL": "http://images.launchbox-app.com/020d36ee-e759-4f94-bd3e-d459656ad9a3.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "b4fdf33e-8afc-467a-a16d-7926dd0af3d5.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1083053582",
+          "URL": "http://images.launchbox-app.com/b4fdf33e-8afc-467a-a16d-7926dd0af3d5.jpg"
+        },
+        {
+          "FileName": "7ce34683-8435-4311-b46a-c7b27458c510.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "2159445493",
+          "URL": "http://images.launchbox-app.com/7ce34683-8435-4311-b46a-c7b27458c510.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "38119580-4417-4529-bdc2-22b319b6256f.png",
+        "Type": "Clear Logo",
+        "CRC32": "428730722",
+        "URL": "http://images.launchbox-app.com/38119580-4417-4529-bdc2-22b319b6256f.png"
+      }
+    ]
+  }
+}

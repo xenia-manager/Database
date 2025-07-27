@@ -1,0 +1,42 @@
+{
+  "Name": "Iron Brigade",
+  "DatabaseID": "20313",
+  "ReleaseDate": "2011-06-22T00:00:00-07:00",
+  "Overview": "Protect humanity from the evil Monovision menace in this Tower Defense Shooter from Double Fine Productions. Join The Mobile Trench Brigade! Use a combination of mobile firepower and stationary defenses to turn the tide of war in our favor. Customize your trench with thousands of possible loadouts. March side by side with allies from around the world as you fight your way through Europe, Africa, and the Pacific. The Mobile Trench Brigade. Walk with us.",
+  "VideoURL": "https://www.youtube.com/watch?v=4WbwcNPAe3A",
+  "CommunityRating": "3.1",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Iron_Brigade_(video_game)",
+  "ESRB": "T - Teen",
+  "Genres": " Shooter; Strategy",
+  "Developer": "Double Fine Productions",
+  "Publisher": "Microsoft Game Studios",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "c3704aab-ff58-4df6-a20f-7eea5f270b1c.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1593984628",
+        "URL": "http://images.launchbox-app.com/c3704aab-ff58-4df6-a20f-7eea5f270b1c.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "d877f1a4-4f9b-402d-9fbe-6488b08a5915.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "2265154012",
+          "URL": "http://images.launchbox-app.com/d877f1a4-4f9b-402d-9fbe-6488b08a5915.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "982c17b8-df56-407c-b98b-f156623302e9.png",
+        "Type": "Clear Logo",
+        "CRC32": "2932623699",
+        "URL": "http://images.launchbox-app.com/982c17b8-df56-407c-b98b-f156623302e9.png"
+      }
+    ]
+  }
+}

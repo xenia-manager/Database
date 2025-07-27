@@ -1,0 +1,74 @@
+{
+  "Name": "Defiance",
+  "DatabaseID": "15423",
+  "ReleaseDate": "2013-04-02T00:00:00-07:00",
+  "Overview": "Defiance is a science fiction-themed persistent world massively multiplayer online third-person shooter developed by Trion Worlds. Defiance takes place on a terraformed Earth several decades into the future. It is a tie-in to the Syfy show of the same name. The game was released in April 2013 for Microsoft Windows, PlayStation 3 and Xbox 360. It was also released on Steam. The game went free-to-play on June 4, 2014 for PC, August 14, 2014 for PS3 and November 18, 2014 for Xbox 360.",
+  "VideoURL": "https://www.youtube.com/watch?v=Jfi3SRjC0hs",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Defiance_(video_game)",
+  "ESRB": "M - Mature",
+  "Genres": " Shooter",
+  "Developer": "Trion Worlds",
+  "Publisher": "Trion Worlds",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "b6c85e03-9d5e-49f0-9c7b-99bf6b5daf0c.png",
+        "Type": "Banner",
+        "CRC32": "644926165",
+        "URL": "http://images.launchbox-app.com/b6c85e03-9d5e-49f0-9c7b-99bf6b5daf0c.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "d48078a1-de27-4568-bfda-4ee35e4294d5.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3243895776",
+        "URL": "http://images.launchbox-app.com/d48078a1-de27-4568-bfda-4ee35e4294d5.jpg"
+      }
+    ],
+    "Box": {
+      "Back": [
+        {
+          "FileName": "eeea554e-0334-4956-865b-7f9b7a5cc100.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "2519810903",
+          "URL": "http://images.launchbox-app.com/eeea554e-0334-4956-865b-7f9b7a5cc100.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "0392622e-f80b-4dcf-b044-73ae4ab04272.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3959896842",
+          "URL": "http://images.launchbox-app.com/0392622e-f80b-4dcf-b044-73ae4ab04272.jpg"
+        },
+        {
+          "FileName": "914ae65f-aee9-4101-9b07-c72ce4beebc8.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "North America",
+          "CRC32": "1005137430",
+          "URL": "http://images.launchbox-app.com/914ae65f-aee9-4101-9b07-c72ce4beebc8.png"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "bf724af4-8453-46e1-abe7-2b1b1286f45c.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1517534562",
+        "URL": "http://images.launchbox-app.com/bf724af4-8453-46e1-abe7-2b1b1286f45c.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "6ec84b42-8633-4fce-91d4-1bbe835bd344.png",
+        "Type": "Clear Logo",
+        "CRC32": "4163063347",
+        "URL": "http://images.launchbox-app.com/6ec84b42-8633-4fce-91d4-1bbe835bd344.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "Name": "Battlefield: Bad Company 2: Ultimate Edition",
+  "DatabaseID": "22507",
+  "ReleaseDate": "2010-03-02T00:00:00-08:00",
+  "Overview": "The game is primarily a squad-level first-person shooter based in a contemporary modern warfare setting. Additionally, the game includes a single-player campaign, where the player re-assumes the role of Preston Marlowe, the protagonist of the original game. The game's Frostbite 1.5 engine allows for destructible environments. Multiplayer maps, which allow for five different game modes, contain a wide selection of vehicles, aircraft and emplacements",
+  "VideoURL": "http://www.youtube.com/watch?v=vUyb349ruJI",
+  "CommunityRating": "5",
+  "ESRB": "M - Mature",
+  "Genres": " Shooter",
+  "Developer": "DiCE",
+  "Publisher": "Electronic Arts",
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "e9ec30d0-b462-4ef2-86c4-5854109bf0ac.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "143638367",
+          "URL": "http://images.launchbox-app.com/e9ec30d0-b462-4ef2-86c4-5854109bf0ac.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "6e43d8ec-96c4-4cdf-90a1-211ccda7da84.jpg",
+          "Type": "Box - Front",
+          "Region": "Norway",
+          "CRC32": "340612806",
+          "URL": "http://images.launchbox-app.com/6e43d8ec-96c4-4cdf-90a1-211ccda7da84.jpg"
+        },
+        {
+          "FileName": "71703cbe-6c8c-4dc2-b458-50b6ca442f6d.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "340612806",
+          "URL": "http://images.launchbox-app.com/71703cbe-6c8c-4dc2-b458-50b6ca442f6d.jpg"
+        },
+        {
+          "FileName": "ac4e8758-1dfa-4513-b617-3cc4aa618ffc.jpg",
+          "Type": "Box - Front",
+          "CRC32": "999667858",
+          "URL": "http://images.launchbox-app.com/ac4e8758-1dfa-4513-b617-3cc4aa618ffc.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "f43df85c-13f4-42c3-88e8-d2f7c2b1e093.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1223597514",
+        "URL": "http://images.launchbox-app.com/f43df85c-13f4-42c3-88e8-d2f7c2b1e093.png"
+      }
+    ]
+  }
+}

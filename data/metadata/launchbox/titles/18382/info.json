@@ -1,0 +1,46 @@
+{
+  "Name": "Virtua Fighter 5",
+  "DatabaseID": "18382",
+  "ReleaseDate": "2007-10-26T00:00:00-07:00",
+  "Overview": "Virtua Fighter 5 features an all-star cast of 17 fighters, including characters from the previous iterations along with two new characters named El Blaze and Eileen. El Blaze is a Mexican fighting champion who defeats opponents with his quick Lucha Libre fighting style. Eileen, originally from China, uses a Monkey Kung-Fu fighting style that she learned from her grandfather, a former Kung-Fu master. \n\nPlayers are able to customize their characters by selecting from four uniquely patterned costumes and a wide range of attachable items that can be placed onto each fighter’s various body parts. Virtua Fighter 5 delivers fast-paced, adrenaline-pumping action as players head into battle, taking on a host of popular characters. Players not only achieve victory by defeating highly-skilled opponents, but also by competing for prizes which earn them in-game money allowing them to buy many items at in-game shop. These items allow players to customize their ultimate warrior and become the top Virtua Fighter. \n\nIn addition, the game introduces \"Offensive Move\", a new maneuver that allows players to easily approach opponents from the side, adding a more strategic element to the battle",
+  "CommunityRating": "4.5",
+  "ESRB": "T - Teen",
+  "Genres": " Fighting",
+  "Developer": "Sega AM2",
+  "Publisher": "Sega",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "8230595d-98e1-451d-a1da-7789c24d90ce.jpg",
+          "Type": "Box - Front",
+          "CRC32": "2134131539",
+          "URL": "http://images.launchbox-app.com/8230595d-98e1-451d-a1da-7789c24d90ce.jpg"
+        },
+        {
+          "FileName": "5fc61ebc-6560-4dfa-85ed-b96d64fb5000.jpg",
+          "Type": "Box - Front - Reconstructed",
+          "CRC32": "1278671686",
+          "URL": "http://images.launchbox-app.com/5fc61ebc-6560-4dfa-85ed-b96d64fb5000.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "be2627b9-9a02-4610-b3c4-125bc8cb21cf.png",
+        "Type": "Disc",
+        "Region": "Australia",
+        "CRC32": "1048719202",
+        "URL": "http://images.launchbox-app.com/be2627b9-9a02-4610-b3c4-125bc8cb21cf.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "eb08e53d-2608-4ea1-8feb-ea737fc0653b.png",
+        "Type": "Clear Logo",
+        "CRC32": "711743586",
+        "URL": "http://images.launchbox-app.com/eb08e53d-2608-4ea1-8feb-ea737fc0653b.png"
+      }
+    ]
+  }
+}

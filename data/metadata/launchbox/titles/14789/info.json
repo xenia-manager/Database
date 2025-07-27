@@ -1,0 +1,83 @@
+{
+  "Name": "Skate 2",
+  "DatabaseID": "14789",
+  "ReleaseDate": "2009-01-21T00:00:00-08:00",
+  "Overview": "It's been five long years since your mysterious disappearance from the skate scene, and much has changed in the wake of \"the disaster-too-gnarly-to-be-named.\" The massive devastation left large swaths of San Vanelona completely destroyed. After the mass evacuation, one company, Mongocorp, won the bid to rebuild New San Vanelona and their zealous protection of their private property has put a damper on the once thriving skate population. Your mission is to rebuild your career and revive the New San Van skate scene. To help you get the job done, you'll have double the tricks and the new ability to get off your board to move stuff and create the sickest lines. There's even a crew of locals you can call on to help take care of business. Skate 2--it's time to take back the city ... one spot at a time.",
+  "CommunityRating": "4.208333333333333",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Skate_2",
+  "ESRB": "T - Teen",
+  "Genres": " Racing; Sports",
+  "Developer": "Electronic Arts Black Box",
+  "Publisher": "Electronic Arts",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "f779c1b3-2e98-43c1-8b7e-75edc4388cbe.jpg",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "3083371275",
+        "URL": "http://images.launchbox-app.com/f779c1b3-2e98-43c1-8b7e-75edc4388cbe.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "864cdd8f-3b95-414b-a901-e8fc7b4c5090.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "3284572331",
+          "URL": "http://images.launchbox-app.com/864cdd8f-3b95-414b-a901-e8fc7b4c5090.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "86d2bc2a-ee37-4f23-93fc-f83cb615273d.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "495568196",
+          "URL": "http://images.launchbox-app.com/86d2bc2a-ee37-4f23-93fc-f83cb615273d.jpg"
+        },
+        {
+          "FileName": "17286f11-88ef-47ed-aa6b-929bef95510b.jpg",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "3137281605",
+          "URL": "http://images.launchbox-app.com/17286f11-88ef-47ed-aa6b-929bef95510b.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "20885ffc-a00a-48cb-bcb9-ea363bdda5fd.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "3449870000",
+          "URL": "http://images.launchbox-app.com/20885ffc-a00a-48cb-bcb9-ea363bdda5fd.jpg"
+        },
+        {
+          "FileName": "dc2bd5b1-3bc2-4efd-ab06-7ba77eca3c04.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2216088741",
+          "URL": "http://images.launchbox-app.com/dc2bd5b1-3bc2-4efd-ab06-7ba77eca3c04.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "88a88d94-9c55-409b-aa6e-86446fe07ec8.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2346200401",
+        "URL": "http://images.launchbox-app.com/88a88d94-9c55-409b-aa6e-86446fe07ec8.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "b365abe2-3ab4-4a3d-ba6e-27ca9a2a751f.png",
+        "Type": "Clear Logo",
+        "CRC32": "28821423",
+        "URL": "http://images.launchbox-app.com/b365abe2-3ab4-4a3d-ba6e-27ca9a2a751f.png"
+      }
+    ]
+  }
+}

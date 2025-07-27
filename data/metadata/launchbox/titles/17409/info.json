@@ -1,0 +1,92 @@
+{
+  "Name": "Watch_Dogs",
+  "DatabaseID": "17409",
+  "ReleaseDate": "2014-05-27T00:00:00-07:00",
+  "Overview": "The storyline of Watch Dogs game is built around the concept of information warfare, data being interconnected, and the world's increasing use of technology—questioning who exactly runs the computers they depend on. The game is set in an alternate reality version of Chicago, Illinois, which is one of many cities to feature a supercomputer known as a \"CtOS\" (Central Operating System). The system controls almost every piece of technology in the city, and contains information on all of the city's residents and activities which can be used for various purposes. In the game's universe, the Northeast blackout of 2003 was found to be caused by a hacker, prompting the development of CtOS. The game will follow a man named Aiden Pearce, a highly skilled hacker described as a person who uses both \"fists and wits.\" The gameplay demo shown at E3 2012 depicted Aiden's attempt to assassinate a media mogul named Joseph DeMarco, who had been wrongly acquitted on charges of murder. In a demonstration shown at E3 2013, Pearce helps a fellow hacker named T-Bone escape after he is discovered attempting to steal a motherboard.",
+  "VideoURL": "http://www.youtube.com/watch?v=DqoQG_XYF-8",
+  "CommunityRating": "5",
+  "ESRB": "M - Mature",
+  "Genres": " Sandbox; Shooter; Stealth",
+  "Developer": "Ubisoft Entertainment",
+  "Publisher": "Ubisoft",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "f52f4c91-88ab-4473-ab3e-49f9099dd7a2.jpg",
+        "Type": "Banner",
+        "CRC32": "1041898792",
+        "URL": "http://images.launchbox-app.com/f52f4c91-88ab-4473-ab3e-49f9099dd7a2.jpg"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "ae81abc2-3a30-4463-b9ea-b840c9304d34.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2121753675",
+        "URL": "http://images.launchbox-app.com/ae81abc2-3a30-4463-b9ea-b840c9304d34.jpg"
+      },
+      {
+        "FileName": "07798d1c-2baa-4b0c-8eb2-95565aac2402.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1571475347",
+        "URL": "http://images.launchbox-app.com/07798d1c-2baa-4b0c-8eb2-95565aac2402.jpg"
+      },
+      {
+        "FileName": "c34a8646-c2b6-42d8-8b4e-f194b4203343.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1985464471",
+        "URL": "http://images.launchbox-app.com/c34a8646-c2b6-42d8-8b4e-f194b4203343.jpg"
+      },
+      {
+        "FileName": "80800b55-cf93-4348-a2c7-efba590cb205.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2780996935",
+        "URL": "http://images.launchbox-app.com/80800b55-cf93-4348-a2c7-efba590cb205.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "96710d84-8fca-462a-82dc-730a088d96f6.png",
+          "Type": "Box - 3D",
+          "CRC32": "4054397703",
+          "URL": "http://images.launchbox-app.com/96710d84-8fca-462a-82dc-730a088d96f6.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "eab311ed-f8f9-41f2-bb03-1a84a7b7bc1f.jpg",
+          "Type": "Box - Front",
+          "CRC32": "3323114485",
+          "URL": "http://images.launchbox-app.com/eab311ed-f8f9-41f2-bb03-1a84a7b7bc1f.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "1219de45-b806-4249-8c67-a4d373955f92.jpg",
+          "Type": "Box - Spine",
+          "Region": "Europe",
+          "CRC32": "436761530",
+          "URL": "http://images.launchbox-app.com/1219de45-b806-4249-8c67-a4d373955f92.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "99639812-35ad-45a2-b073-012a0517a15b.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "498183715",
+        "URL": "http://images.launchbox-app.com/99639812-35ad-45a2-b073-012a0517a15b.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "f44eb357-4a43-45f4-b105-30c974b9245a.png",
+        "Type": "Clear Logo",
+        "CRC32": "445417685",
+        "URL": "http://images.launchbox-app.com/f44eb357-4a43-45f4-b105-30c974b9245a.png"
+      }
+    ]
+  }
+}

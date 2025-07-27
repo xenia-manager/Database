@@ -1,0 +1,36 @@
+{
+  "Name": "Williams Pinball Classics",
+  "DatabaseID": "162217",
+  "Overview": "Williams Pinball Classics is a pinball video game that includes digital recreations of four classic Williams' tables:\nCreature from the Black Lagoon\nTales of the Arabian Nights\nBlack Rose\nLost World\nIt should not confused with Pinball Hall of Fame: The Williams Collection that was also released by this title in PAL territories in 2011.",
+  "CommunityRating": "2",
+  "Genres": " Pinball",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "cd6730ae-efea-4b98-b187-744492c36ac1.png",
+          "Type": "Box - 3D",
+          "CRC32": "1541849724",
+          "URL": "http://images.launchbox-app.com/cd6730ae-efea-4b98-b187-744492c36ac1.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "52f1cc59-2848-4620-92e0-b85ba7a9dc73.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "1293704104",
+          "URL": "http://images.launchbox-app.com/52f1cc59-2848-4620-92e0-b85ba7a9dc73.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "513f17e1-9067-4c39-86d8-31a1787e2505.png",
+        "Type": "Clear Logo",
+        "CRC32": "25455594",
+        "URL": "http://images.launchbox-app.com/513f17e1-9067-4c39-86d8-31a1787e2505.png"
+      }
+    ]
+  }
+}

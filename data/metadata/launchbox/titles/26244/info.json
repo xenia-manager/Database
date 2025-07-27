@@ -1,0 +1,58 @@
+{
+  "Name": "Apocalypse: Desire Next",
+  "DatabaseID": "26244",
+  "ReleaseDate": "2007-11-29T00:00:00-08:00",
+  "Overview": "Apocalypse: Desire Next is a strategy game for the Xbox 360 video game console which was developed and published by Idea Factory. It was released on November 29, 2007 in Japan.",
+  "CommunityRating": "2",
+  "ESRB": "Not Rated",
+  "Genres": " Strategy",
+  "Developer": "Neverland",
+  "Publisher": "Idea Factory",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "c61d78e3-2855-489a-8411-14cb20d16d2a.png",
+        "Type": "Banner",
+        "CRC32": "4200390465",
+        "URL": "http://images.launchbox-app.com/c61d78e3-2855-489a-8411-14cb20d16d2a.png"
+      }
+    ],
+    "Box": {
+      "Back": [
+        {
+          "FileName": "bbb757b8-ace9-4396-8da6-62c5aa5b639a.jpg",
+          "Type": "Box - Back",
+          "Region": "Japan",
+          "CRC32": "3871203187",
+          "URL": "http://images.launchbox-app.com/bbb757b8-ace9-4396-8da6-62c5aa5b639a.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "11bfd910-d4df-4c7f-88a0-6e6405dd7434.jpg",
+          "Type": "Box - Front",
+          "Region": "Japan",
+          "CRC32": "2288846410",
+          "URL": "http://images.launchbox-app.com/11bfd910-d4df-4c7f-88a0-6e6405dd7434.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "327fecfa-607b-4f5f-ab08-8bf9da5b79ab.jpg",
+          "Type": "Box - Spine",
+          "Region": "Japan",
+          "CRC32": "1999588330",
+          "URL": "http://images.launchbox-app.com/327fecfa-607b-4f5f-ab08-8bf9da5b79ab.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "782ec558-a334-4809-b2da-ba2f39ea296a.png",
+        "Type": "Clear Logo",
+        "CRC32": "3834107422",
+        "URL": "http://images.launchbox-app.com/782ec558-a334-4809-b2da-ba2f39ea296a.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "Name": "Barbie & Her Sisters: Puppy Rescue",
+  "DatabaseID": "173143",
+  "ReleaseDate": "2015-11-03T00:00:00-08:00",
+  "Overview": "Join Barbie and her sisters –Skipper, Stacie and Chelsea – as they solve clues to find and rescue lost puppies in need. Give puppies a check-up with Skipper at the Roberts Sisters Puppy Rescue, groom the pups at Chelsea’s Puppy Day Care or teach them new tricks at the Pup Camp with Stacie! Nurture and play with the puppies until they can go to their fur-ever homes!\n• Find lost puppies around town and solve clues to rescue pups in need\n• Customize kennels with toys, blankets, beds and more!\n• Groom and care for puppies and teach them fun new tricks",
+  "CommunityRating": "4",
+  "ESRB": "E - Everyone",
+  "Genres": " Adventure",
+  "Developer": "Torus Games",
+  "Publisher": "Little Orbit",
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "02b0fec8-6950-4f8d-b337-09cf91cfa4ab.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "4094130041",
+          "URL": "http://images.launchbox-app.com/02b0fec8-6950-4f8d-b337-09cf91cfa4ab.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "9030adb2-98fa-4425-96fd-e7f29d3fb896.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2942844540",
+          "URL": "http://images.launchbox-app.com/9030adb2-98fa-4425-96fd-e7f29d3fb896.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "6bb8b00c-5128-44d2-966e-4cc7423d6856.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "4070188555",
+        "URL": "http://images.launchbox-app.com/6bb8b00c-5128-44d2-966e-4cc7423d6856.png"
+      }
+    ]
+  }
+}

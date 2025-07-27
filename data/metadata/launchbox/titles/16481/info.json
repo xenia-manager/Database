@@ -1,0 +1,33 @@
+{
+  "Name": "Sega Bass Fishing",
+  "DatabaseID": "16481",
+  "ReleaseDate": "2011-10-05T00:00:00-07:00",
+  "Overview": "Sega Bass Fishing, also known as Get Bass, is an arcade fishing video game developed in 1997 by Sega for the Sega Model 3 hardware. The game has since been ported to the Sega Dreamcast, Microsoft Windows, Xbox 360, Sony PlayStation 3 and Nintendo Wii.",
+  "VideoURL": "https://www.youtube.com/watch?v=JJ-B63uxLc4",
+  "CommunityRating": "3",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Sega_Bass_Fishing",
+  "ESRB": "E - Everyone",
+  "Genres": " Sports",
+  "Developer": "Sega",
+  "Publisher": "Sega",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "24f99a3d-eb29-436f-b296-3cafa71aa1cc.jpg",
+          "Type": "Box - Front",
+          "CRC32": "2843973287",
+          "URL": "http://images.launchbox-app.com/24f99a3d-eb29-436f-b296-3cafa71aa1cc.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "ac44646b-fd79-4700-bc39-df12a83868a3.png",
+        "Type": "Clear Logo",
+        "CRC32": "998212188",
+        "URL": "http://images.launchbox-app.com/ac44646b-fd79-4700-bc39-df12a83868a3.png"
+      }
+    ]
+  }
+}

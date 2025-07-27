@@ -1,0 +1,49 @@
+{
+  "Name": "Sacred 2: Fallen Angel",
+  "DatabaseID": "7473",
+  "ReleaseDate": "2009-05-11T00:00:00-07:00",
+  "Overview": "Contorted and twisted, honorable and valiant, heroism has many faces. In a time where hopes and dreams rest upon the mighty and the powerful, the energistic magic of the Priesthood continues to sap and destroy, leaving decay in its wake. Choose from 6 characters and journey alone or with friends in the seamless 3D world. Both good and evil quests await you.",
+  "VideoURL": "https://www.youtube.com/watch?v=1aHMImv79VA",
+  "CommunityRating": "3.8333333333333335",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Sacred_2:_Fallen_Angel",
+  "ESRB": "M - Mature",
+  "Genres": " Action; Adventure; Role-Playing",
+  "Developer": "Ascaron Entertainment",
+  "Publisher": "CDV Software Entertainment USA",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "ceb02a60-e976-4980-8b7f-d0c94c325f77.png",
+          "Type": "Box - 3D",
+          "CRC32": "2245750997",
+          "URL": "http://images.launchbox-app.com/ceb02a60-e976-4980-8b7f-d0c94c325f77.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "14cb5695-6bd9-44c2-ae6f-447030438d05.jpg",
+          "Type": "Box - Back",
+          "CRC32": "4156933275",
+          "URL": "http://images.launchbox-app.com/14cb5695-6bd9-44c2-ae6f-447030438d05.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "a951557e-17a9-47c7-b3f4-060024c516eb.jpg",
+          "Type": "Box - Front",
+          "CRC32": "35556167",
+          "URL": "http://images.launchbox-app.com/a951557e-17a9-47c7-b3f4-060024c516eb.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "fb55553d-4ac8-4228-8312-e5d618b4c437.png",
+        "Type": "Clear Logo",
+        "CRC32": "3344654093",
+        "URL": "http://images.launchbox-app.com/fb55553d-4ac8-4228-8312-e5d618b4c437.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "Name": "World Series of Poker 2008: Battle for the Bracelets",
+  "DatabaseID": "162185",
+  "Overview": "Players are invited to the 2008 World Series of Poker not only to win championship bracelets and the famous $10000 Main Event, but also to obtain the coveted title of Player of the Year. \n\nPoker star Phil Hellmuth headlines this game along with 32 other famous pros including Mike Matusow, Johnny Chan, Chris Ferguson, Annie Duke and Clonie Gowen. Also, Lon McEachern and Norman Chad return once again to provide their commentary.\n\nTexas Hold'em, Omaha, Seven Card Stud, and Razz are featured in all World Series of Poker events, including the cash games. This game also features a custom Create-a-Player, interactive tutorials by Phil Hellmuth, and the ability to play online against other players.",
+  "Genres": null,
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "2afb523b-5ab3-42d1-99b7-f3a730310c80.png",
+          "Type": "Box - 3D",
+          "CRC32": "2775507912",
+          "URL": "http://images.launchbox-app.com/2afb523b-5ab3-42d1-99b7-f3a730310c80.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "3e62640f-88a4-4b5d-b73f-a2a403eb545c.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "2825136902",
+          "URL": "http://images.launchbox-app.com/3e62640f-88a4-4b5d-b73f-a2a403eb545c.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "b1f7489a-0f48-4561-9acf-f99bfac1e9da.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "974123523",
+        "URL": "http://images.launchbox-app.com/b1f7489a-0f48-4561-9acf-f99bfac1e9da.png"
+      }
+    ]
+  }
+}

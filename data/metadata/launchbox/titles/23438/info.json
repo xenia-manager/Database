@@ -1,0 +1,49 @@
+{
+  "Name": "The Wolf Among Us",
+  "DatabaseID": "23438",
+  "ReleaseDate": "2013-11-10T00:00:00-08:00",
+  "Overview": "The Wolf Among Us is a five episode series from the creators of the 2012 Game of the Year: The Walking Dead. Based on Fables (DC Comics/Vertigo), an award-winning comic book series, it is an often violent, mature and hard-boiled thriller where the characters and creatures of myth, lore and legend are real and exist in our world.\n\nAs Bigby Wolf - THE big bad wolf in human form - you will discover that the brutal, bloody murder of a Fable is just a taste of things to come, in a game series where your every decision can have enormous consequences.",
+  "VideoURL": "http://www.youtube.com/watch?v=PLDLO0Hn9",
+  "CommunityRating": "4",
+  "ESRB": "M - Mature",
+  "Genres": " Adventure; Horror",
+  "Developer": "Telltale Games",
+  "Publisher": "Telltale Games",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "2ef8f16e-3cb2-40f8-90ab-6b49d8c3942f.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "973189849",
+        "URL": "http://images.launchbox-app.com/2ef8f16e-3cb2-40f8-90ab-6b49d8c3942f.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "607e78ba-8db6-4b10-ad02-4caa4e432064.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1982510132",
+          "URL": "http://images.launchbox-app.com/607e78ba-8db6-4b10-ad02-4caa4e432064.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "1dda8a9f-609f-4fda-898c-573eb8217c0d.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2346352695",
+        "URL": "http://images.launchbox-app.com/1dda8a9f-609f-4fda-898c-573eb8217c0d.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "ae688d66-d7c6-4bfb-a7f4-73cc51079068.png",
+        "Type": "Clear Logo",
+        "CRC32": "1417920415",
+        "URL": "http://images.launchbox-app.com/ae688d66-d7c6-4bfb-a7f4-73cc51079068.png"
+      }
+    ]
+  }
+}

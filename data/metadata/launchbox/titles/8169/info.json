@@ -1,0 +1,111 @@
+{
+  "Name": "Assassin's Creed: Brotherhood",
+  "DatabaseID": "8169",
+  "ReleaseDate": "2010-11-16T00:00:00-08:00",
+  "Overview": "Live and breathe as Ezio, a legendary Master Assassin, in his enduring struggle against the powerful Templar Order. He must journey into Italy’s greatest city, Rome, center of power, greed, and corruption to strike at the heart of the enemy. \n\nDefeating the corrupt tyrants entrenched there will require not only strength, but leadership, as Ezio commands an entire Brotherhood who will rally to his side. Only by working together can the Assassins defeat their mortal enemies. \n\nAnd for the first time, introducing an award-winning multiplayer layer that allows you to choose from a wide range of unique characters, each with their own signature weapons and assassination techniques, and match your skills against other players from around the world. \n\nIt’s time to join the Brotherhood.",
+  "VideoURL": "https://www.youtube.com/watch?v=KAb0YtprjQQ",
+  "CommunityRating": "3.8333333333333335",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Assassin%27s_Creed:_Brotherhood",
+  "ESRB": "M - Mature",
+  "Genres": " Action; Adventure; Sandbox; Stealth",
+  "Developer": "Ubisoft Montreal",
+  "Publisher": "Ubisoft",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "a3513fdc-7a58-4222-8039-1f7d037f12b1.png",
+        "Type": "Banner",
+        "CRC32": "3851521993",
+        "URL": "http://images.launchbox-app.com/a3513fdc-7a58-4222-8039-1f7d037f12b1.png"
+      },
+      {
+        "FileName": "18a19bf4-6053-4437-b6e1-b390212c7e37.png",
+        "Type": "Banner",
+        "CRC32": "3318151288",
+        "URL": "http://images.launchbox-app.com/18a19bf4-6053-4437-b6e1-b390212c7e37.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "e0dcf474-1444-4870-88d1-dfa9c5311970.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "9353236",
+        "URL": "http://images.launchbox-app.com/e0dcf474-1444-4870-88d1-dfa9c5311970.jpg"
+      },
+      {
+        "FileName": "b471ea86-729c-4561-aed7-fac1bbd19eb1.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "4247996898",
+        "URL": "http://images.launchbox-app.com/b471ea86-729c-4561-aed7-fac1bbd19eb1.jpg"
+      },
+      {
+        "FileName": "1ab37765-c901-484e-8db3-88a14f452369.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3664147327",
+        "URL": "http://images.launchbox-app.com/1ab37765-c901-484e-8db3-88a14f452369.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "7308f439-9ac2-4e07-ad41-f35700c26538.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "1857835211",
+          "URL": "http://images.launchbox-app.com/7308f439-9ac2-4e07-ad41-f35700c26538.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "5439edcf-2dff-4723-bb6b-ac8cc350d488.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "3478662579",
+          "URL": "http://images.launchbox-app.com/5439edcf-2dff-4723-bb6b-ac8cc350d488.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "2cff20a6-217a-4ff8-890f-d91f6bd8ba3d.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3195009695",
+          "URL": "http://images.launchbox-app.com/2cff20a6-217a-4ff8-890f-d91f6bd8ba3d.jpg"
+        },
+        {
+          "FileName": "73423862-d9a4-4b5e-8146-33dc975421a9.png",
+          "Type": "Box - Front",
+          "Region": "Germany",
+          "CRC32": "1215360635",
+          "URL": "http://images.launchbox-app.com/73423862-d9a4-4b5e-8146-33dc975421a9.png"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "986c47e1-f808-4c0d-a4dd-1b8de616c5a6.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "3953057643",
+          "URL": "http://images.launchbox-app.com/986c47e1-f808-4c0d-a4dd-1b8de616c5a6.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "e0eed8d0-7335-435a-9905-087e523eabcc.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2025900009",
+        "URL": "http://images.launchbox-app.com/e0eed8d0-7335-435a-9905-087e523eabcc.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "bbd79ca0-4d8c-4d32-8a45-8ef341a18df2.png",
+        "Type": "Clear Logo",
+        "CRC32": "1490043789",
+        "URL": "http://images.launchbox-app.com/bbd79ca0-4d8c-4d32-8a45-8ef341a18df2.png"
+      }
+    ]
+  }
+}

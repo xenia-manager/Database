@@ -1,0 +1,94 @@
+{
+  "Name": "Minecraft: Xbox 360 Edition",
+  "DatabaseID": "17158",
+  "ReleaseDate": "2013-06-04T00:00:00-07:00",
+  "Overview": "Experience the gaming phenomenon “Minecraft”, rebuilt for Xbox 360! Create worlds limited only by your imagination. Explore, build, and conquer alone or with your friends via split-screen mode or over Xbox LIVE!* With new features designed specifically for Xbox 360, it’s a whole new way to make your imagination reality!\n\nImagine it, build it! Minecraft for Xbox 360 lets you create worlds from the comfort of your sofa. Play alone or play with your friends. Explore, build and conquer! At night monsters come out, so make sure to build a shelter before that happens. After that, your world is your imagination. Turn your hours into minutes with Minecraft for Xbox 360!\n\nKey Features\n\n • The infinite possibilities in Minecraft just got bigger! The gaming phenomenon comes to the console with new features designed specifically for Xbox 360.\n • Crafting has never been faster and easier! The new crafting interface in Minecraft for Xbox 360 delivers a completely new way to build Minecraft worlds where your imagination is the only limit.\n • Learn the basics and master essential skills faster with the all-new Tutorial mode.\n • Play Minecraft: Xbox 360 Edition with Friends over Xbox LIVE. Combine local split screen* and Xbox LIVE play in any combination up to 8 players.\n • Experience the all-new end-game battle with the Ender Dragon, including 8-player multiplayer, revised for the console edition!\n\n* Split screen option requires HD TV.",
+  "VideoURL": "https://www.youtube.com/watch?v=srd17aD7P3Y&ab_channel=LoopyLongplays",
+  "CommunityRating": "4.3181818181818183",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Minecraft",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Action; Adventure; Construction and Management Simulation; Sandbox",
+  "Developer": "Mojang",
+  "Publisher": "4JStudios",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "20bc9e46-2a8c-49e5-b61a-d79b4924b8f2.jpg",
+        "Type": "Banner",
+        "Region": "North America",
+        "CRC32": "2212333839",
+        "URL": "http://images.launchbox-app.com/20bc9e46-2a8c-49e5-b61a-d79b4924b8f2.jpg"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "67c843a6-3459-4158-9b51-1ec2ce4ccaad.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3014011085",
+        "URL": "http://images.launchbox-app.com/67c843a6-3459-4158-9b51-1ec2ce4ccaad.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "7ff959ef-9a9f-402a-806a-b436a18f27d7.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "1480620464",
+          "URL": "http://images.launchbox-app.com/7ff959ef-9a9f-402a-806a-b436a18f27d7.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "9d402864-5074-45c7-93d1-d059f9ea23d7.jpg",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "784773225",
+          "URL": "http://images.launchbox-app.com/9d402864-5074-45c7-93d1-d059f9ea23d7.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "4d44bcfe-c14b-4c04-9db1-ec39a8fd1ebf.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "642337808",
+          "URL": "http://images.launchbox-app.com/4d44bcfe-c14b-4c04-9db1-ec39a8fd1ebf.jpg"
+        },
+        {
+          "FileName": "098c18fc-d7be-49a0-87b9-2085efcfdb6d.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "Europe",
+          "CRC32": "523299685",
+          "URL": "http://images.launchbox-app.com/098c18fc-d7be-49a0-87b9-2085efcfdb6d.png"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "0e37d63c-da14-4c84-ad19-3496e8a245ce.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "2909716260",
+          "URL": "http://images.launchbox-app.com/0e37d63c-da14-4c84-ad19-3496e8a245ce.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "bc0e05c3-e004-49e3-92a6-87464e02188b.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "600250668",
+        "URL": "http://images.launchbox-app.com/bc0e05c3-e004-49e3-92a6-87464e02188b.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "dc03b230-74d6-4734-bd27-71c2b54ef235.png",
+        "Type": "Clear Logo",
+        "CRC32": "948977191",
+        "URL": "http://images.launchbox-app.com/dc03b230-74d6-4734-bd27-71c2b54ef235.png"
+      }
+    ]
+  }
+}

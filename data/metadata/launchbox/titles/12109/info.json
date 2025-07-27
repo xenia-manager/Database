@@ -1,0 +1,69 @@
+{
+  "Name": "de Blob 2",
+  "DatabaseID": "12109",
+  "ReleaseDate": "2011-02-22T00:00:00-08:00",
+  "Overview": "de Blob 2, previously known as de Blob: The Underground, is a sequel to the Wii exclusive 2008 platformer, de Blob. The puzzle game was released in North America on 22 February 2011, 24 February 2011 in Australia and 25 February 2011 in Europe. It is developed by the now defunct Blue Tongue Entertainment (except the DS version which was developed by Halfbrick Studios), and published by THQ.[1] The game was released for the PlayStation 3 and Xbox 360 platforms in addition to the Wii and DS.[2]",
+  "VideoURL": "https://www.youtube.com/watch?v=PAxrBF8sn10",
+  "CommunityRating": "3.5",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/De_Blob_2",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Platform",
+  "Developer": "Blue Tongue Entertainment",
+  "Publisher": "THQ",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "69c68a8a-591c-4d81-8a59-84dc61834b77.jpg",
+        "Type": "Banner",
+        "Region": "North America",
+        "CRC32": "434212522",
+        "URL": "http://images.launchbox-app.com/69c68a8a-591c-4d81-8a59-84dc61834b77.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "7f23c6da-85fc-43d2-a7f1-41c2c36ca91b.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "4160963311",
+          "URL": "http://images.launchbox-app.com/7f23c6da-85fc-43d2-a7f1-41c2c36ca91b.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "a5a8fd6b-fbb9-415b-b47a-47eef5a3c566.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "1029728561",
+          "URL": "http://images.launchbox-app.com/a5a8fd6b-fbb9-415b-b47a-47eef5a3c566.jpg"
+        },
+        {
+          "FileName": "2259de17-6bed-4c8d-b81f-bdc1175dad80.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3575767068",
+          "URL": "http://images.launchbox-app.com/2259de17-6bed-4c8d-b81f-bdc1175dad80.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "f118cac0-25ab-40a1-b3bb-c6134cf6d5db.png",
+        "Type": "Disc",
+        "Region": "Germany",
+        "CRC32": "443458882",
+        "URL": "http://images.launchbox-app.com/f118cac0-25ab-40a1-b3bb-c6134cf6d5db.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "c47f78ef-f5b0-4e4b-851c-00f3c0f675da.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "661516892",
+        "URL": "http://images.launchbox-app.com/c47f78ef-f5b0-4e4b-851c-00f3c0f675da.png"
+      }
+    ]
+  }
+}

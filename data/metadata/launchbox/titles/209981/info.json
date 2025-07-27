@@ -1,0 +1,23 @@
+{
+  "Name": "Wallace & Gromit’s Grand Adventures Episode 1: Fright of the Bumblebees",
+  "DatabaseID": "209981",
+  "ReleaseDate": "2009-05-27T00:00:00-07:00",
+  "Overview": "Enter the colourful world of West Wallaby Street in a series of four cracking adventures brought to you by Aardman Animations, the creators of the Wallace & Gromit animated films, and Telltale, the award-winning studio behind Sam & Max.",
+  "CommunityRating": "4",
+  "Genres": " Adventure",
+  "Developer": "Telltale Games",
+  "Publisher": "Telltale Games",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "8d562d82-c4d3-47b4-983d-d046ac461e72.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "2469244189",
+          "URL": "http://images.launchbox-app.com/8d562d82-c4d3-47b4-983d-d046ac461e72.jpg"
+        }
+      ]
+    }
+  }
+}

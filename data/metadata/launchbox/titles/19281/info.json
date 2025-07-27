@@ -1,0 +1,69 @@
+{
+  "Name": "Cabela's Dangerous Hunts 2011",
+  "DatabaseID": "19281",
+  "ReleaseDate": "2010-10-19T00:00:00-07:00",
+  "Overview": "A global hunting adventure that quickly turns into a terrifying pursuit of the world's deadliest animals. In the ultimate battle of man versus nature, American marksman Cole Rainsford and his estranged father go on a safari to hunt for man-eating beasts in the heart of the African wilderness.",
+  "VideoURL": "http://www.youtube.com/watch?v=PHJafrp5uIM",
+  "CommunityRating": "2.75",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Cabela%27s_Dangerous_Hunts_2011",
+  "ESRB": "T - Teen",
+  "Genres": " Sports",
+  "Developer": "Cauldron",
+  "Publisher": "Activision Publishing",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "9ea016c7-7d87-4626-85cc-d1e7c0e24046.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2540482166",
+        "URL": "http://images.launchbox-app.com/9ea016c7-7d87-4626-85cc-d1e7c0e24046.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "eb46e5a1-d00a-469c-b961-712675a1c8a9.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "2470130200",
+          "URL": "http://images.launchbox-app.com/eb46e5a1-d00a-469c-b961-712675a1c8a9.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "87372d6d-c606-4919-8b20-d38ec60ce874.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "11236800",
+          "URL": "http://images.launchbox-app.com/87372d6d-c606-4919-8b20-d38ec60ce874.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "84c29bde-497d-4100-8b8e-fee256586c12.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "915632988",
+          "URL": "http://images.launchbox-app.com/84c29bde-497d-4100-8b8e-fee256586c12.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "cbbfeeb7-982a-49e7-ae54-69edb81e086d.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "51172000",
+        "URL": "http://images.launchbox-app.com/cbbfeeb7-982a-49e7-ae54-69edb81e086d.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "acb43f39-b332-4ea8-a128-66e7c6cef471.png",
+        "Type": "Clear Logo",
+        "CRC32": "2504462095",
+        "URL": "http://images.launchbox-app.com/acb43f39-b332-4ea8-a128-66e7c6cef471.png"
+      }
+    ]
+  }
+}

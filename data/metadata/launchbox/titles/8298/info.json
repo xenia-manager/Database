@@ -1,0 +1,89 @@
+{
+  "Name": "Rage",
+  "DatabaseID": "8298",
+  "ReleaseDate": "2011-10-04T00:00:00-07:00",
+  "Overview": "Rage is a first-person shooter video game developed by id Software. It uses the company's id Tech 5 game engine. Released in October 2011, the game was first shown as a tech demo on June 11, 2007 at the Apple Worldwide Developers Conference (WWDC), and was officially announced on August 2, 2007 at QuakeCon. On the same day, a trailer for the game was released by GameTrailers.\n\nThe game is set in a post-apocalyptic near future, following the impact of the asteroid 99942 Apophis on Earth. The game has been described as similar to the movie Mad Max 2 and to video games such as Fallout and Borderlands. Influences on the driving and racing gameplay include games such as MotorStorm and Burnout. Players can upgrade their cars with racing certificates won from races. Upon its release, the game received fair praise from critics and reviewers.",
+  "VideoURL": "http://www.youtube.com/watch?v=Or99qjmxSmY",
+  "CommunityRating": "3.3333333333333335",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Rage_(video_game)",
+  "ESRB": "M - Mature",
+  "Genres": " Racing; Shooter",
+  "Developer": "id Software",
+  "Publisher": "Bethesda Softworks",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "cd31ba35-2822-4abc-a9b2-3e9d47738fc0.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1821000175",
+        "URL": "http://images.launchbox-app.com/cd31ba35-2822-4abc-a9b2-3e9d47738fc0.jpg"
+      },
+      {
+        "FileName": "0dcabfe6-7f11-4d1f-9e7e-a41511e509c1.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "855442601",
+        "URL": "http://images.launchbox-app.com/0dcabfe6-7f11-4d1f-9e7e-a41511e509c1.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "541c11ac-3da2-4a2b-97eb-d08b77446f3a.png",
+          "Type": "Box - 3D",
+          "Region": "Europe",
+          "CRC32": "2608657075",
+          "URL": "http://images.launchbox-app.com/541c11ac-3da2-4a2b-97eb-d08b77446f3a.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "70bfd2ec-1b77-4848-90fb-566a52969604.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "1877412664",
+          "URL": "http://images.launchbox-app.com/70bfd2ec-1b77-4848-90fb-566a52969604.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "989efd3e-4065-4ef1-b33a-91ced7b6ed19.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "1439453053",
+          "URL": "http://images.launchbox-app.com/989efd3e-4065-4ef1-b33a-91ced7b6ed19.jpg"
+        },
+        {
+          "FileName": "ae7f5c36-d8d4-4a9e-ab0f-bbcaa2fbff53.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3563548977",
+          "URL": "http://images.launchbox-app.com/ae7f5c36-d8d4-4a9e-ab0f-bbcaa2fbff53.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "08f49f13-43bb-4c7d-ad3f-5af1276f4e33.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "3881703527",
+        "URL": "http://images.launchbox-app.com/08f49f13-43bb-4c7d-ad3f-5af1276f4e33.png"
+      },
+      {
+        "FileName": "409178bd-c789-41be-85c1-50b0ce1a2fc6.png",
+        "Type": "Disc",
+        "Region": "Australia",
+        "CRC32": "2946519518",
+        "URL": "http://images.launchbox-app.com/409178bd-c789-41be-85c1-50b0ce1a2fc6.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "44f8faef-b167-4dc2-bf44-2c6e43d67d34.png",
+        "Type": "Clear Logo",
+        "CRC32": "179067500",
+        "URL": "http://images.launchbox-app.com/44f8faef-b167-4dc2-bf44-2c6e43d67d34.png"
+      }
+    ]
+  }
+}

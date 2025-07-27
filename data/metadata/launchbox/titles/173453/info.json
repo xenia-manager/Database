@@ -1,0 +1,32 @@
+{
+  "Name": "Konami Classics Vol. 2",
+  "DatabaseID": "173453",
+  "ReleaseDate": "2009-12-15T00:00:00-08:00",
+  "Overview": "Konami Classics Vol. 2 is a retail collection of three classic Konami games that were previously released as Xbox Live Arcade titles. Rather than registering as a single title, each game operates as an individual XBLA game with its own achievements. The included games are:\n\nContra\nRush'n Attack\nTrack & Field\n\nThe overall package features Xbox 360 achievements, downloadable content, online multiplayer (for up to four players where applicable), offline co-op gameplay, and offline multiplayer (again, for up to four players where applicable). Each title features online leaderboards.",
+  "CommunityRating": "4.25",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Compilation",
+  "Developer": "Konami",
+  "Publisher": "Konami",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "aa5f931b-555e-47e2-b63b-834ad90819c0.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "935329398",
+        "URL": "http://images.launchbox-app.com/aa5f931b-555e-47e2-b63b-834ad90819c0.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "0aebd207-6d5e-435e-b418-3f3bd3877aa8.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3183759357",
+          "URL": "http://images.launchbox-app.com/0aebd207-6d5e-435e-b418-3f3bd3877aa8.jpg"
+        }
+      ]
+    }
+  }
+}

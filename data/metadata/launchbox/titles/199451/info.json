@@ -1,0 +1,39 @@
+{
+  "Name": "Hybrid",
+  "DatabaseID": "199451",
+  "ReleaseDate": "2012-08-08T00:00:00-07:00",
+  "Overview": "In 2032, a catastrophic accident has obliterated Australia and sent the world into turmoil. An alien race called the Variants compete with the surviving humans, called the Paladins, to collect a powerful substance known as dark matter.",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Hybrid_(video_game)",
+  "Genres": " Shooter",
+  "Developer": "5th Cell Media",
+  "Publisher": "Microsoft Studios",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "7708eb9e-badd-4701-b66b-221270e83f25.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "2321527730",
+          "URL": "http://images.launchbox-app.com/7708eb9e-badd-4701-b66b-221270e83f25.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "051d0b04-56e5-44bd-bec3-7bcd194b3294.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2176215049",
+        "URL": "http://images.launchbox-app.com/051d0b04-56e5-44bd-bec3-7bcd194b3294.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "dbdd1a75-d6bd-475d-8f29-b11f1455fd65.png",
+        "Type": "Clear Logo",
+        "CRC32": "1140155845",
+        "URL": "http://images.launchbox-app.com/dbdd1a75-d6bd-475d-8f29-b11f1455fd65.png"
+      }
+    ]
+  }
+}

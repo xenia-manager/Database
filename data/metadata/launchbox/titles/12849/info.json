@@ -1,0 +1,66 @@
+{
+  "Name": "Rise of the Guardians",
+  "DatabaseID": "12849",
+  "ReleaseDate": "2012-11-20T00:00:00-08:00",
+  "Overview": "Let your imagination soar in Rise of the Guardians: The Video Game as you play as one of the classic childhood legends, including: North (aka Santa Claus), Tooth (aka the Tooth Fairy), Bunnymund (aka the Easter Bunny), Sandman, and Jack Frost.\n\n\n\nIn this action-packed adventure game, each Guardian has their own set of upgradable and extraordinary abilities that will help you take on the evil spirit “Pitch” and his infectious nightmares. Along the way, you’ll unlock new powers and spellbinding special moves that will increase your character’s strength and skills throughout the game, plus you can unleash cool team attacks with your fellow heroes. With drop-in-and-out multiplayer action supporting up to four players on consoles, you and your team of Guardians will work together to protect the hopes, beliefs and imaginations of children all over the world!\n\nFeatures\n\n• Join Forces with Your Favorite Characters From the Film – Play as one of the classic childhood legends from DreamWorks Animation’s upcoming feature film, Rise of the Guardians, including: North, Tooth, Bunnymund, Sandman, and Jack Frost.• Battle Pitch in an Epic Adventure – Take on Pitch and his evil nightmares in a deep and intuitive adventure combat game that includes new original enemies designed specifically for each Guardian’s realm.• Unique Abilities and Upgrades – Unlock power-ups such as weapon upgrades for your character. Plus, earn unique new abilities including special combat moves like a snowball attack, summoning a swarm of miniature tooth fairies, and more!• Explore Legendary Guardian Realms – Experience the imaginative worlds from Rise of the Guardians, including; Tooth’s Palace, North’s Workshop, Bunnymund’s Warren, and many more.• Team up in Multiplayer – Swap between any of the characters in drop-in-and-out four-player squad based multiplayer action on consoles.",
+  "VideoURL": "https://m.youtube.com/watch?v=wUd3ALn49TQ",
+  "CommunityRating": "2.3333333333333335",
+  "WikipediaURL": "https://en.m.wikipedia.org/wiki/Rise_of_the_Guardians:_The_Video_Game",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Action",
+  "Developer": "Torus Games",
+  "Publisher": "D3Publisher",
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "6fcb929e-7774-4e1f-a1ca-be26af8de34c.jpg",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "1952363863",
+          "URL": "http://images.launchbox-app.com/6fcb929e-7774-4e1f-a1ca-be26af8de34c.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "49b442b1-2a84-45e7-bc15-d73e662f2e65.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "2860238363",
+          "URL": "http://images.launchbox-app.com/49b442b1-2a84-45e7-bc15-d73e662f2e65.jpg"
+        },
+        {
+          "FileName": "0eabf654-16f0-4ba7-a60f-debb982aec60.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2135676259",
+          "URL": "http://images.launchbox-app.com/0eabf654-16f0-4ba7-a60f-debb982aec60.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "472cfc0f-3311-4c3c-9181-f4a00ccdee33.jpg",
+          "Type": "Box - Spine",
+          "Region": "Europe",
+          "CRC32": "320798876",
+          "URL": "http://images.launchbox-app.com/472cfc0f-3311-4c3c-9181-f4a00ccdee33.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "3b0bef9b-0821-4ba3-b6cb-37c253eeb5bf.png",
+        "Type": "Clear Logo",
+        "CRC32": "4039080273",
+        "URL": "http://images.launchbox-app.com/3b0bef9b-0821-4ba3-b6cb-37c253eeb5bf.png"
+      },
+      {
+        "FileName": "f5d8f9c3-9688-4a31-86d3-380a0a694c20.png",
+        "Type": "Clear Logo",
+        "Region": "Spain",
+        "CRC32": "413444748",
+        "URL": "http://images.launchbox-app.com/f5d8f9c3-9688-4a31-86d3-380a0a694c20.png"
+      }
+    ]
+  }
+}

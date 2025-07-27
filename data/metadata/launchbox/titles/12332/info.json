@@ -1,0 +1,57 @@
+{
+  "Name": "Viva Piñata: Trouble in Paradise",
+  "DatabaseID": "12332",
+  "ReleaseDate": "2008-09-02T00:00:00-07:00",
+  "Overview": "That rotten Professor Pester and his Ruffians have snuck into Piñata Central, and in a botched attempt to steal all the Piñata records, they've ended up erasing them all instead! It's up to you to help restore the records, and keep those candy-filled piñatas coming!\n\nViva Piñata: Trouble in Paradise is the sequel to Rare's gardening simulator, Viva Piñata. The overall game remains the same - lure piñata by tending your garden. Some animals are attracted by the appearance of others, while others will come because of the types of plants that you grow. As you progress, the more valuable your garden will become - and that means that Professor Pester and his Ruffians will turn up to try to vandalize it, either causing fights with piñata, or smashing your most expensive object.\n\nTrouble in Paradise includes all the piñata from the original game, as well as some new species that can only be found by traveling to the Dessert Desert or the Piñarctic. These piñata are wild, and need to be lured with bait and caught. Unfortunately, new Sour Piñata are also waiting to come in and cause problems for you as well.\n\nA new feature of the game is Piñata Vision, which uses the Xbox Live Vision Camera to scan in cards. These cards can drop in an assortment of items into the game - anything from new piñata, to garden objects, to tools - even shop discounts! Players can even take a photo of an object in their garden and transform it into a Piñata Vision card to send to a friend. The game also features two mini-games - a Piñata racing game, and Piñata contest game. Winning these mini-games increases your piñata's value.",
+  "VideoURL": "https://www.youtube.com/watch?v=ff0JSVXuUrE",
+  "CommunityRating": "4.1363636363636367",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Viva_Pi%C3%B1ata:_Trouble_in_Paradise",
+  "ESRB": "E - Everyone",
+  "Genres": " Life Simulation",
+  "Developer": "Rare",
+  "Publisher": "Microsoft Game Studios",
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "e5f0e5cc-b628-44a6-938b-b505b0de6f23.PNG",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "3100114163",
+          "URL": "http://images.launchbox-app.com/e5f0e5cc-b628-44a6-938b-b505b0de6f23.PNG"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "22d19b16-5fcf-4b65-b425-0ad995c0c641.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "28795872",
+          "URL": "http://images.launchbox-app.com/22d19b16-5fcf-4b65-b425-0ad995c0c641.jpg"
+        },
+        {
+          "FileName": "5eb42ffa-9759-457f-9ae8-97a7baa5b609.jpg",
+          "Type": "Box - Front",
+          "CRC32": "797020121",
+          "URL": "http://images.launchbox-app.com/5eb42ffa-9759-457f-9ae8-97a7baa5b609.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "28611d97-11bd-4009-a472-80c1e4061312.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "732123414",
+        "URL": "http://images.launchbox-app.com/28611d97-11bd-4009-a472-80c1e4061312.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "c2586349-f01b-4795-9a70-49dee8d0e74c.png",
+        "Type": "Clear Logo",
+        "CRC32": "2179298928",
+        "URL": "http://images.launchbox-app.com/c2586349-f01b-4795-9a70-49dee8d0e74c.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "Dragon Age: Origins: Awakening",
+  "DatabaseID": "12608",
+  "ReleaseDate": "2010-03-16T00:00:00-07:00",
+  "Overview": "Dragon Age: Origins - Awakening is the first full retail expansion pack for Dragon Age: Origins.",
+  "CommunityRating": "4.75",
+  "ESRB": "M - Mature",
+  "Genres": " Role-Playing; Strategy",
+  "Developer": "BioWare",
+  "Publisher": "Electronic Arts",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "324dbeca-7046-4b4b-9af8-c15594dd2620.png",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3836034370",
+          "URL": "http://images.launchbox-app.com/324dbeca-7046-4b4b-9af8-c15594dd2620.png"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "Name": "Autobahn Polizei",
+  "DatabaseID": "8855",
+  "ReleaseDate": "2010-05-04T00:00:00-07:00",
+  "Overview": "Featuring daring stunts, spectacular crashes, and thrilling criminal cases, you will participate in over 20 unsolved crimes and dozens of hair-raising missions. An all-new open world design allows you to choose objectives while patrolling the Autobahn, surrounding cities and rolling countryside.",
+  "CommunityRating": "3",
+  "ESRB": "T - Teen",
+  "Genres": " Racing; Sports",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "80876170-a92d-4cbf-95e2-4c636dbe1317.jpg",
+        "Type": "Banner",
+        "Region": "North America",
+        "CRC32": "1877480917",
+        "URL": "http://images.launchbox-app.com/80876170-a92d-4cbf-95e2-4c636dbe1317.jpg"
+      }
+    ],
+    "Box": {
+      "Back": [
+        {
+          "FileName": "438e5bc7-785a-4ca2-b4bf-e1e8b72064a7.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "4166188545",
+          "URL": "http://images.launchbox-app.com/438e5bc7-785a-4ca2-b4bf-e1e8b72064a7.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "1bfe0b9f-0fed-4c2e-950e-4a4dd77fe8c9.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2955650605",
+          "URL": "http://images.launchbox-app.com/1bfe0b9f-0fed-4c2e-950e-4a4dd77fe8c9.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "91c23763-9599-4092-b813-f0865f4ec665.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "252295935",
+          "URL": "http://images.launchbox-app.com/91c23763-9599-4092-b813-f0865f4ec665.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "07470b87-bc3b-41a3-b3b7-47863d62ca83.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1027620675",
+        "URL": "http://images.launchbox-app.com/07470b87-bc3b-41a3-b3b7-47863d62ca83.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "d4867d30-3fa0-4832-b490-d67f10ef30e8.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "1052202044",
+        "URL": "http://images.launchbox-app.com/d4867d30-3fa0-4832-b490-d67f10ef30e8.jpg"
+      },
+      {
+        "FileName": "f30ccd8a-255c-451e-aaa6-b8e1bafe356b.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "989631179",
+        "URL": "http://images.launchbox-app.com/f30ccd8a-255c-451e-aaa6-b8e1bafe356b.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "Name": "Halo: Combat Evolved Anniversary",
+  "DatabaseID": "12743",
+  "ReleaseDate": "2011-11-15T00:00:00-08:00",
+  "Overview": "Halo: Combat Evolved Anniversary immerses you in the landmark campaign and genre-defining multiplayer game that helped revolutionize the first-person shooter genre and sparked one of the most iconic science-fiction universes of all time. With a bounty of new features including cooperative play over Xbox Live, a bundle of some of the most beloved multiplayer maps in Halo history reimagined for Xbox Live, new challenges and a new story to uncover, Halo Anniversary compels you to return to return once more to the ringworld of Halo.\n\nAs a member of an elite military force, you must fight to defend the Earth from alien aggressors on the ancient alien artifact known as Halo. You must fight your way through Halo's mountainous terrain and underground labyrinth to discover the secrets of the mysterious world, and protect the human race. Escaping Halo with your life requires a cunning wit and a major arsenal of weapons. \n\n\nSwitch between foot-based fighting and vehicle-based attacks, where you can pilot flyers, tanks, or buggies, or man the guns while another squad member drives. Multiplayer action in Halo: Combat Evolved gives players the option of co-op missions or free-for-all shootouts.",
+  "VideoURL": "https://www.youtube.com/watch?v=f1PkUrEggu4",
+  "CommunityRating": "4.3030303030303028",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Halo:_Combat_Evolved_Anniversary",
+  "ESRB": "M - Mature",
+  "Genres": " Shooter",
+  "Developer": "343 Industries",
+  "Publisher": "Microsoft",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "2dfe44f7-51fc-41c9-8e78-074a732d907b.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "4134331928",
+        "URL": "http://images.launchbox-app.com/2dfe44f7-51fc-41c9-8e78-074a732d907b.jpg"
+      },
+      {
+        "FileName": "88b81575-5d24-4380-ac03-b11d57cfc8d2.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1084593003",
+        "URL": "http://images.launchbox-app.com/88b81575-5d24-4380-ac03-b11d57cfc8d2.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "eff012b2-ae68-4238-94cd-c9beae59982e.png",
+          "Type": "Box - 3D",
+          "CRC32": "3102018874",
+          "URL": "http://images.launchbox-app.com/eff012b2-ae68-4238-94cd-c9beae59982e.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "e85d3080-2272-42ae-9aab-8e5b12c1116f.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "1645508834",
+          "URL": "http://images.launchbox-app.com/e85d3080-2272-42ae-9aab-8e5b12c1116f.jpg"
+        },
+        {
+          "FileName": "b418c88a-2d65-4534-808c-3b3b01991f70.png",
+          "Type": "Box - Back",
+          "Region": "Korea",
+          "CRC32": "1062075751",
+          "URL": "http://images.launchbox-app.com/b418c88a-2d65-4534-808c-3b3b01991f70.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "5926556e-cfa8-43f4-b997-476472ddbb90.png",
+          "Type": "Box - Front",
+          "Region": "Korea",
+          "CRC32": "3557561099",
+          "URL": "http://images.launchbox-app.com/5926556e-cfa8-43f4-b997-476472ddbb90.png"
+        },
+        {
+          "FileName": "fd465b93-f3cd-46ee-94a4-f6bf9fde6228.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3924860559",
+          "URL": "http://images.launchbox-app.com/fd465b93-f3cd-46ee-94a4-f6bf9fde6228.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "c8d31003-abd0-4757-a827-02e5531d3e18.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "4150317110",
+          "URL": "http://images.launchbox-app.com/c8d31003-abd0-4757-a827-02e5531d3e18.jpg"
+        },
+        {
+          "FileName": "64456c78-95a6-4129-8dd8-7b580d53cb20.png",
+          "Type": "Box - Spine",
+          "Region": "Korea",
+          "CRC32": "2927563948",
+          "URL": "http://images.launchbox-app.com/64456c78-95a6-4129-8dd8-7b580d53cb20.png"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "2c68d3ae-5b7d-4e01-8fc3-5892a6f8b247.png",
+        "Type": "Disc",
+        "Region": "Korea",
+        "CRC32": "1313771497",
+        "URL": "http://images.launchbox-app.com/2c68d3ae-5b7d-4e01-8fc3-5892a6f8b247.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "928092fa-811b-4dbe-a2ca-0c5208024798.png",
+        "Type": "Clear Logo",
+        "CRC32": "3093207160",
+        "URL": "http://images.launchbox-app.com/928092fa-811b-4dbe-a2ca-0c5208024798.png"
+      }
+    ]
+  }
+}

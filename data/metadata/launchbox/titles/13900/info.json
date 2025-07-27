@@ -1,0 +1,40 @@
+{
+  "Name": "Dreamcast Collection",
+  "DatabaseID": "13900",
+  "ReleaseDate": "2011-02-22T00:00:00-08:00",
+  "Overview": "Dreamcast Collection is a compilation of four games, previously released on SEGA Dreamcast and Windows:\n\n-    Sonic Adventure\n-    Crazy Taxi\n-    Space Channel 5: Part 2\n-    SEGA Bass Fishing",
+  "CommunityRating": "4.333333333333333",
+  "ESRB": "T - Teen",
+  "Genres": " Compilation",
+  "Developer": "Sega",
+  "Publisher": "Sega of America",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "ace0ec43-17b0-44e4-a1f7-69553d2aff8c.png",
+          "Type": "Box - 3D",
+          "CRC32": "4168438233",
+          "URL": "http://images.launchbox-app.com/ace0ec43-17b0-44e4-a1f7-69553d2aff8c.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "ec999f43-9fc5-449f-8698-2eac89cbfaef.jpg",
+          "Type": "Box - Front",
+          "CRC32": "4271287105",
+          "URL": "http://images.launchbox-app.com/ec999f43-9fc5-449f-8698-2eac89cbfaef.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "dca37183-7290-473a-b227-b77317abdd18.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2931872521",
+        "URL": "http://images.launchbox-app.com/dca37183-7290-473a-b227-b77317abdd18.png"
+      }
+    ]
+  }
+}

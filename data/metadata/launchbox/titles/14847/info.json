@@ -1,0 +1,74 @@
+{
+  "Name": "Kengo: Legend of the 9",
+  "DatabaseID": "14847",
+  "ReleaseDate": "2007-09-11T00:00:00-07:00",
+  "Overview": "In feudal Japan, it was kill or be killed for the samurai. Kengo: Legend of the 9 lets you battle as one of nine famous samurai warriors while mastering expert techniques to gain an advantage over your foes. Become a Kengo Master as you fight your way through lush, high-definition Japanese environments.",
+  "VideoURL": "https://youtu.be/Rjgza_No88w?t=16",
+  "CommunityRating": "3.375",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Kengo",
+  "ESRB": "M - Mature",
+  "Genres": " Fighting",
+  "Developer": "Genki",
+  "Publisher": "Genki",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "7b7c00be-5ed5-4b89-830f-467281f7c5f8.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "513192822",
+          "URL": "http://images.launchbox-app.com/7b7c00be-5ed5-4b89-830f-467281f7c5f8.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "2cc06b96-610e-489e-8973-09483158b49b.jpg",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "1419471526",
+          "URL": "http://images.launchbox-app.com/2cc06b96-610e-489e-8973-09483158b49b.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "44ecafb5-1bd7-4847-8f79-19c7cbd958b2.jpg",
+          "Type": "Box - Front",
+          "CRC32": "78874732",
+          "URL": "http://images.launchbox-app.com/44ecafb5-1bd7-4847-8f79-19c7cbd958b2.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "0f1b6dcd-5ea4-4e68-9237-67b9c6ce5020.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "804839509",
+        "URL": "http://images.launchbox-app.com/0f1b6dcd-5ea4-4e68-9237-67b9c6ce5020.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "46c82203-4853-4226-8ebd-01771c4ca905.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3176274169",
+        "URL": "http://images.launchbox-app.com/46c82203-4853-4226-8ebd-01771c4ca905.jpg"
+      },
+      {
+        "FileName": "58728a90-79ba-4348-a880-32a561d15dd3.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3941973772",
+        "URL": "http://images.launchbox-app.com/58728a90-79ba-4348-a880-32a561d15dd3.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "d459221c-33cf-4ea2-9f32-03abac62dfcc.png",
+        "Type": "Clear Logo",
+        "CRC32": "4135902272",
+        "URL": "http://images.launchbox-app.com/d459221c-33cf-4ea2-9f32-03abac62dfcc.png"
+      }
+    ]
+  }
+}

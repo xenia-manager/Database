@@ -1,0 +1,80 @@
+{
+  "Name": "Battleship",
+  "DatabaseID": "13705",
+  "ReleaseDate": "2012-05-15T00:00:00-07:00",
+  "Overview": "Combining naval strategy simulation with first-person shooter gameplay, players fend off the enemy beachside while ordering attacks against their marine counterparts. Seamlessly switching between battlefield and overview \"Battle Command\" map, the Hasbro game is brought to life as carriers, frigates, cruisers, destroyers, submarines and the legendary USS Missouri Battleship pummel the enemy in a race to strategic points that turn the tide of battle. The Battleship videogame is a next-gen marvel perfectly suited to turn nostalgic game junkies into battle-hardened admirals.",
+  "CommunityRating": "3.25",
+  "ESRB": "T - Teen",
+  "Genres": null,
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "16f22e6a-9742-4804-98b4-0ed84f715a68.png",
+        "Type": "Banner",
+        "CRC32": "4064601913",
+        "URL": "http://images.launchbox-app.com/16f22e6a-9742-4804-98b4-0ed84f715a68.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "e92a601b-0d78-4fce-8df7-c71be5f97d90.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3285963847",
+        "URL": "http://images.launchbox-app.com/e92a601b-0d78-4fce-8df7-c71be5f97d90.jpg"
+      }
+    ],
+    "Box": {
+      "Back": [
+        {
+          "FileName": "4d03ec76-cceb-4925-a1c9-f701348b16af.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "3924446700",
+          "URL": "http://images.launchbox-app.com/4d03ec76-cceb-4925-a1c9-f701348b16af.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "d8d1379a-4868-4eb6-a785-6ada20d27c0c.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1341574121",
+          "URL": "http://images.launchbox-app.com/d8d1379a-4868-4eb6-a785-6ada20d27c0c.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "99942022-fb24-4245-856f-4879ea776430.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "3196289346",
+          "URL": "http://images.launchbox-app.com/99942022-fb24-4245-856f-4879ea776430.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "b6519a61-475b-4238-a373-e7f45a5de1db.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "1821300551",
+        "URL": "http://images.launchbox-app.com/b6519a61-475b-4238-a373-e7f45a5de1db.png"
+      },
+      {
+        "FileName": "92ce4fc6-c41c-4037-a169-19b842719d11.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1312487758",
+        "URL": "http://images.launchbox-app.com/92ce4fc6-c41c-4037-a169-19b842719d11.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "8a25c42d-b432-45df-9fd6-b26df5877716.png",
+        "Type": "Clear Logo",
+        "CRC32": "599172846",
+        "URL": "http://images.launchbox-app.com/8a25c42d-b432-45df-9fd6-b26df5877716.png"
+      }
+    ]
+  }
+}

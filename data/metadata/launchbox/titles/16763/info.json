@@ -1,0 +1,67 @@
+{
+  "Name": "Naruto: Rise of a Ninja",
+  "DatabaseID": "16763",
+  "ReleaseDate": "2007-10-30T00:00:00-07:00",
+  "Overview": "The first Naruto game made by North Americans, Naruto: Rise of a Ninja is an action game with puzzle and RPG elements. Battles take place in arenas, reminiscent of classic one-on-one fighting games, but there's more to just each character's combos: ninjutsu mini-games, rage mode, thrown weapons and replacement technique add spice to the action.\n\nYou follow the story as Naruto, completing quests, earning respect and helping out villagers to earn training points and unlock abilities and ninjutsus. There are also side-quests, mini-games and hidden collectibles to gain even more training points and unlock or upgrade scrolls and thrown weapons. You can also enter Fight mode, where 11 characters of the series are available. Play Tournament mode against increasingly difficult AI, or play multiplayer fights against a friend, online or offline, or against AI. Finally there's the Forest of Death Tournament, where you battle online opponents and must win 5 matches in a row. Downloadable characters, each with unique combos and ninjutsus, are available.",
+  "VideoURL": "http://www.youtube.com/watch?v=NsBYam2gSxo",
+  "CommunityRating": "4",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Naruto:_Rise_of_a_Ninja",
+  "ESRB": "T - Teen",
+  "Genres": " Action; Adventure",
+  "Developer": "Ubisoft Montreal",
+  "Publisher": "Ubisoft",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "f9035c9d-bc47-432d-bd0a-92b356e63cbc.png",
+          "Type": "Box - 3D",
+          "CRC32": "2973634914",
+          "URL": "http://images.launchbox-app.com/f9035c9d-bc47-432d-bd0a-92b356e63cbc.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "968a7329-694a-4207-a617-333eb782b116.jpg",
+          "Type": "Box - Back",
+          "CRC32": "1112218462",
+          "URL": "http://images.launchbox-app.com/968a7329-694a-4207-a617-333eb782b116.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "84e4ea69-fac8-4a4a-b690-8d9f0bfbdcf5.jpg",
+          "Type": "Box - Front",
+          "CRC32": "3245717987",
+          "URL": "http://images.launchbox-app.com/84e4ea69-fac8-4a4a-b690-8d9f0bfbdcf5.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "3a92789f-67a5-45a2-a34b-a63671f991db.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "1878607812",
+          "URL": "http://images.launchbox-app.com/3a92789f-67a5-45a2-a34b-a63671f991db.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "c7debdc3-009c-42c0-948e-37fac3d4c9fc.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1850933775",
+        "URL": "http://images.launchbox-app.com/c7debdc3-009c-42c0-948e-37fac3d4c9fc.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "cb4f8ed4-2b18-448a-9c49-3ee43ce5d965.png",
+        "Type": "Clear Logo",
+        "CRC32": "3017948963",
+        "URL": "http://images.launchbox-app.com/cb4f8ed4-2b18-448a-9c49-3ee43ce5d965.png"
+      }
+    ]
+  }
+}

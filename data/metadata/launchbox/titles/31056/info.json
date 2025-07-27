@@ -1,0 +1,39 @@
+{
+  "Name": "F1 2013",
+  "DatabaseID": "31056",
+  "ReleaseDate": "2013-10-08T00:00:00-07:00",
+  "Overview": "Make history in Formula One! F1 2013 features all the cars, stars and circuits from the 2013 FIA Formula One World Championship plus -- for the first time -- classic content. F1 Classics is an expansive new game mode, introduced by legendary broadcaster Murray Walker, in which you’ll race legendary drivers in famous cars on iconic circuits from the 1980s. This classic content can be played in a range of modes including split-screen and online multiplayer.\n\nF1 2013 also features all of the new drivers, team moves, tyre changes and remodelled handling to recreate the thrill of racing 2013’s stunning roster of Formula One cars. New enhancements, improvements plus new, expanded and returning game modes combine to deliver the most complete simulation of a Formula One season in videogame history.",
+  "CommunityRating": "3.6818181818181817",
+  "ESRB": "E - Everyone",
+  "Genres": " Racing",
+  "Developer": "Codemasters",
+  "Publisher": "Codemasters",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "3d58dbc5-ea87-4411-9466-b32f94985363.png",
+          "Type": "Box - 3D",
+          "CRC32": "1214511044",
+          "URL": "http://images.launchbox-app.com/3d58dbc5-ea87-4411-9466-b32f94985363.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "5cbad3c9-9f07-4411-ac72-22474248378a.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2239953022",
+          "URL": "http://images.launchbox-app.com/5cbad3c9-9f07-4411-ac72-22474248378a.jpg"
+        },
+        {
+          "FileName": "r2_eca152b1-fdb4-4c22-8866-e992ad505320.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "480492043",
+          "URL": "http://images.launchbox-app.com/r2_eca152b1-fdb4-4c22-8866-e992ad505320.jpg"
+        }
+      ]
+    }
+  }
+}

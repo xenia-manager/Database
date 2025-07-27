@@ -1,0 +1,52 @@
+{
+  "Name": "Family Guy: Back to the Multiverse",
+  "DatabaseID": "12516",
+  "ReleaseDate": "2012-11-20T00:00:00-08:00",
+  "Overview": "Family Guy: Back to the Multiverse is a third-person cooperative gameplay video game set to be released on November 20, 2012 in North America for Xbox 360, PlayStation 3 and PC. It's based on the Family Guy television series, most notably the episode Road to the Multiverse, and is also a continuation of The Big Bang Theory. It is rated M for Mature for blood, violence, drug use, mature humor, and sexual content/themes. This game also features the return of Stewie's evil half-brother Bertram, who was killed in the show.",
+  "VideoURL": "https://www.youtube.com/watch?v=V8jfNQwoX9M",
+  "CommunityRating": "3",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Family_Guy:_Back_to_the_Multiverse",
+  "ESRB": "M - Mature",
+  "Genres": " Action; Adventure",
+  "Developer": "Heavy Iron Studios",
+  "Publisher": "Activision",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "e4b4c046-23b5-4ca0-932e-598274bda6a2.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "734231245",
+          "URL": "http://images.launchbox-app.com/e4b4c046-23b5-4ca0-932e-598274bda6a2.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "55ba0984-88d2-4a62-a794-137807744ede.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "4047087298",
+        "URL": "http://images.launchbox-app.com/55ba0984-88d2-4a62-a794-137807744ede.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "f5d4a754-22a4-4c92-aaac-b001ceb31450.png",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "4121806953",
+        "URL": "http://images.launchbox-app.com/f5d4a754-22a4-4c92-aaac-b001ceb31450.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "426f5a00-da15-4b18-ac05-0218809b4cb1.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "2573691247",
+        "URL": "http://images.launchbox-app.com/426f5a00-da15-4b18-ac05-0218809b4cb1.png"
+      }
+    ]
+  }
+}

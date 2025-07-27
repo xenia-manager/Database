@@ -1,0 +1,24 @@
+{
+  "Name": "WRC Powerslide",
+  "DatabaseID": "209996",
+  "ReleaseDate": "2013-03-08T00:00:00-08:00",
+  "Overview": "WRC Powerslide is the brand new game, developed by Milestone, which mixes amazing and exciting gameplay elements in one game. With a colorful and smart style, this new title offer the chance to try all the WRC licensed elements with an arcade attitude.",
+  "CommunityRating": "3.5",
+  "ESRB": "E - Everyone",
+  "Genres": " Racing",
+  "Developer": "Milestone",
+  "Publisher": "Milestone",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "7b72c37e-6144-45fe-a353-ea08a96c0b69.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "3254330320",
+          "URL": "http://images.launchbox-app.com/7b72c37e-6144-45fe-a353-ea08a96c0b69.jpg"
+        }
+      ]
+    }
+  }
+}

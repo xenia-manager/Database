@@ -1,0 +1,40 @@
+{
+  "Name": "Hitman HD Trilogy",
+  "DatabaseID": "14467",
+  "ReleaseDate": "2013-01-29T00:00:00-08:00",
+  "Overview": "Experience more than 40 intense missions across 3 classic Hitman games, each re-mastered in glorious HD. Whether you're a longtime fan or new to the franchise, this is your opportunity to take on the contracts that defined the series and fully established Agent 47 as the world's deadliest assassin.",
+  "CommunityRating": "3.8333333333333335",
+  "ESRB": "M - Mature",
+  "Genres": " Action; Adventure; Stealth",
+  "Developer": "Io-Interactive",
+  "Publisher": "Square Enix",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "f9af5c17-c522-48ac-9304-8b4646868d08.png",
+          "Type": "Box - 3D",
+          "CRC32": "2627472485",
+          "URL": "http://images.launchbox-app.com/f9af5c17-c522-48ac-9304-8b4646868d08.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "b27bd312-6b0a-44a3-9cd1-6ed47fdf7ed2.jpg",
+          "Type": "Box - Front",
+          "CRC32": "3955090706",
+          "URL": "http://images.launchbox-app.com/b27bd312-6b0a-44a3-9cd1-6ed47fdf7ed2.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "02834927-7461-4875-9e37-be7cb0dcedee.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "3151044591",
+        "URL": "http://images.launchbox-app.com/02834927-7461-4875-9e37-be7cb0dcedee.png"
+      }
+    ]
+  }
+}

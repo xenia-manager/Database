@@ -1,0 +1,24 @@
+{
+  "Name": "TiQal",
+  "DatabaseID": "209975",
+  "ReleaseDate": "2009-12-18T00:00:00-08:00",
+  "Overview": "Unlock the full version of TiQal to enjoy all 120 levels of block-busting challenge, plus achievements, 14 unique powerups, and more! Adventure by yourself, or join a friend on Xbox LIVE to team up in multiplayer Co-Op mode. Do you have the skill to complete your quest and save TiQal village from doom?",
+  "CommunityRating": "3",
+  "ESRB": "E - Everyone",
+  "Genres": " Quiz; Education",
+  "Developer": "Slapdash Games",
+  "Publisher": "Microsoft Studios",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "32a741d2-6c77-489d-8018-927bd6e8e5d4.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "1172462072",
+          "URL": "http://images.launchbox-app.com/32a741d2-6c77-489d-8018-927bd6e8e5d4.jpg"
+        }
+      ]
+    }
+  }
+}

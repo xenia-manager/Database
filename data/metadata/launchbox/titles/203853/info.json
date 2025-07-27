@@ -1,0 +1,29 @@
+{
+  "Name": "Kick-Ass 2",
+  "DatabaseID": "203853",
+  "ReleaseDate": "2014-07-25T00:00:00-07:00",
+  "Overview": "Enter the world of the multi-million dollar film and comic franchise Kick Ass in Kick Ass 2, a new beat-em-up for PC and console. Set in New York City, three to four years after the events of the first film, our hero Dave, a.k.a Kick Ass, has retired from fighting crime as his actions have inspired ordinary citizens to become real-life superheroes. However, normal life isn't really for him so he begins training to become a proper hero with close friend Mindy, a.k.a Hit Girl. Elsewhere, Chris D'Amico accidentally kills his mother with a tanning bed while arguing over her apathy towards his father's death. With full control over his family's money, Chris re-invents himself as a super villain known as \"The Motherfucker\"and swears to get revenge on Kick-Ass...",
+  "Genres": " Beat 'em Up",
+  "Developer": "Freedom Factory Studios",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "326a76d1-ff5a-4b80-82b6-64e2e1b97bdf.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "1756782002",
+          "URL": "http://images.launchbox-app.com/326a76d1-ff5a-4b80-82b6-64e2e1b97bdf.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "e668839e-ae00-4fca-a036-9f5cb502f09b.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1978220376",
+        "URL": "http://images.launchbox-app.com/e668839e-ae00-4fca-a036-9f5cb502f09b.jpg"
+      }
+    ]
+  }
+}

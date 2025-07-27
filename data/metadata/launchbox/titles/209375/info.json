@@ -1,0 +1,32 @@
+{
+  "Name": "Fatal Fury Special",
+  "DatabaseID": "209375",
+  "ReleaseDate": "2009-12-04T00:00:00-08:00",
+  "Overview": "The Grandmother of all Battles. Terry, Andy, and Joe with 12 of the toughest titans of fighting art are here for you!",
+  "CommunityRating": "3.3",
+  "ESRB": "T - Teen",
+  "Genres": " Fighting",
+  "Developer": "SNK Playmore",
+  "Publisher": "SNK Playmore",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "d7d25ba0-6ea2-405d-88e4-67e6c1a5137d.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "709047021",
+        "URL": "http://images.launchbox-app.com/d7d25ba0-6ea2-405d-88e4-67e6c1a5137d.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "6696919b-77a0-4b80-a8dd-34873701b1d9.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "4113537298",
+          "URL": "http://images.launchbox-app.com/6696919b-77a0-4b80-a8dd-34873701b1d9.jpg"
+        }
+      ]
+    }
+  }
+}

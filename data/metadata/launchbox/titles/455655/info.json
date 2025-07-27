@@ -1,0 +1,32 @@
+{
+  "Name": "Superstars V8 Racing",
+  "DatabaseID": "455655",
+  "ReleaseDate": "2009-06-26T00:00:00-07:00",
+  "Overview": "Hear the tires scream in this brand new car racing title! Based on the heart thumping Superstars® license and featuring a variety of top V8 production class cars, it will rip you out of your chair and put you right on the track for an incredible driving experience. With modes suitable for both the arcade fan and simulation addict, it will challenge the skill of every type of driver.",
+  "ESRB": "E - Everyone",
+  "Genres": " Racing",
+  "Developer": "Milestone S.r.l.",
+  "Publisher": "O-Games",
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "bf07f9ae-2116-4601-8c75-98de5dd22625.jpg",
+          "Type": "Box - Back",
+          "Region": "France",
+          "CRC32": "3380355858",
+          "URL": "http://images.launchbox-app.com/bf07f9ae-2116-4601-8c75-98de5dd22625.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "b7076699-4c8d-4492-8da3-3779803f439a.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2453386247",
+          "URL": "http://images.launchbox-app.com/b7076699-4c8d-4492-8da3-3779803f439a.jpg"
+        }
+      ]
+    }
+  }
+}

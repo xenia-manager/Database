@@ -1,0 +1,94 @@
+{
+  "Name": "John Woo Presents Stranglehold",
+  "DatabaseID": "7623",
+  "ReleaseDate": "2007-09-05T00:00:00-07:00",
+  "Overview": "Stranglehold is a third-person shooter developed by Midway Games' Chicago studio, released in late 2007 for Microsoft Windows, PlayStation 3 and Xbox 360. It is Midway's first game to use Unreal Engine 3, and was developed in collaboration with John Woo.\n\nStranglehold is the sequel to Woo's 1992 Hong Kong action film, Hard Boiled, and stars Chow Yun-fat in a reprisal of his role as hard-boiled cop Inspector \"Tequila\" Yuen. Stranglehold is the first project on which Woo and Chow have collaborated since Hard Boiled.\n\nA sequel to Stranglehold, entitled Gun Runner, was in the works prior to Midway's financial demise but was ultimately cancelled.",
+  "VideoURL": "https://www.youtube.com/watch?v=LvUKXjKpWPE",
+  "CommunityRating": "3.5833333333333335",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Stranglehold_(video_game)",
+  "ESRB": "M - Mature",
+  "Genres": " Shooter",
+  "Developer": "Tiger Hill Entertainment",
+  "Publisher": "Midway Games",
+  "Artwork": {
+    "Arcade": [
+      {
+        "FileName": "5ec64e50-6ce1-4d81-9572-86c8882bf2c1.jpg",
+        "Type": "Arcade - Controls Information",
+        "CRC32": "3112729853",
+        "URL": "http://images.launchbox-app.com/5ec64e50-6ce1-4d81-9572-86c8882bf2c1.jpg"
+      }
+    ],
+    "Banner": [
+      {
+        "FileName": "6353dd27-a50d-4be5-83cb-c626a74175ca.png",
+        "Type": "Banner",
+        "CRC32": "739863935",
+        "URL": "http://images.launchbox-app.com/6353dd27-a50d-4be5-83cb-c626a74175ca.png"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "5d87360b-3d10-46b4-a573-1a8776dbad59.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "3703381849",
+          "URL": "http://images.launchbox-app.com/5d87360b-3d10-46b4-a573-1a8776dbad59.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "c236a001-5be7-45c7-a456-ee77eb0af19a.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "2407589702",
+          "URL": "http://images.launchbox-app.com/c236a001-5be7-45c7-a456-ee77eb0af19a.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "c2488385-5e1d-440f-a600-f9c497af3e4d.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "4033971949",
+          "URL": "http://images.launchbox-app.com/c2488385-5e1d-440f-a600-f9c497af3e4d.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "0ae92606-1c8a-4a88-88d3-4d3ac8484be0.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "2450797305",
+          "URL": "http://images.launchbox-app.com/0ae92606-1c8a-4a88-88d3-4d3ac8484be0.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "9165e8b9-fccd-4059-8ba8-f8ff55520ac1.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2604037494",
+        "URL": "http://images.launchbox-app.com/9165e8b9-fccd-4059-8ba8-f8ff55520ac1.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "4c0abacf-5f06-4232-8ade-fc3a3e1cc3d2.png",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "2045942139",
+        "URL": "http://images.launchbox-app.com/4c0abacf-5f06-4232-8ade-fc3a3e1cc3d2.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "0f49b636-c00f-4847-9178-cc359142b67c.png",
+        "Type": "Clear Logo",
+        "CRC32": "2320404483",
+        "URL": "http://images.launchbox-app.com/0f49b636-c00f-4847-9178-cc359142b67c.png"
+      }
+    ]
+  }
+}

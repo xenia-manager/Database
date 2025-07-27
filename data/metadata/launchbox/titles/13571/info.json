@@ -1,0 +1,99 @@
+{
+  "Name": "Aliens: Colonial Marines",
+  "DatabaseID": "13571",
+  "ReleaseDate": "2013-02-12T00:00:00-08:00",
+  "Overview": "In Aliens: Colonial Marines, players are part of a United States Colonial Marine squad and must prepare to face an alien assault more intense and horrific than ever before. Packing classic Aliens weaponry ranging from pulse rifles to flamethrowers as well as brand-new equipment and skills all within a squad-based combat system, players will become an elite United States Colonial Marine. Aliens: Colonial Marines will feature a story driven single-player mode and an all-new four player co-op mode allowing players to share the chilling experience with three friends.",
+  "VideoURL": "https://www.youtube.com/watch?v=2LXuhSg_48w",
+  "CommunityRating": "3.2666666666666666",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Aliens:_Colonial_Marines",
+  "ESRB": "M - Mature",
+  "Genres": " Horror; Shooter",
+  "Developer": "Gearbox Software",
+  "Publisher": "Sega",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "36b77fed-297f-4081-83ea-9d47603b7573.png",
+        "Type": "Banner",
+        "CRC32": "4294256861",
+        "URL": "http://images.launchbox-app.com/36b77fed-297f-4081-83ea-9d47603b7573.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "5bb24929-3031-4107-a935-917c69a7c544.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "50681395",
+        "URL": "http://images.launchbox-app.com/5bb24929-3031-4107-a935-917c69a7c544.jpg"
+      }
+    ],
+    "Box": {
+      "Back": [
+        {
+          "FileName": "ce222ed1-4227-4218-9c37-952f4ea626f9.jpg",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "1760823031",
+          "URL": "http://images.launchbox-app.com/ce222ed1-4227-4218-9c37-952f4ea626f9.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "b92c6b03-e8ab-4a54-89f5-9e4c1caee2d7.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "3652965252",
+          "URL": "http://images.launchbox-app.com/b92c6b03-e8ab-4a54-89f5-9e4c1caee2d7.jpg"
+        },
+        {
+          "FileName": "019f55fc-3e6d-4d96-9ee2-6876dea47c67.jpg",
+          "Type": "Box - Front",
+          "Region": "Germany",
+          "CRC32": "4242921650",
+          "URL": "http://images.launchbox-app.com/019f55fc-3e6d-4d96-9ee2-6876dea47c67.jpg"
+        },
+        {
+          "FileName": "900b45e3-9a07-4332-a873-0efbbf210440.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1335178383",
+          "URL": "http://images.launchbox-app.com/900b45e3-9a07-4332-a873-0efbbf210440.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "776b3adf-dd4c-4771-aec8-1a9ecf9ac84e.jpg",
+          "Type": "Box - Spine",
+          "Region": "Europe",
+          "CRC32": "2575814163",
+          "URL": "http://images.launchbox-app.com/776b3adf-dd4c-4771-aec8-1a9ecf9ac84e.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "e04261c2-975d-4f47-9439-7524c77cd870.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1512553423",
+        "URL": "http://images.launchbox-app.com/e04261c2-975d-4f47-9439-7524c77cd870.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "a96dad06-560e-424e-a29b-425718e925ff.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1440567262",
+        "URL": "http://images.launchbox-app.com/a96dad06-560e-424e-a29b-425718e925ff.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "8f8c6d55-bc10-469d-87bd-42774be8ee6c.png",
+        "Type": "Clear Logo",
+        "CRC32": "3994969196",
+        "URL": "http://images.launchbox-app.com/8f8c6d55-bc10-469d-87bd-42774be8ee6c.png"
+      }
+    ]
+  }
+}

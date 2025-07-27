@@ -1,0 +1,40 @@
+{
+  "Name": "DarkStar One: Broken Alliance",
+  "DatabaseID": "11971",
+  "ReleaseDate": "2010-07-20T00:00:00-07:00",
+  "Overview": "In Darkstar One - Broken Alliance, command the mysterious spacecraft, the Darkstar One, allowing near infinite customization capabilities using the latest and even mysterious alien weapons and technologies. Blast into space for in-your-face 3D combat in full 1080p High Definition, explore over 300 alien worlds, buy and sell cargo or services, all while exploring a vast and beautiful universe in a quest to uncover the mystery behind the main character's father.",
+  "VideoURL": "http://www.youtube.com/watch?v=GUrhejcN9eQ",
+  "CommunityRating": "2",
+  "ESRB": "T - Teen",
+  "Genres": " Flight Simulator; Role-Playing; Shooter",
+  "Developer": "Ascaron Entertainment",
+  "Publisher": "Kalypso Media",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "e2f54c68-ccb4-4147-92f7-20708d80dace.png",
+          "Type": "Box - 3D",
+          "CRC32": "839522660",
+          "URL": "http://images.launchbox-app.com/e2f54c68-ccb4-4147-92f7-20708d80dace.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "9876f830-37f3-4acb-a23d-b230b70261bc.jpg",
+          "Type": "Box - Front",
+          "CRC32": "3341289299",
+          "URL": "http://images.launchbox-app.com/9876f830-37f3-4acb-a23d-b230b70261bc.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "8873aad6-e6ff-4719-a0d7-6f7c6e5dda12.png",
+        "Type": "Clear Logo",
+        "CRC32": "4126653985",
+        "URL": "http://images.launchbox-app.com/8873aad6-e6ff-4719-a0d7-6f7c6e5dda12.png"
+      }
+    ]
+  }
+}

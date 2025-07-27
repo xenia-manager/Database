@@ -1,0 +1,31 @@
+{
+  "Name": "Hitman: Sniper Challenge",
+  "DatabaseID": "209402",
+  "ReleaseDate": "2012-05-14T00:00:00-07:00",
+  "Overview": "Get ready to pull the trigger on a completely new chapter in the award-winning Hitman series. Keep track of your scores and compare them with other players around the globe. Hone your marksman expertise in preparation of Agent 47's toughest and most personal contract yet - Hitman Absolution.",
+  "CommunityRating": "3.5",
+  "ESRB": "M - Mature",
+  "Genres": " Shooter",
+  "Developer": "Io-Interactive",
+  "Publisher": "Square Enix Europe",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "c2cf5470-06de-4ace-961e-50e10e3c3f58.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "3687712052",
+          "URL": "http://images.launchbox-app.com/c2cf5470-06de-4ace-961e-50e10e3c3f58.jpg"
+        },
+        {
+          "FileName": "cad5a344-e4f1-4a04-af8b-56f3ac074d40.png",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "830501973",
+          "URL": "http://images.launchbox-app.com/cad5a344-e4f1-4a04-af8b-56f3ac074d40.png"
+        }
+      ]
+    }
+  }
+}

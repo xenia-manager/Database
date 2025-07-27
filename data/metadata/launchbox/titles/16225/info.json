@@ -1,0 +1,37 @@
+{
+  "Name": "PES 2011: Pro Evolution Soccer",
+  "DatabaseID": "16225",
+  "ReleaseDate": "2010-10-19T00:00:00-07:00",
+  "Overview": "Pro Evolution Soccer 2011 comes with new teams for 2010/2011 and plenty new features. Good old fending off the attackers from the early versions is here and fending off means a lot if you want to dribble your opponent or keep the ball in your possession in one-on-one tackle. You can now turn on stamina gauge above controlling player and see ball kicking gauge every time you hit a ball, be that shooting on a goal or a simple pass to another friendly player. There is more detailed game plan than before with easy adjustment of strategies, especially when it comes to positions of an individual player. According to Konami, aside the typical passing, feints, dribbling or defence actions, this game features over 1000 new motions, but what can be done with the ball depends, as usual, on the player you are controlling.\n\nThere are even more licensed cups and leagues this time, UEFA Champions League, UEFA Europa League as well as some new ones like Copa Libertadores and UEFA Super Cup. Even a Club World Cup mode is available as a part of other modes, but without a licensed name or logo. National teams are all there, some of them licensed and some with fictional player names, and same goes for clubs with addition to some new licensed clubs like Werder Bremen. UEFA cups are integrated within Master League as well as other leagues, and recent new mode like Become a Legend is still there. Now, for the first time, Become A Legend and Master League are playable online.",
+  "CommunityRating": "3.7",
+  "ESRB": "E - Everyone",
+  "Genres": null,
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "f1c1e4f7-3ec9-4a2b-9fb1-135b5217d79b.png",
+          "Type": "Box - 3D",
+          "CRC32": "4267339999",
+          "URL": "http://images.launchbox-app.com/f1c1e4f7-3ec9-4a2b-9fb1-135b5217d79b.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "822875e0-c38b-43ef-b9b1-d3641a55fea6.jpg",
+          "Type": "Box - Front",
+          "CRC32": "2117133247",
+          "URL": "http://images.launchbox-app.com/822875e0-c38b-43ef-b9b1-d3641a55fea6.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "ed2cc919-c8ca-467d-9337-575382747073.png",
+        "Type": "Clear Logo",
+        "CRC32": "144565111",
+        "URL": "http://images.launchbox-app.com/ed2cc919-c8ca-467d-9337-575382747073.png"
+      }
+    ]
+  }
+}

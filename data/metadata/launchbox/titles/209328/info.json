@@ -1,0 +1,24 @@
+{
+  "Name": "EXIT 2",
+  "DatabaseID": "209328",
+  "ReleaseDate": "2009-02-25T00:00:00-08:00",
+  "Overview": "The sequel to Exit, the definitive escape puzzler! Escape danger all over the world!",
+  "CommunityRating": "3",
+  "ESRB": "E - Everyone",
+  "Genres": " Action",
+  "Developer": "Taito",
+  "Publisher": "Taito",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "f6877fd8-9ea9-4861-9b68-5333390440a2.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "2870882727",
+          "URL": "http://images.launchbox-app.com/f6877fd8-9ea9-4861-9b68-5333390440a2.jpg"
+        }
+      ]
+    }
+  }
+}

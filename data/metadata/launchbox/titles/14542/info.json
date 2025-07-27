@@ -1,0 +1,63 @@
+{
+  "Name": "Omerta: City of Gangsters",
+  "DatabaseID": "14542",
+  "ReleaseDate": "2013-02-12T00:00:00-08:00",
+  "Overview": "OMERTA - CITY OF GANGSTERS is a simulation game with tactical turn-based combat. Taking the role of a fresh-from-the-boat immigrant, with dreams of the big life, the player will work his way up the criminal hierarchy of 1920's Atlantic City. Starting with small jobs, his character recruits a gang and expands his empire by taking territory from other gangsters. Eventually he establishes his own crime syndicate and becomes the de facto ruler of Atlantic City.",
+  "CommunityRating": "2.8333333333333335",
+  "ESRB": "T - Teen",
+  "Genres": " Strategy",
+  "Developer": "Haemimont Games",
+  "Publisher": "Kalypso Media USA",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "7598e620-7f54-4845-ac7e-d4ade02ec591.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "942465321",
+          "URL": "http://images.launchbox-app.com/7598e620-7f54-4845-ac7e-d4ade02ec591.jpg"
+        },
+        {
+          "FileName": "66875f32-aea4-4565-9e6a-afbcea8d8818.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "2111872868",
+          "URL": "http://images.launchbox-app.com/66875f32-aea4-4565-9e6a-afbcea8d8818.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "1f5f3e19-7bab-4912-b66b-d89919ddf114.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2359767882",
+        "URL": "http://images.launchbox-app.com/1f5f3e19-7bab-4912-b66b-d89919ddf114.png"
+      },
+      {
+        "FileName": "8a3fd6bc-31de-4951-b792-ef3a2ed3411e.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "2017905641",
+        "URL": "http://images.launchbox-app.com/8a3fd6bc-31de-4951-b792-ef3a2ed3411e.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "5a8aa37f-e426-4652-b7b1-6598c55dd852.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2951340893",
+        "URL": "http://images.launchbox-app.com/5a8aa37f-e426-4652-b7b1-6598c55dd852.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "3de06061-0ce5-47f5-ba2c-8c79298a1db6.png",
+        "Type": "Clear Logo",
+        "CRC32": "1366711372",
+        "URL": "http://images.launchbox-app.com/3de06061-0ce5-47f5-ba2c-8c79298a1db6.png"
+      }
+    ]
+  }
+}

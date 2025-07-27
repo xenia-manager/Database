@@ -1,0 +1,146 @@
+{
+  "Name": "NieR",
+  "DatabaseID": "12590",
+  "ReleaseDate": "2010-04-27T00:00:00-07:00",
+  "Overview": "Players will jump into the title role of the unyielding Nier as he begins his desperate quest to discover a cure for his daughter, Yonah, who is stricken with the deadly Black Scrawl disease. Armed with a powerful set of magical abilities as well as mighty swords and armor, Nier will do battle alongside a set of formidable allies against waves of dark enemies and giant bosses to discover the truth about the disease, his daughter...and himself.",
+  "VideoURL": "https://www.youtube.com/watch?v=qBk-u8nuFvY",
+  "CommunityRating": "3.125",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Nier_(video_game)",
+  "ESRB": "M - Mature",
+  "Genres": " Action; Role-Playing",
+  "Developer": "Cavia",
+  "Publisher": "Square Enix",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "a046270a-076e-4a61-bb93-a9d4696c629f.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3079374473",
+        "URL": "http://images.launchbox-app.com/a046270a-076e-4a61-bb93-a9d4696c629f.jpg"
+      },
+      {
+        "FileName": "b7bfb141-474f-482b-8ba0-b59d40e8dbe3.png",
+        "Type": "Fanart - Background",
+        "CRC32": "4173574997",
+        "URL": "http://images.launchbox-app.com/b7bfb141-474f-482b-8ba0-b59d40e8dbe3.png"
+      },
+      {
+        "FileName": "d78d50e6-795f-4fe3-8084-6e2f6116deb9.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2076931216",
+        "URL": "http://images.launchbox-app.com/d78d50e6-795f-4fe3-8084-6e2f6116deb9.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "6ac91035-7664-40c7-8e61-ef089e3f92d1.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "2433295793",
+          "URL": "http://images.launchbox-app.com/6ac91035-7664-40c7-8e61-ef089e3f92d1.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "ac0570a9-7cab-4ee4-9a0a-6167d2095250.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "3703291124",
+          "URL": "http://images.launchbox-app.com/ac0570a9-7cab-4ee4-9a0a-6167d2095250.jpg"
+        },
+        {
+          "FileName": "21c16f96-594a-4ec9-9512-2b14dab36a16.jpg",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "891066127",
+          "URL": "http://images.launchbox-app.com/21c16f96-594a-4ec9-9512-2b14dab36a16.jpg"
+        },
+        {
+          "FileName": "939010e6-fb4a-4af2-96d4-f46a6460f9ba.jpg",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "3831876962",
+          "URL": "http://images.launchbox-app.com/939010e6-fb4a-4af2-96d4-f46a6460f9ba.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "edf675a2-9546-4332-bae5-6d0003caf244.jpg",
+          "Type": "Box - Front",
+          "Region": "United Kingdom",
+          "CRC32": "3133887506",
+          "URL": "http://images.launchbox-app.com/edf675a2-9546-4332-bae5-6d0003caf244.jpg"
+        },
+        {
+          "FileName": "aacfb7e1-9b3b-47ad-a1e1-a6ef2e44341d.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "778653003",
+          "URL": "http://images.launchbox-app.com/aacfb7e1-9b3b-47ad-a1e1-a6ef2e44341d.jpg"
+        },
+        {
+          "FileName": "5750eee3-8e4a-4f80-8260-aa25e32c19a4.jpg",
+          "Type": "Box - Front",
+          "Region": "Japan",
+          "CRC32": "3312540225",
+          "URL": "http://images.launchbox-app.com/5750eee3-8e4a-4f80-8260-aa25e32c19a4.jpg"
+        },
+        {
+          "FileName": "3851c7a6-da6a-4d81-906b-2683c47b4fac.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2523238131",
+          "URL": "http://images.launchbox-app.com/3851c7a6-da6a-4d81-906b-2683c47b4fac.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "3aa16965-9cfa-464a-8462-096d162a8926.png",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "1619591908",
+          "URL": "http://images.launchbox-app.com/3aa16965-9cfa-464a-8462-096d162a8926.png"
+        },
+        {
+          "FileName": "c94c6e0b-2534-4878-9087-cb8401663367.png",
+          "Type": "Box - Spine",
+          "Region": "Europe",
+          "CRC32": "2257897553",
+          "URL": "http://images.launchbox-app.com/c94c6e0b-2534-4878-9087-cb8401663367.png"
+        },
+        {
+          "FileName": "a0eb604c-3399-4434-8c83-5637c7f964d3.png",
+          "Type": "Box - Spine",
+          "Region": "United Kingdom",
+          "CRC32": "1845288723",
+          "URL": "http://images.launchbox-app.com/a0eb604c-3399-4434-8c83-5637c7f964d3.png"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "d8ea91e3-67a0-482c-aaa9-35a531f7cf0c.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "2167691956",
+        "URL": "http://images.launchbox-app.com/d8ea91e3-67a0-482c-aaa9-35a531f7cf0c.png"
+      },
+      {
+        "FileName": "01451403-5c3e-4eea-9959-59359b3b51dd.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "4013056349",
+        "URL": "http://images.launchbox-app.com/01451403-5c3e-4eea-9959-59359b3b51dd.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "1e7c8bab-1b2b-4365-a43c-494481c18ede.png",
+        "Type": "Clear Logo",
+        "CRC32": "551148615",
+        "URL": "http://images.launchbox-app.com/1e7c8bab-1b2b-4365-a43c-494481c18ede.png"
+      }
+    ]
+  }
+}

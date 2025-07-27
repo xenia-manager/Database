@@ -1,0 +1,42 @@
+{
+  "Name": "FIFA 17",
+  "DatabaseID": "173299",
+  "ReleaseDate": "2016-09-27T00:00:00-07:00",
+  "Overview": "FIFA 17 immerses you in authentic football experiences while introducing you to football players full of depth and emotion, and taking you to brand new worlds accessible only in the game. Complete innovation in the way players think and move, physically interact with opponents, and execute in attack lets you own every moment on the pitch.",
+  "CommunityRating": "0.5",
+  "ESRB": "E - Everyone",
+  "Genres": " Sports",
+  "Developer": "Electronic Arts",
+  "Publisher": "Electronic Arts",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "3c8e7c65-03a5-4ac0-81b0-abc663bb3ef4.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "4065396745",
+          "URL": "http://images.launchbox-app.com/3c8e7c65-03a5-4ac0-81b0-abc663bb3ef4.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "9f939c62-d9a6-497f-8ea7-e4533d20b86d.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "2149959542",
+        "URL": "http://images.launchbox-app.com/9f939c62-d9a6-497f-8ea7-e4533d20b86d.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "532c504d-9e5c-437a-8ee4-53b439a04a32.png",
+        "Type": "Clear Logo",
+        "Region": "North America",
+        "CRC32": "600475997",
+        "URL": "http://images.launchbox-app.com/532c504d-9e5c-437a-8ee4-53b439a04a32.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Name": "Kinectimals: Now with Bears!",
+  "DatabaseID": "14443",
+  "ReleaseDate": "2011-10-11T00:00:00-07:00",
+  "Overview": "Your family gets bigger in this extended release of Kinectimals. Joining the original feline cubs, now play with cuddly bear cubs as you solve a new mystery on an undiscovered island! Share exciting adventures and fun challenges as you teach your best friends new tricks using your voice and body to interact naturally with them*. Explore lush islands and collect treasures and accessories for your cubs. Enjoy new interactions and activities. Embark on a journey of discovery and build a bond that grows every time you play.",
+  "CommunityRating": "2",
+  "ESRB": "E - Everyone",
+  "Genres": " Life Simulation",
+  "Developer": "Frontier Developments",
+  "Publisher": "Microsoft Game Studios",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "d07e777e-553c-442a-bb73-77e89054f12a.jpg",
+          "Type": "Box - Front",
+          "CRC32": "4207340167",
+          "URL": "http://images.launchbox-app.com/d07e777e-553c-442a-bb73-77e89054f12a.jpg"
+        }
+      ]
+    }
+  }
+}

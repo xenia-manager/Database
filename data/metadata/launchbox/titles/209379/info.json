@@ -1,0 +1,24 @@
+{
+  "Name": "Fireburst",
+  "DatabaseID": "209379",
+  "ReleaseDate": "2013-06-14T00:00:00-07:00",
+  "Overview": "Blast opponents off the road with Fireburst, an explosively fun fast-paced arcade style racing game with fantastic graphics. Rev up to scorching speeds to outrun opponents on a dozen different tracks. Thanks to our exclusive Fireboost technology, use various explosive, fire-based special abilities to turn other cars into a pyre of parts. Leave opponents sucking on your smoldering dust in single-player mode, local four-player mode or the insane online eight-player mode!",
+  "CommunityRating": "3",
+  "ESRB": "T - Teen",
+  "Genres": " Racing",
+  "Developer": "IndiePub",
+  "Publisher": "BigBen Interactive",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "ba57c436-b381-4a45-bb3f-edbec200b91d.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "1717428928",
+          "URL": "http://images.launchbox-app.com/ba57c436-b381-4a45-bb3f-edbec200b91d.jpg"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "Just Dance: Kids",
+  "DatabaseID": "167766",
+  "CommunityRating": "4.5",
+  "Genres": null,
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "727cd0dc-e93a-4ab5-8d84-35a1cf42aad7.png",
+          "Type": "Box - 3D",
+          "CRC32": "870971570",
+          "URL": "http://images.launchbox-app.com/727cd0dc-e93a-4ab5-8d84-35a1cf42aad7.png"
+        }
+      ]
+    }
+  }
+}

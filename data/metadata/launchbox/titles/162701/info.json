@@ -1,0 +1,27 @@
+{
+  "Name": "EM Enchant Arm",
+  "DatabaseID": "162701",
+  "CommunityRating": "5",
+  "Genres": null,
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "c5cddfc4-e8d7-45e9-85ef-5c8072efd41f.png",
+          "Type": "Box - 3D",
+          "CRC32": "1735373849",
+          "URL": "http://images.launchbox-app.com/c5cddfc4-e8d7-45e9-85ef-5c8072efd41f.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "53d5d86f-909e-4af0-8b96-0c5a662539ef.jpg",
+          "Type": "Box - Front",
+          "Region": "Japan",
+          "CRC32": "2513363392",
+          "URL": "http://images.launchbox-app.com/53d5d86f-909e-4af0-8b96-0c5a662539ef.jpg"
+        }
+      ]
+    }
+  }
+}

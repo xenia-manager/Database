@@ -1,0 +1,77 @@
+{
+  "Name": "CSI: Deadly Intent",
+  "DatabaseID": "12251",
+  "ReleaseDate": "2009-10-27T00:00:00-07:00",
+  "Overview": "In Sin City there are no secrets, only hidden answers. Join the new Vegas CSI team and explore five brand-new cases written by CSI writers. Explore crime scenes, examine victim’s bodies, and follow the surprising twists and turns of the story. Partner with the new cast of CSI Season 9 and team up with new characters such as Ray Langston (Laurence Fishburne) and Riley Adams (Lauren Lee Smith). Work as partners on the crime scene or help each other during tough suspect interrogations. Play as one of the most skillful forensic experts to join the Vegas CSI team. Help other detectives in their investigations and gain their respect through your actions and teamwork. Collect evidence at the crime scene by dusting for fingerprints, searching for valuable information, unveiling hidden evidence, and much more. Interview a variety of witnesses and suspects by asking key questions and using evidence to uncover the truth. Analyze evidence with a variety of new technology, such as DNA and microscope analysis.",
+  "CommunityRating": "4.0714285714285712",
+  "ESRB": "M - Mature",
+  "Genres": " Adventure",
+  "Developer": "Telltale Games",
+  "Publisher": "Ubisoft",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "968c874e-a342-4944-a91b-370b8f79374c.png",
+          "Type": "Box - 3D",
+          "CRC32": "352106813",
+          "URL": "http://images.launchbox-app.com/968c874e-a342-4944-a91b-370b8f79374c.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "d589ffcd-0ea2-497e-b486-7ad64b9c5c9b.jpg",
+          "Type": "Box - Front",
+          "CRC32": "3304124454",
+          "URL": "http://images.launchbox-app.com/d589ffcd-0ea2-497e-b486-7ad64b9c5c9b.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "813ab2ab-57e7-423e-b40f-f4468ec1a1fc.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2292156197",
+        "URL": "http://images.launchbox-app.com/813ab2ab-57e7-423e-b40f-f4468ec1a1fc.jpg"
+      },
+      {
+        "FileName": "87106c21-1056-4304-a2b8-025869ce8710.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3558174209",
+        "URL": "http://images.launchbox-app.com/87106c21-1056-4304-a2b8-025869ce8710.jpg"
+      },
+      {
+        "FileName": "279f816b-ee2e-4930-804a-59dbd3fbf2d7.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "611018410",
+        "URL": "http://images.launchbox-app.com/279f816b-ee2e-4930-804a-59dbd3fbf2d7.jpg"
+      },
+      {
+        "FileName": "37749ff8-9ae8-4845-a456-dfd89b51a8b4.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1536328727",
+        "URL": "http://images.launchbox-app.com/37749ff8-9ae8-4845-a456-dfd89b51a8b4.jpg"
+      },
+      {
+        "FileName": "62b85d13-86ac-4baf-b8da-54548ceb29fa.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2338967003",
+        "URL": "http://images.launchbox-app.com/62b85d13-86ac-4baf-b8da-54548ceb29fa.jpg"
+      },
+      {
+        "FileName": "fe9afab2-a341-443f-aadd-48c7f10257df.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "183640243",
+        "URL": "http://images.launchbox-app.com/fe9afab2-a341-443f-aadd-48c7f10257df.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "83d13f23-14c8-4549-a8cd-4996501aa04b.png",
+        "Type": "Clear Logo",
+        "CRC32": "667565787",
+        "URL": "http://images.launchbox-app.com/83d13f23-14c8-4549-a8cd-4996501aa04b.png"
+      }
+    ]
+  }
+}

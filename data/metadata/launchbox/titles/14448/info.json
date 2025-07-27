@@ -1,0 +1,91 @@
+{
+  "Name": "The Legend of Spyro: Dawn of the Dragon",
+  "DatabaseID": "14448",
+  "ReleaseDate": "2008-10-22T00:00:00-07:00",
+  "Overview": "Three long years have passed since Spyro and Cynder were trapped in the crystal, since then Malefor has unleashed his evil onto the world. In this third chapter of the epic Legend of Spyro trilogy, Spyro must fulfill his destiny and face the Dark Master. As evil spreads over the world, Spyro and Cynder must discover new abilities and unlock their true powers to defeat Malefor and stop him from destroying the world.",
+  "VideoURL": "http://www.youtube.com/watch?v=RiX4zzGiN6g",
+  "CommunityRating": "3.1666666666666665",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/The_Legend_of_Spyro:_Dawn_of_the_Dragon",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Action",
+  "Developer": "Étranges Libellules",
+  "Publisher": "Activision",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "356f8f66-51ec-4460-950b-d97eb494083f.jpg",
+        "Type": "Banner",
+        "Region": "North America",
+        "CRC32": "524738900",
+        "URL": "http://images.launchbox-app.com/356f8f66-51ec-4460-950b-d97eb494083f.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "73defa2c-7c7d-4881-8ce3-239816eff0be.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "2392596780",
+          "URL": "http://images.launchbox-app.com/73defa2c-7c7d-4881-8ce3-239816eff0be.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "1fb5b425-1a85-49d1-80a8-6c820e86c03b.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "4083592539",
+          "URL": "http://images.launchbox-app.com/1fb5b425-1a85-49d1-80a8-6c820e86c03b.jpg"
+        },
+        {
+          "FileName": "447e3941-ec26-440d-ab20-596b8017f038.jpg",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "2516906679",
+          "URL": "http://images.launchbox-app.com/447e3941-ec26-440d-ab20-596b8017f038.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "12aef1fe-a104-4268-9bd9-e176ed498e21.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "1218834638",
+          "URL": "http://images.launchbox-app.com/12aef1fe-a104-4268-9bd9-e176ed498e21.jpg"
+        },
+        {
+          "FileName": "0981f33e-3913-4a70-925f-841d0fed55c3.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1111355287",
+          "URL": "http://images.launchbox-app.com/0981f33e-3913-4a70-925f-841d0fed55c3.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "7275e506-4fa4-4a5c-a03c-a1a7139b70e9.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "4242912643",
+        "URL": "http://images.launchbox-app.com/7275e506-4fa4-4a5c-a03c-a1a7139b70e9.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "790e31b2-908a-4a3b-9b71-b4d983d12c1b.png",
+        "Type": "Clear Logo",
+        "CRC32": "1705062932",
+        "URL": "http://images.launchbox-app.com/790e31b2-908a-4a3b-9b71-b4d983d12c1b.png"
+      },
+      {
+        "FileName": "28d4cb41-3754-4524-b670-ab9d83808823.png",
+        "Type": "Clear Logo",
+        "Region": "Spain",
+        "CRC32": "403880643",
+        "URL": "http://images.launchbox-app.com/28d4cb41-3754-4524-b670-ab9d83808823.png"
+      }
+    ]
+  }
+}

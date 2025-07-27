@@ -1,0 +1,49 @@
+{
+  "Name": "UFC Personal Trainer: The Ultimate Fitness System",
+  "DatabaseID": "11935",
+  "ReleaseDate": "2011-06-28T00:00:00-07:00",
+  "Overview": "Only with Kinect for Xbox 360 and UFC Personal Trainer will you experience the same high impact,  intense,  controller-free work outs as today’s renowned UFC fighters. Full-body tracking allows you to perfect your mixed-martial arts technique through immediate UFC trainer feedback on 70 unique and targeted fighting exercises, including moves from muay thai, wrestling, Brazilian jiu-jitsu and more. Gain advantage with 4 exclusive UFC fighter training partners and 9 additional workout routines, built from the ground up and only available on Kinect for Xbox 360.",
+  "VideoURL": "http://www.youtube.com/watch?v=c0S_Hjy9QtY",
+  "ESRB": "E - Everyone",
+  "Genres": " Fighting; Sports",
+  "Developer": "Heavy Iron Studios",
+  "Publisher": "THQ",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "d0a70070-daae-4c6a-b8ef-15c03c3d5694.jpg",
+          "Type": "Box - Front",
+          "CRC32": "2629904467",
+          "URL": "http://images.launchbox-app.com/d0a70070-daae-4c6a-b8ef-15c03c3d5694.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "6ca6d71c-93be-49f0-9501-604700a4cd11.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "544557174",
+        "URL": "http://images.launchbox-app.com/6ca6d71c-93be-49f0-9501-604700a4cd11.jpg"
+      },
+      {
+        "FileName": "7337b446-b22c-44ae-9431-a2fccaf114e1.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2229880780",
+        "URL": "http://images.launchbox-app.com/7337b446-b22c-44ae-9431-a2fccaf114e1.jpg"
+      },
+      {
+        "FileName": "7a0638c0-93df-4b78-ba19-1c622e2d2106.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "4031520134",
+        "URL": "http://images.launchbox-app.com/7a0638c0-93df-4b78-ba19-1c622e2d2106.jpg"
+      },
+      {
+        "FileName": "601f04fd-b548-42e0-9e89-9855570b70ca.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2055108915",
+        "URL": "http://images.launchbox-app.com/601f04fd-b548-42e0-9e89-9855570b70ca.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "Name": "Rise of the Argonauts",
+  "DatabaseID": "12889",
+  "ReleaseDate": "2008-12-16T00:00:00-08:00",
+  "Overview": "One of Greek mythology's memorable tales makes its Xbox 360 debut with Rise of the Argonauts. Guide Jason, the king of Iolcus, on a blood-soaked quest to avenge the death of his fiancée. Sail to multiple islands to seek out the legendary Golden Fleece, which has the power to bring back the dead, and enlist the aid of the ancient world's celebrated heroes to complete your goals. Structured like an action role-playing game, Rise of the Argonauts emphasizes violent, combo-driven combat sequences with the ability to switch weapons on the fly and unleash attacks that can decapitate and eviscerate foes with one mighty swing. \n\nInstead of earning experience points to level up your character, the game involves acquiring new powers and skills by courting the favor of four gods: Apollo, Athena, Ares, and Hermes. Choosing specific dialog paths, slaying a particular beast, winning arena battles, rescuing people, and performing other deeds can unlock different tiers of talents under a particular god. Twenty-five skills are available under each deity, all of which are designed to enhance your combat techniques in various ways. Master the use of swords, spears, maces, and shields, and recruit the likes of Hercules, Achilles, Pan, and Atalanta to fulfill Jason's destiny.",
+  "VideoURL": "http://www.youtube.com/watch?v=NCMVcHsBHq8",
+  "CommunityRating": "4.5",
+  "ESRB": "M - Mature",
+  "Genres": " Role-Playing",
+  "Developer": "Liquid Entertainment",
+  "Publisher": "Codemasters Software",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "07fcd381-1137-4d9c-98a3-0e571c9c5243.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "373663823",
+          "URL": "http://images.launchbox-app.com/07fcd381-1137-4d9c-98a3-0e571c9c5243.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "f05fad87-a76b-437d-a721-4576d5db1dec.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "825362168",
+          "URL": "http://images.launchbox-app.com/f05fad87-a76b-437d-a721-4576d5db1dec.jpg"
+        },
+        {
+          "FileName": "8a9ce587-1fa5-4da6-9332-777298c83b62.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "446126892",
+          "URL": "http://images.launchbox-app.com/8a9ce587-1fa5-4da6-9332-777298c83b62.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "d9a35747-7a79-43d7-877e-118c4737b39a.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "1236947766",
+        "URL": "http://images.launchbox-app.com/d9a35747-7a79-43d7-877e-118c4737b39a.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "21572ac5-12c4-415d-b607-f88241638a14.png",
+        "Type": "Clear Logo",
+        "CRC32": "2795383127",
+        "URL": "http://images.launchbox-app.com/21572ac5-12c4-415d-b607-f88241638a14.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "Rhythm Party",
+  "DatabaseID": "209818",
+  "ReleaseDate": "2012-02-01T00:00:00-08:00",
+  "Overview": "Rhythm Party is a downloadable game for the XBLA that uses the Kinect sensor to put your own silhouette in the game.",
+  "ESRB": "E - Everyone",
+  "Genres": " Music",
+  "Developer": "Konami",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "9cf8010d-3d66-42ea-b477-835cc27c630b.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "494419691",
+          "URL": "http://images.launchbox-app.com/9cf8010d-3d66-42ea-b477-835cc27c630b.jpg"
+        }
+      ]
+    }
+  }
+}

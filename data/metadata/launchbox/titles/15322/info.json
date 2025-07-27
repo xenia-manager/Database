@@ -1,0 +1,55 @@
+{
+  "Name": "Bionic Commando: Rearmed 2",
+  "DatabaseID": "15322",
+  "ReleaseDate": "2011-02-02T00:00:00-08:00",
+  "Overview": "Bionic Commando Rearmed 2 is the sequel to the 2008 platforming video game Bionic Commando Rearmed. It was developed by Fatshark and published by Capcom. It was released February 1, 2011 for the PlayStation 3 via the PlayStation Network and February 2, 2011 on the Xbox 360 via Xbox Live Arcade. It features enhancements to protagonist Nathan Spencer's bionic arm, which he primarily uses to grapple to and swing from objects. New bionic enhancements include abilities such as hacking data terminals, a powerful uppercut, and firing grenades.\n\nThe game's plot revolves around a dictator named General Sabio and a missing commander from Spencer's organization, Colonel Brubaker. Spencer and a team of four other bionics are sent to locate Brubaker and his platoon and help them complete their mission of disarming Sabio's missiles. The team's original mission evolves as the bionics, split into three teams, face opposition greater than they have previously faced. Reception from critics was lukewarm, with the game averaging in the 60% range at aggregate websites GameRankings and Metacritic. Some critics praised the new gameplay mechanics, while others felt that it was a step down from its predecessor.",
+  "VideoURL": "http://www.youtube.com/watch?v=oWSh7h1VJoE",
+  "CommunityRating": "4.1538461538461542",
+  "ESRB": "T - Teen",
+  "Genres": " Platform; Shooter",
+  "Developer": "Fatshark",
+  "Publisher": "Capcom",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "15a2792b-5e98-44d8-8582-0e0db4673bfe.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3722583049",
+        "URL": "http://images.launchbox-app.com/15a2792b-5e98-44d8-8582-0e0db4673bfe.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "0cc36ca2-66fd-4bba-94b3-f2df84ecb721.jpg",
+          "Type": "Box - Front",
+          "CRC32": "2848439098",
+          "URL": "http://images.launchbox-app.com/0cc36ca2-66fd-4bba-94b3-f2df84ecb721.jpg"
+        },
+        {
+          "FileName": "54d9a50a-a0a8-496e-892a-979ffe23ae68.png",
+          "Type": "Fanart - Box - Front",
+          "Region": "World",
+          "CRC32": "157321985",
+          "URL": "http://images.launchbox-app.com/54d9a50a-a0a8-496e-892a-979ffe23ae68.png"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "72a3abc3-df70-4189-85a8-a23519dafc45.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "809926231",
+        "URL": "http://images.launchbox-app.com/72a3abc3-df70-4189-85a8-a23519dafc45.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "96bd9ac2-2025-43e7-bc17-8ff89997b32c.png",
+        "Type": "Clear Logo",
+        "CRC32": "3525011534",
+        "URL": "http://images.launchbox-app.com/96bd9ac2-2025-43e7-bc17-8ff89997b32c.png"
+      }
+    ]
+  }
+}

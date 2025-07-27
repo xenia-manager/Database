@@ -1,0 +1,109 @@
+{
+  "Name": "LEGO Star Wars: The Complete Saga",
+  "DatabaseID": "13200",
+  "ReleaseDate": "2007-11-06T00:00:00-08:00",
+  "Overview": "LEGO Star Wars: The Complete Saga combines LEGO Star Wars: The Video Game and LEGO Star Wars II: The Original Trilogy into a single game with several new features.\n\nPlayers can access all the six Star Wars movies from the game's \"hub\" location, Mos Eisley Cantina. Unlocked characters can be taken to explore previously visited stages from both the original and prequel trilogy. New characters have been added, including Indiana Jones; the total amount of characters in this release is 160.",
+  "CommunityRating": "4.4722222222222223",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Lego_Star_Wars:_The_Complete_Saga",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Action",
+  "Developer": "Traveller's Tales",
+  "Publisher": "LucasArts",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "a8e92171-b197-45fd-bb6b-c1d1ca2d0148.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2693754142",
+        "URL": "http://images.launchbox-app.com/a8e92171-b197-45fd-bb6b-c1d1ca2d0148.jpg"
+      },
+      {
+        "FileName": "8d1a135b-e239-431e-91de-1d4620444e92.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1494962743",
+        "URL": "http://images.launchbox-app.com/8d1a135b-e239-431e-91de-1d4620444e92.jpg"
+      },
+      {
+        "FileName": "6f791af9-195c-4e12-a03f-b05a416bb5b5.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "531964567",
+        "URL": "http://images.launchbox-app.com/6f791af9-195c-4e12-a03f-b05a416bb5b5.jpg"
+      },
+      {
+        "FileName": "c62a0c8a-14d0-4db8-be90-fdb4380a45f2.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "936312356",
+        "URL": "http://images.launchbox-app.com/c62a0c8a-14d0-4db8-be90-fdb4380a45f2.jpg"
+      },
+      {
+        "FileName": "b87dfcc2-afe0-4704-88f0-0b6f84fb495a.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1686041380",
+        "URL": "http://images.launchbox-app.com/b87dfcc2-afe0-4704-88f0-0b6f84fb495a.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "ac12ffb0-4a27-4aed-9a8e-cbc606194b86.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "2511375720",
+          "URL": "http://images.launchbox-app.com/ac12ffb0-4a27-4aed-9a8e-cbc606194b86.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "0485c082-45ee-41ab-b72a-e40c7dfaca77.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "1666047039",
+          "URL": "http://images.launchbox-app.com/0485c082-45ee-41ab-b72a-e40c7dfaca77.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "5026f9cd-536a-4bed-9510-921b0b206cbd.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1649316671",
+          "URL": "http://images.launchbox-app.com/5026f9cd-536a-4bed-9510-921b0b206cbd.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "06a4e711-f5e0-49e8-abfe-fd7666de96c4.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "182349135",
+          "URL": "http://images.launchbox-app.com/06a4e711-f5e0-49e8-abfe-fd7666de96c4.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "f6cb83f8-c792-458c-87aa-59fc96e22ce7.png",
+        "Type": "Disc",
+        "Region": "Germany",
+        "CRC32": "831313367",
+        "URL": "http://images.launchbox-app.com/f6cb83f8-c792-458c-87aa-59fc96e22ce7.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "18b467f2-60f2-4c07-945e-78ebd2291259.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "4196119397",
+        "URL": "http://images.launchbox-app.com/18b467f2-60f2-4c07-945e-78ebd2291259.png"
+      },
+      {
+        "FileName": "11adeabc-0b09-448e-823f-92fb39ad0287.png",
+        "Type": "Clear Logo",
+        "Region": "Spain",
+        "CRC32": "160972098",
+        "URL": "http://images.launchbox-app.com/11adeabc-0b09-448e-823f-92fb39ad0287.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "Name": "Hitman: Absolution",
+  "DatabaseID": "12513",
+  "ReleaseDate": "2012-11-20T00:00:00-08:00",
+  "Overview": "Product Features\nPlatform: Xbox 360 | Edition: Standard\nContracts Mode-Create your own custom hits by choosing the level, targets, weapons and the rules of assassination in an innovative new online mode where created contracts can be shared and the money that you earn will unlock weapons, upgrades and disguises\nFreedom of Choice - Stalk from the shadows or rush in guns blazing thanks to fully-evolved game mechanics and a sophisticated AI-System that responds realistically to every tactic you employ\nExperience a Living, Breathing World - Robust and memorable characters spring to life on the screen with an outstanding cast of Hollywood performers, ensuring every moment becomes a story in HITMAN: ABSOLUTION\nDisguises - A huge variety of disguises, you can impersonate your victims and blend into the world around you, affording you new actions, options, and the element of surprise\nInstinct Mode - Predict enemy patrols, identify weapons and escape routes, and temporarily enhance your disguise--even engage in ?Point-Shooting,? making full use of your skills as an expert marksman to clear entire rooms with stylish efficiency",
+  "VideoURL": "http://www.youtube.com/watch?v=bZXStBh6qKc",
+  "CommunityRating": "4.2142857142857144",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Hitman:_Absolution",
+  "ESRB": "M - Mature",
+  "Genres": " Action",
+  "Developer": "Io-Interactive",
+  "Publisher": "Square Enix",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "c27c0d0b-c040-4528-a35a-dce6520e7abf.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "927437643",
+        "URL": "http://images.launchbox-app.com/c27c0d0b-c040-4528-a35a-dce6520e7abf.jpg"
+      },
+      {
+        "FileName": "5c6157c0-48f1-4a89-a021-6ce52d3853dc.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3146486526",
+        "URL": "http://images.launchbox-app.com/5c6157c0-48f1-4a89-a021-6ce52d3853dc.jpg"
+      },
+      {
+        "FileName": "c88568d3-18e4-47e1-a722-dad715111090.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "238000659",
+        "URL": "http://images.launchbox-app.com/c88568d3-18e4-47e1-a722-dad715111090.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "b792fb1a-0339-47c4-b2c6-142147210f2e.png",
+          "Type": "Box - 3D",
+          "Region": "Europe",
+          "CRC32": "2279954944",
+          "URL": "http://images.launchbox-app.com/b792fb1a-0339-47c4-b2c6-142147210f2e.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "r2_25a65354-829f-4b35-bbb6-ccb52197ee5e.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "3888822911",
+          "URL": "http://images.launchbox-app.com/r2_25a65354-829f-4b35-bbb6-ccb52197ee5e.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "r2_c115e718-9062-4aad-8b4e-c91f9225bf54.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "784189472",
+          "URL": "http://images.launchbox-app.com/r2_c115e718-9062-4aad-8b4e-c91f9225bf54.jpg"
+        },
+        {
+          "FileName": "r2_9781e0df-389c-4f1d-8b26-da5e4b5157e6.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2707629366",
+          "URL": "http://images.launchbox-app.com/r2_9781e0df-389c-4f1d-8b26-da5e4b5157e6.jpg"
+        },
+        {
+          "FileName": "f1eda21a-ac0c-453d-b487-ed2219d9abb2.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "2557051602",
+          "URL": "http://images.launchbox-app.com/f1eda21a-ac0c-453d-b487-ed2219d9abb2.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "r2_34ae6510-e572-489f-a218-45cb7f690114.png",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "4239880757",
+          "URL": "http://images.launchbox-app.com/r2_34ae6510-e572-489f-a218-45cb7f690114.png"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "r2_1932d34c-2646-46b7-b560-66b8cc0ea445.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "3099527820",
+        "URL": "http://images.launchbox-app.com/r2_1932d34c-2646-46b7-b560-66b8cc0ea445.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "b32665a6-9dfa-419d-bc46-3ca3b20d902c.png",
+        "Type": "Clear Logo",
+        "CRC32": "3231285934",
+        "URL": "http://images.launchbox-app.com/b32665a6-9dfa-419d-bc46-3ca3b20d902c.png"
+      }
+    ]
+  }
+}

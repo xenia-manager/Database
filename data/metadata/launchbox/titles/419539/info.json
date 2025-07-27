@@ -1,0 +1,24 @@
+{
+  "Name": "Just Dance: Kids 2014",
+  "DatabaseID": "419539",
+  "ReleaseDate": "2013-10-22T00:00:00-07:00",
+  "Overview": "Just Dance Kids 2014 - the coolest dance experience for kids is back! Featuring over 30 fun and crazy dance routines to kids favorite songs, including hits from today’s most popular artists, TV shows and movies. Just Dance Kids 2014 gets kids of all ages up and dancing with colorful graphics, super-fun dance moves, and kid-friendly gameplay!",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Just_Dance_Kids_2014",
+  "ESRB": "E - Everyone",
+  "Genres": " Music",
+  "Developer": "Ubisoft Osaka",
+  "Publisher": "Ubisoft",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "231d550e-e743-4f34-bc7f-15c0937cbec4.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "761106875",
+          "URL": "http://images.launchbox-app.com/231d550e-e743-4f34-bc7f-15c0937cbec4.jpg"
+        }
+      ]
+    }
+  }
+}

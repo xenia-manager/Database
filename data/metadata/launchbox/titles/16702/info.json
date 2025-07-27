@@ -1,0 +1,92 @@
+{
+  "Name": "Thor: God of Thunder",
+  "DatabaseID": "16702",
+  "ReleaseDate": "2011-05-03T00:00:00-07:00",
+  "Overview": "Thor: The Video Game will take players through a spectacular, epic-scale original third-person adventure for which Matt Fraction, the Eisner Award-winning writer and lead Thor comic book author served as story consultant. In the game, Thor battles through the numerous worlds of Norse mythology that span realms ranging from primal worlds of fire and ice to extraordinary planets inhabited by Frost Giants and Trolls to save Asgard, the capital city of the Norse Gods. Thor must overcome monstrous foes lifted from the pages of the comics including Ulik, Ymir, and Surtur, as well as other monstrous denizens. Players will wield the iconic Mjolnir, Thor's legendary hammer, to fight enemies on an immense scale while controlling the elemental storm powers of lightning, thunder, and wind to vanquish enemies. As Thor earns Valor points through his exploits, players can acquire new abilities, powers, and weapon upgrades.",
+  "VideoURL": "http://www.youtube.com/watch?v=UpLSeJrb1lM",
+  "CommunityRating": "3.3333333333333335",
+  "ESRB": "T - Teen",
+  "Genres": " Action",
+  "Developer": "Liquid Entertainment",
+  "Publisher": "Sega",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "cb275495-f874-4479-bf61-43f5e34ed4e9.png",
+        "Type": "Banner",
+        "CRC32": "3544385741",
+        "URL": "http://images.launchbox-app.com/cb275495-f874-4479-bf61-43f5e34ed4e9.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "280df4dc-9c08-43ae-8c5d-7460f4f32f53.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "784254344",
+        "URL": "http://images.launchbox-app.com/280df4dc-9c08-43ae-8c5d-7460f4f32f53.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "b75aacfb-51ee-4060-ab3f-dadf036227d9.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "2338434612",
+          "URL": "http://images.launchbox-app.com/b75aacfb-51ee-4060-ab3f-dadf036227d9.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "e5335a99-ca6d-40f9-adf3-7e2266627ed4.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "2805897249",
+          "URL": "http://images.launchbox-app.com/e5335a99-ca6d-40f9-adf3-7e2266627ed4.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "04554216-b548-4bc3-bf78-212f757105da.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3252905865",
+          "URL": "http://images.launchbox-app.com/04554216-b548-4bc3-bf78-212f757105da.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "be7f0cbe-0d69-4be8-b171-231753f9f7b9.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "1667642718",
+          "URL": "http://images.launchbox-app.com/be7f0cbe-0d69-4be8-b171-231753f9f7b9.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "43961e0e-45b1-46a6-9e4a-46c78bef0025.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "538038583",
+        "URL": "http://images.launchbox-app.com/43961e0e-45b1-46a6-9e4a-46c78bef0025.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "a36dd8e9-5708-479b-aaeb-bc3b8a65f4a5.png",
+        "Type": "Clear Logo",
+        "Region": "Spain",
+        "CRC32": "649751385",
+        "URL": "http://images.launchbox-app.com/a36dd8e9-5708-479b-aaeb-bc3b8a65f4a5.png"
+      },
+      {
+        "FileName": "a42f9abc-a360-47f9-a305-82e14cbb9846.png",
+        "Type": "Clear Logo",
+        "CRC32": "1177718342",
+        "URL": "http://images.launchbox-app.com/a42f9abc-a360-47f9-a305-82e14cbb9846.png"
+      }
+    ]
+  }
+}

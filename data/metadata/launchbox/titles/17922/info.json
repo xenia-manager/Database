@@ -1,0 +1,30 @@
+{
+  "Name": "XCOM: Enemy Within",
+  "DatabaseID": "17922",
+  "ReleaseDate": "2013-11-12T00:00:00-08:00",
+  "Overview": "XCOM: Enemy Within is an expansion pack for the turn-based military alien invasion strategy wargaming simulator XCOM: Enemy Unknown. The Windows and OS X editions require XCOM: Enemy Unknown to play; Enemy Within was released for Xbox 360 and PlayStation 3 as part of the Commander Edition bundled with Enemy Unknown. The iOS and Android versions were released as stand-alone apps not requiring the original mobile port of Enemy Unknown to play.\n\nEnemy Within primarily adds new gameplay elements to the base game, as well as introducing new themes of transhumanism via aggressive gene therapy.",
+  "CommunityRating": "3.7",
+  "Genres": " Role-Playing; Strategy",
+  "Developer": "Firaxis Games",
+  "Publisher": "2K Games",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "62619f9c-2437-4153-8ffa-6b412f9da1bb.jpg",
+          "Type": "Box - Front",
+          "CRC32": "1802994506",
+          "URL": "http://images.launchbox-app.com/62619f9c-2437-4153-8ffa-6b412f9da1bb.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "1dd5a330-4617-4af6-99ff-ff9527e8133c.png",
+        "Type": "Clear Logo",
+        "CRC32": "720391941",
+        "URL": "http://images.launchbox-app.com/1dd5a330-4617-4af6-99ff-ff9527e8133c.png"
+      }
+    ]
+  }
+}

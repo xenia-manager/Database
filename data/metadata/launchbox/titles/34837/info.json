@@ -1,0 +1,65 @@
+{
+  "Name": "LEGO Marvel Avengers",
+  "DatabaseID": "34837",
+  "ReleaseDate": "2016-01-26T00:00:00-08:00",
+  "Overview": "Avengers Assemble! Experience the first console videogame featuring characters and storylines from the blockbuster film Marvel’s The Avengers and the much anticipated sequel Marvel’s Avengers: Age of Ultron, and more. Play as the most powerful Super Heroes in their quest to save humanity.",
+  "CommunityRating": "3.5",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Lego_Marvel%27s_Avengers",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Action; Adventure",
+  "Developer": "Traveller's Tales (UK)",
+  "Publisher": "Warner Bros. Interactive Entertainment",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "95957667-6b9a-4bdf-8f85-d7844575ad42.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1383367083",
+        "URL": "http://images.launchbox-app.com/95957667-6b9a-4bdf-8f85-d7844575ad42.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "16841a37-49ce-4db6-9d6e-64ae041040a1.png",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1511872636",
+          "URL": "http://images.launchbox-app.com/16841a37-49ce-4db6-9d6e-64ae041040a1.png"
+        },
+        {
+          "FileName": "537b975a-58f7-4e42-a9f4-6ca7158177e8.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "North America",
+          "CRC32": "605824617",
+          "URL": "http://images.launchbox-app.com/537b975a-58f7-4e42-a9f4-6ca7158177e8.png"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "b049627b-44a6-45f6-b726-fad42fbaaa11.jpg",
+        "Type": "Disc",
+        "Region": "United States",
+        "CRC32": "958640145",
+        "URL": "http://images.launchbox-app.com/b049627b-44a6-45f6-b726-fad42fbaaa11.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "c01ca1b1-b1bf-45ad-8bba-4bffe08ec78b.png",
+        "Type": "Clear Logo",
+        "Region": "Spain",
+        "CRC32": "1398553782",
+        "URL": "http://images.launchbox-app.com/c01ca1b1-b1bf-45ad-8bba-4bffe08ec78b.png"
+      },
+      {
+        "FileName": "450bbfac-1068-4c68-984d-53c6aba6173f.png",
+        "Type": "Clear Logo",
+        "Region": "North America",
+        "CRC32": "4113346940",
+        "URL": "http://images.launchbox-app.com/450bbfac-1068-4c68-984d-53c6aba6173f.png"
+      }
+    ]
+  }
+}

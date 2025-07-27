@@ -1,0 +1,31 @@
+{
+  "Name": "Warface",
+  "DatabaseID": "20346",
+  "ReleaseDate": "2014-03-26T00:00:00-07:00",
+  "Overview": "Warface is powered by CryENGINE 3, bringing you award-winning next-gen visuals that have been lauded as the best of their kind on any format. In the free-to-play arena they are without equal. We give you breathtaking locations, taking you to the deadliest places on the planet. Innovative game design brings intuitive controls and thrilling moment-to-moment gameplay which elevates you to a whole new level of immersion. Finally, Warface gives you extensive and addictive multiplayer options. A vast and constantly updated PVE universe complete with dramatic co-op missions that reward teamwork and individual skill, and a full set of class-based PVP games for unmatched competitive play.",
+  "VideoURL": "http://www.youtube.com/watch?v=YibaiJb2LOo",
+  "ESRB": "T - Teen",
+  "Genres": " Shooter",
+  "Developer": "Crytek",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "b9d13086-559d-42dc-a00e-2085df6f0f23.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "2361870513",
+          "URL": "http://images.launchbox-app.com/b9d13086-559d-42dc-a00e-2085df6f0f23.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "d2b4eda4-dba9-4657-997f-2e77ec444f0a.png",
+        "Type": "Clear Logo",
+        "CRC32": "1134893072",
+        "URL": "http://images.launchbox-app.com/d2b4eda4-dba9-4657-997f-2e77ec444f0a.png"
+      }
+    ]
+  }
+}

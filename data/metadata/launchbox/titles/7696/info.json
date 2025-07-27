@@ -1,0 +1,41 @@
+{
+  "Name": "Transformers: The Game",
+  "DatabaseID": "7696",
+  "ReleaseDate": "2007-06-26T00:00:00-07:00",
+  "Overview": "Transformers: The Game is the name of multiple versions of a video game based on the 2007 live action film Transformers, all of which were released in North America in June 2007. Home console and PC versions were developed by Traveller's Tales for the PlayStation 2, Xbox 360, Wii, PlayStation 3 and PC. A different PlayStation Portable version was developed by Savage Entertainment.\n\nTransformers Autobots and Transformers Decepticons are the Nintendo DS versions of Transfomers: The Game. Vicarious Visions, who was tasked with bringing the adaptation to the Nintendo DS, chose to adapt the DS version into two separate games. Autobots follows the heroes' perspective while Decepticons follows the villains'. Unlike games with multiple SKUs such as Pokémon which feature only minor differences between versions, these are two separate games, sharing some basic similarities, but with unique characters, missions and locations.[2]",
+  "CommunityRating": "2.75",
+  "ESRB": "T - Teen",
+  "Genres": " Action",
+  "Developer": "Traveller's Tales",
+  "Publisher": "Activision",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "ea3aedd4-94c8-4814-90bf-15349d811dce.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "1936513769",
+          "URL": "http://images.launchbox-app.com/ea3aedd4-94c8-4814-90bf-15349d811dce.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "bd6e2caa-d93d-4381-8081-d04f02343392.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "674242577",
+          "URL": "http://images.launchbox-app.com/bd6e2caa-d93d-4381-8081-d04f02343392.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "83c6154e-c37f-4087-9046-6389b70824a6.png",
+        "Type": "Clear Logo",
+        "CRC32": "124170376",
+        "URL": "http://images.launchbox-app.com/83c6154e-c37f-4087-9046-6389b70824a6.png"
+      }
+    ]
+  }
+}

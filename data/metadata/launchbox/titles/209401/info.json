@@ -1,0 +1,24 @@
+{
+  "Name": "Inferno Pool",
+  "DatabaseID": "209401",
+  "ReleaseDate": "2009-10-28T00:00:00-07:00",
+  "Overview": "Inferno Pool is a revolutionary, simultaneous multi-player Pool action game.",
+  "CommunityRating": "3.6666666666666665",
+  "ESRB": "E - Everyone",
+  "Genres": " Sports",
+  "Developer": "Dark Energy Digital",
+  "Publisher": "koch Media",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "59d92340-cc34-438b-8d6f-dffa0839015a.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "1767269106",
+          "URL": "http://images.launchbox-app.com/59d92340-cc34-438b-8d6f-dffa0839015a.jpg"
+        }
+      ]
+    }
+  }
+}

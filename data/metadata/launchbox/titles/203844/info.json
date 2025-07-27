@@ -1,0 +1,22 @@
+{
+  "Name": "The History Channel: Great Battles: Medieval",
+  "DatabaseID": "203844",
+  "ReleaseDate": "2011-05-06T00:00:00-07:00",
+  "Overview": "The History Channel: Great Battles of Middle Ages is based on the story of the Hundred Years War. It features a completely new graphic engine and a totally new game play system that will allow the player to be in complete control of massive armies. From the thunderous charge of the knights to the men-at-arms fighting for their lives in hand-to-hand combat, the game recreates the epic feel of medieval battles, featuring thousands of characters simultaneously.",
+  "ESRB": "T - Teen",
+  "Genres": " Strategy",
+  "Developer": "Slitherine",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "ba49e5bd-3f64-4e6e-a907-8f6d3c075d77.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3126066512",
+          "URL": "http://images.launchbox-app.com/ba49e5bd-3f64-4e6e-a907-8f6d3c075d77.jpg"
+        }
+      ]
+    }
+  }
+}

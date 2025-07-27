@@ -1,0 +1,78 @@
+{
+  "Name": "Dark Souls II",
+  "DatabaseID": "18359",
+  "ReleaseDate": "2014-03-11T00:00:00-07:00",
+  "Overview": "Face the challenge once again in this sequel to the hardcore action RPG. Dark Souls II features a new hero, a new storyline, and an unfamiliar world for players to survive in while delivering its signature brand of unrelenting punishment that players hunger for. Epic battles with gruesome enemies and blood-thirsty bosses await adventurers as they traverse through a devastated world filled with death and despair; only those who are strong willed or cunning can survive this journey to achieve great glory. Players seeking to share their experience will discover a revamped server-based multiplayer mode that puts a distinct Dark Souls II twist on the concept of playing with others.",
+  "VideoURL": "http://www.youtube.com/watch?v=CbxKjNqxEsY",
+  "CommunityRating": "4.166666666666667",
+  "ESRB": "M - Mature",
+  "Genres": " Action",
+  "Developer": "FromSoftware",
+  "Publisher": "Namco Bandai",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "3631318f-2df6-4b0f-ad51-a9ca195e9a4a.jpg",
+        "Type": "Banner",
+        "CRC32": "4046813642",
+        "URL": "http://images.launchbox-app.com/3631318f-2df6-4b0f-ad51-a9ca195e9a4a.jpg"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "ef3a1465-7bf9-4f03-afb7-abde70b28b96.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2623633444",
+        "URL": "http://images.launchbox-app.com/ef3a1465-7bf9-4f03-afb7-abde70b28b96.jpg"
+      },
+      {
+        "FileName": "09e3f4dd-162b-4f3f-a52c-f92a9d16debe.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1369836400",
+        "URL": "http://images.launchbox-app.com/09e3f4dd-162b-4f3f-a52c-f92a9d16debe.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "85a502fc-a415-4b01-9ac6-427fab78db18.png",
+          "Type": "Box - 3D",
+          "CRC32": "3109560558",
+          "URL": "http://images.launchbox-app.com/85a502fc-a415-4b01-9ac6-427fab78db18.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "3f194d90-33f8-4fc9-93c5-8d2a59fdb9fc.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2868432107",
+          "URL": "http://images.launchbox-app.com/3f194d90-33f8-4fc9-93c5-8d2a59fdb9fc.jpg"
+        },
+        {
+          "FileName": "1ad3cbb5-8cf5-4625-b817-521e7c59f76e.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "North America",
+          "CRC32": "1575302658",
+          "URL": "http://images.launchbox-app.com/1ad3cbb5-8cf5-4625-b817-521e7c59f76e.png"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "8405ee31-4bb2-49fd-9365-22cf8e201f2f.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2095459686",
+        "URL": "http://images.launchbox-app.com/8405ee31-4bb2-49fd-9365-22cf8e201f2f.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "ba5fc91f-826a-4e78-a519-c608d0b7eebd.png",
+        "Type": "Clear Logo",
+        "CRC32": "341793997",
+        "URL": "http://images.launchbox-app.com/ba5fc91f-826a-4e78-a519-c608d0b7eebd.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "Name": "Kinect Adventures!",
+  "DatabaseID": "8871",
+  "ReleaseDate": "2010-11-04T00:00:00-07:00",
+  "Overview": "Kinect Adventures! is a sports video game released by Microsoft Game Studios for the Xbox 360. Released in 2010, it is a collection of five adventure and sports minigames and was developed by Good Science Studio, a subsidiary of Microsoft Game Studios. The game utilizes the Kinect motion camera and was offered as a pack-in game with the console.[1] It was officially unveiled at the 2010 Electronic Entertainment Expo in Los Angeles and went on to become the best selling game on the Xbox 360, selling 24 million units worldwide.[1]",
+  "CommunityRating": "3.0625",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Kinect_Adventures!",
+  "ESRB": "E - Everyone",
+  "Genres": " Action; Sports",
+  "Developer": "Good Science Studio",
+  "Publisher": "Microsoft Game Studios",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "627070ba-c87f-438c-a147-cb890235a14a.png",
+          "Type": "Box - 3D",
+          "CRC32": "754119450",
+          "URL": "http://images.launchbox-app.com/627070ba-c87f-438c-a147-cb890235a14a.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "996f5c39-b6c5-4bbc-9c22-858077b5a3ea.jpg",
+          "Type": "Box - Back",
+          "CRC32": "108586470",
+          "URL": "http://images.launchbox-app.com/996f5c39-b6c5-4bbc-9c22-858077b5a3ea.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "3447a408-eb64-4f4f-8f9c-fab42807ba80.jpg",
+          "Type": "Box - Front",
+          "CRC32": "16536655",
+          "URL": "http://images.launchbox-app.com/3447a408-eb64-4f4f-8f9c-fab42807ba80.jpg"
+        }
+      ]
+    }
+  }
+}

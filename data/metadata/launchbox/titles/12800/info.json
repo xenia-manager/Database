@@ -1,0 +1,67 @@
+{
+  "Name": "LEGO Indiana Jones 2: The Adventure Continues",
+  "DatabaseID": "12800",
+  "ReleaseDate": "2009-11-17T00:00:00-08:00",
+  "Overview": "Players return to a virtual playroom re-creation of the iconic movie series in LEGO Indiana Jones 2: The Adventure Continues. As in LEGO Indy's Original Adventures, gamers play through famous scenes from the films, with 3D characters and settings created completely from colorful LEGO building blocks. The 2009 sequel game features scenes from all four feature films, including the most recent Indiana Jones movie, The Kingdom of the Crystal Skull. Some characters have new moves since the first game, and new vehicles are available to re-create well-known movie scenes on boats, motorcycles, and mine carts. In a feature new to the LEGO movie game series, players can also create their own levels, using an almost unlimited supply of blocks. Custom levels can be built completely from scratch, or created by altering and adding to the pre-designed levels included in the game. As in the Indiana Jones original and other LEGO movie games (LEGO Star Wars, LEGO Harry Potter, LEGO Batman), players can collect objects hidden throughout the game world to unlock playable characters. More than 60 hidden artifacts in The Adventure Continues can be collected and used to unlock Crystal Skull characters, such as Marion Ravenwood and Mutt Williams, as well as supporting characters and villains from throughout the film series, such as Short Round and Indy's father, Dr. Henry Jones Sr.",
+  "VideoURL": "http://www.youtube.com/watch?v=tIqgol__Lz8",
+  "CommunityRating": "3.4166666666666665",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Action; Adventure",
+  "Developer": "Traveller's Tales",
+  "Publisher": "LucasArts",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "fecd842b-f98d-45b4-b86e-b995ac68029e.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2148365981",
+        "URL": "http://images.launchbox-app.com/fecd842b-f98d-45b4-b86e-b995ac68029e.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "65f65eee-977f-4881-b046-3988cb30461c.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "4073216017",
+          "URL": "http://images.launchbox-app.com/65f65eee-977f-4881-b046-3988cb30461c.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "34688f56-9147-4dd3-b033-ee0ccff204cb.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "629596745",
+          "URL": "http://images.launchbox-app.com/34688f56-9147-4dd3-b033-ee0ccff204cb.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "9f476531-b247-46d3-b50d-5c082f1fa195.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "308428824",
+        "URL": "http://images.launchbox-app.com/9f476531-b247-46d3-b50d-5c082f1fa195.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "99e239ad-78d5-49bf-9ade-b7c17bb5a5a5.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "2820124243",
+        "URL": "http://images.launchbox-app.com/99e239ad-78d5-49bf-9ade-b7c17bb5a5a5.png"
+      },
+      {
+        "FileName": "e2697c66-7bc7-400c-b1ed-b28b8ed94dbb.png",
+        "Type": "Clear Logo",
+        "Region": "Spain",
+        "CRC32": "1089578420",
+        "URL": "http://images.launchbox-app.com/e2697c66-7bc7-400c-b1ed-b28b8ed94dbb.png"
+      }
+    ]
+  }
+}

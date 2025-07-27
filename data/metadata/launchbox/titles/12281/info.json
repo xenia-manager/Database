@@ -1,0 +1,65 @@
+{
+  "Name": "Deadliest Warrior: Ancient Combat",
+  "DatabaseID": "12281",
+  "ReleaseDate": "2012-04-16T00:00:00-07:00",
+  "Overview": "A compilation of\nDeadliest Warrior: The Game\nDeadliest Warrior: DLC Expansion Pack 1 (DLC)\nDeadliest Warrior: Legends\nDeadliest Warrior: Legends - Joan of Arc (DLC)\nThis compilation also includes some exclusive content including a fighting arena called the Graveyard and 30 additional weapons to choose from.",
+  "CommunityRating": "2.75",
+  "ESRB": "M - Mature",
+  "Genres": " Fighting",
+  "Publisher": "345 Games",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "cdedfaee-0945-492f-98b9-145f817fcebc.png",
+        "Type": "Banner",
+        "CRC32": "3759024813",
+        "URL": "http://images.launchbox-app.com/cdedfaee-0945-492f-98b9-145f817fcebc.png"
+      }
+    ],
+    "Box": {
+      "Back": [
+        {
+          "FileName": "3c35ce99-3a49-4c22-b389-5475afac6b80.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "1680633296",
+          "URL": "http://images.launchbox-app.com/3c35ce99-3a49-4c22-b389-5475afac6b80.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "0664c016-66d9-45a1-a3e8-027ca79c448a.jpg",
+          "Type": "Box - Front",
+          "CRC32": "1074469491",
+          "URL": "http://images.launchbox-app.com/0664c016-66d9-45a1-a3e8-027ca79c448a.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "74bbcc03-bb0e-43f2-8bf1-a39ecf472159.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "2688795359",
+          "URL": "http://images.launchbox-app.com/74bbcc03-bb0e-43f2-8bf1-a39ecf472159.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "0d92ae24-794e-4638-915b-4fa878e4d1f8.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "416028267",
+        "URL": "http://images.launchbox-app.com/0d92ae24-794e-4638-915b-4fa878e4d1f8.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "2da7f7b1-feb1-4830-bc91-66526c09ed25.png",
+        "Type": "Clear Logo",
+        "CRC32": "1157581234",
+        "URL": "http://images.launchbox-app.com/2da7f7b1-feb1-4830-bc91-66526c09ed25.png"
+      }
+    ]
+  }
+}

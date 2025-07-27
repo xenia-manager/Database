@@ -1,0 +1,92 @@
+{
+  "Name": "Hunted: The Demon's Forge",
+  "DatabaseID": "12784",
+  "ReleaseDate": "2011-05-31T00:00:00-07:00",
+  "Overview": "A brave duo adventures through a violent land of dark fantasy in Hunted: The Demon's Forge. Gamers can engage in third-person 3D combat, or play the game as a shooter. Two-player co-op is available throughout the adventure, with one taking the role of the powerful swordsman, Caddoc, and the other controlling the agile archer, E'lara. Some situations require teamwork to overcome. As one character fights, the other can cast \"battle charge\" spells to boost combat effectiveness. Players must outwit cunning traps and out-fight ferocious monsters to conquer the dungeons and ruins that hide the keys to their success. As the story unfolds, terrible creatures begin to appear across the countryside, and innocent villagers begin to disappear. The two fortune-seeking heroes are hired to find the missing townsfolk, and follow their quest into a realm of death and despair. Developed by inXile Entertainment, Hunted: The Demon's Forge is the studio's second major console and computer game release, following the 2004 remake of Brian Fargo's The Bard's Tale.",
+  "VideoURL": "https://www.youtube.com/watch?v=qp7ccLAII40&ab_channel=BethesdaSoftworks",
+  "CommunityRating": "3.5714285714285716",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Hunted:_The_Demon%27s_Forge",
+  "ESRB": "M - Mature",
+  "Genres": " Action; Role-Playing",
+  "Developer": "inXile Entertainment",
+  "Publisher": "Bethesda Softworks",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "f77b8a2f-2d5b-4b8a-be88-394d7a00eed9.png",
+          "Type": "Box - 3D",
+          "Region": "United Kingdom",
+          "CRC32": "1788178016",
+          "URL": "http://images.launchbox-app.com/f77b8a2f-2d5b-4b8a-be88-394d7a00eed9.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "6e601b65-2417-4fa7-90e3-8ab0d86e1b82.jpg",
+          "Type": "Box - Back",
+          "Region": "United Kingdom",
+          "CRC32": "545429820",
+          "URL": "http://images.launchbox-app.com/6e601b65-2417-4fa7-90e3-8ab0d86e1b82.jpg"
+        },
+        {
+          "FileName": "137bb88b-ede5-4a0f-a260-9e1acb859e1d.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "1181927618",
+          "URL": "http://images.launchbox-app.com/137bb88b-ede5-4a0f-a260-9e1acb859e1d.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "88e1a9fb-82c4-45af-b125-3567cf17b77c.jpg",
+          "Type": "Box - Front",
+          "Region": "United Kingdom",
+          "CRC32": "1496086684",
+          "URL": "http://images.launchbox-app.com/88e1a9fb-82c4-45af-b125-3567cf17b77c.jpg"
+        },
+        {
+          "FileName": "eadb9581-eb9b-40e0-a046-f5ca39b3ce91.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2765953747",
+          "URL": "http://images.launchbox-app.com/eadb9581-eb9b-40e0-a046-f5ca39b3ce91.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "0fa7ad49-dfe9-46a4-8484-464d4c147b9e.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "4148483695",
+          "URL": "http://images.launchbox-app.com/0fa7ad49-dfe9-46a4-8484-464d4c147b9e.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "37a174f5-6af3-4588-8b0c-108e2f819579.png",
+        "Type": "Disc",
+        "Region": "World",
+        "CRC32": "236555653",
+        "URL": "http://images.launchbox-app.com/37a174f5-6af3-4588-8b0c-108e2f819579.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "65828e30-7358-46b0-93cc-ce3018fc8d3e.png",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "2624916792",
+        "URL": "http://images.launchbox-app.com/65828e30-7358-46b0-93cc-ce3018fc8d3e.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "3be51097-4154-4600-8242-ce577091d13d.png",
+        "Type": "Clear Logo",
+        "CRC32": "2602957721",
+        "URL": "http://images.launchbox-app.com/3be51097-4154-4600-8242-ce577091d13d.png"
+      }
+    ]
+  }
+}

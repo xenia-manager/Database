@@ -1,0 +1,18 @@
+{
+  "Name": "Greed Corp",
+  "DatabaseID": "163671",
+  "CommunityRating": "3.75",
+  "Genres": null,
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "cab0c5d2-42d8-431c-a581-bed8baf6c80e.png",
+          "Type": "Box - 3D",
+          "CRC32": "4036151005",
+          "URL": "http://images.launchbox-app.com/cab0c5d2-42d8-431c-a581-bed8baf6c80e.png"
+        }
+      ]
+    }
+  }
+}

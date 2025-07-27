@@ -1,0 +1,24 @@
+{
+  "Name": "Yo-Ho Kablammo",
+  "DatabaseID": "210005",
+  "ReleaseDate": "2009-12-16T00:00:00-08:00",
+  "Overview": "Unlock the full version of Yo-Ho-Kablammo to experience all of its Pirate-y goodness! Prove your worth with 15 single player challenges. Rule the seas across 5 multiplayer maps locally or on Xbox LIVE. With access to all of the ships and game modes – there is enough here to keep even the most ambitious pirate busy... just beware the Kraken!",
+  "CommunityRating": "2.5",
+  "ESRB": "E - Everyone",
+  "Genres": " Action; Adventure",
+  "Developer": "Canalside Studios",
+  "Publisher": "Microsoft Studios",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "c048b38f-bf51-4d08-832a-53c0bf2660ba.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "631255832",
+          "URL": "http://images.launchbox-app.com/c048b38f-bf51-4d08-832a-53c0bf2660ba.jpg"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "Name": "Deathsmiles",
+  "DatabaseID": "14358",
+  "ReleaseDate": "2009-04-23T00:00:00-07:00",
+  "Overview": "Gilverado is a curious mystical kingdom of magic, monsters, and lost souls. Recently, overwhelming numbers of demonic creatures have appeared within the kingdom. Four young girls, taken from the human realm years before and raised as witches with incredible powers, have taken it upon themselves to find the source and put a stop to it.\n\nDeathsmiles is a scrolling \"bullet hell\"-style shooter with a gothic horror theme. Choosing from one of four lolita-style girls, the player must blast their way through seven-plus stages. Unlike many games of this type, enemies appear from all directions, and the player is able to fire to both the left and right. Each character also has a companion familiar who will assist with special attacks, and there are also magic spells that act as screen-clearing bombs. There are multiple paths through the game, multiple difficulty levels for each stage, and numerous optional areas and secret bosses to challenge.\n\nThere are several game modes included. Arcade mode is a direct port of the original arcade release. Ver 1.1 Arrange mode adds the ability to directly control the familiars, and rearranges the stages. Xbox 360 mode features updated graphics, but is otherwise identical to Arcade mode. Lastly, Mega Black Mode (included with English releases, available as DLC in Japanese releases) adds a fifth playable character, a new stage and boss, and an additional extreme difficulty level. All modes can be played two-player simultaneous, including co-op over Xbox Live.",
+  "VideoURL": "http://www.youtube.com/watch?v=lzzetoCS-w4",
+  "CommunityRating": "4.15",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Deathsmiles",
+  "ESRB": "T - Teen",
+  "Genres": " Shooter",
+  "Developer": "Cave",
+  "Publisher": "Cave",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "1da0d9b5-01ca-4dfc-b1b5-aa60aa6e6c41.png",
+          "Type": "Box - 3D",
+          "CRC32": "1912235315",
+          "URL": "http://images.launchbox-app.com/1da0d9b5-01ca-4dfc-b1b5-aa60aa6e6c41.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "27026079-69b7-49d6-8dab-974e4db620ba.jpg",
+          "Type": "Box - Back",
+          "CRC32": "2170255169",
+          "URL": "http://images.launchbox-app.com/27026079-69b7-49d6-8dab-974e4db620ba.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "596090e4-0501-4833-9649-3012fc8a06d6.jpg",
+          "Type": "Box - Front",
+          "CRC32": "3212980376",
+          "URL": "http://images.launchbox-app.com/596090e4-0501-4833-9649-3012fc8a06d6.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "9042299c-da85-456b-a250-01a19f0ab9cb.jpg",
+          "Type": "Box - Spine",
+          "Region": "Europe",
+          "CRC32": "746833684",
+          "URL": "http://images.launchbox-app.com/9042299c-da85-456b-a250-01a19f0ab9cb.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "2f5589ca-b917-4c1e-8b77-d916158d27cc.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "3649538984",
+        "URL": "http://images.launchbox-app.com/2f5589ca-b917-4c1e-8b77-d916158d27cc.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "47bdec30-05ea-4d4f-a079-7d85e811b1de.jpg",
+        "Type": "Screenshot - Game Select",
+        "CRC32": "3057490107",
+        "URL": "http://images.launchbox-app.com/47bdec30-05ea-4d4f-a079-7d85e811b1de.jpg"
+      },
+      {
+        "FileName": "7a2f3588-1b40-43dd-bd12-e64a6ea2e6d4.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "58658207",
+        "URL": "http://images.launchbox-app.com/7a2f3588-1b40-43dd-bd12-e64a6ea2e6d4.jpg"
+      },
+      {
+        "FileName": "dd0427f1-fbe2-4b44-b84c-7bc9adc1fca6.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2462079599",
+        "URL": "http://images.launchbox-app.com/dd0427f1-fbe2-4b44-b84c-7bc9adc1fca6.jpg"
+      },
+      {
+        "FileName": "ca27c0f5-2bc7-44f7-86b5-ffca4508d38c.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2781723120",
+        "URL": "http://images.launchbox-app.com/ca27c0f5-2bc7-44f7-86b5-ffca4508d38c.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "8c57f7f8-957f-4b2e-ba03-c5680e6df944.png",
+        "Type": "Clear Logo",
+        "CRC32": "3232982303",
+        "URL": "http://images.launchbox-app.com/8c57f7f8-957f-4b2e-ba03-c5680e6df944.png"
+      }
+    ]
+  }
+}

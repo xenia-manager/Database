@@ -1,0 +1,22 @@
+{
+  "Name": "Sonic the Hedgehog (XBLA)",
+  "DatabaseID": "421161",
+  "ReleaseDate": "2007-07-11T00:00:00-07:00",
+  "CommunityRating": "4",
+  "Genres": " Platform",
+  "Developer": "Backbone Entertainment",
+  "Publisher": "Sega",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "6760e46e-c7da-48b4-a6d4-95f3085e2cd8.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "3378233344",
+          "URL": "http://images.launchbox-app.com/6760e46e-c7da-48b4-a6d4-95f3085e2cd8.jpg"
+        }
+      ]
+    }
+  }
+}

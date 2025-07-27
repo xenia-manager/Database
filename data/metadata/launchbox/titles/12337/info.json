@@ -1,0 +1,59 @@
+{
+  "Name": "NPPL Championship Paintball 2009",
+  "DatabaseID": "12337",
+  "ReleaseDate": "2008-11-25T00:00:00-08:00",
+  "Overview": "NPPL: Championship Paintball 2009 (NPPL 09) is a first person paintball video game released for Xbox 360, PlayStation 2, PlayStation 3, and the Nintendo Wii. The game features multiple game modes, officially licensed gear,",
+  "CommunityRating": "1",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Sports",
+  "Developer": "FUN Labs Romania",
+  "Publisher": "Activision Value Publishing",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "0bed470c-9d49-4fc3-b6c6-826c8796b4c9.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "3640871872",
+          "URL": "http://images.launchbox-app.com/0bed470c-9d49-4fc3-b6c6-826c8796b4c9.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "6cdda8e0-4e06-4265-874d-0b19f6cdcc0c.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "1298246469",
+          "URL": "http://images.launchbox-app.com/6cdda8e0-4e06-4265-874d-0b19f6cdcc0c.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "fe38ff48-2176-476a-9aa4-8fcdb9c9c9da.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "136649317",
+          "URL": "http://images.launchbox-app.com/fe38ff48-2176-476a-9aa4-8fcdb9c9c9da.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "2770465d-5d25-45c4-93e5-78ba45d509f3.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "1152058702",
+          "URL": "http://images.launchbox-app.com/2770465d-5d25-45c4-93e5-78ba45d509f3.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "e47ff644-f186-4fdd-8cb6-6319ee6d7062.png",
+        "Type": "Clear Logo",
+        "CRC32": "4017607680",
+        "URL": "http://images.launchbox-app.com/e47ff644-f186-4fdd-8cb6-6319ee6d7062.png"
+      }
+    ]
+  }
+}

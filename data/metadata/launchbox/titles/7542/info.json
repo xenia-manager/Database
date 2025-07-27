@@ -1,0 +1,40 @@
+{
+  "Name": "NBA Live 06",
+  "DatabaseID": "7542",
+  "ReleaseDate": "2005-09-26T00:00:00-07:00",
+  "Overview": "With a new season of the NBA comes a new edition to the NBA Live series. NBA Live 06 lets you play as professional basketball teams in the NBA 2005-2006 season. You can play in single player Dynasty Mode, which allows you to play 25 seasons with your team, draft and trade players, as well as control players movements in mid-air for ultimate control of dunks and other moves. The game features graphics and AI that are improved from the last NBA Live game and real commentary from Marv Albert, Steve Kerr, Ernie Johnson, and Kenny \"The Jet\" Smith .",
+  "VideoURL": "http://www.youtube.com/watch?v=GYLvcq88cb8",
+  "CommunityRating": "3",
+  "ESRB": "E - Everyone",
+  "Genres": " Sports",
+  "Developer": "Electronic Arts Canada",
+  "Publisher": "Electronic Arts",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "95665776-f985-42f1-b2d9-ff97bd665599.png",
+          "Type": "Box - 3D",
+          "CRC32": "3751091928",
+          "URL": "http://images.launchbox-app.com/95665776-f985-42f1-b2d9-ff97bd665599.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "cd0212e7-2cac-40f5-b3f2-0225e3715ddd.jpg",
+          "Type": "Box - Back",
+          "CRC32": "2791727812",
+          "URL": "http://images.launchbox-app.com/cd0212e7-2cac-40f5-b3f2-0225e3715ddd.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "7e91a948-b536-4b79-8a27-dfb12334a244.jpg",
+          "Type": "Box - Front",
+          "CRC32": "675092058",
+          "URL": "http://images.launchbox-app.com/7e91a948-b536-4b79-8a27-dfb12334a244.jpg"
+        }
+      ]
+    }
+  }
+}

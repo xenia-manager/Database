@@ -1,0 +1,41 @@
+{
+  "Name": "Half-Minute Hero: Super Mega Neo Climax Ultimate Boy",
+  "DatabaseID": "129004",
+  "ReleaseDate": "2012-09-27T00:00:00-07:00",
+  "Overview": "The world is at an end, and you have 30 seconds to save it!",
+  "CommunityRating": "3.8",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Half-Minute_Hero#Half-Minute_Hero:_Super_Mega_Neo_Climax_Ultimate_Boy",
+  "ESRB": "E - Everyone",
+  "Genres": " Action",
+  "Developer": "Opus Studio",
+  "Publisher": "Marvelous AQL",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "d711a3e1-72f2-49e3-98a4-2fc74a43e3c0.png",
+        "Type": "Banner",
+        "CRC32": "1667660422",
+        "URL": "http://images.launchbox-app.com/d711a3e1-72f2-49e3-98a4-2fc74a43e3c0.png"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "52be8b16-022b-4f28-bea2-481637e5ce49.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "2478469184",
+          "URL": "http://images.launchbox-app.com/52be8b16-022b-4f28-bea2-481637e5ce49.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "f04cda01-2038-4522-880c-84d82fb9c7f9.png",
+        "Type": "Clear Logo",
+        "CRC32": "568696827",
+        "URL": "http://images.launchbox-app.com/f04cda01-2038-4522-880c-84d82fb9c7f9.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "Name": "Dynasty Warriors 8",
+  "DatabaseID": "17438",
+  "ReleaseDate": "2013-07-16T00:00:00-07:00",
+  "Overview": "The main mode in this latest installment in the Dynasty Warriors series is Story Mode, which follows the stories of the kingdoms of Wei, Wu, Shu, and Jin. \nThis completely new story includes new episodes with all-new characters and takes an ever deeper look at the drama that unfolds in the Romance of the Three Kingdoms compared to previous titles in the series.\nThere are also new \"What If?\" scenarios that take a look at what could have happened if famous characters of the time period had lived on to fight another day.",
+  "VideoURL": "http://www.youtube.com/watch?v=Xrkex_oLhAk",
+  "CommunityRating": "4.25",
+  "ESRB": "T - Teen",
+  "Genres": " Beat 'em Up",
+  "Developer": "Omega Force",
+  "Publisher": "Tecmo Koei America",
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "08326429-2674-485e-8f49-60a32e4ecb96.jpg",
+          "Type": "Box - Back",
+          "Region": "France",
+          "CRC32": "3845872480",
+          "URL": "http://images.launchbox-app.com/08326429-2674-485e-8f49-60a32e4ecb96.jpg"
+        },
+        {
+          "FileName": "a105ac0f-4334-4bd5-a82c-6782f194b401.jpg",
+          "Type": "Box - Back",
+          "Region": "United States",
+          "CRC32": "3950424375",
+          "URL": "http://images.launchbox-app.com/a105ac0f-4334-4bd5-a82c-6782f194b401.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "0c1c3e93-44d5-498a-967c-3b07f6b4e045.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "2695414499",
+          "URL": "http://images.launchbox-app.com/0c1c3e93-44d5-498a-967c-3b07f6b4e045.jpg"
+        },
+        {
+          "FileName": "d1808a39-5ba5-475c-9381-b853d2f3d4c2.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "296205953",
+          "URL": "http://images.launchbox-app.com/d1808a39-5ba5-475c-9381-b853d2f3d4c2.jpg"
+        },
+        {
+          "FileName": "116574b4-692e-4390-bc7e-7c2599a5bf4d.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3066572759",
+          "URL": "http://images.launchbox-app.com/116574b4-692e-4390-bc7e-7c2599a5bf4d.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "b634d577-58b9-4d22-b84c-79a3f7102883.jpg",
+          "Type": "Box - Spine",
+          "Region": "United States",
+          "CRC32": "3415476451",
+          "URL": "http://images.launchbox-app.com/b634d577-58b9-4d22-b84c-79a3f7102883.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "24e18d67-f76c-47a2-9b6a-9d378d2c45c0.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "3112996741",
+        "URL": "http://images.launchbox-app.com/24e18d67-f76c-47a2-9b6a-9d378d2c45c0.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "003636b3-43cf-4b10-9da5-cb617011618e.png",
+        "Type": "Clear Logo",
+        "CRC32": "2981608958",
+        "URL": "http://images.launchbox-app.com/003636b3-43cf-4b10-9da5-cb617011618e.png"
+      }
+    ]
+  }
+}

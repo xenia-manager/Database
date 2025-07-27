@@ -1,0 +1,65 @@
+{
+  "Name": "Harry Potter and the Deathly Hallows: Part 1",
+  "DatabaseID": "15654",
+  "ReleaseDate": "2010-11-16T00:00:00-08:00",
+  "Overview": "Well-read wizards and witches begin their ultimate adventure in Harry Potter and the Deathly Hallows: Part 1. In line with the contemporary film productions, the 2010 game's storyline follows the first portion of the final novel in J.K. Rowling's Harry Potter series. From a third-person 3D perspective, players explore perilous scenes detailed in the book, and engage in action-oriented battle using powerful blasts from their magic wands. Xbox 360 gamers with the Kinect camera-control system can also cast spells simply by waving their hands in magical patterns. Two players can team up in cooperative multiplayer, taking the roles of any of the three main characters. The video game adventure is set away from the familiar school grounds for the first time, following Harry, Ron, and Hermione on a run for their lives from the forces of Voldemort, who has come to control the governing Ministry of Magic, as well as the once-safe Hogwarts academy.\n\nGuiding the three young heroes, players travel to remote and dangerous locations in a desperate quest to destroy the Horcruxes, objects of great power that are the secret to Voldemort's immortality. Different objectives and battles are best won by using the various special abilities of each character, calling on them to work together to overcome each series of challenges. No longer mere students, sheltered from the dangers of the world of magic by Professor Dumbledore and their other wise and kind teachers, Harry and his friends must face ferocious monsters, grim Death Eaters, and powerful rival wizards who have allied with the Dark One. The game also features magical battles against monsters and villains from earlier Harry Potter books, offering players a chance to further hone their wand-wielding skills. The dangers of the Deathly Hallows are greater than any he has faced before, but surviving this first part of the final adventure is the only way to prepare \"The Boy Who Lived\" to meet his destiny, in an inevitable showdown against Voldemort when the story comes to its conclusion.",
+  "CommunityRating": "4.25",
+  "ESRB": "T - Teen",
+  "Genres": " Action; Shooter",
+  "Developer": "Electronic Arts Bright Light",
+  "Publisher": "Electronic Arts",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "e8a20923-7c19-46e8-b425-3b8be48f0ef0.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "624767550",
+        "URL": "http://images.launchbox-app.com/e8a20923-7c19-46e8-b425-3b8be48f0ef0.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "7e7fe019-daa0-4060-a806-2d07bf3d85cf.png",
+          "Type": "Box - 3D",
+          "Region": "Europe",
+          "CRC32": "2791487074",
+          "URL": "http://images.launchbox-app.com/7e7fe019-daa0-4060-a806-2d07bf3d85cf.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "dcc75370-fb60-4d90-8add-845eef5fa655.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2945518928",
+          "URL": "http://images.launchbox-app.com/dcc75370-fb60-4d90-8add-845eef5fa655.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "ad74040d-0e2a-4a1a-88db-0182c1b0395b.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2839631358",
+        "URL": "http://images.launchbox-app.com/ad74040d-0e2a-4a1a-88db-0182c1b0395b.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "f1adfdf7-06b1-499b-879f-5bc05a90a70b.png",
+        "Type": "Clear Logo",
+        "CRC32": "3730140407",
+        "URL": "http://images.launchbox-app.com/f1adfdf7-06b1-499b-879f-5bc05a90a70b.png"
+      },
+      {
+        "FileName": "fae5afe0-4371-49d8-859e-b51a31c9e546.png",
+        "Type": "Clear Logo",
+        "Region": "Spain",
+        "CRC32": "417770269",
+        "URL": "http://images.launchbox-app.com/fae5afe0-4371-49d8-859e-b51a31c9e546.png"
+      }
+    ]
+  }
+}

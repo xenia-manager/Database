@@ -1,0 +1,56 @@
+{
+  "Name": "F1 Race Stars",
+  "DatabaseID": "12290",
+  "ReleaseDate": "2012-11-13T00:00:00-08:00",
+  "Overview": "F1 RACE STARS is a fast-to-the-fun arcade racing game for all ages featuring the official FORMULA ONE cars, teams and circuits as they’ve never been seen before. Drivers including Lewis Hamilton, Fernando Alonso and Sebastian Vettel have been transformed into personality-packed heroes bursting with charm and character and stunning FORMULA ONE locations have become exhilarating racing theme parks designed for speed and wheel-to-wheel competition. Players will jostle for position on every straight, hairpin, jump and loop-the-loop with chaotic racing and a range of power-ups for players to collect and deploy as they sprint for the chequered flag. Officially licensed to feature the full cast of FORMULA ONE stars and teams and packing an extensive range of game modes, including numerous Championships, Time Trials, 4-player split-screen racing and online multiplayer, F1 RACE STARS takes FORMULA ONE over the top for racing fans of all ages.",
+  "VideoURL": "https://www.youtube.com/watch?v=3gkCLx2fa5w",
+  "CommunityRating": "3.9285714285714284",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/F1_Race_Stars",
+  "ESRB": "E - Everyone",
+  "Genres": " Racing",
+  "Developer": "Codemasters Birmingham",
+  "Publisher": "Codemasters Racing",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "e7ef3826-3c39-4374-9d78-9762080cb9b8.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "756451686",
+        "URL": "http://images.launchbox-app.com/e7ef3826-3c39-4374-9d78-9762080cb9b8.jpg"
+      },
+      {
+        "FileName": "04eaa20c-7f97-4f39-9827-86cf1eec7af7.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "920095898",
+        "URL": "http://images.launchbox-app.com/04eaa20c-7f97-4f39-9827-86cf1eec7af7.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "a900154c-e1cf-409c-b724-82a0c46ef089.jpg",
+          "Type": "Box - Front",
+          "CRC32": "2634358696",
+          "URL": "http://images.launchbox-app.com/a900154c-e1cf-409c-b724-82a0c46ef089.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "55a87edd-57cc-4d17-8479-cae766b80056.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "2124195354",
+        "URL": "http://images.launchbox-app.com/55a87edd-57cc-4d17-8479-cae766b80056.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "1779e846-94d1-4387-b480-e3167431f977.png",
+        "Type": "Clear Logo",
+        "CRC32": "2394364850",
+        "URL": "http://images.launchbox-app.com/1779e846-94d1-4387-b480-e3167431f977.png"
+      }
+    ]
+  }
+}

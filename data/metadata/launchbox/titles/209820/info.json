@@ -1,0 +1,24 @@
+{
+  "Name": "RoboBlitz",
+  "DatabaseID": "209820",
+  "ReleaseDate": "2009-12-10T00:00:00-08:00",
+  "Overview": "Wasn't that cool? Well, it gets even cooler. Purchase the full version of RoboBlitz™ and you'll get even more weapons, more baddies, and more of that juicy physics magic you just can't get anywhere else on Xbox Live® Arcade. See if you can score the full billion points. Buy RoboBlitz today!",
+  "CommunityRating": "3",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Action; Adventure",
+  "Developer": "Naked Sky Entertainment",
+  "Publisher": "Microsoft Studios",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "cf27731a-6431-4acc-bf63-b9eb992356c1.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "2970901198",
+          "URL": "http://images.launchbox-app.com/cf27731a-6431-4acc-bf63-b9eb992356c1.jpg"
+        }
+      ]
+    }
+  }
+}

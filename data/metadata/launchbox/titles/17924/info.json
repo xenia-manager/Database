@@ -1,0 +1,111 @@
+{
+  "Name": "Assassin's Creed IV: Black Flag",
+  "DatabaseID": "17924",
+  "ReleaseDate": "2013-10-29T00:00:00-07:00",
+  "Overview": "It is 1715. Pirates rule the Caribbean and have established a lawless pirate republic. Among these outlaws is a fearsome young captain named Edward Kenway. His exploits earn the respect of pirate legends like Blackbeard, but draw him into an ancient war that may destroy everything the pirates have built.\n\nA Brash Rebel Assassin Become Edward Kenway, a charismatic yet brutal pirate captain trained by the Assassins. Edward can effortlessly switch between all new weaponry including four flintlock pistols and dual cutlass swords.\nExplore an Open World Filled With Opportunity Discover the most diverse Assassin's Creed® world ever created. Explore 50 unique locations where you can live the life of a pirate, including:\nLoot underwater shipwrecks.\nAssassinate Templars in blossoming cities.\nHunt for rare animals in untamed jungles.\nSearch for treasure in lost ruins.\nEscape to hidden coves. You can also play with friends in the critically acclaimed multiplayer.\nBecome the Most Feared Pirate in the Caribbean Command your ship, the Jackdaw, and strike fear in all who see her. Plunder and pillage to upgrade the Jackdaw with ammunition, equipment, and disguises needed to fight off enemy ships. The ship's improvements are critical to Edward's progression in the game. Attack and board massive galleons, recruit sailors to join your crew, and embark on an epic adventure.\nExperience the Gritty Reality Behind the Pirate Fantasy Stand amongst legendary pirates such as Blackbeard, Calico Jack, and Benjamin Hornigold as you establish a lawless pirate republic in the Bahamas and relive the truly explosive events that defined the Golden Age of Pirates.",
+  "VideoURL": "http://www.youtube.com/watch?v=mRTMEabx2Lk",
+  "CommunityRating": "4.4230769230769234",
+  "ESRB": "M - Mature",
+  "Genres": " Action; Adventure; Stealth",
+  "Developer": "Ubisoft Entertainment",
+  "Publisher": "Ubisoft Entertainment",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "f00f01f7-2620-487a-8f06-c8241955a00b.png",
+        "Type": "Banner",
+        "CRC32": "1430907445",
+        "URL": "http://images.launchbox-app.com/f00f01f7-2620-487a-8f06-c8241955a00b.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "f8ccecc8-e445-4330-bad8-e71765ce8b3e.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2305344292",
+        "URL": "http://images.launchbox-app.com/f8ccecc8-e445-4330-bad8-e71765ce8b3e.jpg"
+      },
+      {
+        "FileName": "251bf6a9-d4fb-4b51-a572-f7e2ae85730d.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2317229556",
+        "URL": "http://images.launchbox-app.com/251bf6a9-d4fb-4b51-a572-f7e2ae85730d.jpg"
+      },
+      {
+        "FileName": "4949b551-1905-46af-82b6-e61c7a3348a9.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "4091365346",
+        "URL": "http://images.launchbox-app.com/4949b551-1905-46af-82b6-e61c7a3348a9.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "2def5272-160b-4519-9827-251abfe6cf20.png",
+          "Type": "Box - 3D",
+          "Region": "Europe",
+          "CRC32": "3619548465",
+          "URL": "http://images.launchbox-app.com/2def5272-160b-4519-9827-251abfe6cf20.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "ed20b0c9-44f9-4372-9c93-b15182d79859.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "3870693171",
+          "URL": "http://images.launchbox-app.com/ed20b0c9-44f9-4372-9c93-b15182d79859.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "f118e8f2-d2d0-4a48-90d7-b79835095522.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1192672694",
+          "URL": "http://images.launchbox-app.com/f118e8f2-d2d0-4a48-90d7-b79835095522.jpg"
+        },
+        {
+          "FileName": "5bbe3ef8-ad87-41d9-8887-b0054ff75877.png",
+          "Type": "Box - Front",
+          "Region": "Germany",
+          "CRC32": "479183731",
+          "URL": "http://images.launchbox-app.com/5bbe3ef8-ad87-41d9-8887-b0054ff75877.png"
+        },
+        {
+          "FileName": "cd3bf04f-01c4-4a04-a231-6c653be20b1e.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "1955946273",
+          "URL": "http://images.launchbox-app.com/cd3bf04f-01c4-4a04-a231-6c653be20b1e.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "311705e5-d763-4f1f-9f9b-2e5eb7895895.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "3932700804",
+          "URL": "http://images.launchbox-app.com/311705e5-d763-4f1f-9f9b-2e5eb7895895.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "e727b36b-e93d-4732-a635-e40b868c8a94.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "3694375040",
+        "URL": "http://images.launchbox-app.com/e727b36b-e93d-4732-a635-e40b868c8a94.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "93aea96c-b102-4cf6-bfcd-b0165d33cbbb.png",
+        "Type": "Clear Logo",
+        "CRC32": "4082186125",
+        "URL": "http://images.launchbox-app.com/93aea96c-b102-4cf6-bfcd-b0165d33cbbb.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "Name": "Persona 4 Arena Ultimax",
+  "DatabaseID": "94579",
+  "ReleaseDate": "2014-09-30T00:00:00-07:00",
+  "Overview": "In P4AU, the characters from Persona 4 and Persona 3 once again find themselves teaming up to face off in the P-1 Climax, a series of battles which must be won before the world ends. The original cast of characters from Persona 3 and 4 are back to discover the mastermind behind the whole tournament, while a few new faces join the fight, including Junpei Iori, Yukari Takeba, Rise Kujikawa, and more. But standing in their way is the dual katana-wielding Sho Minazuki, a huge threat to everyone involved in the P-1 Climax. Worse yet, there's a Sho lookalike who can wield a Persona...",
+  "CommunityRating": "3.8",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Persona_4_Arena_Ultimax",
+  "ESRB": "T - Teen",
+  "Genres": " Fighting",
+  "Developer": "Atlus",
+  "Publisher": "Sega",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "0208fd98-479a-43d5-89f8-7f156d859027.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "590045658",
+        "URL": "http://images.launchbox-app.com/0208fd98-479a-43d5-89f8-7f156d859027.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "416925cc-8090-4d65-a0e2-f8025145f9c7.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "1451521359",
+          "URL": "http://images.launchbox-app.com/416925cc-8090-4d65-a0e2-f8025145f9c7.jpg"
+        },
+        {
+          "FileName": "3970bd6f-85e4-43ca-8996-efe6bd4a01a5.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3305412088",
+          "URL": "http://images.launchbox-app.com/3970bd6f-85e4-43ca-8996-efe6bd4a01a5.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "ccae0e4b-e14f-4051-8f73-b76849190995.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "2105805312",
+        "URL": "http://images.launchbox-app.com/ccae0e4b-e14f-4051-8f73-b76849190995.jpg"
+      },
+      {
+        "FileName": "516dfb41-bc27-419e-abd2-b82d5c66df3f.jpg",
+        "Type": "Screenshot - Gameplay",
+        "Region": "World",
+        "CRC32": "605969633",
+        "URL": "http://images.launchbox-app.com/516dfb41-bc27-419e-abd2-b82d5c66df3f.jpg"
+      },
+      {
+        "FileName": "5e426db9-e2c9-42e5-b536-1af7ed883d79.jpg",
+        "Type": "Screenshot - Gameplay",
+        "Region": "World",
+        "CRC32": "702755973",
+        "URL": "http://images.launchbox-app.com/5e426db9-e2c9-42e5-b536-1af7ed883d79.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "6e579a52-2c9e-4c2c-a997-7eb248d93bcb.png",
+        "Type": "Clear Logo",
+        "Region": "Japan",
+        "CRC32": "2076648391",
+        "URL": "http://images.launchbox-app.com/6e579a52-2c9e-4c2c-a997-7eb248d93bcb.png"
+      },
+      {
+        "FileName": "01d9bb09-09c7-4cb1-945a-42b8a3d8ae97.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "569211334",
+        "URL": "http://images.launchbox-app.com/01d9bb09-09c7-4cb1-945a-42b8a3d8ae97.png"
+      }
+    ]
+  }
+}

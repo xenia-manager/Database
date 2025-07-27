@@ -1,0 +1,48 @@
+{
+  "Name": "Earth Defense Force 2025",
+  "DatabaseID": "19150",
+  "ReleaseDate": "2013-07-04T00:00:00-07:00",
+  "Overview": "The long awaited sequel that hardcore shooter fans demanded, Earth Defense Force®2025 is an action shooting bonanza that arms players to repel the most terrifying invasion of giant aliens and ravagers the world has ever seen. Equip hundreds of weapons across four character classes; exterminate menacing creatures of all sizes, and save the world!\n\nEight years since the defeat of the alien invasion and the destruction of the Mothership, civilization recovered most of the prosperity it once had. But a new catastrophe falls upon Earth once again. In 2025 a new state of emergency arises as giant aliens and insects are discovered deep underground. The Ravagers have evolved, and are stronger than ever. The Earth Defense Force must now stand up to these terrifying creatures to save humanity once more!",
+  "CommunityRating": "3.5",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Earth_Defense_Force_2025",
+  "ESRB": "M - Mature",
+  "Genres": " Shooter",
+  "Developer": "Sandlot",
+  "Publisher": "D3Publisher of America",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "ce480b8d-e617-436d-92b2-d5ee12624dc1.png",
+        "Type": "Fanart - Background",
+        "CRC32": "3482588246",
+        "URL": "http://images.launchbox-app.com/ce480b8d-e617-436d-92b2-d5ee12624dc1.png"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "8fcf0907-27f2-466a-8ef3-5dd853b6d01b.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "394376718",
+          "URL": "http://images.launchbox-app.com/8fcf0907-27f2-466a-8ef3-5dd853b6d01b.jpg"
+        },
+        {
+          "FileName": "293bbfd0-35cd-45df-beca-259ea4c82812.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3226319158",
+          "URL": "http://images.launchbox-app.com/293bbfd0-35cd-45df-beca-259ea4c82812.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "cc21aa7a-a260-4d8b-b575-f5ca79f06246.png",
+        "Type": "Clear Logo",
+        "CRC32": "4070549091",
+        "URL": "http://images.launchbox-app.com/cc21aa7a-a260-4d8b-b575-f5ca79f06246.png"
+      }
+    ]
+  }
+}

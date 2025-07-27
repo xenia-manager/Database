@@ -1,0 +1,43 @@
+{
+  "Name": "NBA Live 10",
+  "DatabaseID": "16004",
+  "ReleaseDate": "2009-10-06T00:00:00-07:00",
+  "Overview": "NBA Live 10 is the 2009 installment in the NBA Live series, developed and published by Electronic Arts. Dwight Howard of the Orlando Magic is the cover athlete. It was released in 2009 for PlayStation 3, Xbox 360, PSP and iOS (the latter under the title NBA Live by EA Sports).[1] NBA Live 10 was to be followed by NBA Live 13 which was cancelled in late 2012. NBA Live 10 was the last game in the NBA Live series for 4 years until NBA Live 14 in 2013.",
+  "VideoURL": "https://www.youtube.com/watch?v=W4gGNYOmykQ",
+  "CommunityRating": "3.3333333333333335",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/NBA_Live_10",
+  "ESRB": "E - Everyone",
+  "Genres": " Sports",
+  "Developer": "Electronic Arts Canada",
+  "Publisher": "Electronic Arts",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "cfe0bc3e-30f8-4071-8763-68fed2006bf1.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "477482407",
+          "URL": "http://images.launchbox-app.com/cfe0bc3e-30f8-4071-8763-68fed2006bf1.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "29eb5eb3-168c-4e09-81d4-2d5000d300bd.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "417137563",
+          "URL": "http://images.launchbox-app.com/29eb5eb3-168c-4e09-81d4-2d5000d300bd.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "31456fd1-67cf-4395-9a0b-23a6e1d7530d.png",
+        "Type": "Clear Logo",
+        "CRC32": "1189831885",
+        "URL": "http://images.launchbox-app.com/31456fd1-67cf-4395-9a0b-23a6e1d7530d.png"
+      }
+    ]
+  }
+}

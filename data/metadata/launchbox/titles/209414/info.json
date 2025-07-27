@@ -1,0 +1,24 @@
+{
+  "Name": "Jewel Quest",
+  "DatabaseID": "209414",
+  "ReleaseDate": "2010-01-04T00:00:00-08:00",
+  "Overview": "Further mysteries await you in this archaeological puzzle adventure! Delve deeper when you purchase the FULL version of Jewel Quest.",
+  "CommunityRating": "3.5",
+  "ESRB": "E - Everyone",
+  "Genres": " Puzzle",
+  "Developer": "CTXM",
+  "Publisher": "Microsoft Studios",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "a5298b0e-f4d8-44b6-838d-44720f212a3f.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "555758780",
+          "URL": "http://images.launchbox-app.com/a5298b0e-f4d8-44b6-838d-44720f212a3f.jpg"
+        }
+      ]
+    }
+  }
+}

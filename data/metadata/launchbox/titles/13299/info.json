@@ -1,0 +1,40 @@
+{
+  "Name": "Viva Piñata: Party Animals",
+  "DatabaseID": "13299",
+  "ReleaseDate": "2007-10-30T00:00:00-07:00",
+  "Overview": "Full description\n\nA multiplayer game expanding the Viva Pinata experience. Compete in a variety of zany battles and races in the social party game Viva Piñata: Party Animals. Control the fame, fortune, and destiny of all your favorite characters from Viva Piñata: Fergy Fudgehog, Paulie Pretztail, Franklin Fizzlybear, and Hudson Horstachio. It's party time!",
+  "CommunityRating": "3.4",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Viva_Pi%C3%B1ata:_Party_Animals",
+  "ESRB": "E - Everyone",
+  "Genres": " Party",
+  "Developer": "Krome Studios",
+  "Publisher": "Microsoft Game Studios",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "dd3bf2fa-da14-4248-9bfe-3ecf34384a35.png",
+          "Type": "Box - 3D",
+          "CRC32": "1501706226",
+          "URL": "http://images.launchbox-app.com/dd3bf2fa-da14-4248-9bfe-3ecf34384a35.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "d0944e2a-fb0b-4839-ab7d-c99df5b9529b.jpg",
+          "Type": "Box - Back",
+          "CRC32": "884503365",
+          "URL": "http://images.launchbox-app.com/d0944e2a-fb0b-4839-ab7d-c99df5b9529b.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "c29eea6f-0e5c-49d0-ba5a-99d942ae0189.jpg",
+          "Type": "Box - Front",
+          "CRC32": "733854640",
+          "URL": "http://images.launchbox-app.com/c29eea6f-0e5c-49d0-ba5a-99d942ae0189.jpg"
+        }
+      ]
+    }
+  }
+}

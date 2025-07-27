@@ -1,0 +1,68 @@
+{
+  "Name": "Cabela's Alaskan Adventures",
+  "DatabaseID": "7157",
+  "ReleaseDate": "2006-09-19T00:00:00-07:00",
+  "Overview": "Cabela's Alaskan Adventures is the ultimate hunting and fishing adventure to North America's last frontier. Experience all that Alaska has to offer, as you go on 38 hunting and fishing adventures across vast tundra. For the first time in one game, you will be able to hunt trophy animals, fish, bird hunt, dog sled through the Alaskan Artic, and compete in various outdoor-themed contests. It will take every ounce of skill and strategy to hunt or catch that record-breaking trophy. It's as true-to-life as it gets! Go exploring or get to your next hunting spot in a snowmobile, truck or ATV All new shooting features and controls including Hunter's Sense, Gun Sway and Drop Dot Incredibly realistic terrain including vast tundra, dense forests, river deltas, rocky slopes and more.",
+  "CommunityRating": "3.6666666666666665",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Cabela%27s_Alaskan_Adventures",
+  "ESRB": "T - Teen",
+  "Genres": " Shooter; Sports",
+  "Developer": "Fun Labs",
+  "Publisher": "Activision Value Publishing",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "da5bc5df-7140-4577-b924-e89f1800cd74.jpg",
+        "Type": "Banner",
+        "CRC32": "1921709880",
+        "URL": "http://images.launchbox-app.com/da5bc5df-7140-4577-b924-e89f1800cd74.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "0a4dc2fc-de82-4c64-b23b-0617f96f584b.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "3773711339",
+          "URL": "http://images.launchbox-app.com/0a4dc2fc-de82-4c64-b23b-0617f96f584b.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "90db1434-b6da-4f62-b446-f994bc303b16.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "449805654",
+          "URL": "http://images.launchbox-app.com/90db1434-b6da-4f62-b446-f994bc303b16.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "2d1d4318-d394-4d9b-89cf-18b3fed04e9a.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1074204649",
+          "URL": "http://images.launchbox-app.com/2d1d4318-d394-4d9b-89cf-18b3fed04e9a.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "bfa0a736-5758-4b39-8a9a-4d7383fbaba8.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "3979847226",
+        "URL": "http://images.launchbox-app.com/bfa0a736-5758-4b39-8a9a-4d7383fbaba8.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "6e643ad4-6a5a-4901-a4db-2f106c390fe0.png",
+        "Type": "Clear Logo",
+        "CRC32": "2052746704",
+        "URL": "http://images.launchbox-app.com/6e643ad4-6a5a-4901-a4db-2f106c390fe0.png"
+      }
+    ]
+  }
+}

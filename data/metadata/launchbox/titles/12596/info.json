@@ -1,0 +1,83 @@
+{
+  "Name": "FIFA Soccer 13",
+  "DatabaseID": "12596",
+  "ReleaseDate": "2012-09-25T00:00:00-07:00",
+  "Overview": "FIFA 13 captures all the drama and unpredictability of real-world soccer, and is driven by five game-changing innovations which revolutionize artificial intelligence, dribbling, ball control and physical play. It is the largest and deepest feature set in the history of the franchise. These innovations create a true battle for possession across the entire pitch, deliver freedom and creativity in attack, and capture all the drama and unpredictability of the real-world game.",
+  "VideoURL": "http://www.youtube.com/watch?v=Ia43OgdBHaE",
+  "CommunityRating": "1.5",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/FIFA_13",
+  "ESRB": "E - Everyone",
+  "Genres": " Sports",
+  "Developer": "Electronic Arts Canada",
+  "Publisher": "Electronic Arts",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "8e42174d-37e6-4381-84ab-17a0e4897896.png",
+          "Type": "Box - 3D",
+          "Region": "United States",
+          "CRC32": "2033947508",
+          "URL": "http://images.launchbox-app.com/8e42174d-37e6-4381-84ab-17a0e4897896.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "934d8e18-db76-446f-b8d7-6c035c88b05c.jpg",
+          "Type": "Box - Back",
+          "Region": "Germany",
+          "CRC32": "772349914",
+          "URL": "http://images.launchbox-app.com/934d8e18-db76-446f-b8d7-6c035c88b05c.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "ff079275-761e-4df1-bfc6-c930765bee73.jpg",
+          "Type": "Box - Front",
+          "Region": "Germany",
+          "CRC32": "37362010",
+          "URL": "http://images.launchbox-app.com/ff079275-761e-4df1-bfc6-c930765bee73.jpg"
+        },
+        {
+          "FileName": "f0d81972-5fcc-4392-8efd-e137207ff3f5.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "883660939",
+          "URL": "http://images.launchbox-app.com/f0d81972-5fcc-4392-8efd-e137207ff3f5.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "fbcb8a95-dbc6-4117-abf4-ce5633042497.jpg",
+        "Type": "Disc",
+        "Region": "Germany",
+        "CRC32": "900319338",
+        "URL": "http://images.launchbox-app.com/fbcb8a95-dbc6-4117-abf4-ce5633042497.jpg"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "a7c9da1f-2776-4048-8aa4-9a345578186c.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "762228971",
+        "URL": "http://images.launchbox-app.com/a7c9da1f-2776-4048-8aa4-9a345578186c.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "f36de56b-0eef-43b8-9660-ef4cd8c9f979.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "4145162199",
+        "URL": "http://images.launchbox-app.com/f36de56b-0eef-43b8-9660-ef4cd8c9f979.png"
+      },
+      {
+        "FileName": "2c45a6e9-3112-4153-a4ee-ca8c9d882589.png",
+        "Type": "Clear Logo",
+        "CRC32": "1255357200",
+        "URL": "http://images.launchbox-app.com/2c45a6e9-3112-4153-a4ee-ca8c9d882589.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Name": "Peter Jackson's King Kong",
+  "DatabaseID": "13804",
+  "ReleaseDate": "2005-11-22T00:00:00-08:00",
+  "Overview": "Peter Jackson's King Kong: The Official Game of the Movie is an action-adventure video game based on the 2005 film King Kong and created in collaboration between the film's director Peter Jackson and video game designer Michel Ancel.\n\nThe game allows players to play as both Jack Driscoll and King Kong. The King Kong segment are played from a third-person perspective, while Driscoll's levels are played from a first-person perspective. De-emphasizes the role of a heads-up display as the developer thought that this can help players to further immerse into the game.\n\nIt was released on PC and sixth generation platforms and a Nintendo DS version on November 21, 2005, while it was released on November 22, 2005 on the Xbox 360 as a launch title, as well as a Game Boy Advance version titled Kong: The 8th Wonder of the World, also a PlayStation Portable version was released December 20, 2005. All film cast members reprise their roles. Upon release, the game received a generally positive reception, with critics praising the game's immersive environments. However, the DS version was panned due to the bugs featured in these versions.",
+  "CommunityRating": "3.5",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/King_Kong_(2005_video_game)",
+  "ESRB": "T - Teen",
+  "Genres": " Action",
+  "Developer": "Ubisoft",
+  "Publisher": "Ubisoft",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "a1415856-e922-4b22-8f2c-018c68219649.png",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "43817828",
+        "URL": "http://images.launchbox-app.com/a1415856-e922-4b22-8f2c-018c68219649.png"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "183ce386-7415-418a-abf4-f3d554532501.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "1191593218",
+          "URL": "http://images.launchbox-app.com/183ce386-7415-418a-abf4-f3d554532501.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "2b61eb0c-ec91-4cc1-aa40-f5a65939a6b7.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3142013474",
+          "URL": "http://images.launchbox-app.com/2b61eb0c-ec91-4cc1-aa40-f5a65939a6b7.jpg"
+        },
+        {
+          "FileName": "r2_d0fb5260-3c6e-43ec-a0b2-83139863dd10.jpg",
+          "Type": "Box - Front",
+          "Region": "United Kingdom",
+          "CRC32": "1768903456",
+          "URL": "http://images.launchbox-app.com/r2_d0fb5260-3c6e-43ec-a0b2-83139863dd10.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "09b80f12-261b-423c-a76d-78351d20c267.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "880506310",
+        "URL": "http://images.launchbox-app.com/09b80f12-261b-423c-a76d-78351d20c267.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "45122a70-91fe-417b-a933-8b988628f307.png",
+        "Type": "Clear Logo",
+        "CRC32": "572352067",
+        "URL": "http://images.launchbox-app.com/45122a70-91fe-417b-a933-8b988628f307.png"
+      }
+    ]
+  }
+}

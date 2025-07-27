@@ -1,0 +1,90 @@
+{
+  "Name": "BlazBlue: Continuum Shift",
+  "DatabaseID": "13771",
+  "ReleaseDate": "2010-07-27T00:00:00-07:00",
+  "Overview": "The sequel to 2009's anime-flavored fighting game, BlazBlue: Calamity Trigger, BlazBlue: Continuum Shift introduces three new characters, added play options, more stages, and other refinements. Those new to the series can acclimate themselves to the combo-centric controls with the beginner and tutorial modes, while BlazBlue veterans can attempt to achieve character-specific objectives in the challenge mode. In the legion mode, an army of characters can be enlisted to reclaim enemy-controlled territories on a map. Four environments have been added to the existing locales from the first game, along with seven new music tracks from composer Diasuke Ishiwatari. Characters include the female knight Tsubaki, a mastermind known as Hazama, and an alluring armored female named mu-12. Challenge other players from around the world, chat with friends, or simply observe matches to learn new techniques via Xbox Live.",
+  "CommunityRating": "3.625",
+  "ESRB": "T - Teen",
+  "Genres": " Fighting",
+  "Developer": "Arc System Works",
+  "Publisher": "Aksys Games Localization",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "14e1c107-3bc6-4459-84ba-b9c8aa72ee77.png",
+        "Type": "Banner",
+        "CRC32": "2750983265",
+        "URL": "http://images.launchbox-app.com/14e1c107-3bc6-4459-84ba-b9c8aa72ee77.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "627333ff-3476-4a68-8643-2be74377dcf2.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3784580498",
+        "URL": "http://images.launchbox-app.com/627333ff-3476-4a68-8643-2be74377dcf2.jpg"
+      },
+      {
+        "FileName": "5145343d-d8d7-4437-a623-2608679590c2.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3522781487",
+        "URL": "http://images.launchbox-app.com/5145343d-d8d7-4437-a623-2608679590c2.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "4c65e213-587c-4053-a01e-eaf2abcb81fc.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "1415784691",
+          "URL": "http://images.launchbox-app.com/4c65e213-587c-4053-a01e-eaf2abcb81fc.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "57f827ee-c2e9-4199-b75b-644a30524df0.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "4170112880",
+          "URL": "http://images.launchbox-app.com/57f827ee-c2e9-4199-b75b-644a30524df0.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "3284ef3b-6e85-4a02-b671-c541dfd1b546.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "798117416",
+          "URL": "http://images.launchbox-app.com/3284ef3b-6e85-4a02-b671-c541dfd1b546.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "4e78a311-0e22-4f80-b107-bd28b91b7b61.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "668858020",
+          "URL": "http://images.launchbox-app.com/4e78a311-0e22-4f80-b107-bd28b91b7b61.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "9ad0d52c-8d09-4c54-b99d-c87895598fe7.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "4172348481",
+        "URL": "http://images.launchbox-app.com/9ad0d52c-8d09-4c54-b99d-c87895598fe7.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "28ff2c2b-7f90-430d-b44d-755948c49f23.png",
+        "Type": "Clear Logo",
+        "CRC32": "2404768429",
+        "URL": "http://images.launchbox-app.com/28ff2c2b-7f90-430d-b44d-755948c49f23.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "Name": "Call of Duty: Ghosts",
+  "DatabaseID": "18217",
+  "ReleaseDate": "2013-11-05T00:00:00-08:00",
+  "Overview": "Call of Duty: Ghosts takes place following a catastrophic event that changed the global balance of powers in the world. As a result, the United States is no longer recognized as a superpower. Ten years after the event, an unseen enemy emerges as a threat, but the remnants of US special forces from every branch came together to create an elite group of soldiers known as the \"Ghosts\", who are determined to eradicate all threats to protect the weak and the remains of America.",
+  "VideoURL": "http://www.youtube.com/watch?v=Zxnx3W-HA18",
+  "CommunityRating": "3.6111111111111112",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Call_of_Duty:_Ghosts",
+  "ESRB": "M - Mature",
+  "Genres": " Shooter; Stealth",
+  "Developer": "Infinity Ward",
+  "Publisher": "Activision",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "0b945451-6ebc-4ba9-b77d-774278d836ed.png",
+        "Type": "Banner",
+        "CRC32": "1243368006",
+        "URL": "http://images.launchbox-app.com/0b945451-6ebc-4ba9-b77d-774278d836ed.png"
+      },
+      {
+        "FileName": "7f3fb740-be0f-4949-b693-020e84ffce4f.png",
+        "Type": "Banner",
+        "CRC32": "239181443",
+        "URL": "http://images.launchbox-app.com/7f3fb740-be0f-4949-b693-020e84ffce4f.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "99bf3570-31d4-42b9-94d7-bd4f12f7ffaf.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1354532061",
+        "URL": "http://images.launchbox-app.com/99bf3570-31d4-42b9-94d7-bd4f12f7ffaf.jpg"
+      },
+      {
+        "FileName": "cbe784d1-5333-4d23-ab7a-19125f6862d7.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "545541237",
+        "URL": "http://images.launchbox-app.com/cbe784d1-5333-4d23-ab7a-19125f6862d7.jpg"
+      },
+      {
+        "FileName": "6a9301fa-dbd3-465f-898b-6bbaf21949ee.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3925909173",
+        "URL": "http://images.launchbox-app.com/6a9301fa-dbd3-465f-898b-6bbaf21949ee.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "289500f6-50c1-4e83-8bdb-72839fe85bd6.png",
+          "Type": "Box - 3D",
+          "Region": "Europe",
+          "CRC32": "4293110429",
+          "URL": "http://images.launchbox-app.com/289500f6-50c1-4e83-8bdb-72839fe85bd6.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "7d530dcc-7a68-44f3-bd51-568ad99d1d1b.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "305246080",
+          "URL": "http://images.launchbox-app.com/7d530dcc-7a68-44f3-bd51-568ad99d1d1b.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "f4cebc47-0956-4646-929f-13dee83065ae.jpg",
+          "Type": "Box - Front",
+          "Region": "Germany",
+          "CRC32": "685703496",
+          "URL": "http://images.launchbox-app.com/f4cebc47-0956-4646-929f-13dee83065ae.jpg"
+        },
+        {
+          "FileName": "4d490557-42b4-46cc-be48-d92d432b8579.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3893211051",
+          "URL": "http://images.launchbox-app.com/4d490557-42b4-46cc-be48-d92d432b8579.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "df0c43db-7069-4697-a80d-5da56f59955c.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "1088216063",
+          "URL": "http://images.launchbox-app.com/df0c43db-7069-4697-a80d-5da56f59955c.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "f328fd0e-e827-4117-859d-8b84cf4d7417.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1178192586",
+        "URL": "http://images.launchbox-app.com/f328fd0e-e827-4117-859d-8b84cf4d7417.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "9511e0aa-b24e-4a00-ad07-bf72510bae7c.png",
+        "Type": "Clear Logo",
+        "CRC32": "3549591289",
+        "URL": "http://images.launchbox-app.com/9511e0aa-b24e-4a00-ad07-bf72510bae7c.png"
+      }
+    ]
+  }
+}

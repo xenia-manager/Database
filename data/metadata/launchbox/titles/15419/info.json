@@ -1,0 +1,83 @@
+{
+  "Name": "Def Jam Rapstar",
+  "DatabaseID": "15419",
+  "ReleaseDate": "2010-10-05T00:00:00-07:00",
+  "Overview": "Def Jam Rapstar is a rapping game developed by 4mm Games.[4] The game was released on October 5, 2010 in the United States of America (U.S.), and released on November 26, 2010 in Europe.[5][6] An official launch event was held at New York's Hudson hotel on October 6, 2010 to celebrate the game's U.S. release.[7] As of October 5, 2011, the community site has been shut down with no official word on when or if it will be reopened, causing major features of the game to be inaccessible.",
+  "VideoURL": "https://www.youtube.com/watch?v=DKHBkIDouRM&ab_channel=EBGamesAustralia",
+  "CommunityRating": "3.625",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Def_Jam_Rapstar",
+  "ESRB": "T - Teen",
+  "Genres": " Music",
+  "Developer": "Terminal Reality",
+  "Publisher": "Konami",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "686850e5-b239-491f-9c3a-a8a26eae2478.png",
+          "Type": "Box - 3D",
+          "Region": "Europe",
+          "CRC32": "3257097765",
+          "URL": "http://images.launchbox-app.com/686850e5-b239-491f-9c3a-a8a26eae2478.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "9b249e1e-c726-48b3-a50a-744233f6b5d9.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "760125762",
+          "URL": "http://images.launchbox-app.com/9b249e1e-c726-48b3-a50a-744233f6b5d9.jpg"
+        },
+        {
+          "FileName": "856abadb-a434-40e5-9cb9-ffdf009eb4d6.jpg",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "2505420994",
+          "URL": "http://images.launchbox-app.com/856abadb-a434-40e5-9cb9-ffdf009eb4d6.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "2b802808-fe9e-4b7f-9235-136fe9f7a2a9.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "4103347520",
+          "URL": "http://images.launchbox-app.com/2b802808-fe9e-4b7f-9235-136fe9f7a2a9.jpg"
+        },
+        {
+          "FileName": "b5d25150-4b24-4c74-b6d5-5614afc42b68.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "95996760",
+          "URL": "http://images.launchbox-app.com/b5d25150-4b24-4c74-b6d5-5614afc42b68.jpg"
+        },
+        {
+          "FileName": "db41671f-5a99-47d9-a2da-b01725ea3f65.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "North America",
+          "CRC32": "409402032",
+          "URL": "http://images.launchbox-app.com/db41671f-5a99-47d9-a2da-b01725ea3f65.png"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "88de155a-2e62-4a3c-9b9a-a5a676be247c.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2200841194",
+        "URL": "http://images.launchbox-app.com/88de155a-2e62-4a3c-9b9a-a5a676be247c.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "a4aa2d8f-0e65-4919-8099-0e6c54811e90.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "3781218673",
+        "URL": "http://images.launchbox-app.com/a4aa2d8f-0e65-4919-8099-0e6c54811e90.png"
+      }
+    ]
+  }
+}

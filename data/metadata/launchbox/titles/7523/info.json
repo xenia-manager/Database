@@ -1,0 +1,76 @@
+{
+  "Name": "The Lord of the Rings: The Battle for Middle-Earth II",
+  "DatabaseID": "7523",
+  "ReleaseDate": "2006-07-05T00:00:00-07:00",
+  "Overview": "Based on the PC version of the same name, The Lord of the Rings, The Battle for Middle-earth II for the Xbox 360 will bring players into the heart of Middle-earth to live the battles seen in the blockbuster New Line Cinema films and classic J.R.R. Tolkien literary fiction. The game boasts a new and intuitive console-specific control scheme that will allow novice players to enjoy the game's signature strategy gameplay while giving expert players the flexibility needed to engage in a deeply complex strategy experience. Players will directly control hundreds of units in an attempt to defeat enemy armies, conquer new lands, and seal the fate of Middle-earth.",
+  "VideoURL": "https://www.youtube.com/watch?v=P40ZOcJ7DYE",
+  "CommunityRating": "3.8333333333333335",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II:_The_Rise_of_the_Witch-king",
+  "ESRB": "T - Teen",
+  "Genres": " Strategy",
+  "Developer": "Electronic Arts Los Angeles",
+  "Publisher": "Electronic Arts",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "db2b25ba-8539-459e-a1d6-61092bcec06c.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "2315760770",
+          "URL": "http://images.launchbox-app.com/db2b25ba-8539-459e-a1d6-61092bcec06c.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "d26286fe-5a92-4064-858c-087bb752b087.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "562445002",
+          "URL": "http://images.launchbox-app.com/d26286fe-5a92-4064-858c-087bb752b087.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "6670241c-bdfd-4f5e-bcc6-e664855d1f9d.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2406683658",
+          "URL": "http://images.launchbox-app.com/6670241c-bdfd-4f5e-bcc6-e664855d1f9d.jpg"
+        },
+        {
+          "FileName": "ccf491e9-b344-47d3-9ad3-dc0580fe716e.jpg",
+          "Type": "Box - Front",
+          "Region": "Spain",
+          "CRC32": "3079247516",
+          "URL": "http://images.launchbox-app.com/ccf491e9-b344-47d3-9ad3-dc0580fe716e.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "ad9901fe-38d3-43fe-b9c0-adc7b4e195dd.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1830652524",
+        "URL": "http://images.launchbox-app.com/ad9901fe-38d3-43fe-b9c0-adc7b4e195dd.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "de483883-f0b8-4800-a34e-8eadda0dff80.png",
+        "Type": "Clear Logo",
+        "Region": "Spain",
+        "CRC32": "3578949079",
+        "URL": "http://images.launchbox-app.com/de483883-f0b8-4800-a34e-8eadda0dff80.png"
+      },
+      {
+        "FileName": "fc372fa3-7f9e-419c-a7d8-059cb115023e.png",
+        "Type": "Clear Logo",
+        "Region": "North America",
+        "CRC32": "3203299725",
+        "URL": "http://images.launchbox-app.com/fc372fa3-7f9e-419c-a7d8-059cb115023e.png"
+      }
+    ]
+  }
+}

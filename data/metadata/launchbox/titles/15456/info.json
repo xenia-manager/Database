@@ -1,0 +1,29 @@
+{
+  "Name": "Droplitz",
+  "DatabaseID": "15456",
+  "ReleaseDate": "2009-06-24T00:00:00-07:00",
+  "Overview": "Droplitz is a 2009 puzzle video game developed by Blitz Arcade and published by Atlus. It was released on Xbox Live Arcade on June 24, 2009 and June 25, 2009 on PlayStation Network. It is also available on Microsoft Windows and iOS. In May 2012 a sequel called Droplitz Delight was released for Windows Phone.[1]",
+  "CommunityRating": "3",
+  "ESRB": "E - Everyone",
+  "Genres": null,
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "8098c390-5ac5-48bc-ac94-f248a62f4ce7.jpg",
+          "Type": "Box - Front",
+          "CRC32": "286731218",
+          "URL": "http://images.launchbox-app.com/8098c390-5ac5-48bc-ac94-f248a62f4ce7.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "725608a4-04ce-4472-99f9-aaf955108b7e.png",
+        "Type": "Clear Logo",
+        "CRC32": "329027120",
+        "URL": "http://images.launchbox-app.com/725608a4-04ce-4472-99f9-aaf955108b7e.png"
+      }
+    ]
+  }
+}

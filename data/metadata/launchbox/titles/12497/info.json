@@ -1,0 +1,51 @@
+{
+  "Name": "Kinect Sports: Season 2",
+  "DatabaseID": "12497",
+  "ReleaseDate": "2011-10-25T00:00:00-07:00",
+  "Overview": "Kinect Sports: Season Two is the sequel to Kinect Sports. Just like the original game the player gets to compete in a number of sports using the Kinect peripheral to experience the action through motion based control. The included sports are American football, baseball, darts, golf, skiing and tennis. Each game can be played in single-player or multiplayer (both offline and online) and also has a mini-game variant. In single-player there are opponents for three difficulty levels. Only the rookie difficulty level is available at the start and others need to be unlocked. By competing, fans are earned which acts as experience for a level system tied to the profile.\n\nSkiing is based on slalom where you need to pass gates and jump. Moving left and right is done through leaning. In baseball the gameplay consists of throwing passes to receivers based on different strategies selected before starting the play. You also get to run as a quarterback dodging left or right. In baseball you need to bat, catch incoming balls, pitch and perform slidings. The mini-game for each sports uses the mechanics in a different setting. For darts for instance you get to play pop darts where you need to hit balloons surrounding a character on a rotating circle. This edition puts more emphasis on the use of voice commands and about 300 are supported.",
+  "VideoURL": "https://www.youtube.com/watch?v=NhCvPlphtS0",
+  "CommunityRating": "3.5625",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Kinect_Sports:_Season_Two",
+  "ESRB": "E - Everyone",
+  "Genres": " Sports",
+  "Developer": "Rare",
+  "Publisher": "Microsoft Game Studios",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "c900172b-f7f5-47ee-9c95-b0ef114fe11e.png",
+          "Type": "Box - 3D",
+          "CRC32": "930370866",
+          "URL": "http://images.launchbox-app.com/c900172b-f7f5-47ee-9c95-b0ef114fe11e.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "088e304b-9b3e-4174-9675-9352f8b8e013.jpg",
+          "Type": "Box - Front",
+          "CRC32": "3075408223",
+          "URL": "http://images.launchbox-app.com/088e304b-9b3e-4174-9675-9352f8b8e013.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "7cadd9a4-d673-45be-b8df-7cdbf6bbd120.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1262135027",
+        "URL": "http://images.launchbox-app.com/7cadd9a4-d673-45be-b8df-7cdbf6bbd120.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "bc7eab6c-a3a6-45df-be39-c048109cbca3.png",
+        "Type": "Clear Logo",
+        "Region": "Europe",
+        "CRC32": "3154711600",
+        "URL": "http://images.launchbox-app.com/bc7eab6c-a3a6-45df-be39-c048109cbca3.png"
+      }
+    ]
+  }
+}

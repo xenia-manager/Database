@@ -1,0 +1,71 @@
+{
+  "Name": "NHL 14",
+  "DatabaseID": "17680",
+  "ReleaseDate": "2013-09-10T00:00:00-07:00",
+  "Overview": "Summary: Unlock the highest level of hockey aggression, speed and skill. Deliver hits with the NHL® Collision Physics, built from FIFA’s Player Impact Engine. Drop your gloves with the new Enforcer Engine, powered by EA SPORTS™ Fight Night technology. Dangle defenders with new One-Touch Dekes and expd experience enhanced speed and control with the second season of True Performance Skating.",
+  "CommunityRating": "4.6",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Sports",
+  "Developer": "Electronic Arts Canada",
+  "Publisher": "Electronic Arts",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "165f7c04-ced2-412c-adcb-b8bfeba02248.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3764377835",
+        "URL": "http://images.launchbox-app.com/165f7c04-ced2-412c-adcb-b8bfeba02248.jpg"
+      },
+      {
+        "FileName": "9bd12b95-5a2a-4303-add5-1514219ca33e.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1266796535",
+        "URL": "http://images.launchbox-app.com/9bd12b95-5a2a-4303-add5-1514219ca33e.jpg"
+      }
+    ],
+    "Box": {
+      "Back": [
+        {
+          "FileName": "a95b1b3d-a492-434b-b198-f96ed15882c1.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "4236923416",
+          "URL": "http://images.launchbox-app.com/a95b1b3d-a492-434b-b198-f96ed15882c1.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "8181d335-f93c-4697-ac97-fb28ac129736.png",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1353546154",
+          "URL": "http://images.launchbox-app.com/8181d335-f93c-4697-ac97-fb28ac129736.png"
+        },
+        {
+          "FileName": "41df0b73-80f0-4eea-a8d1-808b0e6e3e1e.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "North America",
+          "CRC32": "2800707902",
+          "URL": "http://images.launchbox-app.com/41df0b73-80f0-4eea-a8d1-808b0e6e3e1e.png"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "557cd281-a9f7-48c7-b5c6-c6b1e9df53cc.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "3100808663",
+        "URL": "http://images.launchbox-app.com/557cd281-a9f7-48c7-b5c6-c6b1e9df53cc.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "90eb819d-3db6-4907-a75f-3c2f3ca7ff72.png",
+        "Type": "Clear Logo",
+        "CRC32": "569480210",
+        "URL": "http://images.launchbox-app.com/90eb819d-3db6-4907-a75f-3c2f3ca7ff72.png"
+      }
+    ]
+  }
+}

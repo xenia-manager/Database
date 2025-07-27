@@ -1,0 +1,63 @@
+{
+  "Name": "Enemy Territory: Quake Wars",
+  "DatabaseID": "7471",
+  "ReleaseDate": "2008-05-27T00:00:00-07:00",
+  "Overview": "In this epic multiplayer-focused game, players can choose to defend humanity as a part of the Global Defense Force (GDF) or destroy it as a merciless Strogg alien invader. Players battle as one of five unique classes in either the conventionally armed GDF army or the futuristic Strogg invasion force, each outfitted with specialist weapons and combat hardware. In this adrenaline pumping fight for survival, warring forces utilize a variety of different vehicles, deployable structures, and defense systems including quad-bikes, tanks, and alien walkers for epic ground assaults; or helicopters and anti-gravity ships to unleash airborne attacks. Throughout each battle, teams establish bases, deploy defense structures, artillery, radar, and advanced forward-command systems into enemy territory while constructing and demolishing obstacles to speed progress and gain a tactical advantage over the opponent. Enemy Territory: Quake Wars features 16-player battles on the console systems, delivering the ultimate team-and objective-based multiplayer experience.",
+  "VideoURL": "https://www.youtube.com/watch?v=j9Zf1fC5x5k",
+  "CommunityRating": "3.3",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Enemy_Territory:_Quake_Wars",
+  "ESRB": "T - Teen",
+  "Genres": " Shooter; Strategy",
+  "Developer": "Splash Damage",
+  "Publisher": "Activision",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "ae128e7e-4e40-4dc4-aeaa-abb5e47a44cc.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1917093390",
+        "URL": "http://images.launchbox-app.com/ae128e7e-4e40-4dc4-aeaa-abb5e47a44cc.jpg"
+      },
+      {
+        "FileName": "45ef59d6-e6a0-4e39-b49d-94a89d4f03b7.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2755571008",
+        "URL": "http://images.launchbox-app.com/45ef59d6-e6a0-4e39-b49d-94a89d4f03b7.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "69754bbe-f3b0-4ff3-8148-22a6a7615815.png",
+          "Type": "Box - 3D",
+          "CRC32": "3867287050",
+          "URL": "http://images.launchbox-app.com/69754bbe-f3b0-4ff3-8148-22a6a7615815.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "adefc4b6-e470-4bba-aebb-088bdedbdb96.jpg",
+          "Type": "Box - Back",
+          "CRC32": "2381670088",
+          "URL": "http://images.launchbox-app.com/adefc4b6-e470-4bba-aebb-088bdedbdb96.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "945f8de8-2100-40b4-9191-16b3a4aadbf4.jpg",
+          "Type": "Box - Front",
+          "CRC32": "475029209",
+          "URL": "http://images.launchbox-app.com/945f8de8-2100-40b4-9191-16b3a4aadbf4.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "9e01a2a9-5ab4-466c-9d17-1c03b668e4db.png",
+        "Type": "Clear Logo",
+        "CRC32": "2435512209",
+        "URL": "http://images.launchbox-app.com/9e01a2a9-5ab4-466c-9d17-1c03b668e4db.png"
+      }
+    ]
+  }
+}

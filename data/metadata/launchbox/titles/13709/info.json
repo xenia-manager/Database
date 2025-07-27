@@ -1,0 +1,39 @@
+{
+  "Name": "CSI: Fatal Conspiracy",
+  "DatabaseID": "13709",
+  "ReleaseDate": "2010-10-26T00:00:00-07:00",
+  "Overview": "CSI: Fatal Conspiracy features five new connected cases written by the same writers from the television series CSI: Crime Scene Investigation. Players will experience an authentic crime-solving video game with real CSI characters, heart-pounding interrogations and enhanced graphics. A unique story structure that unveils the truth piece by piece brings a new level of suspense and intrigue to the top-selling franchise.",
+  "CommunityRating": "2.6666666666666665",
+  "ESRB": "M - Mature",
+  "Genres": " Adventure",
+  "Developer": "Telltale",
+  "Publisher": "Ubisoft",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "43839edb-8fa4-40fb-894c-6cdeef36c703.png",
+          "Type": "Box - 3D",
+          "CRC32": "2234110015",
+          "URL": "http://images.launchbox-app.com/43839edb-8fa4-40fb-894c-6cdeef36c703.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "ceceeadd-0704-4bc5-b29d-09150cbe234f.jpg",
+          "Type": "Box - Front",
+          "CRC32": "271379758",
+          "URL": "http://images.launchbox-app.com/ceceeadd-0704-4bc5-b29d-09150cbe234f.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "795ff3fb-1cc1-49ee-b59e-6a2aa35ce0f4.png",
+        "Type": "Clear Logo",
+        "CRC32": "919302382",
+        "URL": "http://images.launchbox-app.com/795ff3fb-1cc1-49ee-b59e-6a2aa35ce0f4.png"
+      }
+    ]
+  }
+}

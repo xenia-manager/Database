@@ -1,0 +1,63 @@
+{
+  "Name": "Dead Island: Game of the Year Edition",
+  "DatabaseID": "13576",
+  "ReleaseDate": "2012-06-26T00:00:00-07:00",
+  "Overview": "A tropical island resort becomes a place of nightmares after a mysterious epidemic turns the majority of inhabitants into bloodthirsty zombies. As one of four playable characters, your goal is to complete missions necessary for your survival, which means battling throngs of the undead with a variety of customizable weapons and finding a way off the fictitious island of Banoi.\n\nDead Island features an open-world environment in a campaign that supports up to four players for drop-in, drop-out cooperative action. The two male and two female characters have different strengths and weaknesses, which can be offset to a degree by leveling up. Experience points earned in combat can be used to improve a character's attributes and fighting skills.\n\nWhen firearms and ammo are in limited supply, you'll be able to engage enemies in hand-to-hand combat with axes, machetes, knives, clubs, and similar edged or bludgeoning weapons that will degrade over time. Explore the island's urban areas, forests, mountain highlands, caves, beaches, and other locales from a first-person perspective, or utilize an over-the-shoulder view for melee combat.\n\nThe \"Game of the Year Edition\" for Xbox 360 includes new blueprints and weapons, the original Dead Island, and its two main DLC releases: the multiplayer \"Bloodbath Arena\" and the single-player \"Ryder White\" campaign.",
+  "CommunityRating": "4",
+  "ESRB": "M - Mature",
+  "Genres": " Action; Role-Playing; Shooter",
+  "Developer": "Techland",
+  "Publisher": "Deep Silver",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "543b4c58-0dad-40ea-b3a6-e4bc72ac6db3.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2975830975",
+        "URL": "http://images.launchbox-app.com/543b4c58-0dad-40ea-b3a6-e4bc72ac6db3.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "c180f299-c0f6-4443-870f-1662cf53f746.jpg",
+          "Type": "Box - Front",
+          "Region": "United Kingdom",
+          "CRC32": "2568346569",
+          "URL": "http://images.launchbox-app.com/c180f299-c0f6-4443-870f-1662cf53f746.jpg"
+        },
+        {
+          "FileName": "cf0719c0-2c5b-474a-861b-16776e408a07.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2292354355",
+          "URL": "http://images.launchbox-app.com/cf0719c0-2c5b-474a-861b-16776e408a07.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "ea74d1f4-2513-4f74-9a30-7f75c06bce16.png",
+        "Type": "Disc",
+        "Region": "United Kingdom",
+        "CRC32": "1039035534",
+        "URL": "http://images.launchbox-app.com/ea74d1f4-2513-4f74-9a30-7f75c06bce16.png"
+      },
+      {
+        "FileName": "fe90a340-a12a-4624-9e33-1c384c6148f3.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2496692109",
+        "URL": "http://images.launchbox-app.com/fe90a340-a12a-4624-9e33-1c384c6148f3.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "db6cc2d0-f22b-47b3-a634-6f8a3eb552ac.png",
+        "Type": "Clear Logo",
+        "CRC32": "4087316334",
+        "URL": "http://images.launchbox-app.com/db6cc2d0-f22b-47b3-a634-6f8a3eb552ac.png"
+      }
+    ]
+  }
+}

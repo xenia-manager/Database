@@ -1,0 +1,43 @@
+{
+  "Name": "Dance Dance Revolution Universe",
+  "DatabaseID": "7170",
+  "ReleaseDate": "2007-03-27T00:00:00-07:00",
+  "Overview": "The Dance Dance Revolution series started on November 20, 1998 and has grown to a very sizable collections of games in the franchise. This list of Dance Dance Revolution games documents every single game released including which systems and formats and which regions those games were released in. This list only includes games that have been released to the general public.",
+  "CommunityRating": "3.75",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Music",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "22303656-6f0c-4ee4-9991-88ff8cbf3e87.png",
+          "Type": "Box - 3D",
+          "CRC32": "1700439442",
+          "URL": "http://images.launchbox-app.com/22303656-6f0c-4ee4-9991-88ff8cbf3e87.png"
+        },
+        {
+          "FileName": "1355121a-59c6-4231-8f22-ddba5ffe1516.png",
+          "Type": "Box - 3D",
+          "CRC32": "509853169",
+          "URL": "http://images.launchbox-app.com/1355121a-59c6-4231-8f22-ddba5ffe1516.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "4e61d393-a279-46f0-b82b-728197d3b83b.jpg",
+          "Type": "Box - Back",
+          "CRC32": "820632379",
+          "URL": "http://images.launchbox-app.com/4e61d393-a279-46f0-b82b-728197d3b83b.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "f00b2d46-5e0d-4e18-93c9-dc02dd866535.jpg",
+          "Type": "Box - Front",
+          "CRC32": "166437538",
+          "URL": "http://images.launchbox-app.com/f00b2d46-5e0d-4e18-93c9-dc02dd866535.jpg"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Name": "Madden NFL 09 20th Anniversary Collectors Edition",
+  "DatabaseID": "131625",
+  "ReleaseDate": "2008-08-12T00:00:00-07:00",
+  "Overview": "The 20th Anniversary Collector's Edition of Madden NFL 09 includes NFL Head Coach 09, an alternative case, an exclusive version of John Madden Football '93 with updated teams and rosters and bonus video content and clips.",
+  "VideoURL": "https://www.youtube.com/watch?v=AwdoT3xw2sc",
+  "CommunityRating": "4.25",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Madden_NFL_09",
+  "ESRB": "E - Everyone",
+  "Genres": " Sports",
+  "Developer": "Electronic Arts Tiburon",
+  "Publisher": "Electronic Arts",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "9b624208-c993-4bdd-8f70-1719c8293eb4.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1277688523",
+        "URL": "http://images.launchbox-app.com/9b624208-c993-4bdd-8f70-1719c8293eb4.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "f8d847d7-3802-46f8-aea3-367cd33bd77d.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "941721654",
+          "URL": "http://images.launchbox-app.com/f8d847d7-3802-46f8-aea3-367cd33bd77d.jpg"
+        }
+      ]
+    }
+  }
+}

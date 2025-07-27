@@ -1,0 +1,42 @@
+{
+  "Name": "Bust-A-Move Live!",
+  "DatabaseID": "209806",
+  "ReleaseDate": "2009-12-23T00:00:00-08:00",
+  "Overview": "Bust-A-Move returns, with its original gameplay still intact: Fire bubbles at the bubble clusters on each stage to destroy them!",
+  "CommunityRating": "3.6666666666666665",
+  "ESRB": "E - Everyone",
+  "Genres": " Puzzle",
+  "Developer": "Taito",
+  "Publisher": "Taito",
+  "Artwork": {
+    "Arcade": [
+      {
+        "FileName": "89abc591-1d86-4fce-8d22-b64bd8ea86e4.png",
+        "Type": "Arcade - Marquee",
+        "Region": "Japan",
+        "CRC32": "2610159523",
+        "URL": "http://images.launchbox-app.com/89abc591-1d86-4fce-8d22-b64bd8ea86e4.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "1fe7e9c5-f279-41ed-80b6-e119ed74e35c.png",
+        "Type": "Fanart - Background",
+        "Region": "Japan",
+        "CRC32": "3108292972",
+        "URL": "http://images.launchbox-app.com/1fe7e9c5-f279-41ed-80b6-e119ed74e35c.png"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "739914aa-ac2b-4265-b167-85f3823fa9ec.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "2147416175",
+          "URL": "http://images.launchbox-app.com/739914aa-ac2b-4265-b167-85f3823fa9ec.jpg"
+        }
+      ]
+    }
+  }
+}

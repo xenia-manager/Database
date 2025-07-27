@@ -1,0 +1,80 @@
+{
+  "Name": "BRINK",
+  "DatabaseID": "12815",
+  "ReleaseDate": "2011-05-10T00:00:00-07:00",
+  "Overview": "Brink is an immersive first-person shooter that blends single-player, co-op, and multiplayer gameplay into one seamless experience, allowing you to develop your character whether playing alone, with your friends, or against others online. You decide the combat role you want to assume in the world of Brink as you fight to save yourself and mankind’s last refuge. Brink offers a compelling mix of dynamic battlefields, extensive customization options, and an innovative control system that will keep you coming back for more.",
+  "CommunityRating": "2.5",
+  "Genres": " Shooter",
+  "Developer": "Splash Damage",
+  "Publisher": "Bethesda Softworks",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "392fe26f-9679-477c-be09-422b03862c5a.png",
+        "Type": "Banner",
+        "CRC32": "20672386",
+        "URL": "http://images.launchbox-app.com/392fe26f-9679-477c-be09-422b03862c5a.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "ef9fe49a-a819-466d-bd89-d9235323728e.png",
+        "Type": "Fanart - Background",
+        "CRC32": "1250254220",
+        "URL": "http://images.launchbox-app.com/ef9fe49a-a819-466d-bd89-d9235323728e.png"
+      }
+    ],
+    "Box": {
+      "Back": [
+        {
+          "FileName": "31b644fd-6eac-4e7c-b1a3-882208699da1.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "3840077476",
+          "URL": "http://images.launchbox-app.com/31b644fd-6eac-4e7c-b1a3-882208699da1.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "23f69801-f3f4-43c4-b084-f14ab977f9fb.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3295815719",
+          "URL": "http://images.launchbox-app.com/23f69801-f3f4-43c4-b084-f14ab977f9fb.jpg"
+        },
+        {
+          "FileName": "0329152e-dcfb-445b-8d64-547ce8845fa9.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "2178201467",
+          "URL": "http://images.launchbox-app.com/0329152e-dcfb-445b-8d64-547ce8845fa9.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "e25ac2d7-9bfa-4f9d-ab38-3cef5027929a.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "2756387829",
+        "URL": "http://images.launchbox-app.com/e25ac2d7-9bfa-4f9d-ab38-3cef5027929a.png"
+      },
+      {
+        "FileName": "09bde9a3-97bc-4502-b59e-1f6bda8fd54a.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "204098393",
+        "URL": "http://images.launchbox-app.com/09bde9a3-97bc-4502-b59e-1f6bda8fd54a.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "142a2d5b-da82-4dd9-bcfd-f6c7845c8cf1.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "1926120828",
+        "URL": "http://images.launchbox-app.com/142a2d5b-da82-4dd9-bcfd-f6c7845c8cf1.png"
+      }
+    ]
+  }
+}

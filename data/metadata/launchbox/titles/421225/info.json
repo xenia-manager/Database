@@ -1,0 +1,50 @@
+{
+  "Name": "Buku Sudoku",
+  "DatabaseID": "421225",
+  "ReleaseDate": "2008-05-28T00:00:00-07:00",
+  "ESRB": "E - Everyone",
+  "Genres": " Puzzle",
+  "Developer": "Absolutist",
+  "Publisher": "Microsoft Game Studios",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "3c00e746-7a79-4ffb-ab9c-af57844f392a.png",
+        "Type": "Banner",
+        "CRC32": "2893310621",
+        "URL": "http://images.launchbox-app.com/3c00e746-7a79-4ffb-ab9c-af57844f392a.png"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "09364aef-9b40-431a-bfd3-59d5b3115dd8.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "967243224",
+          "URL": "http://images.launchbox-app.com/09364aef-9b40-431a-bfd3-59d5b3115dd8.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "d12d3c0e-d653-4dcd-b998-981ef190c206.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3300499321",
+        "URL": "http://images.launchbox-app.com/d12d3c0e-d653-4dcd-b998-981ef190c206.jpg"
+      },
+      {
+        "FileName": "44dc95e8-8cd9-4973-893b-818a5adcd220.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "254835157",
+        "URL": "http://images.launchbox-app.com/44dc95e8-8cd9-4973-893b-818a5adcd220.jpg"
+      },
+      {
+        "FileName": "92c8fde5-4372-4a6d-8e3e-45f25c0086a3.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2367730811",
+        "URL": "http://images.launchbox-app.com/92c8fde5-4372-4a6d-8e3e-45f25c0086a3.jpg"
+      }
+    ]
+  }
+}

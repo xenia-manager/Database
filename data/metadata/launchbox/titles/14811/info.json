@@ -1,0 +1,84 @@
+{
+  "Name": "Blitz: The League II",
+  "DatabaseID": "14811",
+  "ReleaseDate": "2008-10-13T00:00:00-07:00",
+  "Overview": "Blitz: The League II continues the franchise legacy as the ultimate alternative to the watered-down, licensed competition. In addition to an all-new story mode penned by Peter Egan (ESPN's Playmakers), Blitz: The League II features include: Precision-Aim Tackles, player-controlled touchdown celebrations, an enhanced on-the-field Clash Mode, online multiplayer capabilities, expanded rosters with all-new personalities, and the return of a cornerstone of the Blitz franchise...Late Hits! Football legend Lawrence Taylor returns as the game's cover-athlete and star linebacker for the New York Nightmare, Quentin Sands, along with a star-studded supporting cast.",
+  "CommunityRating": "4.166666666666667",
+  "ESRB": "M - Mature",
+  "Genres": null,
+  "Developer": "Midway Games",
+  "Publisher": "Midway Home Entertainment",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "48dd2ec3-cb62-4f5e-a382-26650a2985df.png",
+        "Type": "Banner",
+        "CRC32": "3474664383",
+        "URL": "http://images.launchbox-app.com/48dd2ec3-cb62-4f5e-a382-26650a2985df.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "221e4ce7-c2b5-430d-a61f-e86db2b1762c.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1643380162",
+        "URL": "http://images.launchbox-app.com/221e4ce7-c2b5-430d-a61f-e86db2b1762c.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "eb723133-637c-4412-9d5d-7fc2f41508fe.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "3202804209",
+          "URL": "http://images.launchbox-app.com/eb723133-637c-4412-9d5d-7fc2f41508fe.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "922d9345-e9b5-4890-ada4-47d86dca9c57.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "4253791183",
+          "URL": "http://images.launchbox-app.com/922d9345-e9b5-4890-ada4-47d86dca9c57.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "2f7d797a-199d-49c8-86af-c58fba13f853.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1701613418",
+          "URL": "http://images.launchbox-app.com/2f7d797a-199d-49c8-86af-c58fba13f853.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "0abab0e8-8d10-464e-bca7-b1e0cecb231a.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "3871443408",
+          "URL": "http://images.launchbox-app.com/0abab0e8-8d10-464e-bca7-b1e0cecb231a.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "9620e998-4e65-43bc-8b18-a3a03d8ffcb9.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2444336667",
+        "URL": "http://images.launchbox-app.com/9620e998-4e65-43bc-8b18-a3a03d8ffcb9.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "e6482ae5-840b-48b9-b0fa-dd1247e782ce.png",
+        "Type": "Clear Logo",
+        "CRC32": "3148893695",
+        "URL": "http://images.launchbox-app.com/e6482ae5-840b-48b9-b0fa-dd1247e782ce.png"
+      }
+    ]
+  }
+}

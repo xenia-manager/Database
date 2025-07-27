@@ -1,0 +1,35 @@
+{
+  "Name": "Rapala Tournament Fishing",
+  "DatabaseID": "163173",
+  "Overview": "Catch monster trophy bass and hang on for the fight of your life. Rapala puts you in the middle of heart pounding fishing action as you compete in 20 tournaments on some of the world's most prestigious angling waters. Fill your live well with only the biggest and most sought after trophy fish including bass, pike, catfish, perch, salmon, trout and more. With Rapala Tournament Fishing, fishing like a pro is only a virtual cast away!",
+  "Genres": null,
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "77f6818f-86e9-4819-9aa7-44314e8e8132.png",
+          "Type": "Box - 3D",
+          "CRC32": "200927812",
+          "URL": "http://images.launchbox-app.com/77f6818f-86e9-4819-9aa7-44314e8e8132.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "1d6a47c4-00d7-4416-89c5-800a10358bb3.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "202639676",
+          "URL": "http://images.launchbox-app.com/1d6a47c4-00d7-4416-89c5-800a10358bb3.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "94383818-5a75-42ae-a830-4dde8879ae6f.png",
+        "Type": "Clear Logo",
+        "CRC32": "552651983",
+        "URL": "http://images.launchbox-app.com/94383818-5a75-42ae-a830-4dde8879ae6f.png"
+      }
+    ]
+  }
+}

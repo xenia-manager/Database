@@ -1,0 +1,126 @@
+{
+  "Name": "Onechanbara: Bikini Samurai Squad",
+  "DatabaseID": "13986",
+  "ReleaseDate": "2006-12-14T00:00:00-08:00",
+  "Overview": "Onechanbara: Bikini Samurai Squad is the first game for the Oneechanbara franchise for the Xbox 360. \n\nThe sexy sister duo Aya and Saki use their swords and hotness to fight legion upon legion of killer zombies. Take on the monstrous invasion in a vast, infected city complete with cinematic storytelling, a distinctive combat system, unique character moves, killer boss battles, and co-op gameplay!",
+  "VideoURL": "https://www.youtube.com/watch?v=D-dW9SOfebM&ab_channel=IGN",
+  "CommunityRating": "3.9375",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Onechanbara:_Bikini_Samurai_Squad",
+  "ESRB": "M - Mature",
+  "Genres": " Action; Adventure; Role-Playing",
+  "Developer": "Tamsoft",
+  "Publisher": "D3Publisher",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "ac3862ee-eb70-4563-bd25-8f68b3f2c1b3.jpg",
+        "Type": "Banner",
+        "Region": "Japan",
+        "CRC32": "3260777541",
+        "URL": "http://images.launchbox-app.com/ac3862ee-eb70-4563-bd25-8f68b3f2c1b3.jpg"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "53a272dc-3452-4a59-b15a-9fa66e565135.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3075717160",
+        "URL": "http://images.launchbox-app.com/53a272dc-3452-4a59-b15a-9fa66e565135.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "88fdea24-a2ec-4da7-a8f6-5f9612523b77.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "2996378803",
+          "URL": "http://images.launchbox-app.com/88fdea24-a2ec-4da7-a8f6-5f9612523b77.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "e50014e1-d662-43fc-b42f-48e9328db000.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "2875845444",
+          "URL": "http://images.launchbox-app.com/e50014e1-d662-43fc-b42f-48e9328db000.jpg"
+        },
+        {
+          "FileName": "186dc755-d7a8-444b-8bc8-aa52376d1480.jpg",
+          "Type": "Box - Back",
+          "Region": "Japan",
+          "CRC32": "787152458",
+          "URL": "http://images.launchbox-app.com/186dc755-d7a8-444b-8bc8-aa52376d1480.jpg"
+        },
+        {
+          "FileName": "9aa33868-8022-4b3e-bc41-4f38a8c02ea4.jpg",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "84581139",
+          "URL": "http://images.launchbox-app.com/9aa33868-8022-4b3e-bc41-4f38a8c02ea4.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "af5736c3-ebd4-42f9-abb2-853f855a679e.jpg",
+          "Type": "Box - Front",
+          "Region": "Japan",
+          "CRC32": "3264068147",
+          "URL": "http://images.launchbox-app.com/af5736c3-ebd4-42f9-abb2-853f855a679e.jpg"
+        },
+        {
+          "FileName": "1dfc5d2a-6e75-496e-9da9-44650f6bbc01.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "3325978871",
+          "URL": "http://images.launchbox-app.com/1dfc5d2a-6e75-496e-9da9-44650f6bbc01.jpg"
+        },
+        {
+          "FileName": "fc7e9410-eb15-4418-b9d6-76fdca61dc6d.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1455132922",
+          "URL": "http://images.launchbox-app.com/fc7e9410-eb15-4418-b9d6-76fdca61dc6d.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "ed05a50a-096e-4f34-807e-a366c71341b3.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "3696380307",
+        "URL": "http://images.launchbox-app.com/ed05a50a-096e-4f34-807e-a366c71341b3.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "0339a6c0-36d9-4c57-8c08-d8b33f6f958a.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3091243725",
+        "URL": "http://images.launchbox-app.com/0339a6c0-36d9-4c57-8c08-d8b33f6f958a.jpg"
+      },
+      {
+        "FileName": "5710964f-d7ec-411f-8d6a-868701a0b839.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "887320761",
+        "URL": "http://images.launchbox-app.com/5710964f-d7ec-411f-8d6a-868701a0b839.jpg"
+      },
+      {
+        "FileName": "041f0356-9b6f-4996-a3ff-d21dd45cee0f.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "788593728",
+        "URL": "http://images.launchbox-app.com/041f0356-9b6f-4996-a3ff-d21dd45cee0f.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "9511a121-4449-47b2-926a-43f211eec57a.PNG",
+        "Type": "Clear Logo",
+        "CRC32": "442499422",
+        "URL": "http://images.launchbox-app.com/9511a121-4449-47b2-926a-43f211eec57a.PNG"
+      }
+    ]
+  }
+}

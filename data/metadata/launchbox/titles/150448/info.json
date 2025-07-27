@@ -1,0 +1,57 @@
+{
+  "Name": "Duke Nukem 3D",
+  "DatabaseID": "150448",
+  "ReleaseDate": "2008-09-24T00:00:00-07:00",
+  "Overview": "Unlock the full version for 39 levels of mayhem! Wreak havoc on your foes with weapons like Pipe Bombs, Shrink Ray, and Freezer. Impress your friends on the leaderboards, earn achievements, and take advantage of the painless death system - rewind 10 seconds or 10 minutes, the choice is up to you. All new User Clip recording, sharing and uploading have been added and best of all - online multiplayer with cooperative and Duke. Match for up to 8 players through Xbox LIVE! What are you waiting for?",
+  "VideoURL": "https://www.youtube.com/watch?v=eHdsjS3IOu0",
+  "CommunityRating": "3.625",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Duke_Nukem_3D",
+  "ESRB": "M - Mature",
+  "Genres": " Shooter",
+  "Developer": "3D Realms Entertainment",
+  "Publisher": "3D Realms Entertainment",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "091754b5-e64c-4290-8b4a-6eda73f24413.png",
+        "Type": "Fanart - Background",
+        "CRC32": "214000726",
+        "URL": "http://images.launchbox-app.com/091754b5-e64c-4290-8b4a-6eda73f24413.png"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "22fa079e-bc4d-48e9-887f-8fd44046a5d6.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "2195255684",
+          "URL": "http://images.launchbox-app.com/22fa079e-bc4d-48e9-887f-8fd44046a5d6.jpg"
+        },
+        {
+          "FileName": "5af1cc1c-c73b-404f-8092-1386a7978ca9.png",
+          "Type": "Fanart - Box - Front",
+          "Region": "World",
+          "CRC32": "2954882765",
+          "URL": "http://images.launchbox-app.com/5af1cc1c-c73b-404f-8092-1386a7978ca9.png"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "1d3ea0d7-3eb9-437b-b123-7b1160be96d7.png",
+        "Type": "Fanart - Disc",
+        "CRC32": "3800642230",
+        "URL": "http://images.launchbox-app.com/1d3ea0d7-3eb9-437b-b123-7b1160be96d7.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "dae06826-b2c1-4295-af99-d2826b15d600.png",
+        "Type": "Clear Logo",
+        "CRC32": "4097528819",
+        "URL": "http://images.launchbox-app.com/dae06826-b2c1-4295-af99-d2826b15d600.png"
+      }
+    ]
+  }
+}

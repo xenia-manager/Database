@@ -1,0 +1,110 @@
+{
+  "Name": "Halo Wars",
+  "DatabaseID": "847",
+  "ReleaseDate": "2009-03-03T00:00:00-08:00",
+  "Overview": "The year is 2531, twenty years prior to the events in Halo: Combat Evolved and the Covenant have found something on the planet Garvest. The UNSC ship \"Spirit of Fire\" is sent to investigate and stop whatever the enemy is up to. What the crew finds could be the only thing that stands between humanity and certain annihilation by the Covenant. Command large armies, lead them into battle, control their every move and use their abilities to gain the upper hand in combat.",
+  "VideoURL": "https://www.youtube.com/watch?v=LmR8l1Mo564",
+  "CommunityRating": "3.5769230769230771",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Halo_Wars",
+  "ESRB": "T - Teen",
+  "Genres": " Strategy",
+  "Developer": "Ensemble Studios",
+  "Publisher": "Microsoft Game Studios",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "1c925ab1-eba7-4d29-bf43-6ca5f7e4666c.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1801822376",
+        "URL": "http://images.launchbox-app.com/1c925ab1-eba7-4d29-bf43-6ca5f7e4666c.jpg"
+      },
+      {
+        "FileName": "f372c33b-2409-4e7c-91ca-1937d059492c.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3354227887",
+        "URL": "http://images.launchbox-app.com/f372c33b-2409-4e7c-91ca-1937d059492c.jpg"
+      },
+      {
+        "FileName": "6c4b3e36-41f7-4a4f-be41-8eabd00c5413.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2328197205",
+        "URL": "http://images.launchbox-app.com/6c4b3e36-41f7-4a4f-be41-8eabd00c5413.jpg"
+      },
+      {
+        "FileName": "d13e3dc8-73fb-4c26-af5f-d68145f9ebca.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3517289428",
+        "URL": "http://images.launchbox-app.com/d13e3dc8-73fb-4c26-af5f-d68145f9ebca.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "5946d0e7-e1bf-4071-ac0d-7713b18e6af2.png",
+          "Type": "Box - 3D",
+          "CRC32": "2158376177",
+          "URL": "http://images.launchbox-app.com/5946d0e7-e1bf-4071-ac0d-7713b18e6af2.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "3cade303-ed53-4b0a-93a2-d858b8e9891c.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "564638531",
+          "URL": "http://images.launchbox-app.com/3cade303-ed53-4b0a-93a2-d858b8e9891c.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "5350e29f-343a-4ff3-a5e2-b4a133450f3f.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3104591205",
+          "URL": "http://images.launchbox-app.com/5350e29f-343a-4ff3-a5e2-b4a133450f3f.jpg"
+        },
+        {
+          "FileName": "d40fbd45-f3b9-49e3-8854-bf75bdcf9b04.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "North America",
+          "CRC32": "798215439",
+          "URL": "http://images.launchbox-app.com/d40fbd45-f3b9-49e3-8854-bf75bdcf9b04.png"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "8fc65367-bb0d-41c7-aa62-5bf9fa946061.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "722859674",
+          "URL": "http://images.launchbox-app.com/8fc65367-bb0d-41c7-aa62-5bf9fa946061.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "76dd1c70-dc5d-44b6-a997-0eba4dee5bb5.png",
+        "Type": "Disc",
+        "Region": "Australia",
+        "CRC32": "883607655",
+        "URL": "http://images.launchbox-app.com/76dd1c70-dc5d-44b6-a997-0eba4dee5bb5.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "12509c3d-5ae4-4e63-b050-c3b632475fc8.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "176383752",
+        "URL": "http://images.launchbox-app.com/12509c3d-5ae4-4e63-b050-c3b632475fc8.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "73ad9fd7-c5f0-4ede-9583-25639fd51f02.png",
+        "Type": "Clear Logo",
+        "CRC32": "1853904664",
+        "URL": "http://images.launchbox-app.com/73ad9fd7-c5f0-4ede-9583-25639fd51f02.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Name": "Let's Cheer",
+  "DatabaseID": "167772",
+  "Genres": null,
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "b1ae362d-af28-41ec-9311-fd0a915feb8f.png",
+          "Type": "Box - 3D",
+          "Region": "Europe",
+          "CRC32": "3639841050",
+          "URL": "http://images.launchbox-app.com/b1ae362d-af28-41ec-9311-fd0a915feb8f.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "c97ec1cb-5d77-4631-956c-a4833269e7bb.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3963295281",
+          "URL": "http://images.launchbox-app.com/c97ec1cb-5d77-4631-956c-a4833269e7bb.jpg"
+        },
+        {
+          "FileName": "2be489c8-3534-4f61-9169-630a07e2d06a.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "3848134929",
+          "URL": "http://images.launchbox-app.com/2be489c8-3534-4f61-9169-630a07e2d06a.jpg"
+        }
+      ]
+    }
+  }
+}

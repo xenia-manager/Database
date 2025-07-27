@@ -1,0 +1,73 @@
+{
+  "Name": "Top Gun: Hard Lock",
+  "DatabaseID": "22688",
+  "ReleaseDate": "2012-04-05T00:00:00-07:00",
+  "Overview": "Top Gun: Hard Lock was released in March 2012 for Xbox 360, Microsoft Windows, and PlayStation 3, by 505 Games and Paramount Interactive. The player takes the role of a pilot named Lance \"Spider\" Webb, who graduated from Top Gun under the auspices of Pete \"Maverick\" Mitchell. As Spider, the player engages in missions during a blockade of a new terrorist regime (a former US ally who had a coup) in the Persian Gulf. The player flies missions from USS McKinley in the Gulf, which involve shooting down hostile planes and destroying missile boats. Eventually, the player conducts bombing runs over enemy camps and bunkers, and the last mission involves assisting NATO ground forces, an airfield, and special forces troops in attacking the enemy forces.",
+  "CommunityRating": "3.2857142857142856",
+  "ESRB": "T - Teen",
+  "Genres": " Action",
+  "Developer": "Headstrong Games",
+  "Publisher": "505 Games",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "c4d17a87-373c-4121-9eab-293016e79ece.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "3115004711",
+          "URL": "http://images.launchbox-app.com/c4d17a87-373c-4121-9eab-293016e79ece.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "699f4021-d8aa-4a1f-b512-087eb55b5bde.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "435043918",
+          "URL": "http://images.launchbox-app.com/699f4021-d8aa-4a1f-b512-087eb55b5bde.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "d71401f9-3deb-460e-b409-514b2f5c920e.png",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "199473997",
+          "URL": "http://images.launchbox-app.com/d71401f9-3deb-460e-b409-514b2f5c920e.png"
+        },
+        {
+          "FileName": "d5c484b6-d871-4d86-9fd5-584e8cb69dd0.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "North America",
+          "CRC32": "2176162992",
+          "URL": "http://images.launchbox-app.com/d5c484b6-d871-4d86-9fd5-584e8cb69dd0.png"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "7be8fed0-693b-4a78-8cd0-964ac3fcd289.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "3154269607",
+        "URL": "http://images.launchbox-app.com/7be8fed0-693b-4a78-8cd0-964ac3fcd289.png"
+      },
+      {
+        "FileName": "f6e45a73-3427-46bf-837d-b95a9e109a21.png",
+        "Type": "Disc",
+        "Region": "Australia",
+        "CRC32": "3347214647",
+        "URL": "http://images.launchbox-app.com/f6e45a73-3427-46bf-837d-b95a9e109a21.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "a2db8702-85ff-498f-bdc6-2c82211f30d8.png",
+        "Type": "Clear Logo",
+        "CRC32": "3076245259",
+        "URL": "http://images.launchbox-app.com/a2db8702-85ff-498f-bdc6-2c82211f30d8.png"
+      }
+    ]
+  }
+}

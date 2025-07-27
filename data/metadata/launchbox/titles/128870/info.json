@@ -1,0 +1,24 @@
+{
+  "Name": "Apple Jack 2",
+  "DatabaseID": "128870",
+  "ReleaseDate": "2012-06-14T00:00:00-07:00",
+  "Overview": "Apple Jack is an Xbox Live Indie game developed by independent developer Tim Sycamore under the name My Owl Software. The game was published in May 2010. It is a 2D puzzle/platform game.",
+  "CommunityRating": "4.166666666666667",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Apple_Jack_(video_game)",
+  "Genres": null,
+  "Developer": "My Owl Software",
+  "Publisher": "My Owl Software",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "cded0a30-7c9e-4883-9738-1ceeeda90666.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "3113803082",
+          "URL": "http://images.launchbox-app.com/cded0a30-7c9e-4883-9738-1ceeeda90666.jpg"
+        }
+      ]
+    }
+  }
+}

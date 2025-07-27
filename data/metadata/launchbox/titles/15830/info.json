@@ -1,0 +1,37 @@
+{
+  "Name": "Madden NFL Arcade",
+  "DatabaseID": "15830",
+  "ReleaseDate": "2009-11-24T00:00:00-08:00",
+  "Overview": "Madden NFL 10 is an American football video game based on the National Football League that was published by EA Sports and developed by EA Tiburon. It is the 21st annual installment in the Madden NFL video game franchise. It was released in 2009 for the PlayStation 2, PlayStation 3, PlayStation Portable, Wii, Xbox 360 and BlackBerry,[3] and for the iOS on September 9 through the App Store.[4]",
+  "CommunityRating": "2.75",
+  "ESRB": "E - Everyone",
+  "Genres": " Sports",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "0e2b4531-67c6-47bc-9bbd-bbdb63c0088e.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "790055288",
+        "URL": "http://images.launchbox-app.com/0e2b4531-67c6-47bc-9bbd-bbdb63c0088e.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "4fe97d58-c342-4eb1-8be1-a32b3203c64f.jpg",
+          "Type": "Box - Front",
+          "CRC32": "2561842250",
+          "URL": "http://images.launchbox-app.com/4fe97d58-c342-4eb1-8be1-a32b3203c64f.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "55011e16-562e-4034-afae-afd8563f39de.png",
+        "Type": "Clear Logo",
+        "CRC32": "2044329563",
+        "URL": "http://images.launchbox-app.com/55011e16-562e-4034-afae-afd8563f39de.png"
+      }
+    ]
+  }
+}

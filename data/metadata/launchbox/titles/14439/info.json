@@ -1,0 +1,58 @@
+{
+  "Name": "Hail to the Chimp",
+  "DatabaseID": "14439",
+  "ReleaseDate": "2008-06-24T00:00:00-07:00",
+  "Overview": "Since the dawn of time, Man has wondered who would win if a polar bear and jellyfish teamed up to fight an armadillo and yak. Do you have what it takes to learn the shocking truth? When the King of the Animals is forced to resign in disgrace, a motley group of candidates turns out for a bare-knuckle campaign to win the Crown. From Ptolemy, the mighty hippo, to Crackers, the devious monkey, each of the ten candidates has distinct strengths and strategies, but the same hunger for political power. Hail to the Chimp is a party game that delivers exciting gameplay, lush interactive environments, and a comic look at politics. Players use the game’s unique team-up mechanic, mixing cooperation with competition, to claw their way to victory. Whether played by four friends on one TV, online against distant challengers or single-player against advanced AI, Hail to the Chimp offers endlessly replayable party fun for gamers of all stripes.",
+  "VideoURL": "http://www.youtube.com/watch?v=WULN2StRLWQ",
+  "CommunityRating": "5",
+  "ESRB": "T - Teen",
+  "Genres": " Strategy",
+  "Developer": "Wideload Games",
+  "Publisher": "Gamecock Media Group",
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "0898e0bb-3a15-4a74-bb98-eed3aefd974a.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "4240866486",
+          "URL": "http://images.launchbox-app.com/0898e0bb-3a15-4a74-bb98-eed3aefd974a.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "13ec43c5-0307-456f-b895-313e6f5f30f0.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3807707412",
+          "URL": "http://images.launchbox-app.com/13ec43c5-0307-456f-b895-313e6f5f30f0.jpg"
+        },
+        {
+          "FileName": "1f34b67a-1e85-44d9-86e0-44844a817280.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "3675169020",
+          "URL": "http://images.launchbox-app.com/1f34b67a-1e85-44d9-86e0-44844a817280.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "9937297d-ea08-4b9b-8f87-a07b004ee0e8.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1076571613",
+        "URL": "http://images.launchbox-app.com/9937297d-ea08-4b9b-8f87-a07b004ee0e8.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "05537d13-0cda-43f2-86d8-18e96de148c2.png",
+        "Type": "Clear Logo",
+        "CRC32": "1688827856",
+        "URL": "http://images.launchbox-app.com/05537d13-0cda-43f2-86d8-18e96de148c2.png"
+      }
+    ]
+  }
+}

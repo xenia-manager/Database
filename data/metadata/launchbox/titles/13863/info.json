@@ -1,0 +1,24 @@
+{
+  "Name": "Fallout 3 Game Add-On Pack: Broken Steel and Point Lookout",
+  "DatabaseID": "13863",
+  "ReleaseDate": "2009-08-25T00:00:00-07:00",
+  "Overview": "Battle your way to level 30, with all new perks and achievements to unlock along the way!\nExtends the Main Quest, allowing you to continue playing your existing character and find out what happens next in the Capital Wasteland\nAcquire new high powered Enclave Technology, including a new devastating flamethrower, the Heavy Incinerator\nDiscover and explore an entire new area - the beachfront town of Point Lookout\nExplore the chilling mystery that pervades thisonce sleepy town, with a new quest line and open-ended gameplay\nEncounter unique new swamp denizens and weaponry that will test even the toughest",
+  "CommunityRating": "5",
+  "ESRB": "M - Mature",
+  "Genres": " Role-Playing; Shooter",
+  "Developer": "Bethesda Game Studios",
+  "Publisher": "Bethesda Softworks",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "ca9050f5-ba9e-4e33-9874-886857123a64.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "4202728974",
+          "URL": "http://images.launchbox-app.com/ca9050f5-ba9e-4e33-9874-886857123a64.jpg"
+        }
+      ]
+    }
+  }
+}

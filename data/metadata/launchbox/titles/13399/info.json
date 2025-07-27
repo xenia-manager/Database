@@ -1,0 +1,52 @@
+{
+  "Name": "The Chronicles of Narnia: Prince Caspian",
+  "DatabaseID": "13399",
+  "ReleaseDate": "2008-05-15T00:00:00-07:00",
+  "Overview": "The Chronicles of Narnia: Prince Caspian is an action-adventure fantasy video game developed by Traveller's Tales to coincide with the theatrical release of the film of the same name. The game was announced at E3 2007. It was released for the Nintendo DS, Xbox 360, PlayStation 2, Wii, Microsoft Windows and PlayStation 3 on 15 May 2008 in North America to mixed reception. The DS version was also the first game to implement Disney's DGamer online chat service.[1]\n\nA significant feature has William Moseley, Skandar Keynes, Anna Popplewell, Georgie Henley, Ben Barnes, Vincent Grass, Peter Dinklage, and Cornell S. John reprising their roles from the film.\n\nIt was the last non-Lego video game released by Traveller's Tales.",
+  "VideoURL": "https://www.youtube.com/watch?v=QL8mtivoLHY",
+  "CommunityRating": "4",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia:_Prince_Caspian_(video_game)",
+  "ESRB": "T - Teen",
+  "Genres": " Adventure",
+  "Developer": "Traveller's Tales (UK)",
+  "Publisher": "Disney Interactive Studios",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "7b248c83-086f-46ce-98bf-33436de6b4ed.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "893651511",
+          "URL": "http://images.launchbox-app.com/7b248c83-086f-46ce-98bf-33436de6b4ed.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "1ff0afd6-f708-45ff-a6d9-b6369e7b4fd8.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3723650220",
+          "URL": "http://images.launchbox-app.com/1ff0afd6-f708-45ff-a6d9-b6369e7b4fd8.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "f8660d0c-b96d-4950-b867-ee32c6781b0a.jpg",
+        "Type": "Disc",
+        "Region": "United States",
+        "CRC32": "441667824",
+        "URL": "http://images.launchbox-app.com/f8660d0c-b96d-4950-b867-ee32c6781b0a.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "4e75ea7b-c2a5-42df-86ea-a6f179d5f4d8.png",
+        "Type": "Clear Logo",
+        "CRC32": "2583012857",
+        "URL": "http://images.launchbox-app.com/4e75ea7b-c2a5-42df-86ea-a6f179d5f4d8.png"
+      }
+    ]
+  }
+}

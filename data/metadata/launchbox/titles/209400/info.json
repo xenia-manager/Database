@@ -1,0 +1,24 @@
+{
+  "Name": "Hunter's Trophy 2: Australia",
+  "DatabaseID": "209400",
+  "ReleaseDate": "2013-05-29T00:00:00-07:00",
+  "Overview": "Experience all the excitement of the hunt in Australia! From buffalo to dingo, track 25 different preys in this hunting simulation set in the most beautiful countryside in Australia. Complete 30 hunting plans, play as your hunting dog during tracking phases and take on a friend in Ball-Trap mode!",
+  "CommunityRating": "4",
+  "ESRB": "T - Teen",
+  "Genres": " Shooter",
+  "Developer": "Kylotonn",
+  "Publisher": "BigBen Interactive",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "4318d744-887f-46fc-bf2d-514cc087d1f8.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "3972609631",
+          "URL": "http://images.launchbox-app.com/4318d744-887f-46fc-bf2d-514cc087d1f8.jpg"
+        }
+      ]
+    }
+  }
+}

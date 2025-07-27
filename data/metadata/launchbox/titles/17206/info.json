@@ -1,0 +1,52 @@
+{
+  "Name": "State of Decay",
+  "DatabaseID": "17206",
+  "ReleaseDate": "2013-06-05T00:00:00-07:00",
+  "Overview": "State of Decay is a third person zombie-survival horror video game, developed by Undead Labs and published by Microsoft Studios. It places emphasis on how the player's leaderships skills fare against an onslaught of problems, such as diminishing survival resources, group trust and morale, zombie extermination, base defenses, and people’s lives. The game also combines elements of shooters, stealth, role-playing and strategy games and the game challenges players to survive by exploring, scavenging, and fighting the undead.\n\nIt was first released for the Xbox 360 on June 5, 2013 and was met with positive reviews. A Microsoft Windows version was released on September 20, 2013 via Steam's Early Access, with an official release following on November 5, 2013. A remastered version, State of Decay: Year-One Survival Edition, released on April 28, 2015 for the Xbox One and Microsoft Windows, was met with mixed reviews.",
+  "CommunityRating": "4.5",
+  "ESRB": "M - Mature",
+  "Genres": " Action; Horror",
+  "Developer": "Undead Labs",
+  "Publisher": "Microsoft Studios",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "6281ca13-3f41-4145-8a7f-8c9daded2517.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "2427047297",
+          "URL": "http://images.launchbox-app.com/6281ca13-3f41-4145-8a7f-8c9daded2517.jpg"
+        },
+        {
+          "FileName": "dc095a58-042c-432d-bf8d-1f4c7142131d.png",
+          "Type": "Fanart - Box - Front",
+          "CRC32": "2586803179",
+          "URL": "http://images.launchbox-app.com/dc095a58-042c-432d-bf8d-1f4c7142131d.png"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "2832b187-e114-4b77-b666-0ed9b7c92275.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1853982608",
+        "URL": "http://images.launchbox-app.com/2832b187-e114-4b77-b666-0ed9b7c92275.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "84b60211-58d8-4396-8334-3b349750ef12.png",
+        "Type": "Clear Logo",
+        "CRC32": "3537772180",
+        "URL": "http://images.launchbox-app.com/84b60211-58d8-4396-8334-3b349750ef12.png"
+      },
+      {
+        "FileName": "56311bfd-ae7c-42e5-a91f-c13668a6d057.png",
+        "Type": "Clear Logo",
+        "CRC32": "3090382671",
+        "URL": "http://images.launchbox-app.com/56311bfd-ae7c-42e5-a91f-c13668a6d057.png"
+      }
+    ]
+  }
+}

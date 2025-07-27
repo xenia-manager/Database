@@ -1,0 +1,70 @@
+{
+  "Name": "Harry Potter and the Deathly Hallows: Part 2",
+  "DatabaseID": "8867",
+  "ReleaseDate": "2011-07-12T00:00:00-07:00",
+  "Overview": "Based on the upcoming Warner Bros. Pictures film, and featuring the most epic battles to date, Harry Potter and the Deathly Hallows - Part 2 the videogame promises an unforgettable interactive finale. In this launch trailer for the game, Hogwarts is under siege as both good and evil forces vie for the fate of the wizarding world. Step into the shoes of iconic characters from the Harry Potter saga as each plays their part to defeat Voldemort and his forces of evil. Ultimately, it is Harry who is called upon as the climactic showdown between he and Voldemort draws near.",
+  "VideoURL": "http://www.youtube.com/watch?v=92Q7kIZF9cA",
+  "CommunityRating": "4",
+  "Genres": " Action",
+  "Developer": "Electronic Arts Bright Light",
+  "Publisher": "Electronic Arts",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "3e1b8c8a-0ec2-45af-86ab-14b27587037b.png",
+        "Type": "Banner",
+        "CRC32": "874966434",
+        "URL": "http://images.launchbox-app.com/3e1b8c8a-0ec2-45af-86ab-14b27587037b.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "796323bc-d69a-442f-b3c7-a1e68bde8a82.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3688302624",
+        "URL": "http://images.launchbox-app.com/796323bc-d69a-442f-b3c7-a1e68bde8a82.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "e6b5e22a-a9ef-45bb-83d1-259610e7a90e.png",
+          "Type": "Box - 3D",
+          "CRC32": "3844745184",
+          "URL": "http://images.launchbox-app.com/e6b5e22a-a9ef-45bb-83d1-259610e7a90e.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "4c64f2dd-7478-4009-a7e1-d33436f1ad54.jpg",
+          "Type": "Box - Back",
+          "CRC32": "1637276573",
+          "URL": "http://images.launchbox-app.com/4c64f2dd-7478-4009-a7e1-d33436f1ad54.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "5137e535-808b-4255-99ee-6e2c4bba1218.jpg",
+          "Type": "Box - Front",
+          "CRC32": "534158604",
+          "URL": "http://images.launchbox-app.com/5137e535-808b-4255-99ee-6e2c4bba1218.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "ef0344a9-4763-4086-b87a-d857df9762ff.png",
+        "Type": "Clear Logo",
+        "Region": "Spain",
+        "CRC32": "1154470091",
+        "URL": "http://images.launchbox-app.com/ef0344a9-4763-4086-b87a-d857df9762ff.png"
+      },
+      {
+        "FileName": "7f1d6a65-270f-468f-bc1f-736ff34890fe.png",
+        "Type": "Clear Logo",
+        "CRC32": "3616840909",
+        "URL": "http://images.launchbox-app.com/7f1d6a65-270f-468f-bc1f-736ff34890fe.png"
+      }
+    ]
+  }
+}

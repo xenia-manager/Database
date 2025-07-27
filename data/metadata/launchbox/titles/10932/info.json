@@ -1,0 +1,61 @@
+{
+  "Name": "L.A. Noire",
+  "DatabaseID": "10932",
+  "ReleaseDate": "2011-05-17T00:00:00-07:00",
+  "Overview": "L.A. Noire is set in Los Angeles in 1947 and challenges the player, assuming the role of a Los Angeles Police Department (LAPD) detective, to solve a range of cases across five departments. Players must investigate crime scenes for clues, follow up leads, and interrogate suspects, and the players' success at these activities will impact how much of the cases' stories are revealed.",
+  "VideoURL": "https://youtube.com/watch?v=06YWcBJ9dt4",
+  "CommunityRating": "4.4545454545454541",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/L.A._Noire",
+  "ESRB": "M - Mature",
+  "Genres": " Action; Adventure",
+  "Developer": "Team Bondi",
+  "Publisher": "Rockstar Games",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "9dd4329e-42a0-4f62-83ad-7259797bc222.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "2880156396",
+          "URL": "http://images.launchbox-app.com/9dd4329e-42a0-4f62-83ad-7259797bc222.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "5115cc50-9cfe-4192-bff5-073eb1b79360.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "1390623858",
+          "URL": "http://images.launchbox-app.com/5115cc50-9cfe-4192-bff5-073eb1b79360.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "3509a470-7610-4c7b-9b78-0058cb5c84de.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2611511685",
+          "URL": "http://images.launchbox-app.com/3509a470-7610-4c7b-9b78-0058cb5c84de.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "ff3012d7-deac-410d-9fb4-94645e3fffae.png",
+        "Type": "Disc",
+        "Region": "World",
+        "CRC32": "58198481",
+        "URL": "http://images.launchbox-app.com/ff3012d7-deac-410d-9fb4-94645e3fffae.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "2d6ac86c-8de3-4a51-9c3a-3206b6afb5d9.png",
+        "Type": "Clear Logo",
+        "CRC32": "3864147868",
+        "URL": "http://images.launchbox-app.com/2d6ac86c-8de3-4a51-9c3a-3206b6afb5d9.png"
+      }
+    ]
+  }
+}

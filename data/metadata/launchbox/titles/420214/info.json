@@ -1,0 +1,42 @@
+{
+  "Name": "Zegapain XOR",
+  "DatabaseID": "420214",
+  "ReleaseDate": "2006-07-27T00:00:00-07:00",
+  "Overview": "Zegapain XOR is an Action game, developed by Cavia Inc. and published by Bandai Namco Games, which was released in Japan in 2006. The game is similar in nature to Zone of the Enders. A mech action game, the player controls Cerebrant Toga Vital and the plot runs parallel to the events of the anime. Zegapain XOR is set on the Oceanus-class ship Dvaraka and commanded by Isola, a recurring character in the anime series. Several characters who appear in the game make brief appearances in the anime series.",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Zegapain#Video_games",
+  "ESRB": "Not Rated",
+  "Genres": " Shooter",
+  "Developer": "Cavia",
+  "Publisher": "Bandai Namco Entertainment",
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "6e64a583-a824-4d94-a917-a0e801804c94.jpg",
+          "Type": "Box - Back",
+          "Region": "Japan",
+          "CRC32": "1034425068",
+          "URL": "http://images.launchbox-app.com/6e64a583-a824-4d94-a917-a0e801804c94.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "f8c357a7-713c-44fd-b952-7592e22712ab.jpg",
+          "Type": "Box - Front",
+          "Region": "Japan",
+          "CRC32": "3387935104",
+          "URL": "http://images.launchbox-app.com/f8c357a7-713c-44fd-b952-7592e22712ab.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "650151f4-6fb4-499e-86ee-1664bb7f82ce.jpg",
+          "Type": "Box - Spine",
+          "Region": "Japan",
+          "CRC32": "2670669639",
+          "URL": "http://images.launchbox-app.com/650151f4-6fb4-499e-86ee-1664bb7f82ce.jpg"
+        }
+      ]
+    }
+  }
+}

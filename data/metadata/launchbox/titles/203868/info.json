@@ -1,0 +1,23 @@
+{
+  "Name": "MotoGP 15",
+  "DatabaseID": "203868",
+  "ReleaseDate": "2016-06-21T00:00:00-07:00",
+  "Overview": "The thrilling MotoGP series is gearing up again with an even more detailed and immersive experience! Hit the tracks with all riders from the 2015 and 2014 seasons as well as legendary champions from the past. Race on all the official tracks and put your skills to the test with new game modes such as Beat The Time, Real Events 2014 offline and Split Time online build and personalise your team in the exciting Career mode, with even more engaging options than before. Prepare for the most breath-taking experiences and race head to head with your adversaries. Will you make it to the podium?",
+  "CommunityRating": "4.5",
+  "ESRB": "E - Everyone",
+  "Genres": " Racing; Sports; Vehicle Simulation",
+  "Developer": "Milestone",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "855af1a4-fbc3-4050-bdbd-160320fb694a.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "3975672654",
+          "URL": "http://images.launchbox-app.com/855af1a4-fbc3-4050-bdbd-160320fb694a.jpg"
+        }
+      ]
+    }
+  }
+}

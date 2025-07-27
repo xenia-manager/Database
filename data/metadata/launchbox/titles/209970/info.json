@@ -1,0 +1,24 @@
+{
+  "Name": "The Warriors: Street Brawl",
+  "DatabaseID": "209970",
+  "ReleaseDate": "2009-12-02T00:00:00-08:00",
+  "Overview": "Wreck enemy gangs with your friends over Xbox LIVE - Survive arena combat in Boss Mode and challenge friends in Versus Mode - Lead The Warriors home to Coney Island for the final showdown with Luther and the Rogues - Vie for the top slot on the leaderboards - Unlock two other Warriors, each with moves of their own - Rock it old school in Arcade Mode - Unleash The Warriors now!",
+  "CommunityRating": "4.5",
+  "ESRB": "T - Teen",
+  "Genres": " Action; Adventure",
+  "Developer": "CTXM",
+  "Publisher": "Paramount Digital Entertainment",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "c0df9663-6a16-4af6-866c-e77e73f717d5.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "842663181",
+          "URL": "http://images.launchbox-app.com/c0df9663-6a16-4af6-866c-e77e73f717d5.jpg"
+        }
+      ]
+    }
+  }
+}

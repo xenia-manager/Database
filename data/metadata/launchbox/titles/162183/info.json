@@ -1,0 +1,36 @@
+{
+  "Name": "WRC 4: FIA World Rally Championship",
+  "DatabaseID": "162183",
+  "Overview": "WRC 4: FIA World Rally Championship is a rally game based on the 2013 FIA World Rally Championship license. The player can choose his favorite crew and car from all the 2013 official categories: Junior WRC, WRC 3, WRC 2 and WRC. Unlike the previous game WRC 3: FIA World Rally Championship there are no classic cars present in the base version. There are 65 cars in total and locations in thirteen countries with 78 courses in total. Each rally event includes three days with two races each day. Also for the first time in WRC series, the game features light changes (sunrise, daylight and sunset). The Career mode has been updated as well, starting with a lowly ranked theme and then moving up by performing well.\n\nEvery stage can be raced independently and single rallies are also available, with six stages each. The game has an online multiplayer mode for up to 16 players where ghost cars can be added in addition to human players. A hot seat mode is also supported. Cars have different customization settings and the AI difficulty can be altered on a scale from one to ten.",
+  "CommunityRating": "4.666666666666667",
+  "Genres": null,
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "3b34e8fb-ef16-484d-9c8c-3a6260c14248.png",
+          "Type": "Box - 3D",
+          "CRC32": "1438141969",
+          "URL": "http://images.launchbox-app.com/3b34e8fb-ef16-484d-9c8c-3a6260c14248.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "056b7384-fa9f-490b-9396-89dba686dba6.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "762152611",
+          "URL": "http://images.launchbox-app.com/056b7384-fa9f-490b-9396-89dba686dba6.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "289574dc-b85f-41e6-8134-b3a3dd670a32.png",
+        "Type": "Clear Logo",
+        "CRC32": "2261825692",
+        "URL": "http://images.launchbox-app.com/289574dc-b85f-41e6-8134-b3a3dd670a32.png"
+      }
+    ]
+  }
+}

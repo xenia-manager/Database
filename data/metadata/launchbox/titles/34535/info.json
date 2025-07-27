@@ -1,0 +1,49 @@
+{
+  "Name": "Two Worlds II: Velvet Game of the Year Edition",
+  "DatabaseID": "34535",
+  "ReleaseDate": "2011-01-25T00:00:00-08:00",
+  "Overview": "Two Worlds II: Pirates of the Flying Fortress + Two Worlds II + Collector's Accessory\n\nTrust might be said to be the rarest currency in Antaloor...\n\nAn unknown and destructive power has invaded the world of Antaloor and threatens to set the seal of triumph to the dark lord himself. But there is more than just evil here, as the player gets some surprising aid from an unexpected allegiance from a bloodthirsty band of orcs! Experience this epic story about the lust for power, doubtable alliances and the mysterious Dragon Queen. The RPG saga and it's expansion: Play the RPG hit \"Two Worlds II\" and then hoist the sails to the dangerous archipelago of pirates! In the expansion \"Pirates of the Flying Fortress\" you will be overwhelmed by the extraordinary experience and adventure as you visit a brand new section of Antaloor. See beautiful new environments and let yourself been drawn into the maelstrom of adventure far away from the mainland.",
+  "VideoURL": "http://www.youtube.com/watch?v=c0tt9wwtsjU",
+  "CommunityRating": "5",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Two_Worlds_II",
+  "ESRB": "M - Mature",
+  "Genres": " Role-Playing",
+  "Developer": "Reality Pump",
+  "Publisher": "Southpeak Interactive",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "c0a53cd0-5067-4b85-b61e-fb98cc0d63b7.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3392548041",
+        "URL": "http://images.launchbox-app.com/c0a53cd0-5067-4b85-b61e-fb98cc0d63b7.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "dbfc91e5-84e5-4a03-bcbc-31249717ed9e.jpg",
+          "Type": "Box - Front",
+          "CRC32": "3651944281",
+          "URL": "http://images.launchbox-app.com/dbfc91e5-84e5-4a03-bcbc-31249717ed9e.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "4334e553-da62-4b6f-bc1f-59f8616d2198.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3207455115",
+        "URL": "http://images.launchbox-app.com/4334e553-da62-4b6f-bc1f-59f8616d2198.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "7c0b6dff-6035-49ac-9f6b-f81c0b9322c0.png",
+        "Type": "Clear Logo",
+        "CRC32": "3923018286",
+        "URL": "http://images.launchbox-app.com/7c0b6dff-6035-49ac-9f6b-f81c0b9322c0.png"
+      }
+    ]
+  }
+}

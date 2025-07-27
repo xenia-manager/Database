@@ -1,0 +1,79 @@
+{
+  "Name": "Prototype 2",
+  "DatabaseID": "9746",
+  "ReleaseDate": "2012-04-24T00:00:00-07:00",
+  "Overview": "The sequel to Radical Entertainment's best-selling open-world action game of 2009, PROTOTYPE® 2 takes the unsurpassed carnage of the original PROTOTYPE and continues the experience of becoming the ultimate shape-shifting weapon. You are Sgt James Heller, husband to a deceased wife and child and a soldier left simply to die.\n\nAs the game's all-new infected protagonist, players will experience Sgt James Heller cutting a bloody swathe through the wastelands of post-viral New York Zero. Equipped with unparalleled new shapeshifting powers,players will gradually build a vast genetic arsenal of deadly new biological weapons and abilities as they hunt, kill and consume their way toward the ultimate goal - to kill...Alex...Mercer!",
+  "VideoURL": "http://www.youtube.com/watch?v=CZ5xW-Yo720",
+  "CommunityRating": "4.083333333333333",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Prototype_2",
+  "ESRB": "M - Mature",
+  "Genres": " Action",
+  "Developer": "Radical Entertainment",
+  "Publisher": "Activision",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "1aecb6ed-1fc0-4410-a72f-aa91219eae89.png",
+        "Type": "Banner",
+        "CRC32": "1296875397",
+        "URL": "http://images.launchbox-app.com/1aecb6ed-1fc0-4410-a72f-aa91219eae89.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "08459e3f-ba33-41b0-81bb-6bc42a49c2dc.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2668406556",
+        "URL": "http://images.launchbox-app.com/08459e3f-ba33-41b0-81bb-6bc42a49c2dc.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "d98d772d-3a9f-4ca6-b2c6-a16e76a6365f.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2797765882",
+          "URL": "http://images.launchbox-app.com/d98d772d-3a9f-4ca6-b2c6-a16e76a6365f.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "d7c7f460-a4d4-43a2-92f3-0a89649d0200.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "501534750",
+        "URL": "http://images.launchbox-app.com/d7c7f460-a4d4-43a2-92f3-0a89649d0200.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "2dbd4270-2da8-40d8-ad9e-d3058728ee68.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3051820612",
+        "URL": "http://images.launchbox-app.com/2dbd4270-2da8-40d8-ad9e-d3058728ee68.jpg"
+      },
+      {
+        "FileName": "532c3469-e676-435b-9406-10350f9a78e1.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3042664460",
+        "URL": "http://images.launchbox-app.com/532c3469-e676-435b-9406-10350f9a78e1.jpg"
+      },
+      {
+        "FileName": "66dc278b-af1d-414b-b138-9fc07bb6f1fd.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2143079536",
+        "URL": "http://images.launchbox-app.com/66dc278b-af1d-414b-b138-9fc07bb6f1fd.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "c9242ccf-56e6-41f2-a5ed-a318de5da7da.png",
+        "Type": "Clear Logo",
+        "CRC32": "2956739232",
+        "URL": "http://images.launchbox-app.com/c9242ccf-56e6-41f2-a5ed-a318de5da7da.png"
+      }
+    ]
+  }
+}

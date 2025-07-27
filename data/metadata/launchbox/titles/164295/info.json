@@ -1,0 +1,40 @@
+{
+  "Name": "Zombie Apocalypse",
+  "DatabaseID": "164295",
+  "ReleaseDate": "2009-09-23T00:00:00-07:00",
+  "Overview": "The world as you know it is gone. A zombie infection has swept the globe and the undead now outnumber the living, but you have plenty of ammo and it's time for payback! \n\nDestroy as many zombies as you can and try to save any remaining survivors as you blast your way through seven danger filled environments. Up to four players can battle the zombie hordes with an arsenal of eleven deadly weapons, including mini-guns, flame throwers, grenade launchers, and a chainsaw for when it's time to get in close... or save on ammo by forcing zombies into the whirling blades of a helicopter or the spinning teeth of a wood chipper. Unlock seven challenging game modes as hone your zombie killing skills and protect the world from a Zombie Apocalypse!",
+  "VideoURL": "https://www.youtube.com/watch?v=q4wTYw9uhUQ",
+  "CommunityRating": "3",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Zombie_Apocalypse_(video_game)",
+  "ESRB": "M - Mature",
+  "Genres": " Horror; Shooter",
+  "Developer": "Nihilistic Software",
+  "Publisher": "Konami Digital Entertainment",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "4bbc33b4-8a42-4081-b984-c99f2d8a42dc.png",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "3992823724",
+          "URL": "http://images.launchbox-app.com/4bbc33b4-8a42-4081-b984-c99f2d8a42dc.png"
+        },
+        {
+          "FileName": "bbf90169-6e41-4996-a607-5f0a5303ac5a.jpg",
+          "Type": "Fanart - Box - Front",
+          "CRC32": "870865633",
+          "URL": "http://images.launchbox-app.com/bbf90169-6e41-4996-a607-5f0a5303ac5a.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "cccf30a2-97fb-408e-bc79-cb51574c142c.png",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "2730472813",
+        "URL": "http://images.launchbox-app.com/cccf30a2-97fb-408e-bc79-cb51574c142c.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "Name": "PowerUp Forever",
+  "DatabaseID": "209795",
+  "ReleaseDate": "2009-12-23T00:00:00-08:00",
+  "Overview": "PowerUp Forever, the next-gen, next-level evolution of the top-down arcade shooter, offers limitless levels, enemies and options.",
+  "CommunityRating": "3.75",
+  "ESRB": "E - Everyone",
+  "Genres": " Shooter",
+  "Developer": "Blitz Arcade",
+  "Publisher": "Namco",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "6231ceda-9606-4dbc-8bc8-f611c9a1ac47.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "253189176",
+          "URL": "http://images.launchbox-app.com/6231ceda-9606-4dbc-8bc8-f611c9a1ac47.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "9a3b0f19-a375-4279-8070-4544c4949a4c.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "2455943645",
+        "URL": "http://images.launchbox-app.com/9a3b0f19-a375-4279-8070-4544c4949a4c.jpg"
+      },
+      {
+        "FileName": "c7bf5bb7-0883-4166-9821-97300af6743b.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2586247630",
+        "URL": "http://images.launchbox-app.com/c7bf5bb7-0883-4166-9821-97300af6743b.jpg"
+      },
+      {
+        "FileName": "0764769f-dc82-462a-aacd-7150a0c03f10.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "4204200980",
+        "URL": "http://images.launchbox-app.com/0764769f-dc82-462a-aacd-7150a0c03f10.jpg"
+      },
+      {
+        "FileName": "9a3b9323-4adc-4e8e-8160-89960717fb15.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2209890866",
+        "URL": "http://images.launchbox-app.com/9a3b9323-4adc-4e8e-8160-89960717fb15.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "1e404d3b-fd81-4b0e-8e6f-38c48ebbcbd8.png",
+        "Type": "Clear Logo",
+        "CRC32": "2727820058",
+        "URL": "http://images.launchbox-app.com/1e404d3b-fd81-4b0e-8e6f-38c48ebbcbd8.png"
+      }
+    ]
+  }
+}

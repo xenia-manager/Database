@@ -1,0 +1,30 @@
+{
+  "Name": "Flock!",
+  "DatabaseID": "15571",
+  "ReleaseDate": "2009-04-09T00:00:00-07:00",
+  "Overview": "Flock! (stylized as FLOCK!) is a puzzle video game developed by Proper Games and published by Capcom for Windows, PlayStation Network and Xbox Live Arcade. It was released for Microsoft Windows on April 7, 2009[1] through Steam[2] and Stardock's digital distribution service Impulse,[3] Xbox Live Arcade on April 8, 2009[1] and PlayStation Network on April 9, 2009.[1]",
+  "VideoURL": "http://www.youtube.com/watch?v=tVUgIm3BQmM",
+  "CommunityRating": "3.5",
+  "ESRB": "E - Everyone",
+  "Genres": null,
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "ad7539af-624c-4852-8e82-b4b3a9678375.jpg",
+          "Type": "Box - Front",
+          "CRC32": "1129126411",
+          "URL": "http://images.launchbox-app.com/ad7539af-624c-4852-8e82-b4b3a9678375.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "966351d4-8a36-4c4f-84b0-68e67b8c44ae.png",
+        "Type": "Clear Logo",
+        "CRC32": "3640970765",
+        "URL": "http://images.launchbox-app.com/966351d4-8a36-4c4f-84b0-68e67b8c44ae.png"
+      }
+    ]
+  }
+}

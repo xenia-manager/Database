@@ -1,0 +1,123 @@
+{
+  "Name": "Call of Duty: Black Ops III",
+  "DatabaseID": "29236",
+  "ReleaseDate": "2015-11-06T00:00:00-08:00",
+  "Overview": "A CALL OF DUTY® CAMPAIGN UNLIKE ANYTHING BEFORE IT: Call of Duty: Black Ops III deploys its players into a future where bio-technology has enabled a new breed of Black Ops soldier. Players are now always on and always connected to the intelligence grid and their fellow operatives during battle. In a world more divided than ever, this elite squad consists of men and women who have enhanced their combat capabilities to fight faster, stronger, and smarter. Every soldier has to make difficult decisions and visit dark places in this engaging, gritty narrative.\n\nPREPARE FOR A LEVELED-UP MULTIPLAYER:\nNew Movement System: Call of Duty: Black Ops III features a new momentum-based chained-movement system, allowing players to fluidly move through the environment with finesse, using controlled thrust jumps, slides, and mantling abilities in a multitude of combinations, all while maintaining complete control over your weapon at all times.\nTailored Map Design: Maps are designed from the ground-up for the new movement system, allowing players to be successful with traditional movement, as well as advanced tactics and maneuvers.\nSpecialist Characters: Black Ops III multiplayer also introduces the new Specialist character system, which allows players to rank up and master each specific character's battle-hardened capabilities and weapons. With this addition to Traditional and Weapons XP progressions systems, Black Ops III multiplayer gives players three different ways to rank up.\n\nFIGHT THE UNDEAD IN AN ALL-NEW HORROR STORY:\nAll-New Narrative: No Black Ops title would be complete without its signature Zombies offering - a full-game experience with its own distinct storyline right out of the box.\nXP Progression System: Black Ops III Zombies is the most immersive and ambitious Call of Duty Zombies to date, with a full XP-based progression system for players that adds depth and re-playability to the engaging gameplay Zombies fans have come to expect.",
+  "VideoURL": "http://www.youtube.com/watch?v=wQZxZi-sKwE",
+  "CommunityRating": "4.6",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_III",
+  "ESRB": "M - Mature",
+  "Genres": " Action",
+  "Developer": "Treyarch",
+  "Publisher": "Activision",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "3f3e9f1d-ee09-48d3-b2fb-2f96c9b841c9.png",
+        "Type": "Banner",
+        "CRC32": "1737353426",
+        "URL": "http://images.launchbox-app.com/3f3e9f1d-ee09-48d3-b2fb-2f96c9b841c9.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "651f86c4-8de3-42cd-a02a-b6bf5d03a605.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1444656792",
+        "URL": "http://images.launchbox-app.com/651f86c4-8de3-42cd-a02a-b6bf5d03a605.jpg"
+      }
+    ],
+    "Box": {
+      "Back": [
+        {
+          "FileName": "a9e31e5f-89f7-4b8a-be13-07104bbd553f.jpg",
+          "Type": "Box - Back",
+          "Region": "United States",
+          "CRC32": "1204566139",
+          "URL": "http://images.launchbox-app.com/a9e31e5f-89f7-4b8a-be13-07104bbd553f.jpg"
+        },
+        {
+          "FileName": "d18d7243-ff68-4bd1-88b2-6f9476362be7.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "2120234348",
+          "URL": "http://images.launchbox-app.com/d18d7243-ff68-4bd1-88b2-6f9476362be7.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "81fa9a6b-5b61-4a10-92a3-4db0702cad86.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "4046922275",
+          "URL": "http://images.launchbox-app.com/81fa9a6b-5b61-4a10-92a3-4db0702cad86.jpg"
+        },
+        {
+          "FileName": "df9247fe-676b-4269-a25b-532852514cbe.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "3750195378",
+          "URL": "http://images.launchbox-app.com/df9247fe-676b-4269-a25b-532852514cbe.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "db38ddbf-767c-4884-b41c-c99f9afa2d77.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "1938488758",
+          "URL": "http://images.launchbox-app.com/db38ddbf-767c-4884-b41c-c99f9afa2d77.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "3b9013b9-6f3f-455b-b969-935e2c25b5f7.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "3557950585",
+        "URL": "http://images.launchbox-app.com/3b9013b9-6f3f-455b-b969-935e2c25b5f7.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "fe4cd881-bf07-48d4-b5b2-7ad6f4fb0f5d.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "4017233102",
+        "URL": "http://images.launchbox-app.com/fe4cd881-bf07-48d4-b5b2-7ad6f4fb0f5d.jpg"
+      },
+      {
+        "FileName": "85506cea-ecd3-42b2-ba47-9749311a31e7.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "569811205",
+        "URL": "http://images.launchbox-app.com/85506cea-ecd3-42b2-ba47-9749311a31e7.jpg"
+      },
+      {
+        "FileName": "8bad60e8-46dd-48d2-8869-3cb099188472.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1766335561",
+        "URL": "http://images.launchbox-app.com/8bad60e8-46dd-48d2-8869-3cb099188472.jpg"
+      },
+      {
+        "FileName": "6430a1ed-5fcb-461d-a689-12de3b2cb96b.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1734713802",
+        "URL": "http://images.launchbox-app.com/6430a1ed-5fcb-461d-a689-12de3b2cb96b.jpg"
+      },
+      {
+        "FileName": "053d1dbe-d676-4093-ad2a-e1dfdd60f465.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1599978343",
+        "URL": "http://images.launchbox-app.com/053d1dbe-d676-4093-ad2a-e1dfdd60f465.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "9f2f27b7-b114-41f1-b34f-f0664ca564a1.png",
+        "Type": "Clear Logo",
+        "CRC32": "718358913",
+        "URL": "http://images.launchbox-app.com/9f2f27b7-b114-41f1-b34f-f0664ca564a1.png"
+      }
+    ]
+  }
+}

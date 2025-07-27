@@ -1,0 +1,51 @@
+{
+  "Name": "Tiger Woods PGA Tour 08",
+  "DatabaseID": "7690",
+  "ReleaseDate": "2007-08-28T00:00:00-07:00",
+  "Overview": "Tiger Woods PGA Tour 08 is the fourth-to-latest Tiger Woods golfing video game in the PGA Tour series from Electronic Arts. It was released in North America on August 28, 2007 for multiple platforms except the Mac version, which was released on September 1.",
+  "VideoURL": "http://www.youtube.com/watch?v=jUcdeH6xNc4",
+  "CommunityRating": "1.75",
+  "ESRB": "E - Everyone",
+  "Genres": " Sports",
+  "Developer": "Electronic Arts Tiburon",
+  "Publisher": "Electronic Arts",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "875440c5-36eb-4293-95ed-e97e3e25978d.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "967639656",
+          "URL": "http://images.launchbox-app.com/875440c5-36eb-4293-95ed-e97e3e25978d.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "9f2e4aa4-0853-421b-b985-3b695c36732d.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "2719474022",
+          "URL": "http://images.launchbox-app.com/9f2e4aa4-0853-421b-b985-3b695c36732d.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "1608ce4a-77a9-4ca4-949d-025880270e0f.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2831242747",
+          "URL": "http://images.launchbox-app.com/1608ce4a-77a9-4ca4-949d-025880270e0f.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "f6bf9590-701d-4bbc-9470-cd78b1ac6262.png",
+        "Type": "Clear Logo",
+        "CRC32": "414155633",
+        "URL": "http://images.launchbox-app.com/f6bf9590-701d-4bbc-9470-cd78b1ac6262.png"
+      }
+    ]
+  }
+}

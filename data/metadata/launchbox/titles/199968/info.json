@@ -1,0 +1,25 @@
+{
+  "Name": "Discs of Tron",
+  "DatabaseID": "199968",
+  "ReleaseDate": "2008-02-13T00:00:00-08:00",
+  "Overview": "In Discs of Tron, players face off in a three-dimensional arena against the film's villain, Sark, as they throw discs to try to knock him off of a platform or \"derezz\" him with a disc while he counters. The game, which includes both classic and enhanced modes, gets increasingly more difficult as players progress. A player's advancement through the game includes multiple platforms of different altitudes, a barricade between the two combatants and chasers, which are secondary weapons from Sark.",
+  "CommunityRating": "3.5",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Discs_of_Tron",
+  "ESRB": "E - Everyone",
+  "Genres": " Action",
+  "Developer": "Backbone Charlottetown",
+  "Publisher": "Disney Interactive Studios",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "f4d6f606-6d33-4913-885b-4d1a479723fa.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "3847456284",
+          "URL": "http://images.launchbox-app.com/f4d6f606-6d33-4913-885b-4d1a479723fa.jpg"
+        }
+      ]
+    }
+  }
+}

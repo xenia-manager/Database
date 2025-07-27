@@ -1,0 +1,63 @@
+{
+  "Name": "Rock Revolution",
+  "DatabaseID": "13755",
+  "ReleaseDate": "2008-10-14T00:00:00-07:00",
+  "Overview": "Release your inner rockstar or allow your friends the privilege of picking up an axe or pounding the skins with you to 40 mind bending rock and roll tracks! Unleash your creative juices in the Jam Mode where you can create your own music in a state of the art multi-track studio! This is the musical revolution the world has been waiting for!",
+  "CommunityRating": "1",
+  "ESRB": "T - Teen",
+  "Genres": " Music",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "0d768284-94e4-43c9-a5b7-9ac39bf1a8ef.png",
+          "Type": "Box - 3D",
+          "CRC32": "2590182916",
+          "URL": "http://images.launchbox-app.com/0d768284-94e4-43c9-a5b7-9ac39bf1a8ef.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "73b2456f-7267-440e-ab53-59321ee02d5a.jpg",
+          "Type": "Box - Back",
+          "Region": "United States",
+          "CRC32": "3785437982",
+          "URL": "http://images.launchbox-app.com/73b2456f-7267-440e-ab53-59321ee02d5a.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "8a8ed284-19a4-47ec-bd46-290319771f99.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "4237002014",
+          "URL": "http://images.launchbox-app.com/8a8ed284-19a4-47ec-bd46-290319771f99.jpg"
+        },
+        {
+          "FileName": "5d592114-5950-44d9-ac21-57bd55ce25f7.jpg",
+          "Type": "Box - Front",
+          "CRC32": "3636781670",
+          "URL": "http://images.launchbox-app.com/5d592114-5950-44d9-ac21-57bd55ce25f7.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "5e7e922b-1a37-4c8d-8c56-7f6c5273035f.jpg",
+          "Type": "Box - Spine",
+          "Region": "United States",
+          "CRC32": "3755218766",
+          "URL": "http://images.launchbox-app.com/5e7e922b-1a37-4c8d-8c56-7f6c5273035f.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "bb002d5c-d4a9-48fb-9075-fcc75e9b394b.jpg",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "999825732",
+        "URL": "http://images.launchbox-app.com/bb002d5c-d4a9-48fb-9075-fcc75e9b394b.jpg"
+      }
+    ]
+  }
+}

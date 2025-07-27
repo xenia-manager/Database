@@ -1,0 +1,21 @@
+{
+  "Name": "WSC Real 09: World Snooker Championship",
+  "DatabaseID": "203886",
+  "ReleaseDate": "2009-04-03T00:00:00-07:00",
+  "Genres": " Sports",
+  "Developer": "Dark Energy Digital",
+  "Publisher": "koch Media",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "fa343fdf-3d5e-4703-866f-df58b4936a47.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "447852286",
+          "URL": "http://images.launchbox-app.com/fa343fdf-3d5e-4703-866f-df58b4936a47.jpg"
+        }
+      ]
+    }
+  }
+}

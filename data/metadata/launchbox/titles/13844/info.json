@@ -1,0 +1,42 @@
+{
+  "Name": "Tropico 4: Gold Edition",
+  "DatabaseID": "13844",
+  "ReleaseDate": "2012-11-13T00:00:00-08:00",
+  "Overview": "Tropico 4 Gold Edition is the ultimate city building experience, including: Tropico 4 and the \"Modern Times\" expansion. As the president of a tiny Caribbean island, it's up to you to lead your country to greatness! Will you be a benevolent and tolerant leader, or a power-mad dictator? Will your economy rely on tourism, farming, big business or cheap sweatshops? The decisions you make will shape the future of your island, and more importantly, the size of your off-shore bank account.",
+  "VideoURL": "https://www.youtube.com/watch?v=gSNEooZUyGU",
+  "CommunityRating": "2.5",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Tropico_4",
+  "ESRB": "T - Teen",
+  "Genres": " Strategy",
+  "Developer": "Haemimont Games",
+  "Publisher": "Kalypso Media",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "5ca1af3e-4ff1-4558-8fec-829f52ae92bf.jpg",
+          "Type": "Box - Front",
+          "CRC32": "553955492",
+          "URL": "http://images.launchbox-app.com/5ca1af3e-4ff1-4558-8fec-829f52ae92bf.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "6d208d29-1596-4214-b0a5-890388b94d9a.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "1253974352",
+        "URL": "http://images.launchbox-app.com/6d208d29-1596-4214-b0a5-890388b94d9a.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "21fdb2e1-fcf3-49d2-870a-23ec27c32e3c.png",
+        "Type": "Clear Logo",
+        "CRC32": "2399137040",
+        "URL": "http://images.launchbox-app.com/21fdb2e1-fcf3-49d2-870a-23ec27c32e3c.png"
+      }
+    ]
+  }
+}

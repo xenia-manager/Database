@@ -1,0 +1,62 @@
+{
+  "Name": "Deepak Chopra's Leela",
+  "DatabaseID": "215332",
+  "ReleaseYear": "2011",
+  "Overview": "Leela is a ground-breaking journey of mind and body.\n\nDeepak Chopra's Leela combines traditional relaxation and meditation with Wii motion technology to instill a sense of balance and harmony to every day life.\n\nFeatures:\n\n• Rebalance and Revitalize. Flow with your natural rhythms and full-body gestures to unwind and relax\n• Ambient Oasis. Immerse yourself in Leela's restorative environments filled with rich visuals and healing sound\n• Personal Creativity. Create a personal mandala - an artistic expression of your essence",
+  "ESRB": "E - Everyone",
+  "Genres": " Music; Education",
+  "Developer": "Curious Pictures",
+  "Publisher": "THQ",
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "3c6ad568-5475-41ab-ae7b-82d08d03ad49.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "641013207",
+          "URL": "http://images.launchbox-app.com/3c6ad568-5475-41ab-ae7b-82d08d03ad49.jpg"
+        },
+        {
+          "FileName": "8392924f-0c60-4557-a7b6-b146b180b975.jpg",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "1487039712",
+          "URL": "http://images.launchbox-app.com/8392924f-0c60-4557-a7b6-b146b180b975.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "93d61774-757b-4076-85d5-bee6dbf68092.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "300285366",
+          "URL": "http://images.launchbox-app.com/93d61774-757b-4076-85d5-bee6dbf68092.jpg"
+        },
+        {
+          "FileName": "1777f925-ff35-4094-b2a5-b5b3bd1be631.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1309705324",
+          "URL": "http://images.launchbox-app.com/1777f925-ff35-4094-b2a5-b5b3bd1be631.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "113b1735-d61b-4531-9265-428fccc6d485.jpg",
+          "Type": "Box - Spine",
+          "Region": "Europe",
+          "CRC32": "3078289531",
+          "URL": "http://images.launchbox-app.com/113b1735-d61b-4531-9265-428fccc6d485.jpg"
+        },
+        {
+          "FileName": "c9faca8f-d258-447d-9b10-90ad06b1227c.jpg",
+          "Type": "Box - Spine",
+          "Region": "United States",
+          "CRC32": "2734694311",
+          "URL": "http://images.launchbox-app.com/c9faca8f-d258-447d-9b10-90ad06b1227c.jpg"
+        }
+      ]
+    }
+  }
+}

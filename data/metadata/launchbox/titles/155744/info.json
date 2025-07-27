@@ -1,0 +1,34 @@
+{
+  "Name": "Gyromancer",
+  "DatabaseID": "155744",
+  "ReleaseDate": "2009-11-18T00:00:00-08:00",
+  "Overview": "Join Rivel and his companion, Laska, on a grand chase spanning twelve stages. What awaits at the end of the hunt? \n\nEach stage contains its own objectives, from defeating the beasts that block your way to solving puzzles before time runs out. Rivel can learn to summon dozens of the beasts he encounters, bending their power to his will. Each beast you command in battle is unique, so find the one that best suits your play style. \n\nHidden within each stage are a number of awards earned for completing feats great and small. Finding them all won't be easy. Are you up to the challenge?",
+  "VideoURL": "https://www.youtube.com/watch?v=iSQyXlj8XS0",
+  "CommunityRating": "3.3333333333333335",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Gyromancer",
+  "ESRB": "T - Teen",
+  "Genres": " Puzzle; Role-Playing",
+  "Developer": "Square Enix",
+  "Publisher": "Square Enix",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "da44361a-de85-427f-8767-6a69451093ab.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1082460715",
+        "URL": "http://images.launchbox-app.com/da44361a-de85-427f-8767-6a69451093ab.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "0e97975f-d375-4423-8ec4-a41086c3ed45.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "990354138",
+          "URL": "http://images.launchbox-app.com/0e97975f-d375-4423-8ec4-a41086c3ed45.jpg"
+        }
+      ]
+    }
+  }
+}

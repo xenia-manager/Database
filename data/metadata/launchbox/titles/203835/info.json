@@ -1,0 +1,34 @@
+{
+  "Name": "Football Manager 2006",
+  "DatabaseID": "203835",
+  "ReleaseDate": "2005-10-21T00:00:00-07:00",
+  "Overview": "Football Manager 2006 (also known as Worldwide Soccer Manager 2006 in North America) is a 2005 football management simulation game. FM2006 was the second game in the Football Manager series. It is available for PC, Mac, and PSP platforms and was released in the United Kingdom on 21 October 2005. On the same day as the game's release, Sports Interactive also released a patch to fix some bugs discovered during the Beta and Gold stages of development. In its first week of release, it became the second-fastest-selling PC game of all-time in the UK. It was also the first game in the series to be released on an Xbox console. In April 2006, an Xbox 360 version was released. It was succeeded by Football Manager 2007.\n\nGameplay\nFM06 features similar gameplay to that of the Football Manager series. Gameplay consists of taking charge of a professional association football team, as the team manager. Players can sign football players to contracts, manage finances for the club, and give team talks to players. FM06 is a simulation of real world management, with the player being judged on various factors by the club's AI owners and board.\n\nFM06 adjusts some gameplay that was found in the original football manager release. These adjustments include team-talks, simplified training and in-game help screens. As has been customary with the series a beta demo of the game was released on 12 September 2005. This was later followed on 30 September by a gold demo. This is a cut-down, limited time version of the full game which is sent to the game manufacturers.",
+  "CommunityRating": "0.5",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Football_Manager_2006",
+  "ESRB": "E - Everyone",
+  "Genres": " Construction and Management Simulation; Sports",
+  "Developer": "Sports Interactive",
+  "Publisher": "Sega",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "b4dfd6f3-2c25-4a65-a430-6f750b83e2f6.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "3638083202",
+          "URL": "http://images.launchbox-app.com/b4dfd6f3-2c25-4a65-a430-6f750b83e2f6.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "ed54f668-20d1-4b17-bf46-d2a4fe6dad12.jpg",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "3483296979",
+        "URL": "http://images.launchbox-app.com/ed54f668-20d1-4b17-bf46-d2a4fe6dad12.jpg"
+      }
+    ]
+  }
+}

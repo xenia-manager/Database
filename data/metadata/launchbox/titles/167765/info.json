@@ -1,0 +1,74 @@
+{
+  "Name": "2014 Fifa World Cup Brazil",
+  "DatabaseID": "167765",
+  "ReleaseDate": "2014-04-15T00:00:00-07:00",
+  "Overview": "2014 FIFA World Cup Brazil is a reworked version of FIFA 14 tailored for the world cup event in Brazil. Fully licensed as usual, it includes all 203 official FIFA country teams, their players and the real stadia. The different game modes include the qualification phase, exhibition matches, and the world cup itself. It is also possible to alter history and qualify with a team that did not make it to the real world cup. There is a mode to become the captain of your country where an individual player goes through training and matches competing against other team members to become captain. Road to Rio de Janeiro allows players to compete in an online tournament across the 12 venues of the cup. There are various kill games and both offline and online multiplayer matches are supported. EA Talk Radio offers a selection of duos that provide commentary for matches.\n\nDespite extensive borrowing from FIFA 14, there are also a number of changes. There are for instance new and additional animations for the players and the crowds have various details and attributes that refer to the countries' teams and colours. The appearance of the real coaches has been simulated and the game often cuts away to scenes of fans celebrating at home. The defense AI has been made looser, making it easier to break through. It also has become much more viable to launch long distance shots as there is a much higher chance of scoring than usual, leading to more spectacular goals. The keepers however have received an ability boost and will prevent scores from getting out of hand. Penalties have been made easier to perform, but keepers have more options to distract the strikers. Scoring from corners has been made harder as defenders will now jump up and will prevent attackers from cutting in unobstructed. This also applies to crosses that are now more often intercepted and headers feel less overpowered compared to previous titles. Other gameplay changes affect dribbling, an increased accuracy in passing and first-touch mechanics. Overall, the game mechanics have been made more accessible.",
+  "VideoURL": "https://www.youtube.com/watch?v=uO1HNUoDzxQ",
+  "CommunityRating": "3.0454545454545454",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_Brazil_(video_game)",
+  "ESRB": "E - Everyone",
+  "Genres": " Sports",
+  "Developer": "Electronic Arts Canada",
+  "Publisher": "Electronic Arts",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "7e8638a0-7e42-48fd-8c0d-898d4aee28f7.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "1138066274",
+          "URL": "http://images.launchbox-app.com/7e8638a0-7e42-48fd-8c0d-898d4aee28f7.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "40b8f25c-6698-47e3-ba22-227dd4a8f241.png",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "323272864",
+          "URL": "http://images.launchbox-app.com/40b8f25c-6698-47e3-ba22-227dd4a8f241.png"
+        },
+        {
+          "FileName": "53ca6f22-d316-45f8-82ca-a8b6d6074753.png",
+          "Type": "Box - Front",
+          "Region": "Germany",
+          "CRC32": "2945708447",
+          "URL": "http://images.launchbox-app.com/53ca6f22-d316-45f8-82ca-a8b6d6074753.png"
+        },
+        {
+          "FileName": "e7e97ff8-2dff-41b5-bb04-aade4491031d.png",
+          "Type": "Box - Front",
+          "Region": "Germany",
+          "CRC32": "648529457",
+          "URL": "http://images.launchbox-app.com/e7e97ff8-2dff-41b5-bb04-aade4491031d.png"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "63c3f36d-7719-43c2-b4fc-3b0f5e524a37.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "3923806260",
+        "URL": "http://images.launchbox-app.com/63c3f36d-7719-43c2-b4fc-3b0f5e524a37.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "c5f37781-9a64-4e4a-86aa-b152d9e11b2e.png",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "301515375",
+        "URL": "http://images.launchbox-app.com/c5f37781-9a64-4e4a-86aa-b152d9e11b2e.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "1e6b9900-847f-4394-9c95-a720f5b43363.png",
+        "Type": "Clear Logo",
+        "CRC32": "1123220397",
+        "URL": "http://images.launchbox-app.com/1e6b9900-847f-4394-9c95-a720f5b43363.png"
+      }
+    ]
+  }
+}

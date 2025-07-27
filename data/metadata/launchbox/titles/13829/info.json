@@ -1,0 +1,98 @@
+{
+  "Name": "Ratatouille",
+  "DatabaseID": "13829",
+  "ReleaseDate": "2007-06-26T00:00:00-07:00",
+  "Overview": "This game is based on the award winning Pixar movie of the same name. Remy is a rat who dreams of becoming a cook like his hero, the famous French chef Gusteau. Due to a series of unfortunate events, Remy finds himself in the sewers of Paris right below Gusteau's restaurant.\n\nUnfortunately, it is difficult for a rat to find a job in the kitchen, but through his friendship with a clumsy janitor, Linguine, they are able to work together towards achieving their goals. Unfortunately, there are many obstacles that stand in their way – scheming chefs, health inspectors, food critics and even Remy's family.\n\nThis game features many of the conflicts in the film, but expands on it with six open world environments to explore. There are numerous minigames featured that can be unlocked for multiplayer. Remy has to navigate his way through kitchens and sewers with platform mechanics. There are cooking challenges as well as chase sequences.",
+  "VideoURL": "http://www.youtube.com/watch?v=GyT_M5o-7Do",
+  "CommunityRating": "2.75",
+  "ESRB": "E - Everyone",
+  "Genres": " Action",
+  "Developer": "Heavy Iron Studios",
+  "Publisher": "THQ",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "55d94f69-b689-424a-984e-b99707bf61d0.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3142756289",
+        "URL": "http://images.launchbox-app.com/55d94f69-b689-424a-984e-b99707bf61d0.jpg"
+      },
+      {
+        "FileName": "648bc983-ce6f-47c6-a11a-fba552a2e090.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1878972885",
+        "URL": "http://images.launchbox-app.com/648bc983-ce6f-47c6-a11a-fba552a2e090.jpg"
+      },
+      {
+        "FileName": "d527679a-1138-4ac4-9def-c8c87ecfde5f.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1979004554",
+        "URL": "http://images.launchbox-app.com/d527679a-1138-4ac4-9def-c8c87ecfde5f.jpg"
+      },
+      {
+        "FileName": "23312c86-6fae-4370-9f64-c3ab8d5e6da9.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2809382744",
+        "URL": "http://images.launchbox-app.com/23312c86-6fae-4370-9f64-c3ab8d5e6da9.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "916e4ae9-a417-4b36-8b88-85a4a7b33e5b.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "2395293335",
+          "URL": "http://images.launchbox-app.com/916e4ae9-a417-4b36-8b88-85a4a7b33e5b.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "c3c7367f-29ee-4eb3-8adc-cdd66a34a518.jpg",
+          "Type": "Box - Front",
+          "Region": "United Kingdom",
+          "CRC32": "1646118581",
+          "URL": "http://images.launchbox-app.com/c3c7367f-29ee-4eb3-8adc-cdd66a34a518.jpg"
+        },
+        {
+          "FileName": "de27dddd-35b6-4cb5-b353-8b48fde4b4b4.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "2328077710",
+          "URL": "http://images.launchbox-app.com/de27dddd-35b6-4cb5-b353-8b48fde4b4b4.jpg"
+        },
+        {
+          "FileName": "cb00bad3-5a35-49c0-ac93-8dd0c2d115e6.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3859473170",
+          "URL": "http://images.launchbox-app.com/cb00bad3-5a35-49c0-ac93-8dd0c2d115e6.jpg"
+        },
+        {
+          "FileName": "b9b7e674-b4f4-462f-8899-121ac25072b5.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "Europe",
+          "CRC32": "1376689180",
+          "URL": "http://images.launchbox-app.com/b9b7e674-b4f4-462f-8899-121ac25072b5.png"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "f5aff86c-d58f-42c6-80cc-2d48372342e4.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "3162975851",
+        "URL": "http://images.launchbox-app.com/f5aff86c-d58f-42c6-80cc-2d48372342e4.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "31ab8aab-2952-4ac1-a7a7-d8677da9bd6f.png",
+        "Type": "Clear Logo",
+        "CRC32": "599909828",
+        "URL": "http://images.launchbox-app.com/31ab8aab-2952-4ac1-a7a7-d8677da9bd6f.png"
+      }
+    ]
+  }
+}

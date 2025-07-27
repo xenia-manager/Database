@@ -1,0 +1,95 @@
+{
+  "Name": "Caladrius",
+  "DatabaseID": "203829",
+  "ReleaseDate": "2015-09-04T00:00:00-07:00",
+  "Overview": "Caladrius Blaze is a vertical scrolling shooting game developed by Moss. Caladrius Blaze includes all the elements of Caladrius and Caladrius AC. It also includes extra content such as new stages, new story scenarios, new bosses and characters designed by Yasuda.",
+  "CommunityRating": "3",
+  "ESRB": "T - Teen",
+  "Genres": " Action; Shooter",
+  "Developer": "Moss",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "a9ac4a0d-a10d-40f0-8901-db552d6bf88a.png",
+        "Type": "Banner",
+        "CRC32": "3946533222",
+        "URL": "http://images.launchbox-app.com/a9ac4a0d-a10d-40f0-8901-db552d6bf88a.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "04b05c79-eaa9-435c-9f63-73a47344a4d2.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3170472988",
+        "URL": "http://images.launchbox-app.com/04b05c79-eaa9-435c-9f63-73a47344a4d2.jpg"
+      }
+    ],
+    "Box": {
+      "Back": [
+        {
+          "FileName": "61a21bbd-3d90-4c40-bf65-fbaf8c0789e7.jpg",
+          "Type": "Box - Back",
+          "Region": "Japan",
+          "CRC32": "2710442802",
+          "URL": "http://images.launchbox-app.com/61a21bbd-3d90-4c40-bf65-fbaf8c0789e7.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "2f4c83a1-9046-45f9-bb69-2802e21fdd2a.png",
+          "Type": "Box - Front",
+          "Region": "Japan",
+          "CRC32": "1830218613",
+          "URL": "http://images.launchbox-app.com/2f4c83a1-9046-45f9-bb69-2802e21fdd2a.png"
+        },
+        {
+          "FileName": "5a2f1329-48de-4bee-a4ad-5b9667aba6d9.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "North America",
+          "CRC32": "323380352",
+          "URL": "http://images.launchbox-app.com/5a2f1329-48de-4bee-a4ad-5b9667aba6d9.png"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "aaaaf213-ad1d-4abc-80dc-907cba049fff.jpg",
+          "Type": "Box - Spine",
+          "Region": "Japan",
+          "CRC32": "749448009",
+          "URL": "http://images.launchbox-app.com/aaaaf213-ad1d-4abc-80dc-907cba049fff.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "74f356d8-c3b8-45fb-a716-ecaa3a09fdcf.png",
+        "Type": "Disc",
+        "Region": "Japan",
+        "CRC32": "2554833725",
+        "URL": "http://images.launchbox-app.com/74f356d8-c3b8-45fb-a716-ecaa3a09fdcf.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "1e763bd2-ebc3-4325-b29c-7f32463b86b3.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "324329947",
+        "URL": "http://images.launchbox-app.com/1e763bd2-ebc3-4325-b29c-7f32463b86b3.jpg"
+      },
+      {
+        "FileName": "887f019d-ae83-4bda-92c9-cc7336e0c2a3.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3056172493",
+        "URL": "http://images.launchbox-app.com/887f019d-ae83-4bda-92c9-cc7336e0c2a3.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "47c0e79c-663f-414e-82bd-c981f60fd5cf.png",
+        "Type": "Clear Logo",
+        "CRC32": "3673792348",
+        "URL": "http://images.launchbox-app.com/47c0e79c-663f-414e-82bd-c981f60fd5cf.png"
+      }
+    ]
+  }
+}

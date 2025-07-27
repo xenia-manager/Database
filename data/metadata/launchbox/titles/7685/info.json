@@ -1,0 +1,74 @@
+{
+  "Name": "The Godfather: The Game",
+  "DatabaseID": "7685",
+  "ReleaseDate": "2006-03-21T00:00:00-08:00",
+  "Overview": "The book by Mario Puzo and the classic film serve as inspiration here, as gamers will join the Corleone family and earn respect through loyalty and fear as they rise through the ranks to become Don in a living 1945-1955 New York. It will be up to the player to carry out orders, earn respect and make New York City their own. Featuring non-linear action-adventure gameplay, The Godfather will offer gamers countless choices for solving the family's problems with brutal violence, skillful diplomacy, or a cunning mixture of both. From mob hits and bank heists to drive-bys and extortion, step deep inside a world where intimidation and negotiation are your tickets to the top, and where decisions made, just like in The Godfather fiction, have lasting consequences.",
+  "CommunityRating": "4.5",
+  "ESRB": "M - Mature",
+  "Genres": " Action; Adventure; Racing",
+  "Developer": "Visceral Games",
+  "Publisher": "Electronic Arts",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "579aa5aa-6b66-4e03-8218-a680598b70e3.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3843008980",
+        "URL": "http://images.launchbox-app.com/579aa5aa-6b66-4e03-8218-a680598b70e3.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "bdf6ac45-3034-4767-bcd7-dcb914a954ca.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "3209838158",
+          "URL": "http://images.launchbox-app.com/bdf6ac45-3034-4767-bcd7-dcb914a954ca.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "855841d1-1c4b-4eb9-b08e-a387021b9c18.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "1101673907",
+          "URL": "http://images.launchbox-app.com/855841d1-1c4b-4eb9-b08e-a387021b9c18.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "51ad379d-06ee-4743-a052-3256fb2a4949.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3999212944",
+          "URL": "http://images.launchbox-app.com/51ad379d-06ee-4743-a052-3256fb2a4949.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "655f1fb2-1d37-47a5-91a0-9c44c9dc83a6.png",
+        "Type": "Fanart - Disc",
+        "Region": "Europe",
+        "CRC32": "325738438",
+        "URL": "http://images.launchbox-app.com/655f1fb2-1d37-47a5-91a0-9c44c9dc83a6.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "1a77202d-8a8f-4b2f-920a-86c8d569f24a.png",
+        "Type": "Clear Logo",
+        "CRC32": "3686743352",
+        "URL": "http://images.launchbox-app.com/1a77202d-8a8f-4b2f-920a-86c8d569f24a.png"
+      },
+      {
+        "FileName": "be247acc-70e5-4f95-82aa-5afe0e13d085.png",
+        "Type": "Clear Logo",
+        "Region": "United States",
+        "CRC32": "3268303495",
+        "URL": "http://images.launchbox-app.com/be247acc-70e5-4f95-82aa-5afe0e13d085.png"
+      }
+    ]
+  }
+}

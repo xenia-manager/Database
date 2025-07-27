@@ -1,0 +1,76 @@
+{
+  "Name": "Fable Anniversary",
+  "DatabaseID": "19945",
+  "ReleaseDate": "2014-02-04T00:00:00-08:00",
+  "Overview": "For Every Choice A Consequence\n\nAs one of the best-selling RPGs on the original Xbox, Fable made sure every player's choice had a consequence. The world of Albion has inspired gamers to fall in love with the franchise for nearly a decade and counting.\n\nUpdated to HD to unlock the power of Xbox 360, Fable Anniversary is a major visual leap over the original. Vivid graphics and remastered audio result in a stunning re-imagination of Fable that will impress fans old and new.\n\nThis role-playing adventure puts you in full control of the choices that will determine your skills, appearance, and reputation. Create your life story from your early years as an inexperienced warrior to the prime of life as you become the most powerful being in the world. Choose the path of righteousness or dedicate your life to evil. And don't forget to hide the chickens — Jack of Blades is back.\n\nWith all new textures and 3D models, an entirely new lighting system, a slick new interface, achievements, and all of the content from \"The Lost Chapters\" expansion, Fable Anniversary is the definitive Fable experience for faithful fans and new players alike.",
+  "VideoURL": "http://www.youtube.com/watch?v=Awaa0OhDNj4",
+  "CommunityRating": "4.0882352941176467",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Fable_(video_game)#Fable_Anniversary",
+  "ESRB": "M - Mature",
+  "Genres": " Adventure; Role-Playing",
+  "Developer": "Lionhead Studios",
+  "Publisher": "Microsoft",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "15a9213c-5116-4251-bb5d-b4159375d405.png",
+          "Type": "Box - 3D",
+          "CRC32": "948777773",
+          "URL": "http://images.launchbox-app.com/15a9213c-5116-4251-bb5d-b4159375d405.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "1c0a5bad-2075-4264-bf40-f70b039507b3.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "1379955988",
+          "URL": "http://images.launchbox-app.com/1c0a5bad-2075-4264-bf40-f70b039507b3.jpg"
+        },
+        {
+          "FileName": "ebc8020c-89dd-43a1-9b89-d11b4837557f.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "3173549922",
+          "URL": "http://images.launchbox-app.com/ebc8020c-89dd-43a1-9b89-d11b4837557f.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "17e9564a-5d63-41e1-baef-e08b4f9920d5.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2679323334",
+          "URL": "http://images.launchbox-app.com/17e9564a-5d63-41e1-baef-e08b4f9920d5.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "1ade8713-6e38-4f76-b0b0-e2f725b4d20f.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "2642222706",
+          "URL": "http://images.launchbox-app.com/1ade8713-6e38-4f76-b0b0-e2f725b4d20f.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "3d00f965-e7d0-4275-ac05-726ba7bf1466.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "3353016495",
+        "URL": "http://images.launchbox-app.com/3d00f965-e7d0-4275-ac05-726ba7bf1466.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "5d31f763-d8d6-48b9-b870-fe7f9d6b6622.png",
+        "Type": "Clear Logo",
+        "CRC32": "2529734654",
+        "URL": "http://images.launchbox-app.com/5d31f763-d8d6-48b9-b870-fe7f9d6b6622.png"
+      }
+    ]
+  }
+}

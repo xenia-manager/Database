@@ -1,0 +1,78 @@
+{
+  "Name": "Cabela's Big Game Hunter 2012",
+  "DatabaseID": "15140",
+  "ReleaseDate": "2011-09-27T00:00:00-07:00",
+  "Overview": "With the world as their playground, players will explore a vast expanse of mountains and valleys with unprecedented choices in direction never before seen in a Cabela's hunting game. Players can climb an area to get a better angle for the shot but risk being spotted, or they can take a low elevation route with poor visibility but plenty of concealment. Nature doesn't always wait for you to make the first move as the dynamic weather and natural hazards make the hunt even more challenging. The challenge doesn't end there. Cabela's Big Game Hunter 2012 ups the ante with the most realistic animals ever seen in the Cabela's series. Every animal's unique movement gives clues on what the animal will do next. In order to bag the trophies, players will have to avoid detection through cunning, skill, and deception. They must also utilize master hunting skills such as advanced stalking techniques so they can quickly move through cover and close in on their targets.",
+  "VideoURL": "https://www.youtube.com/watch?v=4Tmep2srooc",
+  "CommunityRating": "3",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Cabela%27s_Big_Game_Hunter_2012",
+  "ESRB": "T - Teen",
+  "Genres": " Shooter; Sports",
+  "Developer": "Cauldron",
+  "Publisher": "Activision Value Publishing",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "49c82ff6-86a3-43e7-bff6-f8aa5c3e7c24.jpg",
+        "Type": "Banner",
+        "Region": "North America",
+        "CRC32": "2568434423",
+        "URL": "http://images.launchbox-app.com/49c82ff6-86a3-43e7-bff6-f8aa5c3e7c24.jpg"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "cc06948d-7e8f-4d62-800c-e7fc4e02a903.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1887742940",
+        "URL": "http://images.launchbox-app.com/cc06948d-7e8f-4d62-800c-e7fc4e02a903.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "5dfbdade-8c0a-4a8c-84cd-5d6ce6a47cd8.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "2331275079",
+          "URL": "http://images.launchbox-app.com/5dfbdade-8c0a-4a8c-84cd-5d6ce6a47cd8.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "19655a76-c857-4ae9-9de4-c02d9e5be5d3.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "1926203977",
+          "URL": "http://images.launchbox-app.com/19655a76-c857-4ae9-9de4-c02d9e5be5d3.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "5967d388-c922-4ef7-ba49-5c9fa0d2582d.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2545216886",
+          "URL": "http://images.launchbox-app.com/5967d388-c922-4ef7-ba49-5c9fa0d2582d.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "4f8e3a2c-3b38-4eac-9b18-548688114a26.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2639209472",
+        "URL": "http://images.launchbox-app.com/4f8e3a2c-3b38-4eac-9b18-548688114a26.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "da5f743c-3b75-4df6-b55b-66c7a7ebac97.png",
+        "Type": "Clear Logo",
+        "CRC32": "4240786707",
+        "URL": "http://images.launchbox-app.com/da5f743c-3b75-4df6-b55b-66c7a7ebac97.png"
+      }
+    ]
+  }
+}

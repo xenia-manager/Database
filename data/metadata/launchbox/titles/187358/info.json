@@ -1,0 +1,25 @@
+{
+  "Name": "Exit",
+  "DatabaseID": "187358",
+  "ReleaseDate": "2007-10-24T00:00:00-07:00",
+  "Overview": "Exit is a unique puzzle game for the PSP. You can play as \"Mr. Esc,\" a professional rescuer, and help people escape from a variety of dangerous disasters. The game features more than 100 different escape scenarios, ranging from exploding factories to flooding subways. Rescued victims become allies and can help you move heavy objects or complete tricky puzzles. The platforming gameplay is augmented by colorful comic book stylings and fluid animation",
+  "CommunityRating": "3",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Exit_(video_game)",
+  "ESRB": "E - Everyone",
+  "Genres": " Puzzle",
+  "Developer": "Taito",
+  "Publisher": "Ubisoft",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "d00ad19d-9643-4a1f-a2ad-13653c950fe2.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "162585076",
+          "URL": "http://images.launchbox-app.com/d00ad19d-9643-4a1f-a2ad-13653c950fe2.jpg"
+        }
+      ]
+    }
+  }
+}

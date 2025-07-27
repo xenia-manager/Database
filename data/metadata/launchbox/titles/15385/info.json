@@ -1,0 +1,88 @@
+{
+  "Name": "Damnation",
+  "DatabaseID": "15385",
+  "ReleaseDate": "2009-05-26T00:00:00-07:00",
+  "Overview": "Damnation is a third-person shooter set in a steampunk-universe with the player taking over the control of Rourke, fighting through hordes and hordes of enemies as well as jumping from roof to roof and other climbing exercises in order to accomplish his objectives like freeing a prisoner or shutting down a factory. On his side the Indian healer Yakecan and the cowboy Ramon Sepherius Zagato. Of course the enemies don't just drop dead by the sight of Rourke and his friends. Instead everyone can carry around three weapons. Two big ones like a shotgun, grenade launcher or sniper rifle and one pistol which also includes gear like the railroad-spike-gun. In addition the players have access to trip-mines that can either be thrown or planted but always have to be triggered manually. Since the levels are huge and traveling on foot sometimes is either not feasible or possible, steampunk bikes stand ready for the players to be used in two different designs. The small version carries two persons with one being the driver and the second one standing on the back shooting everything in sight. The second version allows for two gunners on the back.",
+  "CommunityRating": "4.5",
+  "ESRB": "M - Mature",
+  "Genres": null,
+  "Developer": "Blue Omega",
+  "Publisher": "Codemasters",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "0084dcb0-fefe-4abb-9024-34211fb33818.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2137426312",
+        "URL": "http://images.launchbox-app.com/0084dcb0-fefe-4abb-9024-34211fb33818.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "8c623994-3591-4d7d-a4fb-f394763a6dff.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "4188558851",
+          "URL": "http://images.launchbox-app.com/8c623994-3591-4d7d-a4fb-f394763a6dff.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "2bd9b596-1667-4a63-ac32-b4765ca3c8ba.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "4191406406",
+          "URL": "http://images.launchbox-app.com/2bd9b596-1667-4a63-ac32-b4765ca3c8ba.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "d3d3042c-2c2b-458d-9b03-af19b65674e9.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2092058336",
+          "URL": "http://images.launchbox-app.com/d3d3042c-2c2b-458d-9b03-af19b65674e9.jpg"
+        },
+        {
+          "FileName": "0ae29e27-d3a4-45c3-aa42-d9d0f871812e.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "United Kingdom",
+          "CRC32": "280598252",
+          "URL": "http://images.launchbox-app.com/0ae29e27-d3a4-45c3-aa42-d9d0f871812e.png"
+        },
+        {
+          "FileName": "6bf0a93a-f9a1-4545-97d8-00fb7064ad1e.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "North America",
+          "CRC32": "1149769388",
+          "URL": "http://images.launchbox-app.com/6bf0a93a-f9a1-4545-97d8-00fb7064ad1e.png"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "d1981516-f9dc-4e3f-9a36-b8d3a3d36869.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "2106163022",
+        "URL": "http://images.launchbox-app.com/d1981516-f9dc-4e3f-9a36-b8d3a3d36869.png"
+      },
+      {
+        "FileName": "fda85276-30f2-4b4e-a5f3-a9084f071425.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "3928828001",
+        "URL": "http://images.launchbox-app.com/fda85276-30f2-4b4e-a5f3-a9084f071425.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "bd1ed9a7-71b8-4825-a2e0-416b55321de3.png",
+        "Type": "Clear Logo",
+        "CRC32": "1668959285",
+        "URL": "http://images.launchbox-app.com/bd1ed9a7-71b8-4825-a2e0-416b55321de3.png"
+      }
+    ]
+  }
+}

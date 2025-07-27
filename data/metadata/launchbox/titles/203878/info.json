@@ -1,0 +1,59 @@
+{
+  "Name": "Summer Athletics 2009",
+  "DatabaseID": "203878",
+  "ReleaseDate": "2009-09-30T00:00:00-07:00",
+  "Overview": "Summer Athletics: The Ultimate Challenge is a collection of sports events based on the Olympic Summer Games. It features 28 sports divided into eight disciplines: Swimming, jumping, throwing, cycling, running, platform diving, archery and the new skeet shooting (two variants). The handling is similar for all of them: rhythmic motions to keep the athlete moving and quick time events (pressing a button when it gets displayed on the screen) for performing certain actions. The mentioned rhythmic motions depend on the input device the player uses, e.g. at the swimming event the player needs to press two buttons alternately when using a keyboard and rotate the analog sticks when using a gamepad. The player character aims automatically during the skeet shooting, the player himself only has to shoot at the right time.\n\nThe game features a basic career mode where the player gains a fixed amount of experience points after every event which can be reinvested into five stats like speed or jumping technique. The new character editor allows the adjustment of almost all facial aspects. In the optional arcade mode the players have so-called boosts to their disposal to improve their athlete's performance for a short time.\n\nThere is also a new co-op mode for relay races (sprint and swimming): parallel to every handover on the screen the player hands his input device to the next player.",
+  "VideoURL": "https://www.youtube.com/watch?v=qqYOB_EklrM&pp=ygUuU3VtbWVyIEF0aGxldGljcyAyMDA5IGxhdWNoZXIgdHJhaWxlciB4Ym94IDM2MA%3D%3D",
+  "CommunityRating": "4.333333333333333",
+  "ESRB": "E - Everyone",
+  "Genres": " Sports",
+  "Developer": "49Games",
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "78e9e9e2-95a0-4670-810a-45aef3eb59e6.jpg",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "3467925129",
+          "URL": "http://images.launchbox-app.com/78e9e9e2-95a0-4670-810a-45aef3eb59e6.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "538ceccb-0933-44eb-b750-ad312b46ce20.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "4053384104",
+          "URL": "http://images.launchbox-app.com/538ceccb-0933-44eb-b750-ad312b46ce20.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "791a2d1b-ece3-494f-9f27-7e4dc2a1bfec.jpg",
+          "Type": "Box - Spine",
+          "Region": "Europe",
+          "CRC32": "614479116",
+          "URL": "http://images.launchbox-app.com/791a2d1b-ece3-494f-9f27-7e4dc2a1bfec.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "6975cf1e-3dca-4370-b031-8308e46221e7.jpg",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "3501205623",
+        "URL": "http://images.launchbox-app.com/6975cf1e-3dca-4370-b031-8308e46221e7.jpg"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "3df104f9-7fe8-4289-830d-a503ac058aa8.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "453702380",
+        "URL": "http://images.launchbox-app.com/3df104f9-7fe8-4289-830d-a503ac058aa8.jpg"
+      }
+    ]
+  }
+}

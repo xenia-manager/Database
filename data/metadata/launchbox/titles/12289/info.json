@@ -1,0 +1,83 @@
+{
+  "Name": "F1 2012",
+  "DatabaseID": "12289",
+  "ReleaseDate": "2012-09-18T00:00:00-07:00",
+  "Overview": "The glamour. The exhilaration. The intensity. The speed. With drivers cruising a smooth 200 mph — minimum — and cutthroat teams carving out dynasties of speed, Formula One is the most elite racing circle in the world and the most thrilling motorsport tearing up the tracks. Every curve of the track, every control on the dashboard and every strategy in the pit lane is of utmost importance in this intensified world — and it's all re-created in stunning detail. Let breakneck speeds and ultra responsive cars transport you to the glamorous world of Formula One as you race toward the finish line.\n\n \nExperience the speed\n \nHigh-definition graphics\n \nRace toward the finish line\nSynopsis\n\nGet behind the wheel and experience the new Circuit of the Americas before its real-life debut with this breathtaking game. This dramatic new track features 20-turn circuits that take inspiration from some of the world's most difficult corners, including Silverstone's Becketts and Istanbul Park's Turn 8, and boasts elevation changes of up to 133 feet. An advanced weather system produces localized weather that can leave sections of the track wet while others stay dry for a dramatic and unpredictable race experience. Take part in training tutorials, such as the all-new Young Driver's Test at Abu Dhabi's Yas Marina, to become familiar with the nuances of F1 racing and learn how to get the most speed out of your car. The new Lap Tutorials feature can help you perfect your car's performance, as F1 test driver Anthony Davis walks you through a lap of each of the 20 circuits, offering expert advice. Do you have what it takes to handle the world's toughest race circuits and steer your car to victory?\n\n\n\nKey Features:\n\nGet behind the wheel to experience the speed and drama of F1 racing first-hand\nDrive the breathtaking corners and elevation changes of the new Circuit of the Americas before the real-world debut in November 2012\nIncludes 20 exciting circuits from the F1 expanded 2012 calendar, including the return of Germany's Hockenheimring\nAn advanced weather system produces localized showers that can leave some areas of track wet while others stay dry for dramatic, unpredictable racing that requires last-minute, game-changing strategy calls\nLearn the finer points of F1 racing, including when to use KERS (Kinetic Energy Recovery System) and DRS (Drag Reduction System) with the all-new Young Driver's Test at Abu Dhabi Yas Marina\nLet F1 test driver Anthony Davidson talk you through a lap of each circuit, offering expert advice on breaking points, gearing and getting the most performance out of your car\nHigh-definition graphics offer stunning re-creations of some of the world's most beautiful and difficult tracks for a thrilling racing experience\nExtensive cooperative and multiplayer components offer a wide range of gaming options to help you perfect your competition skills\nProduct Description\nF1 2012 is designed to be the most accessible and immersive Formula One game for fans and racing game enthusiasts of all abilities. Players will feel the passion, speed and glory of the world’s most glamorous sport with a host of new features, wide-ranging technical and gameplay advancements and extensive competitive and co-operative multiplayer components. Through the inclusion of the Young Driver Test, a range of tutorials will introduce new players to Formula One racing and explain how to handle motorsport’s most exciting and responsive cars.",
+  "VideoURL": "https://www.youtube.com/watch?v=TJzEIfaiz2E",
+  "CommunityRating": "3.8",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/F1_2012_(video_game)",
+  "ESRB": "E - Everyone",
+  "Genres": " Racing",
+  "Developer": "Codemasters Birmingham",
+  "Publisher": "Codemasters Racing",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "a60d1227-48e8-43ed-b996-4bb259c451cd.jpg",
+        "Type": "Banner",
+        "Region": "North America",
+        "CRC32": "5411137",
+        "URL": "http://images.launchbox-app.com/a60d1227-48e8-43ed-b996-4bb259c451cd.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "3cba0101-d664-4d71-a7d4-24538061d581.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "3390789142",
+          "URL": "http://images.launchbox-app.com/3cba0101-d664-4d71-a7d4-24538061d581.png"
+        },
+        {
+          "FileName": "448c6873-04f7-46e2-8f53-367fae717df2.png",
+          "Type": "Box - 3D",
+          "Region": "Europe",
+          "CRC32": "3326862444",
+          "URL": "http://images.launchbox-app.com/448c6873-04f7-46e2-8f53-367fae717df2.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "af438979-b7d3-4e7e-b1e8-6632c34ccd59.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "3559706469",
+          "URL": "http://images.launchbox-app.com/af438979-b7d3-4e7e-b1e8-6632c34ccd59.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "49bc51fa-f67c-4789-be45-1b9af29d8e5f.jpg",
+          "Type": "Box - Front",
+          "Region": "Germany",
+          "CRC32": "3863026091",
+          "URL": "http://images.launchbox-app.com/49bc51fa-f67c-4789-be45-1b9af29d8e5f.jpg"
+        },
+        {
+          "FileName": "d4753dfd-0e83-4758-9c45-3bff8cae038e.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "173209940",
+          "URL": "http://images.launchbox-app.com/d4753dfd-0e83-4758-9c45-3bff8cae038e.jpg"
+        },
+        {
+          "FileName": "a5ff0b54-7446-4781-b2e6-dc323f324f13.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "Europe",
+          "CRC32": "3399641048",
+          "URL": "http://images.launchbox-app.com/a5ff0b54-7446-4781-b2e6-dc323f324f13.png"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "d8b83a33-a003-4165-98af-4d76931911e6.png",
+        "Type": "Clear Logo",
+        "Region": "Europe",
+        "CRC32": "1285079668",
+        "URL": "http://images.launchbox-app.com/d8b83a33-a003-4165-98af-4d76931911e6.png"
+      }
+    ]
+  }
+}

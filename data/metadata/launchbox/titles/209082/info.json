@@ -1,0 +1,24 @@
+{
+  "Name": "3 Point Contest",
+  "DatabaseID": "209082",
+  "ReleaseDate": "2012-11-20T00:00:00-08:00",
+  "Overview": "Jump into a fantastic new way to enjoy your favourite sports! Fast-track the fun in solo or multiplayer, tackle micro goals and win badges in the all-new mission structure, grin for the camera and stamp your pics on the high score wall.",
+  "CommunityRating": "3.25",
+  "ESRB": "E - Everyone",
+  "Genres": " Sports",
+  "Developer": "Rare",
+  "Publisher": "Microsoft Studios",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "41532e20-6c83-4eca-9f11-5d4709380fea.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3701233964",
+          "URL": "http://images.launchbox-app.com/41532e20-6c83-4eca-9f11-5d4709380fea.jpg"
+        }
+      ]
+    }
+  }
+}

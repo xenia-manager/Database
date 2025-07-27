@@ -1,0 +1,51 @@
+{
+  "Name": "Handball 16",
+  "DatabaseID": "203843",
+  "ReleaseDate": "2015-11-30T00:00:00-08:00",
+  "Overview": "Play all 62 official teams from the four biggest European leagues in the first next-generation handball simulation! Enjoy an improved and intuitive system with nearly 30 tactics for attacking and defending. Take full advantage of the Handball 16 experience thanks to its fluid gameplay and next-generation graphics for even more immersion and realism.",
+  "CommunityRating": "4",
+  "ESRB": "Not Rated",
+  "Genres": " Sports",
+  "Developer": "Eko Software",
+  "Publisher": "BigBen Interactive",
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "f677e46c-ba3e-4a94-ad36-8de5be7863ef.jpg",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "3017330851",
+          "URL": "http://images.launchbox-app.com/f677e46c-ba3e-4a94-ad36-8de5be7863ef.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "69d48221-f2e0-43a2-a5c6-e2c422f72250.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "1913066601",
+          "URL": "http://images.launchbox-app.com/69d48221-f2e0-43a2-a5c6-e2c422f72250.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "7002e99f-19c4-453d-86aa-93c9f75d3710.jpg",
+          "Type": "Box - Spine",
+          "Region": "Europe",
+          "CRC32": "3950343956",
+          "URL": "http://images.launchbox-app.com/7002e99f-19c4-453d-86aa-93c9f75d3710.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "c94a20e7-ce31-4a8b-ba4d-54b24f4382a8.png",
+        "Type": "Clear Logo",
+        "Region": "Europe",
+        "CRC32": "580150835",
+        "URL": "http://images.launchbox-app.com/c94a20e7-ce31-4a8b-ba4d-54b24f4382a8.png"
+      }
+    ]
+  }
+}

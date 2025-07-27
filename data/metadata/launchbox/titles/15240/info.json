@@ -1,0 +1,123 @@
+{
+  "Name": "Heavy Fire: Shattered Spear",
+  "DatabaseID": "15240",
+  "ReleaseDate": "2013-01-29T00:00:00-08:00",
+  "Overview": "Heavy Fire is a series of on-rails arcade shooter video games developed by Polish video game developer Teyon between 2010 and 2011. The series includes four games: Heavy Fire: Special Operations (2010), Heavy Fire: Black Arms (2011), Heavy Fire: Afghanistan (2011), and Heavy Fire: Shattered Spear (2011).",
+  "CommunityRating": "4.25",
+  "ESRB": "T - Teen",
+  "Genres": " Shooter",
+  "Developer": "Mastiff",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "feae8654-9569-445e-82b0-0f5b410ee579.png",
+        "Type": "Banner",
+        "CRC32": "118267768",
+        "URL": "http://images.launchbox-app.com/feae8654-9569-445e-82b0-0f5b410ee579.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "a7781612-45ee-4636-90af-47badd99476d.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3697068558",
+        "URL": "http://images.launchbox-app.com/a7781612-45ee-4636-90af-47badd99476d.jpg"
+      }
+    ],
+    "Box": {
+      "Back": [
+        {
+          "FileName": "cc3243e4-d1f6-4e93-a3e8-f972528ca9b6.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "1926813945",
+          "URL": "http://images.launchbox-app.com/cc3243e4-d1f6-4e93-a3e8-f972528ca9b6.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "65758819-3e14-436b-84b9-a741cbfce3d3.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3548522849",
+          "URL": "http://images.launchbox-app.com/65758819-3e14-436b-84b9-a741cbfce3d3.jpg"
+        },
+        {
+          "FileName": "16bf0aba-3efb-48b4-9d9f-f0838632251e.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "North America",
+          "CRC32": "3573305921",
+          "URL": "http://images.launchbox-app.com/16bf0aba-3efb-48b4-9d9f-f0838632251e.png"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "222a7f06-e071-4080-a49e-aa0cdebbf8a0.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "4205847773",
+          "URL": "http://images.launchbox-app.com/222a7f06-e071-4080-a49e-aa0cdebbf8a0.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "99a6ec04-2456-4212-9c20-a741c0917cf7.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2436195659",
+        "URL": "http://images.launchbox-app.com/99a6ec04-2456-4212-9c20-a741c0917cf7.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "c18dcfd3-7cbc-4663-aa59-38ef8ad467fb.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "4118858656",
+        "URL": "http://images.launchbox-app.com/c18dcfd3-7cbc-4663-aa59-38ef8ad467fb.jpg"
+      },
+      {
+        "FileName": "f0f38f1a-fa1f-4411-a2de-56f2831a2a95.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3678183269",
+        "URL": "http://images.launchbox-app.com/f0f38f1a-fa1f-4411-a2de-56f2831a2a95.jpg"
+      },
+      {
+        "FileName": "d19540bf-540d-4c6f-b77b-1d37423c6689.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1026163461",
+        "URL": "http://images.launchbox-app.com/d19540bf-540d-4c6f-b77b-1d37423c6689.jpg"
+      },
+      {
+        "FileName": "edf52467-56fb-4866-8861-f37e1855619e.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3953670674",
+        "URL": "http://images.launchbox-app.com/edf52467-56fb-4866-8861-f37e1855619e.jpg"
+      },
+      {
+        "FileName": "4e329e6c-9b14-4003-adef-7838bf017e68.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "50949931",
+        "URL": "http://images.launchbox-app.com/4e329e6c-9b14-4003-adef-7838bf017e68.jpg"
+      },
+      {
+        "FileName": "582f9e36-dcdf-46ca-8cb3-bb9e8b10bb2c.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3703614084",
+        "URL": "http://images.launchbox-app.com/582f9e36-dcdf-46ca-8cb3-bb9e8b10bb2c.jpg"
+      },
+      {
+        "FileName": "47ec36dc-729c-4659-8002-d89c880f00ba.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1249588152",
+        "URL": "http://images.launchbox-app.com/47ec36dc-729c-4659-8002-d89c880f00ba.jpg"
+      },
+      {
+        "FileName": "c6b5faa7-430e-4e99-9336-a7564a599ed2.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1029084312",
+        "URL": "http://images.launchbox-app.com/c6b5faa7-430e-4e99-9336-a7564a599ed2.jpg"
+      }
+    ]
+  }
+}

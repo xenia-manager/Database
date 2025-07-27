@@ -1,0 +1,24 @@
+{
+  "Name": "Minesweeper Flags",
+  "DatabaseID": "209684",
+  "ReleaseDate": "2010-01-04T00:00:00-08:00",
+  "Overview": "The full version of Minesweeper Flag includes LIVE multiplayer Flags action, exciting achievements, rankings, ratings and true skill. See how you stack up against your friends in Minesweeper action!",
+  "CommunityRating": "3",
+  "ESRB": "E - Everyone",
+  "Genres": " Puzzle",
+  "Developer": "TikGames",
+  "Publisher": "Microsoft Studios",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "8f036dcf-5fd2-4213-a724-0121fbeba1f4.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "517344089",
+          "URL": "http://images.launchbox-app.com/8f036dcf-5fd2-4213-a724-0121fbeba1f4.jpg"
+        }
+      ]
+    }
+  }
+}

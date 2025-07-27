@@ -1,0 +1,105 @@
+{
+  "Name": "Brave: A Warrior's Tale",
+  "DatabaseID": "162437",
+  "ReleaseDate": "2009-08-04T00:00:00-07:00",
+  "Overview": "Armed with Brave's stories and teachings, as well as various weapons including the Spirit Dancer's Tomahawk and the powerful Warrior's Bow, Courage will battle dangerous creatures such as fierce wolves, fallen warriors and the Wendigo in order to protect his tribe.",
+  "CommunityRating": "2.1666666666666665",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Brave:_A_Warrior%27s_Tale",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Action; Adventure",
+  "Developer": "Collision Studios",
+  "Publisher": "Southpeak Interactive",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "4cab990f-1527-4f60-90da-a93dec3fff19.png",
+        "Type": "Banner",
+        "CRC32": "3019227751",
+        "URL": "http://images.launchbox-app.com/4cab990f-1527-4f60-90da-a93dec3fff19.png"
+      },
+      {
+        "FileName": "b521fad8-508a-4ad5-8eff-321dc2f572c3.jpg",
+        "Type": "Banner",
+        "CRC32": "1912883487",
+        "URL": "http://images.launchbox-app.com/b521fad8-508a-4ad5-8eff-321dc2f572c3.jpg"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "e2196493-e1bd-4b9d-98f5-98bfb1deb161.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "292736534",
+        "URL": "http://images.launchbox-app.com/e2196493-e1bd-4b9d-98f5-98bfb1deb161.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "e7b9196b-2e53-4806-afbd-5d226160c6af.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "2946672805",
+          "URL": "http://images.launchbox-app.com/e7b9196b-2e53-4806-afbd-5d226160c6af.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "7a0ce7b4-9f50-4cdb-953f-df5d2d35a308.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "329896360",
+          "URL": "http://images.launchbox-app.com/7a0ce7b4-9f50-4cdb-953f-df5d2d35a308.jpg"
+        },
+        {
+          "FileName": "18f7caa4-682a-44bc-bbca-e3bbf8ad0e26.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "3778987877",
+          "URL": "http://images.launchbox-app.com/18f7caa4-682a-44bc-bbca-e3bbf8ad0e26.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "d23daa29-ad22-4528-b1f1-b8c9c10a3b04.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3009989284",
+          "URL": "http://images.launchbox-app.com/d23daa29-ad22-4528-b1f1-b8c9c10a3b04.jpg"
+        },
+        {
+          "FileName": "6243fae8-0138-448e-9dbc-38fd3da8d0e9.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "2268587481",
+          "URL": "http://images.launchbox-app.com/6243fae8-0138-448e-9dbc-38fd3da8d0e9.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "bb71cbaa-ced4-48d1-91c7-eac73b720a67.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "1418792051",
+          "URL": "http://images.launchbox-app.com/bb71cbaa-ced4-48d1-91c7-eac73b720a67.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "7ca5ece9-777a-4041-834b-663b9026d659.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1657222635",
+        "URL": "http://images.launchbox-app.com/7ca5ece9-777a-4041-834b-663b9026d659.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "6ebf1b28-1b63-4b7e-bccf-1f4022fdb323.png",
+        "Type": "Clear Logo",
+        "CRC32": "2453129824",
+        "URL": "http://images.launchbox-app.com/6ebf1b28-1b63-4b7e-bccf-1f4022fdb323.png"
+      }
+    ]
+  }
+}

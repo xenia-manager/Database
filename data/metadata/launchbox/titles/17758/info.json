@@ -1,0 +1,43 @@
+{
+  "Name": "Sanctum 2",
+  "DatabaseID": "17758",
+  "Overview": "Sanctum 2 is a first-person shooter tower defense video game, developed by independent developer Coffee Stain Studios for Microsoft Windows, OS X, Linux, PlayStation 3 and Xbox 360. The successor to Sanctum, Sanctum 2 was announced in 2012 and released on May 15, 2013.[3]",
+  "CommunityRating": "3",
+  "Genres": " Shooter",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "9abaceb9-6c13-4335-ab96-74d4e95d60be.png",
+        "Type": "Banner",
+        "CRC32": "816477564",
+        "URL": "http://images.launchbox-app.com/9abaceb9-6c13-4335-ab96-74d4e95d60be.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "a54bd727-7cb8-4715-a6c3-dbd53b5341cd.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1393419469",
+        "URL": "http://images.launchbox-app.com/a54bd727-7cb8-4715-a6c3-dbd53b5341cd.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "35041ced-6f4a-45e5-abbc-689eb947b53f.jpg",
+          "Type": "Box - Front",
+          "CRC32": "1918295478",
+          "URL": "http://images.launchbox-app.com/35041ced-6f4a-45e5-abbc-689eb947b53f.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "cec85d38-95a9-4862-9308-3bbf87b32eaf.png",
+        "Type": "Clear Logo",
+        "CRC32": "2485982815",
+        "URL": "http://images.launchbox-app.com/cec85d38-95a9-4862-9308-3bbf87b32eaf.png"
+      }
+    ]
+  }
+}

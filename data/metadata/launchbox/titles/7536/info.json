@@ -1,0 +1,99 @@
+{
+  "Name": "Mass Effect 2",
+  "DatabaseID": "7536",
+  "ReleaseDate": "2010-01-26T00:00:00-08:00",
+  "Overview": "After the events of the original game, Commander Shepard is killed in an ambush by a mysterious alien species called the Collectors. Shepard is revived two years after the attack by an enigmatic organization called Cerberus, and is tasked with finding out more about the Collectors and why they are abducting entire human colonies. Shepard must build a team in order to accomplish what seems to be a suicide mission.",
+  "VideoURL": "http://www.youtube.com/watch?v=Y2O-0-fQOOs",
+  "CommunityRating": "4.458333333333333",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Mass_Effect_2",
+  "ESRB": "M - Mature",
+  "Genres": " Adventure; Role-Playing; Shooter",
+  "Developer": "BioWare",
+  "Publisher": "Electronic Arts",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "56a3d543-c04d-4c22-875d-e54a5a3e8a3d.jpg",
+        "Type": "Banner",
+        "CRC32": "1134961024",
+        "URL": "http://images.launchbox-app.com/56a3d543-c04d-4c22-875d-e54a5a3e8a3d.jpg"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "a1e6457f-1466-43e5-98d8-e28b9bce3586.png",
+        "Type": "Fanart - Background",
+        "CRC32": "4028599891",
+        "URL": "http://images.launchbox-app.com/a1e6457f-1466-43e5-98d8-e28b9bce3586.png"
+      },
+      {
+        "FileName": "2e73beef-c39d-4eb3-ab61-a1a48262421a.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3549463286",
+        "URL": "http://images.launchbox-app.com/2e73beef-c39d-4eb3-ab61-a1a48262421a.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "054228a3-f65f-418a-b462-b7a426c8e720.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "1523872024",
+          "URL": "http://images.launchbox-app.com/054228a3-f65f-418a-b462-b7a426c8e720.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "415333d0-012c-44f5-81e9-2199001cb187.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "815152659",
+          "URL": "http://images.launchbox-app.com/415333d0-012c-44f5-81e9-2199001cb187.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "64398127-4824-4003-997a-b8783ad60e75.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1514028277",
+          "URL": "http://images.launchbox-app.com/64398127-4824-4003-997a-b8783ad60e75.jpg"
+        },
+        {
+          "FileName": "67bf451a-b7e0-46c8-8d2d-f9f6a70a3111.jpg",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "United States",
+          "CRC32": "3517279988",
+          "URL": "http://images.launchbox-app.com/67bf451a-b7e0-46c8-8d2d-f9f6a70a3111.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "84350087-3489-4bed-bf39-b26ba16aaa81.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "1784027693",
+          "URL": "http://images.launchbox-app.com/84350087-3489-4bed-bf39-b26ba16aaa81.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "6a23a970-4544-4049-9373-ea28ca256b46.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1039888003",
+        "URL": "http://images.launchbox-app.com/6a23a970-4544-4049-9373-ea28ca256b46.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "3accabd4-5c82-4064-a4fc-a005594ed9ad.png",
+        "Type": "Clear Logo",
+        "CRC32": "1628134906",
+        "URL": "http://images.launchbox-app.com/3accabd4-5c82-4064-a4fc-a005594ed9ad.png"
+      }
+    ]
+  }
+}

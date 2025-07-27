@@ -1,0 +1,60 @@
+{
+  "Name": "Fuse",
+  "DatabaseID": "16125",
+  "ReleaseDate": "2013-04-30T00:00:00-07:00",
+  "Overview": "Fuse is an action game, which features four-player co-op and a selection of weapons, akin to those which are prominently featured in Insomniac Games' PlayStation-exclusive Ratchet & Clank and Resistance series. Each character has its own powerful unique Fuse-powered weapon than can assist other players in gameplay. For example, Delta's weapon is a mag shield that can absorb bullets, and its secondary fire can push the bullets back to the enemies, killing them. The first official released screenshots revealed that Fuse is a third-person action game with cover shooting mechanics. Characters also have a skill tree, which can be upgrade as a player increases his or her level. The game also includes a horde mode, titled Echelon, similar to that in Gears of War.",
+  "VideoURL": "https://www.youtube.com/watch?v=WofEVEcv6w8",
+  "CommunityRating": "2.8333333333333335",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Fuse_(video_game)",
+  "ESRB": "M - Mature",
+  "Genres": " Action; Shooter",
+  "Developer": "Insomniac Games",
+  "Publisher": "Electronic Arts",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "7fef0125-e725-44b0-be48-6c3d19465eed.png",
+          "Type": "Box - 3D",
+          "CRC32": "2266499906",
+          "URL": "http://images.launchbox-app.com/7fef0125-e725-44b0-be48-6c3d19465eed.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "e8e0f4b9-5cd2-4045-897e-95edbecc77d2.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "95845525",
+          "URL": "http://images.launchbox-app.com/e8e0f4b9-5cd2-4045-897e-95edbecc77d2.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "9c5b63bc-5a82-42ee-a196-daf6b9161eaf.jpg",
+          "Type": "Box - Front",
+          "CRC32": "2108783648",
+          "URL": "http://images.launchbox-app.com/9c5b63bc-5a82-42ee-a196-daf6b9161eaf.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "7a15fcb4-3648-403a-9124-765de8ed7b59.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "4048162057",
+          "URL": "http://images.launchbox-app.com/7a15fcb4-3648-403a-9124-765de8ed7b59.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "a5365b07-4916-4803-9023-a5dab308d014.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "3557185813",
+        "URL": "http://images.launchbox-app.com/a5365b07-4916-4803-9023-a5dab308d014.png"
+      }
+    ]
+  }
+}

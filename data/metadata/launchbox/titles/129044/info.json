@@ -1,0 +1,31 @@
+{
+  "Name": "JUJU",
+  "DatabaseID": "129044",
+  "ReleaseDate": "2014-12-10T00:00:00-08:00",
+  "Overview": "Journey with the shaman panda, Juju, and his lizard sidekick, Peyo, as they embark upon a dangerous and mystical journey to save Juju's father and the world from an ancient evil. Run, bounce, chant, and battle humongous bosses with a friend or family member in this beautifully animated, lighthearted adventure.\n\nJuju’s father, Jambee, heads out to perform his daily rituals, unaware that Juju and Peyo have followed. While the elder is momentarily distracted from his work, the curious duo steps in, accidentally releasing a terrible and ancient spirit. Jambee bravely dives into battle with the creature, but he is not victorious and barely manages to pass a magical mask to his son before being captured. Now, it's up to Juju and Peyo to gather the mystic keys and magic ambers needed to seal away the spirit and save the day.",
+  "CommunityRating": "4.25",
+  "Genres": " Action",
+  "Developer": "Flying Wild Hog",
+  "Publisher": "Flying Wild Hog",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "22dd90d7-9263-4c54-927b-185bad3e4e97.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "1733756187",
+          "URL": "http://images.launchbox-app.com/22dd90d7-9263-4c54-927b-185bad3e4e97.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "ee854c88-ab22-4a61-af4a-4c5bdb4e721a.png",
+        "Type": "Clear Logo",
+        "CRC32": "2319987322",
+        "URL": "http://images.launchbox-app.com/ee854c88-ab22-4a61-af4a-4c5bdb4e721a.png"
+      }
+    ]
+  }
+}

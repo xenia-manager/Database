@@ -1,0 +1,75 @@
+{
+  "Name": "Syndicate",
+  "DatabaseID": "12146",
+  "ReleaseDate": "2012-02-21T00:00:00-08:00",
+  "Overview": "Set in 2069, Syndicate takes players into a dark, Machiavellian world run without government oversight with many syndicates vying for total dominance of their local market place. With no one to question their intentions or actions, three mega corporations - Eurocorp, Cayman Global, and Aspari - are at the forefront of this brutal war for control of the pivotal American market. In the world of Syndicate, everything is digitally connected, including the people. Players aren't limited to the weapons in their hands. Through DART 6 bio-chip technology implanted in their head, players can slow down time and breach the digital world around them to take down their foes using a variety of upgradable hacking mechanics. Syndicate's blend of fast-paced, futuristic, action shooter settings and story combined with innovative chip breach gameplay instantly immerses players in a unique digital world.",
+  "CommunityRating": "5",
+  "ESRB": "M - Mature",
+  "Genres": " Shooter",
+  "Developer": "Starbreeze Studios",
+  "Publisher": "Electronic Arts",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "7719a4c3-2505-4eb5-859e-57ee5e7fa8e0.png",
+          "Type": "Box - 3D",
+          "Region": "Europe",
+          "CRC32": "3359589068",
+          "URL": "http://images.launchbox-app.com/7719a4c3-2505-4eb5-859e-57ee5e7fa8e0.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "fd5214a0-74bb-4940-99c6-74476abeb2ca.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "529435245",
+          "URL": "http://images.launchbox-app.com/fd5214a0-74bb-4940-99c6-74476abeb2ca.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "dafd5958-d5f7-41be-a880-ffb2c279d174.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3679155032",
+          "URL": "http://images.launchbox-app.com/dafd5958-d5f7-41be-a880-ffb2c279d174.jpg"
+        },
+        {
+          "FileName": "dadb39d7-2415-4266-a8d0-77a8b72cd83b.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "901270751",
+          "URL": "http://images.launchbox-app.com/dadb39d7-2415-4266-a8d0-77a8b72cd83b.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "7a91a6d5-0a6c-4477-859b-36c1c0311d79.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "3568598477",
+          "URL": "http://images.launchbox-app.com/7a91a6d5-0a6c-4477-859b-36c1c0311d79.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "c16ea8d2-3e10-47f0-abcc-1d286e0e4bfe.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "3348415182",
+        "URL": "http://images.launchbox-app.com/c16ea8d2-3e10-47f0-abcc-1d286e0e4bfe.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "fa389da8-9dcc-471d-9088-1f62e576929c.png",
+        "Type": "Clear Logo",
+        "CRC32": "1204455075",
+        "URL": "http://images.launchbox-app.com/fa389da8-9dcc-471d-9088-1f62e576929c.png"
+      }
+    ]
+  }
+}

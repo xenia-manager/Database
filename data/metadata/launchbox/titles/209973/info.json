@@ -1,0 +1,24 @@
+{
+  "Name": "Ticket to Ride",
+  "DatabaseID": "209973",
+  "ReleaseDate": "2009-12-18T00:00:00-08:00",
+  "Overview": "Buy Ticket to Ride™ today for even more fun! Earn points as you claim your tracks and complete your Tickets from coast to coast. Play with up to 5 people on Xbox LIVE or 4 people on the same Xbox 360. Multiple levels of AI players will keep the challenges coming. Compare your best scores with your friends on the Leaderboards and earn Achievements to prove you are the best around!",
+  "CommunityRating": "4",
+  "ESRB": "E - Everyone",
+  "Genres": " Board Game",
+  "Developer": "Next Level Games",
+  "Publisher": "Microsoft Studios",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "2586b85e-039f-4435-88c6-db902a81225e.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "4252526104",
+          "URL": "http://images.launchbox-app.com/2586b85e-039f-4435-88c6-db902a81225e.jpg"
+        }
+      ]
+    }
+  }
+}

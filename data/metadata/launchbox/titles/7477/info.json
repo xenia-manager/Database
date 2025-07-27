@@ -1,0 +1,66 @@
+{
+  "Name": "F.E.A.R. 2: Project Origin",
+  "DatabaseID": "7477",
+  "ReleaseDate": "2009-02-10T00:00:00-08:00",
+  "Overview": "A routine assignment to locate the president of Armacham Technology Corporation in connection with an unfolding hostage crisis turns into a desperate battle for survival after an explosion decimates the city and unleashes Alma Wade, the terrifying supernatural menace at the center of Armacham's highly classified Project Origin. As Alma's power swells out of control, special forces Sgt. Michael Becket and his squad must battle through an apocalyptic landscape of shattered buildings and buckled streets in search of clues for how to destroy her. The more Becket learns about Armacham's secret experiments and reckless agenda, the more he begins to suspect that he's somehow linked to the crisis and may be the only one capable of averting total disaster.",
+  "VideoURL": "http://www.youtube.com/watch?v=bdLv5VGPzRY",
+  "CommunityRating": "4.5",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/F.E.A.R._2:_Project_Origin",
+  "ESRB": "M - Mature",
+  "Genres": " Horror; Shooter",
+  "Developer": "Monolith Productions",
+  "Publisher": "Warner Bros. Interactive Entertainment",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "30b59cc9-3969-4faf-8564-6bdcefd2ec58.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "782538488",
+        "URL": "http://images.launchbox-app.com/30b59cc9-3969-4faf-8564-6bdcefd2ec58.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "062a711c-78cb-4783-a3bf-664af587a00c.png",
+          "Type": "Box - 3D",
+          "CRC32": "3619641424",
+          "URL": "http://images.launchbox-app.com/062a711c-78cb-4783-a3bf-664af587a00c.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "0862aa0d-4994-499b-9d1c-187d68dcecfc.jpg",
+          "Type": "Box - Back",
+          "CRC32": "2774100702",
+          "URL": "http://images.launchbox-app.com/0862aa0d-4994-499b-9d1c-187d68dcecfc.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "1853ce74-328c-4aa5-b8dd-8ee8e607fb6c.jpg",
+          "Type": "Box - Front",
+          "CRC32": "1727023134",
+          "URL": "http://images.launchbox-app.com/1853ce74-328c-4aa5-b8dd-8ee8e607fb6c.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "2d0db6ae-38a3-4046-abb3-b2270a313781.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "4261120033",
+        "URL": "http://images.launchbox-app.com/2d0db6ae-38a3-4046-abb3-b2270a313781.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "f8efb8d3-34cd-47f7-8b5a-2e16b0386c2f.png",
+        "Type": "Clear Logo",
+        "CRC32": "3569251149",
+        "URL": "http://images.launchbox-app.com/f8efb8d3-34cd-47f7-8b5a-2e16b0386c2f.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Name": "PES 2015: Pro Evolution Soccer",
+  "DatabaseID": "26912",
+  "ReleaseDate": "2014-11-11T00:00:00-08:00",
+  "Overview": "Pro Evolution Soccer 2015 (abbreviated to PES 2015 and known as World Soccer: Winning Eleven 2015 in Asia) is a football simulation game developed by PES Productions and published by Konami for PlayStation 4, PlayStation 3, Xbox One, Xbox 360, and Microsoft Windows. It is the fourteenth edition of the Pro Evolution Soccer series. The cover of the game features Mario Götze.\n\nThe game's first downloadable content pack was released on November 9, 2014, ahead of the official launch a few days later. The pack adds an extra eight European Teams (Slovan Bratislava, FK Partizan, Maccabi Tel Aviv, Ludogorets Razgrad, HJK Helsinki, Qarabağ Agdam, Legia Warsaw, Sparta Praha), the Copa Sudamericana tournament, summer transfers, new player faces, latest squad lineups, and a series of latest boots from Adidas, Nike and Puma. A second downloadable content pack was released on December 15, 2014, adding four new teams and stadium, among other updates",
+  "VideoURL": "http://www.youtube.com/watch?v=chFGmgvPlS4",
+  "ESRB": "E - Everyone",
+  "Genres": " Sports",
+  "Developer": "Konami",
+  "Publisher": "Konami",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "bb91bded-6954-40b8-a27c-966e49ef4212.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "3434132776",
+          "URL": "http://images.launchbox-app.com/bb91bded-6954-40b8-a27c-966e49ef4212.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "c14a9797-81e7-40cf-9119-994b18406011.jpg",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "3181633557",
+          "URL": "http://images.launchbox-app.com/c14a9797-81e7-40cf-9119-994b18406011.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "0a498bc8-4884-426a-845a-9615cc8f459c.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "3767596715",
+          "URL": "http://images.launchbox-app.com/0a498bc8-4884-426a-845a-9615cc8f459c.jpg"
+        },
+        {
+          "FileName": "615438ef-a797-4e57-ab5d-1e28731a7eb4.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2157643484",
+          "URL": "http://images.launchbox-app.com/615438ef-a797-4e57-ab5d-1e28731a7eb4.jpg"
+        },
+        {
+          "FileName": "aec818fe-804c-48a7-96f9-8873f9927485.png",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "3012272168",
+          "URL": "http://images.launchbox-app.com/aec818fe-804c-48a7-96f9-8873f9927485.png"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "2aa62d45-aec7-4b19-a2ea-2ea273e862a5.jpg",
+          "Type": "Box - Spine",
+          "Region": "Europe",
+          "CRC32": "3268616495",
+          "URL": "http://images.launchbox-app.com/2aa62d45-aec7-4b19-a2ea-2ea273e862a5.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "28ed7ea7-5578-4e50-aca1-028d00bc2385.png",
+        "Type": "Clear Logo",
+        "CRC32": "2446207619",
+        "URL": "http://images.launchbox-app.com/28ed7ea7-5578-4e50-aca1-028d00bc2385.png"
+      }
+    ]
+  }
+}

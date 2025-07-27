@@ -1,0 +1,56 @@
+{
+  "Name": "Kung Fu Panda",
+  "DatabaseID": "7498",
+  "ReleaseDate": "2008-06-03T00:00:00-07:00",
+  "Overview": "In the Kung Fu Panda video game, players embark on an epic, action-packed adventure as they master the specialized Kung Fu fighting styles of Po the Panda, the unlikely hero, his teacher Shifu, and the legendary Kung Fu masters, the Furious Five: Monkey, Tigress, Viper, Mantis and Crane. Through 13 legendary levels from the movie and beyond, and spanning land, water and air, players must work their way to become the Dragon Warrior and defeat the ultimate enemy, Tai Lung, as they battle a variety of foes, overcome dangerous obstacles, navigate multi-tiered environments and solve challenging puzzles.",
+  "VideoURL": "https://www.youtube.com/watch?v=OpbCWHVUHpU",
+  "CommunityRating": "4.333333333333333",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Kung_Fu_Panda_(video_game)",
+  "ESRB": "E - Everyone",
+  "Genres": " Action",
+  "Developer": "XPEC Entertainment",
+  "Publisher": "Activision",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "4a7bfc34-4a08-460a-a07f-6e5026a9e694.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2853721543",
+        "URL": "http://images.launchbox-app.com/4a7bfc34-4a08-460a-a07f-6e5026a9e694.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "79d4bd8e-0a7b-404a-912a-86c2cd910110.png",
+          "Type": "Box - 3D",
+          "CRC32": "3050001843",
+          "URL": "http://images.launchbox-app.com/79d4bd8e-0a7b-404a-912a-86c2cd910110.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "8354d61a-ebbd-4b23-af91-19a24a5f61db.jpg",
+          "Type": "Box - Back",
+          "CRC32": "1464799598",
+          "URL": "http://images.launchbox-app.com/8354d61a-ebbd-4b23-af91-19a24a5f61db.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "92d8d5c9-fe2d-4d0c-8021-a658f4092f1e.jpg",
+          "Type": "Box - Front",
+          "CRC32": "2484766600",
+          "URL": "http://images.launchbox-app.com/92d8d5c9-fe2d-4d0c-8021-a658f4092f1e.jpg"
+        },
+        {
+          "FileName": "8d830ca3-96b6-4ea7-8759-eeb986d4ccbd.jpg",
+          "Type": "Box - Front",
+          "Region": "Germany",
+          "CRC32": "1537755912",
+          "URL": "http://images.launchbox-app.com/8d830ca3-96b6-4ea7-8759-eeb986d4ccbd.jpg"
+        }
+      ]
+    }
+  }
+}

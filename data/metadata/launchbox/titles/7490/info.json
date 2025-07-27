@@ -1,0 +1,61 @@
+{
+  "Name": "Guitar Hero Smash Hits",
+  "DatabaseID": "7490",
+  "ReleaseDate": "2009-06-16T00:00:00-07:00",
+  "Overview": "Guitar Hero Smash Hits is the best of Guitar Hero music, now for the full band! Rock out to the most fun tracks from Guitar Hero, Guitar Hero II, Guitar Hero: Rock the 80's, and Guitar Hero III: Legends of Rock, now for the full band. Using the controllers strum, drum, and belt out a collection of master tracks including Nirvana, Judas Priest, Slayer, Rage Against the Machine, Queen, and many more.",
+  "VideoURL": "https://www.youtube.com/watch?v=qEd1ZzwUiYY",
+  "CommunityRating": "4.375",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Guitar_Hero_Smash_Hits",
+  "ESRB": "T - Teen",
+  "Genres": " Music",
+  "Developer": "Beenox",
+  "Publisher": "Activision",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "572f948b-aa2c-4dcc-8a4a-5177d467cf1d.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "1258115015",
+          "URL": "http://images.launchbox-app.com/572f948b-aa2c-4dcc-8a4a-5177d467cf1d.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "f90ed969-5484-4289-8ddd-ad31cc1644bc.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "3660974336",
+          "URL": "http://images.launchbox-app.com/f90ed969-5484-4289-8ddd-ad31cc1644bc.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "5bcb10e9-03ca-473e-acf4-fe3b2d2a330a.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "4217741279",
+          "URL": "http://images.launchbox-app.com/5bcb10e9-03ca-473e-acf4-fe3b2d2a330a.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "a5c7102f-d125-4c3c-908d-1773f44ce19c.png",
+        "Type": "Disc",
+        "Region": "Germany",
+        "CRC32": "3879894503",
+        "URL": "http://images.launchbox-app.com/a5c7102f-d125-4c3c-908d-1773f44ce19c.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "c87cb50e-d8ff-4899-a32f-14e9266a5ea0.png",
+        "Type": "Clear Logo",
+        "CRC32": "2844757212",
+        "URL": "http://images.launchbox-app.com/c87cb50e-d8ff-4899-a32f-14e9266a5ea0.png"
+      }
+    ]
+  }
+}

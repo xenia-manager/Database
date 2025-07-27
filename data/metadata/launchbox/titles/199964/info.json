@@ -1,0 +1,73 @@
+{
+  "Name": "Tempest",
+  "DatabaseID": "199964",
+  "ReleaseDate": "2007-12-19T00:00:00-08:00",
+  "Overview": "Tempest is one of the most well-known arcade games of all time, a true classic in the realm of video games. This intense shooter requires lots of skill and lightning-quick reflexes. Use unlimited firepower to shoot and destroy enemies in a large geometric battlefield.",
+  "CommunityRating": "3.8",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Tempest_(video_game)",
+  "ESRB": "E - Everyone",
+  "Genres": " Shooter",
+  "Developer": "Stainless Games",
+  "Publisher": "Atari",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "a2a4942a-984a-4389-90bc-3c29e6744d17.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2967326396",
+        "URL": "http://images.launchbox-app.com/a2a4942a-984a-4389-90bc-3c29e6744d17.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "6c0e1c33-f27a-4288-bf7d-3d4d694c958d.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "505286634",
+          "URL": "http://images.launchbox-app.com/6c0e1c33-f27a-4288-bf7d-3d4d694c958d.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "6aff8c34-3149-4fa1-9590-41569878f590.png",
+        "Type": "Screenshot - Game Select",
+        "CRC32": "1763889418",
+        "URL": "http://images.launchbox-app.com/6aff8c34-3149-4fa1-9590-41569878f590.png"
+      },
+      {
+        "FileName": "25c6004f-ba2a-4fc0-bdfb-13a5f6b4adf5.png",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3722838149",
+        "URL": "http://images.launchbox-app.com/25c6004f-ba2a-4fc0-bdfb-13a5f6b4adf5.png"
+      },
+      {
+        "FileName": "4af57d6c-1df0-4563-b67f-db986230f5cf.png",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "116650693",
+        "URL": "http://images.launchbox-app.com/4af57d6c-1df0-4563-b67f-db986230f5cf.png"
+      },
+      {
+        "FileName": "74c8b255-a6da-45b2-b021-ea72bb1edf30.png",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2897464715",
+        "URL": "http://images.launchbox-app.com/74c8b255-a6da-45b2-b021-ea72bb1edf30.png"
+      },
+      {
+        "FileName": "20471559-e1be-4d8b-9d72-cce8db815087.png",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2313187300",
+        "URL": "http://images.launchbox-app.com/20471559-e1be-4d8b-9d72-cce8db815087.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "5c29d7b4-5aee-401c-a79d-d5f5261bcaff.png",
+        "Type": "Clear Logo",
+        "CRC32": "537886882",
+        "URL": "http://images.launchbox-app.com/5c29d7b4-5aee-401c-a79d-d5f5261bcaff.png"
+      }
+    ]
+  }
+}

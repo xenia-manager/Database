@@ -1,0 +1,48 @@
+{
+  "Name": "Rocksmith 2014",
+  "DatabaseID": "18070",
+  "ReleaseDate": "2013-10-22T00:00:00-07:00",
+  "Overview": "Rocksmith 2014 is a music video game produced by Ubisoft. It has been described as a replacement to the 2011 rhythm video game Rocksmith rather than a sequel. The game's main focus is the feature that allows players to plug in virtually any electric guitar or bass guitar and play. It was announced at Ubisoft's 2013 E3 presentation.",
+  "VideoURL": "http://www.youtube.com/watch?v=l1Fb9GguOyg",
+  "CommunityRating": "3.5",
+  "ESRB": "T - Teen",
+  "Genres": " Music",
+  "Developer": "Ubisoft",
+  "Publisher": "Ubisoft",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "339d09bf-138a-4953-a85b-4b1543450be2.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "4103692621",
+        "URL": "http://images.launchbox-app.com/339d09bf-138a-4953-a85b-4b1543450be2.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "ab784626-e44f-442e-94e9-1aac96e561bd.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "1961291250",
+          "URL": "http://images.launchbox-app.com/ab784626-e44f-442e-94e9-1aac96e561bd.jpg"
+        },
+        {
+          "FileName": "13d7fd3d-324d-4ffc-a919-a7c2ec28019c.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3105493152",
+          "URL": "http://images.launchbox-app.com/13d7fd3d-324d-4ffc-a919-a7c2ec28019c.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "caa97083-ab1b-4ee7-ae5b-7879d705640f.png",
+        "Type": "Clear Logo",
+        "CRC32": "461250521",
+        "URL": "http://images.launchbox-app.com/caa97083-ab1b-4ee7-ae5b-7879d705640f.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "Name": "Janline",
+  "DatabaseID": "459060",
+  "ReleaseDate": "2008-09-25T00:00:00-07:00",
+  "Overview": "Janline is an online game where the rules of Japanese Mahjong are used. The game is known in the Japanese gaming community as a kusoge, due to the game's quality and its customer support.",
+  "VideoURL": "https://www.dailymotion.com/video/x1aaah6",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Janline",
+  "ESRB": "M - Mature",
+  "Genres": " Board Game",
+  "Developer": "Recom",
+  "Publisher": "Recom",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "23b91846-766f-462b-930f-e3d8fb05d5e3.jpg",
+          "Type": "Box - Front",
+          "Region": "Japan",
+          "CRC32": "1968947959",
+          "URL": "http://images.launchbox-app.com/23b91846-766f-462b-930f-e3d8fb05d5e3.jpg"
+        }
+      ]
+    }
+  }
+}

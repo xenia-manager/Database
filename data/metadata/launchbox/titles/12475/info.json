@@ -1,0 +1,56 @@
+{
+  "Name": "DiRT 2",
+  "DatabaseID": "12475",
+  "ReleaseDate": "2009-09-08T00:00:00-07:00",
+  "Overview": "Codemasters' acclaimed off-road racing series continues with Dirt 2, which offers enhanced visuals, controls, and play mechanics over its power-sliding predecessor. A revamped single-player mode finds you starting out in the humble confines of an RV, where you'll begin your racing career. It's there where you'll meet driver Travis Pastrana, who gives you the keys to the late Colin McRae's blue Subaru and sends you on your way. You'll then compete in various locales around the world, from Los Angeles to Malaysia, interacting with such real-life drivers as Ken Block, Dave Mirra, and Tanner Faust while entering over 100 events designed to put your driving skills to the test. Earn upgrades to McRae's Subaru or acquire new cars along the way. Each event is geared toward a specific style of off-road racing, from Rallycross and Trailblazer to Landrush and Raid. Up to eight players can also compete online in any of the available game modes.",
+  "VideoURL": "http://www.youtube.com/watch?v=JTg26h88ruQ",
+  "CommunityRating": "4.0454545454545459",
+  "ESRB": "T - Teen",
+  "Genres": " Racing",
+  "Publisher": "Codemasters Software",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "a1f23d60-b92d-431d-a989-4fdab4bfa265.png",
+          "Type": "Box - 3D",
+          "CRC32": "3119859927",
+          "URL": "http://images.launchbox-app.com/a1f23d60-b92d-431d-a989-4fdab4bfa265.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "cfb14b16-5df1-42ef-a531-803951e76505.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "211004440",
+          "URL": "http://images.launchbox-app.com/cfb14b16-5df1-42ef-a531-803951e76505.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "22276345-9662-4145-af6c-62fcf8a74246.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2992812046",
+        "URL": "http://images.launchbox-app.com/22276345-9662-4145-af6c-62fcf8a74246.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "fd607ffa-b37a-4d39-a5a4-8e4814689c6d.png",
+        "Type": "Clear Logo",
+        "CRC32": "57711879",
+        "URL": "http://images.launchbox-app.com/fd607ffa-b37a-4d39-a5a4-8e4814689c6d.png"
+      },
+      {
+        "FileName": "2655f546-761e-419c-bda9-561a87fea995.png",
+        "Type": "Clear Logo",
+        "Region": "Europe",
+        "CRC32": "3932684423",
+        "URL": "http://images.launchbox-app.com/2655f546-761e-419c-bda9-561a87fea995.png"
+      }
+    ]
+  }
+}

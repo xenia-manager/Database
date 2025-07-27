@@ -1,0 +1,32 @@
+{
+  "Name": "Minecraft: Story Mode: Season 2",
+  "DatabaseID": "173564",
+  "ReleaseDate": "2017-07-11T00:00:00-07:00",
+  "Overview": "Now that Jesse and the gang have vanquished the Wither Storm, saved the world, and become totally super famous heroes, life has gotten a bit more...complicated. With more responsibilities and less time for adventure, old friendships have started to fade -- at least until Jesse’s hand gets stuck in a creepy gauntlet that belongs to an ancient underwater temple. Together with old pals and new comrades alike, Jesse embarks on a brand new journey filled with tough choices, good times, and at least one temperamental llama.",
+  "CommunityRating": "4.75",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Adventure",
+  "Developer": "Telltale Games",
+  "Publisher": "Telltale Games",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "06a9f3eb-1e0c-471d-ab19-6614cbcc0cd5.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "535957967",
+        "URL": "http://images.launchbox-app.com/06a9f3eb-1e0c-471d-ab19-6614cbcc0cd5.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "2b6fe88f-33c9-4400-8c24-99a9a5099eb5.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3999427240",
+          "URL": "http://images.launchbox-app.com/2b6fe88f-33c9-4400-8c24-99a9a5099eb5.jpg"
+        }
+      ]
+    }
+  }
+}

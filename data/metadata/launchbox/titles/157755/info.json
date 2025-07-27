@@ -1,0 +1,70 @@
+{
+  "Name": "3D Ultra Minigolf Adventures",
+  "DatabaseID": "157755",
+  "ReleaseYear": "2010",
+  "Overview": "Whether you’re a seasoned putter or just beginning, get ready to tee off for a match of quick and adventurous fun. Choose from four stylish characters and putt your way through 36 fun-filled holes of manic minigolf. Intricately designed courses include elevated greens, bunkers, water hazards and other crazy obstacles set in an array of eye-catching environments--Classic Theme Park, Old Western Ghost Town or Outer Space.",
+  "CommunityRating": "3.1",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/3D_Ultra_Minigolf",
+  "ESRB": "E - Everyone",
+  "Genres": " Sports",
+  "Developer": "Wanako Studios",
+  "Publisher": "Sierra Online",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "27017458-ec45-4daa-a22f-095633236d9f.png",
+        "Type": "Banner",
+        "CRC32": "2352729880",
+        "URL": "http://images.launchbox-app.com/27017458-ec45-4daa-a22f-095633236d9f.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "b2816d6d-e058-4f32-aca2-46e05f58be43.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2127412671",
+        "URL": "http://images.launchbox-app.com/b2816d6d-e058-4f32-aca2-46e05f58be43.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "aea06355-0533-4db6-aae4-83ab30ba830c.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "606018787",
+          "URL": "http://images.launchbox-app.com/aea06355-0533-4db6-aae4-83ab30ba830c.jpg"
+        },
+        {
+          "FileName": "a34409ed-b39e-49cc-95c2-4f4cb68067b6.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "1693620752",
+          "URL": "http://images.launchbox-app.com/a34409ed-b39e-49cc-95c2-4f4cb68067b6.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "f4fca1ad-5922-49f8-a8ad-e2b7dba0193a.png",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "31081957",
+        "URL": "http://images.launchbox-app.com/f4fca1ad-5922-49f8-a8ad-e2b7dba0193a.png"
+      },
+      {
+        "FileName": "eaa4b68c-d8b2-4cd1-96db-5b4e8d5230a3.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "4052725414",
+        "URL": "http://images.launchbox-app.com/eaa4b68c-d8b2-4cd1-96db-5b4e8d5230a3.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "1db45920-590a-4212-87d0-7d6bf20c0aa4.png",
+        "Type": "Clear Logo",
+        "CRC32": "3699339442",
+        "URL": "http://images.launchbox-app.com/1db45920-590a-4212-87d0-7d6bf20c0aa4.png"
+      }
+    ]
+  }
+}

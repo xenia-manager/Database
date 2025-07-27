@@ -1,0 +1,40 @@
+{
+  "Name": "F.3.A.R.",
+  "DatabaseID": "12797",
+  "ReleaseDate": "2011-06-21T00:00:00-07:00",
+  "Overview": "The supernatural shooting series known as F.E.A.R., short for First Encounter Assault Recon, makes its third entry on consoles with a single-player campaign and two-player cooperative action. In both modes, you will control the genetically enhanced soldier from the original game, Point Man, who has the power to alter time. Also available in the co-op mode is Point Man's scheming brother, Paxton Fettel, who uses the power of telekinesis to resume \"life\" as an undead spirit.\n\nThe story once again centers around Point Man and Paxton's mother, Alma Wade, whose psychic powers have created an alternate dimension filled with ghastly creatures and other horrors. To combat the paranormal, players can enter slow-motion combat, utilize 360-degree cover, and more. F.E.A.R. 3 also features a mechanic called the \"generative scare system,\" which introduces random events designed to keep players on edge. Developer Day 1 Studios consulted with famed director John Carpenter for the in-game cinematics and horror writer Steve Niles to assist with the script.",
+  "CommunityRating": "3.9285714285714284",
+  "ESRB": "M - Mature",
+  "Genres": " Shooter",
+  "Developer": "Day 1 Studios",
+  "Publisher": "Warner Bros. Interactive Entertainment",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "3f4c5046-e587-42af-a220-74925e573aa9.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1912799854",
+          "URL": "http://images.launchbox-app.com/3f4c5046-e587-42af-a220-74925e573aa9.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "3285e00f-9faf-4480-963c-2e129894d739.png",
+        "Type": "Disc",
+        "CRC32": "689013099",
+        "URL": "http://images.launchbox-app.com/3285e00f-9faf-4480-963c-2e129894d739.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "718d7145-8656-4ef1-86dd-31700b1679da.png",
+        "Type": "Clear Logo",
+        "CRC32": "2352769400",
+        "URL": "http://images.launchbox-app.com/718d7145-8656-4ef1-86dd-31700b1679da.png"
+      }
+    ]
+  }
+}

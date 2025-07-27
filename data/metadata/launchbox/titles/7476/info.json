@@ -1,0 +1,66 @@
+{
+  "Name": "F.E.A.R.",
+  "DatabaseID": "7476",
+  "ReleaseDate": "2006-10-31T00:00:00-08:00",
+  "Overview": "F.E.A.R.™ (First Encounter Assault Recon) is a paranormal action thriller presented entirely in first-person. An unprecedented adrenaline rush of close quarters combat seamlessly melded with the spine-tingling shocking intensity of the paranormal unknown.Already a critical and commercial smash on the PC F.E.A.R. will bring a new level of FPS game play to PlayStation 3 with exclusive single player content designed to immerse the player deeper in the world of the F.E.A.R. team as well as the visceral action of F.EA.R. multiplayer",
+  "VideoURL": "https://www.youtube.com/watch?v=sSme33E8uFM",
+  "CommunityRating": "3.8333333333333335",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/F.E.A.R._(video_game)",
+  "ESRB": "M - Mature",
+  "Genres": " Horror; Shooter",
+  "Developer": "Monolith Productions",
+  "Publisher": "Sierra",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "5e81c4c3-a3c2-4ea3-bda9-9da386b280fd.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "782538488",
+        "URL": "http://images.launchbox-app.com/5e81c4c3-a3c2-4ea3-bda9-9da386b280fd.jpg"
+      },
+      {
+        "FileName": "f1bb1c57-e8a0-4ad4-9c08-0c86c2bf99ac.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "312162387",
+        "URL": "http://images.launchbox-app.com/f1bb1c57-e8a0-4ad4-9c08-0c86c2bf99ac.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "cb391675-6991-4f3d-ae5b-892435d11688.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "920331280",
+          "URL": "http://images.launchbox-app.com/cb391675-6991-4f3d-ae5b-892435d11688.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "a634e0e0-293d-4ebb-99c7-27a6ce7db637.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "3510360420",
+          "URL": "http://images.launchbox-app.com/a634e0e0-293d-4ebb-99c7-27a6ce7db637.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "6f1f6b36-53e5-4c4b-b84d-dbf3bf9c42ad.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "690279076",
+          "URL": "http://images.launchbox-app.com/6f1f6b36-53e5-4c4b-b84d-dbf3bf9c42ad.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "e8426aef-b1fc-4b34-a940-581a1fc3894c.png",
+        "Type": "Clear Logo",
+        "CRC32": "2667929259",
+        "URL": "http://images.launchbox-app.com/e8426aef-b1fc-4b34-a940-581a1fc3894c.png"
+      }
+    ]
+  }
+}

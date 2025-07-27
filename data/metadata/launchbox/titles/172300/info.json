@@ -1,0 +1,83 @@
+{
+  "Name": "Dark Souls: Prepare to Die Edition",
+  "DatabaseID": "172300",
+  "ReleaseDate": "2012-10-26T00:00:00-07:00",
+  "Overview": "Dark Souls: Prepare to Die is an expanded version of the console game Dark Souls. Next to the original gameplay it adds in additional content slip-streamed into the main game:\n\n- General gameplay tweaks\n- Multiplayer arena as a training ground for online PvP battles: duels (one versus one), team battles (two versus two) and four-player FFA matches\n- New bosses (Black Dragon, Sanctuary Guardian, Artorias of the Abyss)\n- New enemies (Wooden scarecrows, Chained Prisoner, Stone Knight)\n- New NPCs (Hawkeye Gough, Elizabeth)\n- New weapons and armor\n- Oolacile as a new area, split up into four smaller sections",
+  "VideoURL": "https://www.youtube.com/watch?v=KibniXLqcf8",
+  "CommunityRating": "5",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Dark_Souls",
+  "ESRB": "M - Mature",
+  "Genres": " Action",
+  "Developer": "FromSoftware",
+  "Publisher": "Namco Bandai Games",
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "af69cf78-9725-46ee-ac5d-d7178c3d0593.jpg",
+          "Type": "Box - Back",
+          "Region": "United Kingdom",
+          "CRC32": "2765737009",
+          "URL": "http://images.launchbox-app.com/af69cf78-9725-46ee-ac5d-d7178c3d0593.jpg"
+        },
+        {
+          "FileName": "abb1f9d3-9d69-4fc0-b36f-c5a358b26e06.jpg",
+          "Type": "Box - Back",
+          "Region": "Australia",
+          "CRC32": "345229888",
+          "URL": "http://images.launchbox-app.com/abb1f9d3-9d69-4fc0-b36f-c5a358b26e06.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "e0037e98-6e43-4e0f-ae16-af60dfd644fc.jpg",
+          "Type": "Box - Front",
+          "Region": "Germany",
+          "CRC32": "327484475",
+          "URL": "http://images.launchbox-app.com/e0037e98-6e43-4e0f-ae16-af60dfd644fc.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "096f3794-5e3c-4b56-8144-f06377857333.jpg",
+          "Type": "Box - Spine",
+          "Region": "Europe",
+          "CRC32": "2580838373",
+          "URL": "http://images.launchbox-app.com/096f3794-5e3c-4b56-8144-f06377857333.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "7bb0d579-e497-4239-8ed5-0ce273ac9bf5.png",
+        "Type": "Disc",
+        "Region": "World",
+        "CRC32": "4273183917",
+        "URL": "http://images.launchbox-app.com/7bb0d579-e497-4239-8ed5-0ce273ac9bf5.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "35bafc1a-97f7-4fac-9df8-033e16cf3b33.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "4292427439",
+        "URL": "http://images.launchbox-app.com/35bafc1a-97f7-4fac-9df8-033e16cf3b33.jpg"
+      },
+      {
+        "FileName": "16e0768e-51c8-4e88-bebc-8322855b432e.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1292778131",
+        "URL": "http://images.launchbox-app.com/16e0768e-51c8-4e88-bebc-8322855b432e.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "89903926-0f94-4f96-a17e-3eaa9e724929.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "1576815943",
+        "URL": "http://images.launchbox-app.com/89903926-0f94-4f96-a17e-3eaa9e724929.png"
+      }
+    ]
+  }
+}

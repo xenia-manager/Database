@@ -1,0 +1,64 @@
+{
+  "Name": "Coffeetime Crosswords",
+  "DatabaseID": "209274",
+  "ReleaseDate": "2008-07-16T00:00:00-07:00",
+  "Overview": "Prepare for a true crossword challenge as you test your skills in Coffeetime Crosswords. Try for the high score as you progress through more than 150 crosswords developed by Penny Press. Play together with a friend in co-op mode and help each other solve the crosswords. Gather your wits, prepare yourself to be entertained, and challenge your crossword prowess.",
+  "ESRB": "E - Everyone",
+  "Genres": " Puzzle",
+  "Publisher": "Konami",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "ef5100c8-3f73-4c94-b5ab-921845ebdf78.png",
+        "Type": "Banner",
+        "CRC32": "3687685809",
+        "URL": "http://images.launchbox-app.com/ef5100c8-3f73-4c94-b5ab-921845ebdf78.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "969dc902-e164-4cd7-81df-4be4c8f25055.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "909281087",
+        "URL": "http://images.launchbox-app.com/969dc902-e164-4cd7-81df-4be4c8f25055.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "9ae5fcf9-6928-4c5d-9a01-84fb41702959.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "397911835",
+          "URL": "http://images.launchbox-app.com/9ae5fcf9-6928-4c5d-9a01-84fb41702959.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "a5fcc6d2-e2ac-4614-b293-f43c8083b3ea.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1110834758",
+        "URL": "http://images.launchbox-app.com/a5fcc6d2-e2ac-4614-b293-f43c8083b3ea.jpg"
+      },
+      {
+        "FileName": "244f64c1-f710-43a9-932a-b43b2949eefc.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2724289329",
+        "URL": "http://images.launchbox-app.com/244f64c1-f710-43a9-932a-b43b2949eefc.jpg"
+      },
+      {
+        "FileName": "7669f80b-0e54-4391-b20b-be90e8386166.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3948359592",
+        "URL": "http://images.launchbox-app.com/7669f80b-0e54-4391-b20b-be90e8386166.jpg"
+      },
+      {
+        "FileName": "b77e03a8-e28a-4260-a06d-959472d0b944.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2456340246",
+        "URL": "http://images.launchbox-app.com/b77e03a8-e28a-4260-a06d-959472d0b944.jpg"
+      }
+    ]
+  }
+}

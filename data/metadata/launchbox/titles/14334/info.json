@@ -1,0 +1,46 @@
+{
+  "Name": "NBA 2K9",
+  "DatabaseID": "14334",
+  "ReleaseDate": "2008-10-07T00:00:00-07:00",
+  "Overview": "Improved facial and skin textures, better uniforms, improved eye movement and more realistic crowd reactions bring the game alive like never before. Analyst Clark Kellogg and sideline reporter Cheryl Miller join color commentator Kevin Harlan to create one of the most knowledgeable broadcast teams in the game. End each quarter with enhanced, multiple angle replay highlights, and be rewarded like never before with all-new, true-to-life celebration sequences after you capture the NBA championship.",
+  "CommunityRating": "4.666666666666667",
+  "Genres": " Sports",
+  "Developer": "Virtual Concepts",
+  "Publisher": "2K Games",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "04246683-a6d0-47a0-b1b5-514abf1c5514.png",
+          "Type": "Box - 3D",
+          "CRC32": "2157087308",
+          "URL": "http://images.launchbox-app.com/04246683-a6d0-47a0-b1b5-514abf1c5514.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "b38a6584-ccf4-46e6-b158-c9c5653a7b89.jpg",
+          "Type": "Box - Back",
+          "CRC32": "2365797005",
+          "URL": "http://images.launchbox-app.com/b38a6584-ccf4-46e6-b158-c9c5653a7b89.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "25fc6045-5453-4718-b733-1cb956374750.jpg",
+          "Type": "Box - Front",
+          "CRC32": "1363133076",
+          "URL": "http://images.launchbox-app.com/25fc6045-5453-4718-b733-1cb956374750.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "7f6ec0f8-2339-4839-af6f-23b02ca0d50d.png",
+        "Type": "Clear Logo",
+        "CRC32": "2992263218",
+        "URL": "http://images.launchbox-app.com/7f6ec0f8-2339-4839-af6f-23b02ca0d50d.png"
+      }
+    ]
+  }
+}

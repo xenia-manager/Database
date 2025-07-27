@@ -1,0 +1,40 @@
+{
+  "Name": "Dragon's Dogma: Dark Arisen",
+  "DatabaseID": "16524",
+  "ReleaseDate": "2013-04-23T00:00:00-07:00",
+  "Overview": "Just off the Gransys mainland is the cursed Bitter black Isle where gamers will embark on an all-new quest to discover an underground realm, complete with new terrifying foes and incredible treasure. Owners of the original Dragon's Dogma will be able to export their existing characters and all other saved data to continue their journey as the Arisen, and face a new threat that has emerged from the cavernous depths. Players will be able to take their characters to new heights with brand new high-level skills and augments as well as all new weapons and armor sets. Furthermore, owners of the original Dragon's Dogma will receive 100,000 Rift Crystals, unlimited Ferry stones and the Gransys Armor Pack consisting of six brand new costumes for free, upon purchasing Dragon's Dogma: Dark Arisen. \n\nFor those that missed Dragon's Dogma the first time around, Dragon's Dogma: Dark Arisen provides the opportunity to start their journey from the very beginning before tackling the all-new content. Based on player feedback, Dragon's Dogma: Dark Arisen will make the Dragon's Dogma gameplay experience even more satisfying with improvements such as easier travel and a more intuitive menu system. \n\nFor those who already own Dragon's Dogma and then purchase Dragon's Dogma: Dark Arisen, these improvements will be automatically retrofitted to their original game save data.",
+  "VideoURL": "http://www.youtube.com/watch?v=m8TMuKx4J6Y",
+  "CommunityRating": "4.2857142857142856",
+  "ESRB": "M - Mature",
+  "Genres": " Action; Role-Playing",
+  "Developer": "Capcom",
+  "Publisher": "Capcom",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "3dcbc871-898e-4e5f-b97a-27534679bb65.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3340063929",
+        "URL": "http://images.launchbox-app.com/3dcbc871-898e-4e5f-b97a-27534679bb65.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "776f4a30-ca85-4e70-b7d6-801144855487.jpg",
+          "Type": "Box - Front",
+          "CRC32": "335244382",
+          "URL": "http://images.launchbox-app.com/776f4a30-ca85-4e70-b7d6-801144855487.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "1f0f8863-9e6a-4c99-9ab0-b424aa52b494.png",
+        "Type": "Clear Logo",
+        "CRC32": "3508638809",
+        "URL": "http://images.launchbox-app.com/1f0f8863-9e6a-4c99-9ab0-b424aa52b494.png"
+      }
+    ]
+  }
+}

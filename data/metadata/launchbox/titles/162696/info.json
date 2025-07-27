@@ -1,0 +1,37 @@
+{
+  "Name": "Everyone Sing",
+  "DatabaseID": "162696",
+  "Overview": "Everyone Sing is the first multi-format singing game where everyone can sing.",
+  "CommunityRating": "4.5",
+  "Genres": null,
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "b70f0d74-618b-4507-8c7d-dbb59baa8bf9.png",
+          "Type": "Box - 3D",
+          "CRC32": "1864987525",
+          "URL": "http://images.launchbox-app.com/b70f0d74-618b-4507-8c7d-dbb59baa8bf9.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "0406b7b6-b4a3-4830-a19b-c18ab0f3bcb3.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "4055973421",
+          "URL": "http://images.launchbox-app.com/0406b7b6-b4a3-4830-a19b-c18ab0f3bcb3.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "bf2f2020-5b61-4813-8ac8-d6d38e54a0a7.png",
+        "Type": "Disc",
+        "Region": "World",
+        "CRC32": "849506361",
+        "URL": "http://images.launchbox-app.com/bf2f2020-5b61-4813-8ac8-d6d38e54a0a7.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "War World",
+  "DatabaseID": "209988",
+  "ReleaseDate": "2009-12-02T00:00:00-08:00",
+  "Overview": "War World is a fast moving fist/third person shooter where you control a heavily armed assault mech and fight for the supremacy against powerful opponents on the faraway planet called \"War World\".",
+  "CommunityRating": "3.5",
+  "ESRB": "T - Teen",
+  "Genres": " Action; Adventure",
+  "Developer": "Third Wave Games",
+  "Publisher": "Ubisoft",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "ab7ab0c6-ed08-42c2-a71a-3db20c5ff439.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "2664543330",
+          "URL": "http://images.launchbox-app.com/ab7ab0c6-ed08-42c2-a71a-3db20c5ff439.jpg"
+        }
+      ]
+    }
+  }
+}

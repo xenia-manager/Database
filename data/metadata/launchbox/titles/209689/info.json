@@ -1,0 +1,24 @@
+{
+  "Name": "Ms. Pac-Man",
+  "DatabaseID": "209689",
+  "ReleaseDate": "2010-01-04T00:00:00-08:00",
+  "Overview": "Buy the full version of Ms. PAC-MAN, the sequel to the world-renowned Pac-Man, now featuring 2 Warp Tunnels to move through. Also, the fruits which appear are no longer stationary!",
+  "CommunityRating": "3.4642857142857144",
+  "ESRB": "E - Everyone",
+  "Genres": " Action",
+  "Developer": "Bandai Namco Entertainment",
+  "Publisher": "Bandai Namco Entertainment",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "bd0aa3e6-c6d0-462a-8b49-054d350c8d52.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "2045976312",
+          "URL": "http://images.launchbox-app.com/bd0aa3e6-c6d0-462a-8b49-054d350c8d52.jpg"
+        }
+      ]
+    }
+  }
+}

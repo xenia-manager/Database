@@ -1,0 +1,38 @@
+{
+  "Name": "Blacklight: Tango Down",
+  "DatabaseID": "15325",
+  "ReleaseDate": "2010-07-14T00:00:00-07:00",
+  "Overview": "Blacklight: Tango Down is a video game developed by Zombie Studios and published by Ignition Entertainment. The game was released on July 7, 2010 on Xbox 360 as a downloadable title, and was released on Microsoft Windows on July 14. The game was also released on October 26, 2010 for the PlayStation 3.\n\nZombie was planning to make Blacklight a multimedia franchise that would include the video game, a feature film, and a trilogy of comic books, however the company became defunct on January 8, 2015. The idea was concepted by Zombie executives which later pitched the idea to several film and comic book production companies. The film rights were immediately bought by Fox Atomic to create a film adaptation of the franchise. Fox Atomic's comic subsidiary, Fox Atomic Comics, was also to be creating the Blacklight comics, but after the closing of Fox Atomic, the trans-media rights have been purchased by Imagine Entertainment.[1] The film, comic books, and game will not share the same storylines, but tell different stories in the Blacklight universe at different time periods.[2]",
+  "VideoURL": "http://www.youtube.com/watch?v=1wDfeuBGpXA",
+  "CommunityRating": "3.5",
+  "ESRB": "T - Teen",
+  "Genres": null,
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "12f0ae01-c94f-4138-967d-b1c604ff8d93.png",
+        "Type": "Banner",
+        "CRC32": "2159707822",
+        "URL": "http://images.launchbox-app.com/12f0ae01-c94f-4138-967d-b1c604ff8d93.png"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "3ca86a3c-e0c5-49da-8b7e-d7b3a8dc5b0c.jpg",
+          "Type": "Box - Front",
+          "CRC32": "1235207671",
+          "URL": "http://images.launchbox-app.com/3ca86a3c-e0c5-49da-8b7e-d7b3a8dc5b0c.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "877cbaa9-adb0-42f7-a00d-1ff174953c35.png",
+        "Type": "Clear Logo",
+        "CRC32": "3207933538",
+        "URL": "http://images.launchbox-app.com/877cbaa9-adb0-42f7-a00d-1ff174953c35.png"
+      }
+    ]
+  }
+}

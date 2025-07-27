@@ -1,0 +1,47 @@
+{
+  "Name": "Monster High: New Ghoul in School",
+  "DatabaseID": "173565",
+  "ReleaseDate": "2015-11-17T00:00:00-08:00",
+  "Overview": "Welcome, new ghoul!\nCome roam the halls of Monster High and get to know your new classmates. Join clubs, make friends and dress up in fierce fashions. But be aware, there’s something strange going on at Monster High! Cleo’s new amulet has been cursed by the spirit of Spookenhamen, and the student body is falling under his spell. Use your skills and savvy to help save the school and all your new classmates from the mummy’s curse! Be Yourself. Be Unique. Be a Monster.\n\n• Play through an all new story-driven adventure featuring over 40 of your favorite Monster High characters!\n• Create your own unique monster self – choose from dozens of skin tones, hair colors and styles, and tons of fierce outfits\n• Shop and fill up your closet with outfits and accessories\n• Build relationships with your new classmates and join clubs, like Fashion Club, Cooking Club and the Fearleading Squad",
+  "ESRB": "E - Everyone",
+  "Genres": " Adventure",
+  "Developer": "Torus Games",
+  "Publisher": "Little Orbit",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "bb30abd4-b16b-43e3-aa9b-404f7fe80188.jpg",
+        "Type": "Fanart - Background",
+        "Region": "Spain",
+        "CRC32": "1577430674",
+        "URL": "http://images.launchbox-app.com/bb30abd4-b16b-43e3-aa9b-404f7fe80188.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "46bbb0f8-d56f-4490-a1f9-ecaf5b307109.png",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "235569405",
+          "URL": "http://images.launchbox-app.com/46bbb0f8-d56f-4490-a1f9-ecaf5b307109.png"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "c20c757c-cb5b-48af-804f-36aeeebcbe34.png",
+        "Type": "Clear Logo",
+        "CRC32": "4268556339",
+        "URL": "http://images.launchbox-app.com/c20c757c-cb5b-48af-804f-36aeeebcbe34.png"
+      },
+      {
+        "FileName": "a5ed4057-754a-42ef-9e4b-852f1d56e0ac.png",
+        "Type": "Clear Logo",
+        "Region": "Spain",
+        "CRC32": "2975232335",
+        "URL": "http://images.launchbox-app.com/a5ed4057-754a-42ef-9e4b-852f1d56e0ac.png"
+      }
+    ]
+  }
+}

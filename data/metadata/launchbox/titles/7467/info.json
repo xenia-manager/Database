@@ -1,0 +1,68 @@
+{
+  "Name": "Dragon Age: Origins",
+  "DatabaseID": "7467",
+  "ReleaseDate": "2009-11-03T00:00:00-08:00",
+  "Overview": "Dragon Age: Origins is an epic story of magic, danger and a fight for survival told by a legendary games company. BioWare, creators of Mass Effect, Baldur's Gate and Star Wars: Knights Of The Old Republic, bring you their best adventure yet. As a Grey Warden, you protect the land of Ferelden from the Darkspawn. When the demons attack the land again, you must embark on an epic quest to save Ferelden. Create your hero with detailed customisation options, make real choices that affect your path and the future of Ferelden itself, and decide how to battle the forces against you. Dragon Age: Origins is a bigger, more beautiful and deeper adventure than any you'll have ever taken before.",
+  "VideoURL": "http://www.youtube.com/watch?v=K8RBe5f3d3Y",
+  "CommunityRating": "4.4705882352941178",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Dragon_Age:_Origins",
+  "ESRB": "M - Mature",
+  "Genres": " Role-Playing",
+  "Developer": "BioWare",
+  "Publisher": "Electronic Arts",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "e8f1521c-41a2-4270-8674-134f7add2094.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "1019861813",
+          "URL": "http://images.launchbox-app.com/e8f1521c-41a2-4270-8674-134f7add2094.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "ca3e7bc8-6376-446b-a887-f11952ffad79.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "3421278385",
+          "URL": "http://images.launchbox-app.com/ca3e7bc8-6376-446b-a887-f11952ffad79.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "da600af5-3da4-4d8a-9e22-39a12b30fff7.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "246964300",
+          "URL": "http://images.launchbox-app.com/da600af5-3da4-4d8a-9e22-39a12b30fff7.jpg"
+        },
+        {
+          "FileName": "ef905c5c-78db-4e64-a0e0-76569db545e8.jpg",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "United Kingdom",
+          "CRC32": "3331371446",
+          "URL": "http://images.launchbox-app.com/ef905c5c-78db-4e64-a0e0-76569db545e8.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "0dffeac1-11a5-4c1a-9ec2-228eee49822f.png",
+        "Type": "Disc",
+        "Region": "Australia",
+        "CRC32": "1007416873",
+        "URL": "http://images.launchbox-app.com/0dffeac1-11a5-4c1a-9ec2-228eee49822f.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "e5e7a6a8-d762-4b2b-8344-7b09d2832225.png",
+        "Type": "Clear Logo",
+        "CRC32": "3444232208",
+        "URL": "http://images.launchbox-app.com/e5e7a6a8-d762-4b2b-8344-7b09d2832225.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "Name": "Rugby World Cup 2011",
+  "DatabaseID": "16390",
+  "ReleaseDate": "2011-09-01T00:00:00-07:00",
+  "Overview": "Rugby World Cup 2011 is a rugby union video game developed by HB Studios[1] and 505 Games.\n\nThe game is the official video game of the 2011 Rugby World Cup, and was released on both the PlayStation 3 and Xbox 360 on 25 August 2011.[2] It was released in North America on 6 September 2011, with the PlayStation 3 version available via the PlayStation Store.",
+  "VideoURL": "https://www.youtube.com/watch?v=6S39a7I2Udw",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Rugby_World_Cup_2011_(video_game)",
+  "ESRB": "E - Everyone",
+  "Genres": " Sports",
+  "Developer": "HB Studios",
+  "Publisher": "505 Games",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "506ed313-3e91-4207-a2f0-363ca96bac6e.png",
+          "Type": "Box - 3D",
+          "CRC32": "3619783522",
+          "URL": "http://images.launchbox-app.com/506ed313-3e91-4207-a2f0-363ca96bac6e.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "13086b51-c132-47dc-86e5-550ee14a120e.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "453927045",
+          "URL": "http://images.launchbox-app.com/13086b51-c132-47dc-86e5-550ee14a120e.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "8e42fb02-d950-44a3-b8a9-ab8d27c8f202.png",
+        "Type": "Clear Logo",
+        "CRC32": "3142106747",
+        "URL": "http://images.launchbox-app.com/8e42fb02-d950-44a3-b8a9-ab8d27c8f202.png"
+      }
+    ]
+  }
+}

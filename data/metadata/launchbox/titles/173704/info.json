@@ -1,0 +1,86 @@
+{
+  "Name": "Tornado Outbreak",
+  "DatabaseID": "173704",
+  "ReleaseDate": "2009-09-29T00:00:00-07:00",
+  "Overview": "The Wind Warriors, a group of spirits making unknown planets habitable, comes across a hero named Omegaton. He's weak due to his power orbs being stolen by a group known as the Fire Flyers, who have scattered them across Earth. Your mission, as Wind Warrior Zephyr? Defeat the Fire Flyers and retrieve the orbs - by tearing the Earth apart.\n\nTornado Outbreak is a Katamari Damacy-type game with a huge emphasis on chaos and destruction. You initially start off as a small tornado, and the more destruction means the tornado becomes bigger, but players must stay in clouds and shadows and avoid sunlight, or else it's game over. Aside from destroying buildings, players must find Fire Flyers and absorb them in the tornado, which grants new abilities. Players will also have to participate in races and boss battles in order to advance to the next level as well. For multiplayer action, two players can play through the game via co-op.",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Action",
+  "Developer": "Loose Cannon Studios",
+  "Publisher": "Konami",
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "47794f86-dc90-47f0-902d-fb5d42804aff.jpg",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "1572255589",
+          "URL": "http://images.launchbox-app.com/47794f86-dc90-47f0-902d-fb5d42804aff.jpg"
+        },
+        {
+          "FileName": "747e4740-df68-45a2-b3a4-464b617ab7c9.jpg",
+          "Type": "Box - Back",
+          "Region": "United States",
+          "CRC32": "2011231079",
+          "URL": "http://images.launchbox-app.com/747e4740-df68-45a2-b3a4-464b617ab7c9.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "c70a89e1-db17-496e-b26e-c4c588d242c5.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "3664986514",
+          "URL": "http://images.launchbox-app.com/c70a89e1-db17-496e-b26e-c4c588d242c5.jpg"
+        },
+        {
+          "FileName": "d2343d05-c060-4bb9-a299-67be5ce617cc.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "3961061812",
+          "URL": "http://images.launchbox-app.com/d2343d05-c060-4bb9-a299-67be5ce617cc.jpg"
+        },
+        {
+          "FileName": "eabfff53-5b9a-4aa3-b243-8d4859acaf53.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2029032875",
+          "URL": "http://images.launchbox-app.com/eabfff53-5b9a-4aa3-b243-8d4859acaf53.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "101fe67d-60cd-45bd-887d-ee027f70899d.jpg",
+          "Type": "Box - Spine",
+          "Region": "United States",
+          "CRC32": "2816567253",
+          "URL": "http://images.launchbox-app.com/101fe67d-60cd-45bd-887d-ee027f70899d.jpg"
+        },
+        {
+          "FileName": "f9c0e2b2-e8f0-4d19-9d37-90412e32a22c.jpg",
+          "Type": "Box - Spine",
+          "Region": "Europe",
+          "CRC32": "899291517",
+          "URL": "http://images.launchbox-app.com/f9c0e2b2-e8f0-4d19-9d37-90412e32a22c.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "fa8f6d90-ce5b-416d-b084-c1be31d82eb9.jpg",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "3052442742",
+        "URL": "http://images.launchbox-app.com/fa8f6d90-ce5b-416d-b084-c1be31d82eb9.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "30e7ea12-cba1-42ad-a0a9-337c66373315.png",
+        "Type": "Clear Logo",
+        "CRC32": "89987412",
+        "URL": "http://images.launchbox-app.com/30e7ea12-cba1-42ad-a0a9-337c66373315.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "Name": "WSC Real 11: World Snooker Championship",
+  "DatabaseID": "162184",
+  "Overview": "This is the follow on for the long running World Snooker Championship series of snooker simulator games. As with the last several iterations, in addition to the snooker career, it also allows the player to progress through a pool career, which features all the major tournaments and players.\n\nNew to this version is the ability to rewind and replay individual shots, as well as being able to record a replay of a single shot or an entire match.\n\nThere is also an online mode in which players can play both tournaments and individual matches of both snooker and pool..",
+  "VideoURL": "https://www.youtube.com/watch?v=OxSm3wMMH2Q",
+  "CommunityRating": "3.75",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/WSC_Real_11:_World_Snooker_Championship",
+  "Genres": " Sports",
+  "Developer": "Dark Energy Digital",
+  "Publisher": "Koch Media",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "ce500d6c-c605-44b7-8413-77838d934f5a.png",
+          "Type": "Box - 3D",
+          "Region": "Europe",
+          "CRC32": "1809830681",
+          "URL": "http://images.launchbox-app.com/ce500d6c-c605-44b7-8413-77838d934f5a.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "b74d3704-ed2f-4910-a8e4-d3d68257e5dd.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "3455575086",
+          "URL": "http://images.launchbox-app.com/b74d3704-ed2f-4910-a8e4-d3d68257e5dd.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "9a80755d-0869-4786-bce9-a926147ce081.png",
+        "Type": "Screenshot - Gameplay",
+        "Region": "Europe",
+        "CRC32": "2772066927",
+        "URL": "http://images.launchbox-app.com/9a80755d-0869-4786-bce9-a926147ce081.png"
+      },
+      {
+        "FileName": "9800d8ba-bdfa-4167-9178-392e44e1051f.jpg",
+        "Type": "Screenshot - Gameplay",
+        "Region": "World",
+        "CRC32": "355810759",
+        "URL": "http://images.launchbox-app.com/9800d8ba-bdfa-4167-9178-392e44e1051f.jpg"
+      },
+      {
+        "FileName": "15ced093-d345-4032-8521-b2279b64f863.jpg",
+        "Type": "Screenshot - Gameplay",
+        "Region": "Europe",
+        "CRC32": "1838144189",
+        "URL": "http://images.launchbox-app.com/15ced093-d345-4032-8521-b2279b64f863.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "Name": "Twister Mania",
+  "DatabaseID": "14286",
+  "ReleaseDate": "2011-11-01T00:00:00-07:00",
+  "Overview": "This outrageous fast-paced party game offers over-the-top hilarity – so don’t hold back as you get your body moving and twisting to fit through cutouts, bend into thousands of forms, mirror your friend’s image, and even clear stacked shapes lightning fast!",
+  "CommunityRating": "0.5",
+  "ESRB": "E - Everyone",
+  "Genres": null,
+  "Developer": "Naked Sky Entertainment",
+  "Publisher": "Majesco Games",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "f1741463-537c-4539-a969-8d48263c7b43.jpg",
+          "Type": "Box - Front",
+          "CRC32": "1519030454",
+          "URL": "http://images.launchbox-app.com/f1741463-537c-4539-a969-8d48263c7b43.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "25de7886-e3df-462c-a20d-43fe1e528d17.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "675092641",
+        "URL": "http://images.launchbox-app.com/25de7886-e3df-462c-a20d-43fe1e528d17.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "432f92b1-f759-4785-a481-dc3d52150bcb.png",
+        "Type": "Clear Logo",
+        "CRC32": "3719555587",
+        "URL": "http://images.launchbox-app.com/432f92b1-f759-4785-a481-dc3d52150bcb.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Name": "Skylanders: Giants",
+  "DatabaseID": "12088",
+  "ReleaseDate": "2012-10-21T00:00:00-07:00",
+  "Overview": "Skylanders: Giants is a 2012 video game in the Skylanders series, a direct sequel to the 2011 game Skylanders: Spyro's Adventure and features the voices of Kevin Michael Richardson, Greg Ellis, Peter Lurie, Steve Blum, Dave Wittenberg, Carlos Alazraqui, Kevin Sorbo, Bobcat Goldthwait, Patrick Seitz and Julie Nathanson. It is the game before Skylanders: Swap Force. As the title suggests, it features larger Skylanders known as \"Giants\", along with other new gameplay mechanics. It was released on October 17, 2012 in Australia, on October 19, 2012 in Europe, on October 21, 2012 in North America,[6] and on November 22, 2012 in Brazil by Neoplay.[7] It has also been released on the Wii U as a launch title in North America, Europe and Australia.[8][9] This is the final Skylanders game to be owned by Vivendi before Activision became an independent company on July 25, 2013.",
+  "VideoURL": "https://www.youtube.com/watch?v=6wTqNzCxvBU",
+  "CommunityRating": "3.25",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Skylanders:_Gia...",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Action; Platform",
+  "Developer": "Toys for Bob",
+  "Publisher": "Activision",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "r2_788cf93f-4c8b-416e-999d-3ce4277bbe45.jpg",
+        "Type": "Fanart - Background",
+        "Region": "North America",
+        "CRC32": "3484636374",
+        "URL": "http://images.launchbox-app.com/r2_788cf93f-4c8b-416e-999d-3ce4277bbe45.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "4504ed0b-c744-41c4-962f-4c36f0208f88.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "93689483",
+          "URL": "http://images.launchbox-app.com/4504ed0b-c744-41c4-962f-4c36f0208f88.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "85fec916-7182-41e5-8c06-30d1da88cb78.png",
+        "Type": "Clear Logo",
+        "CRC32": "458092287",
+        "URL": "http://images.launchbox-app.com/85fec916-7182-41e5-8c06-30d1da88cb78.png"
+      }
+    ]
+  }
+}

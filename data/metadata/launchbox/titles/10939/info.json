@@ -1,0 +1,42 @@
+{
+  "Name": "From Dust",
+  "DatabaseID": "10939",
+  "ReleaseDate": "2011-07-27T00:00:00-07:00",
+  "Overview": "From Dust is the latest original game concept by Eric Chahi, creator of the cult classic, Another World. \n\nImmerse yourself in a world as exotically beautiful as it is dangerous! You control the destiny of a primitive tribe against the backdrop of a world in constant evolution - a universe where mighty Nature reclaims what is hers; and your mastery of the elements is your people's only chance of survival...",
+  "VideoURL": "https://www.youtube.com/watch?v=mkdAssf3kJA",
+  "CommunityRating": "3.625",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/From_Dust",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Life Simulation",
+  "Developer": "Ubisoft Montpellier",
+  "Publisher": "Ubisoft",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "df05c866-54d0-463b-a7e5-814faa5cdc62.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1075567901",
+        "URL": "http://images.launchbox-app.com/df05c866-54d0-463b-a7e5-814faa5cdc62.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "31a74e8b-ab58-40a8-8308-a4112370fa6a.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "277768215",
+          "URL": "http://images.launchbox-app.com/31a74e8b-ab58-40a8-8308-a4112370fa6a.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "c7949cf4-c99f-42cf-9ed6-37697c844c15.png",
+        "Type": "Clear Logo",
+        "CRC32": "3255547558",
+        "URL": "http://images.launchbox-app.com/c7949cf4-c99f-42cf-9ed6-37697c844c15.png"
+      }
+    ]
+  }
+}

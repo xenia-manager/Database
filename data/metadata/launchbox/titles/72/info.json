@@ -1,0 +1,58 @@
+{
+  "Name": "Viking: Battle for Asgard",
+  "DatabaseID": "72",
+  "ReleaseDate": "2008-03-25T00:00:00-07:00",
+  "Overview": "Viking: Battle for Asgard thrusts players into a twisted mythological world overrun with demonic warriors unleashed by Hel, the Norse goddess of death. As Skarin, a rage-fueled Viking hero, players will wage all-out war to free mankind from the grip of evil and ultimate annihilation. Enemies will suffer graphic dismemberment with disturbing realism from an array of Skarin's melee, range and magic attacks.",
+  "VideoURL": "https://www.youtube.com/watch?v=PwL9WoUILVo",
+  "CommunityRating": "2.5",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Viking:_Battle_for_Asgard",
+  "ESRB": "M - Mature",
+  "Genres": " Action; Adventure",
+  "Developer": "Creative Assembly",
+  "Publisher": "Sega",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "68f2b3e0-e48e-4ca1-ba57-c538a55dfa7c.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3372535384",
+        "URL": "http://images.launchbox-app.com/68f2b3e0-e48e-4ca1-ba57-c538a55dfa7c.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "2f6f87ce-196b-4936-b17f-cc337c53d5ba.png",
+          "Type": "Box - 3D",
+          "CRC32": "2897414168",
+          "URL": "http://images.launchbox-app.com/2f6f87ce-196b-4936-b17f-cc337c53d5ba.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "91fc0f12-dc9d-4e22-b1b0-4fcb0d260997.jpg",
+          "Type": "Box - Back",
+          "CRC32": "4217113919",
+          "URL": "http://images.launchbox-app.com/91fc0f12-dc9d-4e22-b1b0-4fcb0d260997.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "df2b9ec5-c851-4fd0-8d8e-39f52d4e8a3d.png",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "2474883002",
+          "URL": "http://images.launchbox-app.com/df2b9ec5-c851-4fd0-8d8e-39f52d4e8a3d.png"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "1049a531-278f-475b-ab31-45bccab45cd6.png",
+        "Type": "Clear Logo",
+        "CRC32": "3394560425",
+        "URL": "http://images.launchbox-app.com/1049a531-278f-475b-ab31-45bccab45cd6.png"
+      }
+    ]
+  }
+}

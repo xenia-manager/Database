@@ -1,0 +1,71 @@
+{
+  "Name": "FIFA 16",
+  "DatabaseID": "29279",
+  "ReleaseDate": "2015-09-22T00:00:00-07:00",
+  "Overview": "FIFA 16 innovates across the entire pitch to deliver a balanced, authentic, and exciting football experience that lets you play your way, and compete at a higher level. And with all new ways to play! With innovative gameplay features, FIFA 16 brings Confidence in Defending, Control in Midfield, and gives you the tools to create more Moments of Magic than ever before. Fans new to the franchise, or skilled players looking to improve their game will have a chance to Compete at a Higher Level using the all new FIFA Trainer. Innovation Across the Entire Pitch. New Ways to Play. Compete at a Higher Level. Play Beautiful in FIFA 16.",
+  "VideoURL": "http://www.youtube.com/watch?v=gfvbnhe3k5k",
+  "CommunityRating": "3.1666666666666665",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/FIFA_16",
+  "ESRB": "E - Everyone",
+  "Genres": " Sports",
+  "Developer": "Electronic Arts Canada",
+  "Publisher": "Electronic Arts",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "517b896c-d562-4ffc-a9b0-7b1200e5fb2c.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2789313759",
+        "URL": "http://images.launchbox-app.com/517b896c-d562-4ffc-a9b0-7b1200e5fb2c.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "55e34891-29fc-4b53-a646-f0bf28257b18.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "1857346467",
+          "URL": "http://images.launchbox-app.com/55e34891-29fc-4b53-a646-f0bf28257b18.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "bca2a108-b0b6-4338-90b2-8a1e44600517.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "437389045",
+          "URL": "http://images.launchbox-app.com/bca2a108-b0b6-4338-90b2-8a1e44600517.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "f6cb8ae1-e02a-490d-8bec-48a394621275.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2858494569",
+        "URL": "http://images.launchbox-app.com/f6cb8ae1-e02a-490d-8bec-48a394621275.jpg"
+      },
+      {
+        "FileName": "9d5bc28e-dc75-46f7-9eca-f1187412f8f5.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1843038745",
+        "URL": "http://images.launchbox-app.com/9d5bc28e-dc75-46f7-9eca-f1187412f8f5.jpg"
+      },
+      {
+        "FileName": "2fa488b5-37e0-4b4c-8ddf-366d810eb465.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "675538752",
+        "URL": "http://images.launchbox-app.com/2fa488b5-37e0-4b4c-8ddf-366d810eb465.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "5643c21e-e438-478f-baa6-a057dfc89759.png",
+        "Type": "Clear Logo",
+        "CRC32": "3818510144",
+        "URL": "http://images.launchbox-app.com/5643c21e-e438-478f-baa6-a057dfc89759.png"
+      }
+    ]
+  }
+}

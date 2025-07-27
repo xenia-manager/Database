@@ -1,0 +1,73 @@
+{
+  "Name": "SpongeBob's Truth or Square",
+  "DatabaseID": "13717",
+  "ReleaseDate": "2009-10-26T00:00:00-07:00",
+  "Overview": "SpongeBob SquarePants has gotten himself into quite a predicament. After being entrusted by Mr. Krabs to keep the Krabby Patty formula safe, he is overcome with grief for losing the recipe. He then relies on the help of the most unlikely companion, Plankton, who wants the secret Krabby Patty recipe to himself. With the help of his friend, SpongeBob must use Plankton's memory machine to retrace the happiest moments of his life to find the Krabby Patty formula in time for the Krusty Krab's Eleventy Seventh anniversary.",
+  "CommunityRating": "3.5",
+  "ESRB": "E - Everyone",
+  "Genres": " Action",
+  "Developer": "Heavy Iron Studios",
+  "Publisher": "THQ",
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "daa38dec-c04c-438f-8569-3a51f1773a4f.jpg",
+          "Type": "Box - Back",
+          "Region": "United States",
+          "CRC32": "413592518",
+          "URL": "http://images.launchbox-app.com/daa38dec-c04c-438f-8569-3a51f1773a4f.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "9edfea03-9bcf-4c26-a907-00ae9daaa490.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "3781075856",
+          "URL": "http://images.launchbox-app.com/9edfea03-9bcf-4c26-a907-00ae9daaa490.jpg"
+        },
+        {
+          "FileName": "522638b7-81dd-49a5-a31b-f62d2c6b98ab.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2764701595",
+          "URL": "http://images.launchbox-app.com/522638b7-81dd-49a5-a31b-f62d2c6b98ab.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "7ee2d535-a71f-4f89-b7ee-5822bf671861.jpg",
+          "Type": "Box - Spine",
+          "Region": "United States",
+          "CRC32": "3850140374",
+          "URL": "http://images.launchbox-app.com/7ee2d535-a71f-4f89-b7ee-5822bf671861.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "bd99bae7-b63a-4051-ae5b-e626aada2387.jpg",
+        "Type": "Disc",
+        "Region": "United States",
+        "CRC32": "496058711",
+        "URL": "http://images.launchbox-app.com/bd99bae7-b63a-4051-ae5b-e626aada2387.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "63e5a71d-e2c5-42c9-84dc-2ef7e4906b87.png",
+        "Type": "Clear Logo",
+        "Region": "Spain",
+        "CRC32": "972359460",
+        "URL": "http://images.launchbox-app.com/63e5a71d-e2c5-42c9-84dc-2ef7e4906b87.png"
+      },
+      {
+        "FileName": "6ac9a42a-b21d-40a0-85a5-440963956a2a.png",
+        "Type": "Clear Logo",
+        "CRC32": "1018269433",
+        "URL": "http://images.launchbox-app.com/6ac9a42a-b21d-40a0-85a5-440963956a2a.png"
+      }
+    ]
+  }
+}

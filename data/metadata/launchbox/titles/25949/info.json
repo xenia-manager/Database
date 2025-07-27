@@ -1,0 +1,46 @@
+{
+  "Name": "How to Survive",
+  "DatabaseID": "25949",
+  "ReleaseDate": "2013-11-06T00:00:00-08:00",
+  "Overview": "How to Survive is a survival horror action role-playing video game developed by EKO Software and published by 505 Games. It was released on October 23, 2013 for Xbox 360, Xbox One, Microsoft Windows, PlayStation 3, and PlayStation 4 and it was released in June 2014 for the Nintendo eShop.",
+  "CommunityRating": "2.75",
+  "Genres": " Adventure",
+  "Developer": "Eko Software",
+  "Publisher": "505 Games",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "b12f3d5f-b97c-4d37-b426-4585d1482062.jpg",
+        "Type": "Banner",
+        "CRC32": "2093608944",
+        "URL": "http://images.launchbox-app.com/b12f3d5f-b97c-4d37-b426-4585d1482062.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "c883b6fa-d177-46c9-a9a6-1cc99ce82a99.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "2053450336",
+          "URL": "http://images.launchbox-app.com/c883b6fa-d177-46c9-a9a6-1cc99ce82a99.jpg"
+        },
+        {
+          "FileName": "646db471-a8f1-46d0-8f7c-ec6ccb2b61df.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "545094965",
+          "URL": "http://images.launchbox-app.com/646db471-a8f1-46d0-8f7c-ec6ccb2b61df.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "34f2e93c-c7b5-41f2-a078-14e913be1083.png",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "2421805203",
+        "URL": "http://images.launchbox-app.com/34f2e93c-c7b5-41f2-a078-14e913be1083.png"
+      }
+    ]
+  }
+}

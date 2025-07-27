@@ -1,0 +1,74 @@
+{
+  "Name": "NBA 2K11",
+  "DatabaseID": "14524",
+  "ReleaseDate": "2010-10-05T00:00:00-07:00",
+  "Overview": "NBA 2K11 is a basketball video game developed by Visual Concepts and 2K Sports and published by 2K Sports. It was released on October 5, 2010 on the Xbox 360, PlayStation 2, PlayStation 3, PSP, Windows, while the Wii version came out on October 21, 2010. Michael Jordan is the cover athlete of the game and is featured in the game in different ways.[3] NBA 2K11 is the successor to NBA 2K10.\n\nNBA 2K11 is widely considered one of the best sports video games of all time and the best basketball simulation of the seventh generation of video game consoles.",
+  "CommunityRating": "3.1666666666666665",
+  "ESRB": "E - Everyone",
+  "Genres": " Sports",
+  "Developer": "Visual Concepts Entertainment",
+  "Publisher": "2K Games",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "ee6b5377-617e-4601-9249-54c3bbdba7ab.jpg",
+        "Type": "Banner",
+        "Region": "North America",
+        "CRC32": "3123514122",
+        "URL": "http://images.launchbox-app.com/ee6b5377-617e-4601-9249-54c3bbdba7ab.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "da19cc93-c4b6-4a8f-97a9-cc980cff8f7d.png",
+          "Type": "Box - 3D",
+          "Region": "Germany",
+          "CRC32": "2133984957",
+          "URL": "http://images.launchbox-app.com/da19cc93-c4b6-4a8f-97a9-cc980cff8f7d.png"
+        },
+        {
+          "FileName": "538ef993-9311-4a27-955b-dd7fc3d8342c.png",
+          "Type": "Box - 3D",
+          "CRC32": "2995657991",
+          "URL": "http://images.launchbox-app.com/538ef993-9311-4a27-955b-dd7fc3d8342c.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "e13072f9-9bd5-4188-9a7b-2db24b53d6c7.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "1311278346",
+          "URL": "http://images.launchbox-app.com/e13072f9-9bd5-4188-9a7b-2db24b53d6c7.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "ede0d2a0-0159-4847-95bd-8fbad1d7d403.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2383508420",
+          "URL": "http://images.launchbox-app.com/ede0d2a0-0159-4847-95bd-8fbad1d7d403.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "7adc29b9-7a05-4320-ac36-b1e2897a4aef.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "30746773",
+        "URL": "http://images.launchbox-app.com/7adc29b9-7a05-4320-ac36-b1e2897a4aef.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "b373bd65-75f8-40ec-968c-383ec821af7c.png",
+        "Type": "Clear Logo",
+        "CRC32": "1994395013",
+        "URL": "http://images.launchbox-app.com/b373bd65-75f8-40ec-968c-383ec821af7c.png"
+      }
+    ]
+  }
+}

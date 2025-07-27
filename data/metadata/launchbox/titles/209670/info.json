@@ -1,0 +1,24 @@
+{
+  "Name": "Mad Tracks",
+  "DatabaseID": "209670",
+  "ReleaseDate": "2007-05-30T00:00:00-07:00",
+  "Overview": "The full game has a full 15 challenges -- some action packed, some intriguing, some just plain fast. You'll be able to see your name on the leaderboards and compare your Mad Tracks points with your friends. If that’s not enough racing action, the FULL version of Mad Tracks will also seamlessly accept future premium downloadable extension packs with an incredible 30 additional challenges already planned.",
+  "CommunityRating": "3",
+  "ESRB": "E - Everyone",
+  "Genres": " Racing",
+  "Developer": "Load",
+  "Publisher": "D3Publisher",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "3a08756b-51a9-43d7-9203-dae8b52834fc.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "2922281119",
+          "URL": "http://images.launchbox-app.com/3a08756b-51a9-43d7-9203-dae8b52834fc.jpg"
+        }
+      ]
+    }
+  }
+}

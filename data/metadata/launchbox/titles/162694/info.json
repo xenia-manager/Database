@@ -1,0 +1,72 @@
+{
+  "Name": "Enemy Front",
+  "DatabaseID": "162694",
+  "ReleaseDate": "2014-06-10T00:00:00-07:00",
+  "Overview": "Enemy Front is a first-person shooter set during World War II. The player takes control of the American war correspondent Robert Hawkins who fought along with the resistance fighters in various locations in Europe such as Germany, France and Norway, along with the Warsaw Uprising in Poland. The game starts with an audio broadcast where Hawkins announces he will tell the story of what he has seen and the game is then played as a flashback.\n\nHawkins needs to complete various missions often fighting along with other soldiers. There is a large arsenal of weapons, including hand guns, machine guns, assault rifles and sniper rifles, as well a weapon types commonly associated with resistance fighters such as the sten gun, the welrod pistol, the lightning submachine gun and molotov cocktails. Weapons and ammo are picked up along the way or weapons are swapped with those left behind by dead soldiers. Next to pure action, a tactical approach through sabotage and stealth is possible. Hawkins can silently take soldiers hostage, dispose of them and drag their bodies to a sport where they are unlikely to be discovered. The game also has a noise indicator, where loud noises such as planes flying by offer a time-frame to shoot without being revealed. A mini-map in the bottom left corner provides an overview of the environment. Whilst sneaking through foliage stealth kills can also be performed directly. Objects such as stones can be thrown to distract enemies and lure them away. Hawkins also has binoculars to watch the enemy's movement from a distance.\n\nHawkins' health status is revealed through visual cues; when injured the screen has a red glow and fades. Health restores automatically when keeping a low profile for a while. There are three difficulty levels to choose from (casual, normal and expert). On expert enemy markers on the mini-map are removed, making it more difficult to keep track of opponents. While using the sniper rifle Hawkins can hold his breath to steady the view and slightly slow down time. The different levels are split up in multiple sections with primary and secondary objectives such as rescuing hostages, locating officers, stealing supplies and placing explosives. The progress is largely linear with a small number of choices with a different outcome, but the size of the environment often allows for different approaches. Online multiplayer is supported for up to twelve players simultaneously.",
+  "CommunityRating": "4",
+  "ESRB": "M - Mature",
+  "Genres": " Shooter; Stealth",
+  "Developer": "CI Games",
+  "Publisher": "Bandai Namco Games",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "9d8521bc-7122-4aaf-97eb-1a34eaf68036.png",
+          "Type": "Box - 3D",
+          "CRC32": "971387305",
+          "URL": "http://images.launchbox-app.com/9d8521bc-7122-4aaf-97eb-1a34eaf68036.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "8d927c30-235d-4acc-ab0a-1d00918338c7.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "618406052",
+          "URL": "http://images.launchbox-app.com/8d927c30-235d-4acc-ab0a-1d00918338c7.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "43084da6-8d0e-4f5d-90dc-3a23b29b5112.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1816100656",
+          "URL": "http://images.launchbox-app.com/43084da6-8d0e-4f5d-90dc-3a23b29b5112.jpg"
+        },
+        {
+          "FileName": "bb5e5870-569a-4246-9aa7-21aba707ad1f.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "2435693347",
+          "URL": "http://images.launchbox-app.com/bb5e5870-569a-4246-9aa7-21aba707ad1f.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "f273a4a4-8a1e-416d-9d18-193e158b401e.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "2346768675",
+          "URL": "http://images.launchbox-app.com/f273a4a4-8a1e-416d-9d18-193e158b401e.jpg"
+        },
+        {
+          "FileName": "51097892-bb1e-499d-b38e-cdd10911e2dc.jpg",
+          "Type": "Box - Spine",
+          "Region": "Europe",
+          "CRC32": "1499424084",
+          "URL": "http://images.launchbox-app.com/51097892-bb1e-499d-b38e-cdd10911e2dc.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "84f35e68-4afa-497e-8d29-8b882e88927b.png",
+        "Type": "Clear Logo",
+        "CRC32": "897613705",
+        "URL": "http://images.launchbox-app.com/84f35e68-4afa-497e-8d29-8b882e88927b.png"
+      }
+    ]
+  }
+}

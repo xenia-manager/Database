@@ -1,0 +1,25 @@
+{
+  "Name": "Gauntlet",
+  "DatabaseID": "199978",
+  "ReleaseDate": "2005-11-22T00:00:00-08:00",
+  "Overview": "Journey forth, brave traveler, whether warrior, valkyrie, elf or wizard ye be. Gauntlet lets up to four adventurers explore together as Thor, Thrya, Merlin and Questor, each with unique traits. Thor possesses unmatched strength, while Questor relies on swiftness and agility. Resilient Thyra excels at close-range combat, and Merlin's magic proves powerful from afar. Traverse the darkest of mazes, destroying vile beasts and claiming gold as your reward. Consume food to regain your strength, collect keys to journey deeper into the dungeon, and seek out potions to help you defeat your most powerful foes.",
+  "CommunityRating": "4.5",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Gauntlet_(1985_video_game)",
+  "ESRB": "E - Everyone",
+  "Genres": " Action",
+  "Developer": "Backbone Vancouver",
+  "Publisher": "Midway Home Entertainment",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "3841ec93-286b-40bd-9c85-fa29bf59ca5b.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "3903368184",
+          "URL": "http://images.launchbox-app.com/3841ec93-286b-40bd-9c85-fa29bf59ca5b.jpg"
+        }
+      ]
+    }
+  }
+}

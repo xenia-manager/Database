@@ -1,0 +1,51 @@
+{
+  "Name": "Record of Agarest War Zero",
+  "DatabaseID": "12618",
+  "ReleaseDate": "2011-06-14T00:00:00-07:00",
+  "Overview": "Long before Summerill and the gods of darkness were defeated in Record of Agarest War, another battle was fought across generations to save the world from evil. Record of Agarest War Zero takes you back to that ancient time…\n\nThe war between the forces of darkness and the forces of light, a conflict already many years old, has been fought to a stalemate. In the nation of Kraltarla, the forces of light hold back the evil hordes of darkness spilling from Findeste at the Scarred Mountains, but only just. In a desperate attempt to gain an advantage that could change the course of the war, the generals of the armies of light dispatch their loyal servant Sieghart, whom fate has seen fit to grant a strange and awesome power.",
+  "VideoURL": "https://www.youtube.com/watch?v=4OJSUHMLOYY",
+  "CommunityRating": "3",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Record_of_Agarest_War_Zero",
+  "ESRB": "T - Teen",
+  "Genres": " Role-Playing",
+  "Developer": "Idea Factory",
+  "Publisher": "Compile Heart",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "45f263dc-f303-4a87-9e8e-71e9544308c9.png",
+          "Type": "Box - 3D",
+          "CRC32": "3874397167",
+          "URL": "http://images.launchbox-app.com/45f263dc-f303-4a87-9e8e-71e9544308c9.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "3487a453-ca2a-4d83-ade6-371166f11943.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "628770281",
+          "URL": "http://images.launchbox-app.com/3487a453-ca2a-4d83-ade6-371166f11943.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "d6d89f9b-9cb0-4746-9667-a13251c5764e.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1317641190",
+          "URL": "http://images.launchbox-app.com/d6d89f9b-9cb0-4746-9667-a13251c5764e.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "5fe31a10-e742-49a6-9aeb-543f427f29d4.png",
+        "Type": "Clear Logo",
+        "CRC32": "991135893",
+        "URL": "http://images.launchbox-app.com/5fe31a10-e742-49a6-9aeb-543f427f29d4.png"
+      }
+    ]
+  }
+}

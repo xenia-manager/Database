@@ -1,0 +1,48 @@
+{
+  "Name": "Dragon Ball Z: Battle of Z",
+  "DatabaseID": "34855",
+  "ReleaseDate": "2014-01-28T00:00:00-08:00",
+  "Overview": "Dragon Ball Z: Battle of Z delivers over-the-top anime action and intensity, presented in new cell-shaded HD graphics. Focusing on team battles, players will be able to battle online with or against their friends in frantic 4-player co-op or up to 8-player vs. Battle of Z’s expanded team battle and co-op modes allows players to create teams of four characters to take on opponents across the globe.",
+  "VideoURL": "http://www.youtube.com/watch?v=q6ZkgtgHK2k",
+  "CommunityRating": "3.7272727272727271",
+  "ESRB": "T - Teen",
+  "Genres": " Fighting",
+  "Developer": "ArtDink",
+  "Publisher": "Bandai Namco Games",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "3b667b2c-5a6f-4e03-a9f3-fe801433b2ca.png",
+        "Type": "Fanart - Background",
+        "CRC32": "3374001339",
+        "URL": "http://images.launchbox-app.com/3b667b2c-5a6f-4e03-a9f3-fe801433b2ca.png"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "daa4a3a7-d751-4f48-871f-0d6d17bdfe5c.jpg",
+          "Type": "Box - Front",
+          "CRC32": "3794573235",
+          "URL": "http://images.launchbox-app.com/daa4a3a7-d751-4f48-871f-0d6d17bdfe5c.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "cadc7bba-3adf-40b4-b6c3-ff962d311b62.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "857180268",
+        "URL": "http://images.launchbox-app.com/cadc7bba-3adf-40b4-b6c3-ff962d311b62.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "9fab5046-b237-4004-acbc-353a251a28c5.png",
+        "Type": "Clear Logo",
+        "CRC32": "3954549730",
+        "URL": "http://images.launchbox-app.com/9fab5046-b237-4004-acbc-353a251a28c5.png"
+      }
+    ]
+  }
+}

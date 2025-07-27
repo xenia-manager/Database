@@ -1,0 +1,57 @@
+{
+  "Name": "X-Men: Destiny",
+  "DatabaseID": "8898",
+  "ReleaseDate": "2011-09-27T00:00:00-07:00",
+  "Overview": "X-Men: Destiny is an action role-playing video game based on the X-Men comic book series. It was developed by Silicon Knights. Written by Mike Carey, the writer of the X-Men: Legacy comic book series,[2] it was first published and released by Activision for the Nintendo DS, PlayStation 3, Xbox 360 and Wii consoles.[3]\n\nAlong with many other games published by Activision that had used a Marvel license, X-Men: Destiny was de-listed and subsequently removed from all digital storefronts on January 1, 2014.[4][5] The game and another game, Too Human, were recalled, and had their unsold copies destroyed due to legal issues between Silicon Knights and Epic Games over the games' use of Unreal Engine 3 code.[6][7][8]",
+  "CommunityRating": "3.625",
+  "ESRB": "T - Teen",
+  "Genres": " Action; Adventure; Role-Playing; Beat 'em Up",
+  "Developer": "Silicon Knights",
+  "Publisher": "Activision Publishing",
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "1ef5c165-530b-42a6-882e-dab8d54e06c2.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "138908121",
+          "URL": "http://images.launchbox-app.com/1ef5c165-530b-42a6-882e-dab8d54e06c2.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "598ce759-1f76-4766-9772-eb6340693a22.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "257764796",
+          "URL": "http://images.launchbox-app.com/598ce759-1f76-4766-9772-eb6340693a22.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "efa0ab03-1fdc-4792-8988-3870ab0e640b.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "1812197302",
+          "URL": "http://images.launchbox-app.com/efa0ab03-1fdc-4792-8988-3870ab0e640b.jpg"
+        },
+        {
+          "FileName": "e0ad40aa-d3ff-4594-bc85-96fff13d1431.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "1812197302",
+          "URL": "http://images.launchbox-app.com/e0ad40aa-d3ff-4594-bc85-96fff13d1431.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "d5bc675f-b0bb-4eb5-b3f4-6f68a80459f8.png",
+        "Type": "Clear Logo",
+        "CRC32": "784895480",
+        "URL": "http://images.launchbox-app.com/d5bc675f-b0bb-4eb5-b3f4-6f68a80459f8.png"
+      }
+    ]
+  }
+}

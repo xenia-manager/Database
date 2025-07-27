@@ -1,0 +1,72 @@
+{
+  "Name": "Dynasty Warriors 5: Empires",
+  "DatabaseID": "12493",
+  "ReleaseDate": "2006-06-22T00:00:00-07:00",
+  "Overview": "Dynasty Warriors 5 (真・三國無双4 Shin Sangokumusō 4?, Shin Sangokumusou 4 in Japan) is a hack and slash video game set in China and the fifth installment in the Dynasty Warriors series, developed by Omega Force and published by Koei. The game was released on the PlayStation 2 and Xbox. It is based on the Chinese novel Romance of the Three Kingdoms by Luo Guanzhong",
+  "CommunityRating": "5",
+  "Genres": null,
+  "Developer": "Omega Force",
+  "Publisher": "Koei",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "c70f032a-2456-4d8b-81d6-9a19e8816c91.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "2773688551",
+          "URL": "http://images.launchbox-app.com/c70f032a-2456-4d8b-81d6-9a19e8816c91.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "79102f5e-352a-4b13-ae72-9964f07146d7.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "1628292671",
+          "URL": "http://images.launchbox-app.com/79102f5e-352a-4b13-ae72-9964f07146d7.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "45ac8206-d52f-439c-85e5-f087d0f94810.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3580294519",
+          "URL": "http://images.launchbox-app.com/45ac8206-d52f-439c-85e5-f087d0f94810.jpg"
+        },
+        {
+          "FileName": "adba7504-e59f-4c1c-bd6d-31e2a55f879a.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "2865727429",
+          "URL": "http://images.launchbox-app.com/adba7504-e59f-4c1c-bd6d-31e2a55f879a.jpg"
+        },
+        {
+          "FileName": "01cafcdd-e13b-47c9-b52b-81178c6b5855.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "North America",
+          "CRC32": "1037489654",
+          "URL": "http://images.launchbox-app.com/01cafcdd-e13b-47c9-b52b-81178c6b5855.png"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "30daacf3-f961-4a16-86ed-85eb4e1e4605.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "3330241650",
+        "URL": "http://images.launchbox-app.com/30daacf3-f961-4a16-86ed-85eb4e1e4605.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "00e9e477-5da9-4586-a360-434a47daccd2.png",
+        "Type": "Clear Logo",
+        "CRC32": "2385261044",
+        "URL": "http://images.launchbox-app.com/00e9e477-5da9-4586-a360-434a47daccd2.png"
+      }
+    ]
+  }
+}

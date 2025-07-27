@@ -1,0 +1,31 @@
+{
+  "Name": "Disney Infinity 3.0 Edition",
+  "DatabaseID": "34244",
+  "ReleaseDate": "2015-08-30T00:00:00-07:00",
+  "Overview": "Do you already own Disney Infinity 1.0 or 2.0 and want to play Disney Infinity 3.0? Bring on the adventure! You can purchase the Disney Infinity 3.0 Video Game Software as a digital download and immediately unlock the Disney Infinity 3.0 Toy Box. Create stories and fun-filled adventures featuring all-new characters and powers! This purchase includes the Disney Infinity 3.0 Video Game Software only. Please note, a platform compatible Disney Infinity Base and a minimum of 1 Disney Infinity Figure is required to play. The Disney Infinity Base is available in prior Disney Infinity Starter Packs or Disney Infinity 2.0 Toy Box Combo Packs only. For more details on Disney Infinity Base compatibility, please visit Disney.com/Infinity. All Disney Infinity Figures, Disney Infinity Power Discs and Disney Infinity 3.0 Play sets work with the Disney Infinity 3.0 Video Game Software.",
+  "CommunityRating": "4.666666666666667",
+  "Genres": " Action; Adventure; Sandbox",
+  "Developer": "Avalanche Software",
+  "Publisher": "Disney Interactive Studios",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "r2_f73dbcef-0af1-4731-b5df-971f84a54af0.png",
+        "Type": "Fanart - Background",
+        "Region": "World",
+        "CRC32": "3689872319",
+        "URL": "http://images.launchbox-app.com/r2_f73dbcef-0af1-4731-b5df-971f84a54af0.png"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "7c236c0e-86b5-4cc0-bdd0-7c339835b88b.jpg",
+          "Type": "Box - Front",
+          "CRC32": "686468520",
+          "URL": "http://images.launchbox-app.com/7c236c0e-86b5-4cc0-bdd0-7c339835b88b.jpg"
+        }
+      ]
+    }
+  }
+}

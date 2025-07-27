@@ -1,0 +1,23 @@
+{
+  "Name": "Wallace & Gromit’s Grand Adventures Episode 4: The Bogey Man",
+  "DatabaseID": "209984",
+  "ReleaseDate": "2009-11-04T00:00:00-08:00",
+  "Overview": "Enter the colourful world of West Wallaby Street in a series of four cracking adventures brought to you by Aardman Animations, the creators of the Wallace & Gromit animated films, and Telltale, the award-winning studio behind Sam & Max.",
+  "CommunityRating": "4",
+  "Genres": " Adventure",
+  "Developer": "Telltale Games",
+  "Publisher": "Telltale Games",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "9828ea5c-d6c7-4b45-aefd-2ec5258c9221.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "2883968471",
+          "URL": "http://images.launchbox-app.com/9828ea5c-d6c7-4b45-aefd-2ec5258c9221.jpg"
+        }
+      ]
+    }
+  }
+}

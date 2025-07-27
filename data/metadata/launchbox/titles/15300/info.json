@@ -1,0 +1,126 @@
+{
+  "Name": "Beijing 2008",
+  "DatabaseID": "15300",
+  "ReleaseDate": "2008-07-08T00:00:00-07:00",
+  "Overview": "Game modes include practice, regular competition (where the player can select or deselect each event, for men and women), random events, Decathlon or Heptathlon and of course, the Olympics. While in previous games the Olympics were usually just a set of events, in Beijing 2008 they are much more complex, and feature a game where the player must complete a number of challenges each day with the difficulty level and number of necessary successes increasing progressively. While in the other modes there is a slight slowdown during the technical parts of the events, in Olympic the player must assign points to it, and trigger when required. The player also needs to assign points to other key areas, such as speed, technique or accuracy. Failing to reach the goal for the day forces the player to load the game and try again.",
+  "CommunityRating": "2.4",
+  "ESRB": "E - Everyone",
+  "Genres": " Sports",
+  "Developer": "Eurocom Developments",
+  "Publisher": "Sega of America",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "7a502bdb-cb70-4075-9a92-6d7ced904212.png",
+        "Type": "Banner",
+        "CRC32": "2628959594",
+        "URL": "http://images.launchbox-app.com/7a502bdb-cb70-4075-9a92-6d7ced904212.png"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "4660de55-6dbe-46f8-9193-09e4822e6537.png",
+          "Type": "Box - 3D",
+          "CRC32": "4198316148",
+          "URL": "http://images.launchbox-app.com/4660de55-6dbe-46f8-9193-09e4822e6537.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "73abe293-4d32-4163-9909-e4a00107e198.jpg",
+          "Type": "Box - Back",
+          "CRC32": "2474909027",
+          "URL": "http://images.launchbox-app.com/73abe293-4d32-4163-9909-e4a00107e198.jpg"
+        },
+        {
+          "FileName": "daa64824-e95d-45f2-8096-1c9151adf9c6.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "4217997414",
+          "URL": "http://images.launchbox-app.com/daa64824-e95d-45f2-8096-1c9151adf9c6.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "ff2c65f8-a649-4867-9a6d-b505789da40f.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3008614532",
+          "URL": "http://images.launchbox-app.com/ff2c65f8-a649-4867-9a6d-b505789da40f.jpg"
+        },
+        {
+          "FileName": "68f4b2d7-e100-46e8-8581-e5c352b80b2f.jpg",
+          "Type": "Box - Front",
+          "CRC32": "409260389",
+          "URL": "http://images.launchbox-app.com/68f4b2d7-e100-46e8-8581-e5c352b80b2f.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "d927e1ae-af89-483a-94c1-ea65c0338467.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "1909860450",
+          "URL": "http://images.launchbox-app.com/d927e1ae-af89-483a-94c1-ea65c0338467.jpg"
+        },
+        {
+          "FileName": "8c845aaa-0be7-4216-ae2b-bcc36bc930b3.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "3376392302",
+          "URL": "http://images.launchbox-app.com/8c845aaa-0be7-4216-ae2b-bcc36bc930b3.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "0c993ced-7a30-40bc-9ce7-206f63fde09c.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "115179635",
+        "URL": "http://images.launchbox-app.com/0c993ced-7a30-40bc-9ce7-206f63fde09c.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "81b32f43-cc6e-45ef-b2ff-41a675ce0ee5.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1078084520",
+        "URL": "http://images.launchbox-app.com/81b32f43-cc6e-45ef-b2ff-41a675ce0ee5.jpg"
+      },
+      {
+        "FileName": "27223e40-f0b7-4c2f-98aa-716c2d3ce96e.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "4253308929",
+        "URL": "http://images.launchbox-app.com/27223e40-f0b7-4c2f-98aa-716c2d3ce96e.jpg"
+      },
+      {
+        "FileName": "daa2fc4e-dc47-4f79-89c1-4851bf07d37a.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "4196502547",
+        "URL": "http://images.launchbox-app.com/daa2fc4e-dc47-4f79-89c1-4851bf07d37a.jpg"
+      },
+      {
+        "FileName": "06cbe45a-cd96-45c3-835e-e1b812097de0.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1676079365",
+        "URL": "http://images.launchbox-app.com/06cbe45a-cd96-45c3-835e-e1b812097de0.jpg"
+      },
+      {
+        "FileName": "f7afad68-2933-4e39-8454-c9c473474145.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1895347037",
+        "URL": "http://images.launchbox-app.com/f7afad68-2933-4e39-8454-c9c473474145.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "99c2176c-18c6-494e-bd6f-a2ae125dca34.png",
+        "Type": "Clear Logo",
+        "CRC32": "653928890",
+        "URL": "http://images.launchbox-app.com/99c2176c-18c6-494e-bd6f-a2ae125dca34.png"
+      }
+    ]
+  }
+}

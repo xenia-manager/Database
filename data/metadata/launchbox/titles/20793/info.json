@@ -1,0 +1,81 @@
+{
+  "Name": "Crimson Alliance",
+  "DatabaseID": "20793",
+  "ReleaseDate": "2011-09-07T00:00:00-07:00",
+  "Overview": "Crimson Alliance is a co-op action role-playing game developed by Certain Affinity and published by Microsoft Studios. The game was first announced at RTX 2011 and was available for demo at E3, ComicCon and PAX Prime,[2] with the press release being announced on May 31, 2011.[3]\n\nCrimson Alliance was released on September 7, 2011 on Xbox LIVE Arcade for free as a freemium. Player can choose to pay between 800 Microsoft Points for one character class or 1200 Microsoft Points for all three character classes.[4] The game was also offered as a free bonus code download for those who purchased all five of the fourth annual Xbox Live Summer of Arcade titles before August 23, 2011.[5]",
+  "VideoURL": "https://youtu.be/W_6kd_KR3tw?t=339",
+  "CommunityRating": "3.3333333333333335",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Crimson_Alliance",
+  "ESRB": "T - Teen",
+  "Genres": " Action; Role-Playing",
+  "Developer": "Certain Affinity",
+  "Publisher": "Microsoft",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "61964596-17d5-4657-a870-7ea78fa6282d.jpg",
+        "Type": "Banner",
+        "CRC32": "119685338",
+        "URL": "http://images.launchbox-app.com/61964596-17d5-4657-a870-7ea78fa6282d.jpg"
+      },
+      {
+        "FileName": "321ac1e6-5368-4619-bcd6-8b3c1c652c74.png",
+        "Type": "Banner",
+        "CRC32": "2211873220",
+        "URL": "http://images.launchbox-app.com/321ac1e6-5368-4619-bcd6-8b3c1c652c74.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "9671c986-b950-49d5-9850-3ae127cc156e.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3409060078",
+        "URL": "http://images.launchbox-app.com/9671c986-b950-49d5-9850-3ae127cc156e.jpg"
+      },
+      {
+        "FileName": "ca6ac024-c255-41bb-adba-1320f392360b.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1995741501",
+        "URL": "http://images.launchbox-app.com/ca6ac024-c255-41bb-adba-1320f392360b.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "72f4e485-543d-4d9d-ba0b-166570726a1a.jpg",
+          "Type": "Box - Front",
+          "CRC32": "2397091272",
+          "URL": "http://images.launchbox-app.com/72f4e485-543d-4d9d-ba0b-166570726a1a.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "9d1e2593-11bc-44e0-af59-68b61d333de0.jpg",
+        "Type": "Screenshot - Game Select",
+        "CRC32": "508691263",
+        "URL": "http://images.launchbox-app.com/9d1e2593-11bc-44e0-af59-68b61d333de0.jpg"
+      },
+      {
+        "FileName": "7eb30b4f-257e-4d08-9315-aca8f3dac163.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1130578663",
+        "URL": "http://images.launchbox-app.com/7eb30b4f-257e-4d08-9315-aca8f3dac163.jpg"
+      },
+      {
+        "FileName": "eb280b91-6dca-4d65-b128-8b13a2ffbb33.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1344244957",
+        "URL": "http://images.launchbox-app.com/eb280b91-6dca-4d65-b128-8b13a2ffbb33.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "7512b73c-d562-42c3-b449-685764d6462e.png",
+        "Type": "Clear Logo",
+        "CRC32": "633790717",
+        "URL": "http://images.launchbox-app.com/7512b73c-d562-42c3-b449-685764d6462e.png"
+      }
+    ]
+  }
+}

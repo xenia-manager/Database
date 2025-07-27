@@ -1,0 +1,58 @@
+{
+  "Name": "Batman Arkham City: Harley Quinn's Revenge",
+  "DatabaseID": "425401",
+  "ReleaseDate": "2012-05-29T00:00:00-07:00",
+  "Overview": "As the dust settles in Gotham, Batman is lured back into Arkham City by its last remaining super-criminal; Harley Quinn. Now more dangerous than ever and leading a homicidal gang of her own, she is hell-bent on taking her revenge against the Dark Knight.\n\nBatman: Arkham City 'Harley Quinn's Revenge' DLC sends players back into the urban mega-prison to face down it's final challenge. Playing as both Batman and Robin, gamers will utilize each of the heroes’ unique combat and detective skills to uncover Harley's vengeful plan and close the book on Arkham City forever.",
+  "VideoURL": "https://www.youtube.com/watch?v=sXkuaCEXmiY",
+  "CommunityRating": "4.5",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Batman:_Arkham_City#Downloadable_content",
+  "ESRB": "T - Teen",
+  "Genres": " Action; Adventure",
+  "Developer": "Rocksteady Studios",
+  "Publisher": "Warner Bros. Interactive Entertainment",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "8e4e0849-6c53-4038-aed7-e84e21a50e9a.jpg",
+        "Type": "Banner",
+        "CRC32": "2895389217",
+        "URL": "http://images.launchbox-app.com/8e4e0849-6c53-4038-aed7-e84e21a50e9a.jpg"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "7805120a-2290-48a4-9df1-a9cee0de1986.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2586577390",
+        "URL": "http://images.launchbox-app.com/7805120a-2290-48a4-9df1-a9cee0de1986.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "6e0f6dc7-4eea-4e48-9ea7-d8568f6f0e58.png",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "1101659059",
+          "URL": "http://images.launchbox-app.com/6e0f6dc7-4eea-4e48-9ea7-d8568f6f0e58.png"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "54e1243f-87ac-41c8-a50f-ab9a3dd55170.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1930233671",
+        "URL": "http://images.launchbox-app.com/54e1243f-87ac-41c8-a50f-ab9a3dd55170.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "f8945517-71ba-4716-843e-16831f47f2d2.png",
+        "Type": "Clear Logo",
+        "CRC32": "2018297942",
+        "URL": "http://images.launchbox-app.com/f8945517-71ba-4716-843e-16831f47f2d2.png"
+      }
+    ]
+  }
+}

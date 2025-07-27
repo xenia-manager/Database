@@ -1,0 +1,42 @@
+{
+  "Name": "Switchball",
+  "DatabaseID": "155670",
+  "ReleaseDate": "2007-11-07T00:00:00-08:00",
+  "Overview": "Switchball challenges players to control an ever-changing ball along a narrow and challenging course suspended in midair. A polymorphous ball exhibits different physical characteristics as it changes form as either a standard Marbleball, a feather-light Airball, an electrically charged Powerball or a dense and powerful Metalball. Players will have to solve their way through challenging levels packed with tricky obstacles, traps and mazes.",
+  "CommunityRating": "4.25",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Switchball",
+  "ESRB": "E - Everyone",
+  "Genres": " Puzzle",
+  "Developer": "Atomic Elbow",
+  "Publisher": "Sierra On-Line",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "28aef25d-fe82-4fc9-bf57-43b73c93dc80.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "4285611046",
+          "URL": "http://images.launchbox-app.com/28aef25d-fe82-4fc9-bf57-43b73c93dc80.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "655390ec-ab8d-4735-8353-e9f440994b98.jpg",
+        "Type": "Screenshot - Gameplay",
+        "Region": "World",
+        "CRC32": "32809517",
+        "URL": "http://images.launchbox-app.com/655390ec-ab8d-4735-8353-e9f440994b98.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "4f5c30d0-bf71-44c1-b201-f94508ae4b5e.png",
+        "Type": "Clear Logo",
+        "CRC32": "4233883482",
+        "URL": "http://images.launchbox-app.com/4f5c30d0-bf71-44c1-b201-f94508ae4b5e.png"
+      }
+    ]
+  }
+}

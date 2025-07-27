@@ -1,0 +1,42 @@
+{
+  "Name": "PES 2006: Pro Evolution Soccer 6",
+  "DatabaseID": "455670",
+  "ReleaseDate": "2006-10-26T00:00:00-07:00",
+  "Overview": "With over 150 skill moves and moves at your disposal, Pro Evolution Soccer 6 lets you play the world's most popular sport the way you want. The latest in the bestselling Pro Evolution series, it's the finest soccer simulation yet from legendary producer Shingo \"Seabass\" Takatsuta. From the finest passing and hard-hitting tackles to the crowd-pleasing one-on-one displays and desperate defensive moves, no other game captures the essence and atmosphere of the real game as well. Now, for the first time, you'll be able to experience this hit series on Xbox 360.",
+  "CommunityRating": "4",
+  "ESRB": "E - Everyone",
+  "Genres": " Sports",
+  "Developer": "Konami",
+  "Publisher": "Konami",
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "c2676e98-184c-4175-b556-7e919a73a8cb.jpg",
+          "Type": "Box - Back",
+          "Region": "France",
+          "CRC32": "724549431",
+          "URL": "http://images.launchbox-app.com/c2676e98-184c-4175-b556-7e919a73a8cb.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "dafd321f-f0e3-49ba-a764-14af08b1f02b.jpg",
+          "Type": "Box - Front",
+          "Region": "France",
+          "CRC32": "4003711333",
+          "URL": "http://images.launchbox-app.com/dafd321f-f0e3-49ba-a764-14af08b1f02b.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "c6502df9-0668-452e-87af-51fc52220167.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1205008964",
+        "URL": "http://images.launchbox-app.com/c6502df9-0668-452e-87af-51fc52220167.png"
+      }
+    ]
+  }
+}

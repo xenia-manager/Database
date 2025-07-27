@@ -1,0 +1,103 @@
+{
+  "Name": "Dynasty Warriors: Gundam 3",
+  "DatabaseID": "13889",
+  "ReleaseDate": "2011-06-28T00:00:00-07:00",
+  "Overview": "Dynasty Warriors: Gundam 3, known in Japan as Gundam Musou 3 (ガンダム無双3, Gandamu Musō Surī), is a tactical action video game based on the Gundam anime series, and the sequel to 2008's Dynasty Warriors: Gundam 2.\n\nDynasty Warriors: Gundam 3 follows in the style of previous Dynasty Warriors and Samurai Warriors games as an action-oriented hack and slash with some tactical elements. Despite their similar heritage, Koei's Gundam titles have unique gameplay mechanics that help set them apart from Koei's core Dynasty Warriors series. For example: players are given more ranged combat options than in other Dynasty Warriors games, although melee combat is still the focus of the game. Also, units in Dynasty Warriors: Gundam 3 are much more mobile, using their thrusters to dash, jump in mid-air, and (for some) even fly.\n\nHowever, the greatest difference between Koei's Gundam titles (of which there are currently three) and Koei's Dynasty Warriors series is the core content: rather than using characters and story from the novel Romance of the Three Kingdoms, the games draw their material from across the various Mobile Suit Gundam anime and manga series.",
+  "VideoURL": "https://www.youtube.com/watch?v=JbHMx0Aymw8",
+  "CommunityRating": "3.5",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Dynasty_Warriors:_Gundam_3",
+  "ESRB": "T - Teen",
+  "Genres": " Beat 'em Up",
+  "Developer": "Omega Force",
+  "Publisher": "Namco Bandai Games",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "35192a27-0f7a-4413-bada-6fc53f9596c7.png",
+        "Type": "Banner",
+        "CRC32": "4172493156",
+        "URL": "http://images.launchbox-app.com/35192a27-0f7a-4413-bada-6fc53f9596c7.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "2fe493b4-78d8-4dea-96f0-2c0189377707.png",
+        "Type": "Fanart - Background",
+        "CRC32": "2424953200",
+        "URL": "http://images.launchbox-app.com/2fe493b4-78d8-4dea-96f0-2c0189377707.png"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "37cbc4d9-c31e-4310-a165-ccb3b6a8ff80.png",
+          "Type": "Box - 3D",
+          "CRC32": "1199635198",
+          "URL": "http://images.launchbox-app.com/37cbc4d9-c31e-4310-a165-ccb3b6a8ff80.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "0a03bbb2-02b4-45d3-a7f0-e263c7ddb247.jpg",
+          "Type": "Box - Back",
+          "Region": "Japan",
+          "CRC32": "951259057",
+          "URL": "http://images.launchbox-app.com/0a03bbb2-02b4-45d3-a7f0-e263c7ddb247.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "1bbbb25a-e1b0-42f0-95d8-63814ed03cdb.jpg",
+          "Type": "Box - Front",
+          "Region": "Japan",
+          "CRC32": "3738117940",
+          "URL": "http://images.launchbox-app.com/1bbbb25a-e1b0-42f0-95d8-63814ed03cdb.jpg"
+        },
+        {
+          "FileName": "b321b337-072a-470e-bc1f-e10d52d13fbd.jpg",
+          "Type": "Box - Front",
+          "CRC32": "3176294042",
+          "URL": "http://images.launchbox-app.com/b321b337-072a-470e-bc1f-e10d52d13fbd.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "3d1832a0-31c9-42d7-8f89-f6eed938a10e.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "4273355018",
+        "URL": "http://images.launchbox-app.com/3d1832a0-31c9-42d7-8f89-f6eed938a10e.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "83c77c61-4d2a-4629-8515-c9b26bde782c.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3550154076",
+        "URL": "http://images.launchbox-app.com/83c77c61-4d2a-4629-8515-c9b26bde782c.jpg"
+      },
+      {
+        "FileName": "dabc2b28-92ab-44b8-b10a-22902e62e2fa.jpg",
+        "Type": "Screenshot - Gameplay",
+        "Region": "North America",
+        "CRC32": "1638408344",
+        "URL": "http://images.launchbox-app.com/dabc2b28-92ab-44b8-b10a-22902e62e2fa.jpg"
+      },
+      {
+        "FileName": "04d070b9-9fde-4dfb-ae3a-2b8a77493dd7.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3490158781",
+        "URL": "http://images.launchbox-app.com/04d070b9-9fde-4dfb-ae3a-2b8a77493dd7.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "5b43525d-3e9a-4747-9ac9-af7794ff17bf.png",
+        "Type": "Clear Logo",
+        "CRC32": "3135997020",
+        "URL": "http://images.launchbox-app.com/5b43525d-3e9a-4747-9ac9-af7794ff17bf.png"
+      }
+    ]
+  }
+}

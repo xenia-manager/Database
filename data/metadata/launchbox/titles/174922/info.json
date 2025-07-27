@@ -1,0 +1,40 @@
+{
+  "Name": "Fable Heroes",
+  "DatabaseID": "174922",
+  "ReleaseDate": "2012-05-02T00:00:00-07:00",
+  "Overview": "Fable Heroes is a fresh spin on the beloved Fable franchise in which up to four players play both cooperatively and competitively in this hack-and-slash adventure. Work together as heroes of Albion to defeat familiar foes and new enemies while collecting as many gold coins as possible to unlock upgrades, characters, and items in both this game and Fable: The Journey for Xbox 360.",
+  "CommunityRating": "2.7",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Action; Beat 'em Up",
+  "Developer": "Lionhead Studios",
+  "Publisher": "Microsoft Game Studios",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "f8e5fec9-8391-41e4-8227-c4b1e1ef095f.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1920235480",
+        "URL": "http://images.launchbox-app.com/f8e5fec9-8391-41e4-8227-c4b1e1ef095f.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "b79e412e-247e-4b79-86e2-e369d364b1b1.png",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2859642126",
+          "URL": "http://images.launchbox-app.com/b79e412e-247e-4b79-86e2-e369d364b1b1.png"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "2f131def-1f8a-4568-bbf0-96e5bd214677.png",
+        "Type": "Clear Logo",
+        "CRC32": "3893041631",
+        "URL": "http://images.launchbox-app.com/2f131def-1f8a-4568-bbf0-96e5bd214677.png"
+      }
+    ]
+  }
+}

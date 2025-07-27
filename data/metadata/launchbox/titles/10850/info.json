@@ -1,0 +1,49 @@
+{
+  "Name": "XCOM: Enemy Unknown",
+  "DatabaseID": "10850",
+  "ReleaseDate": "2012-10-12T00:00:00-07:00",
+  "Overview": "The game, set in the modern-day Earth, deals with an international response to a global alien invasion. The player assumes the role of the commander of the top secret XCOM Project, the most elite military and scientific organization in the history of mankind, activated to engage in a seemingly hopeless war against an unknown extraterrestrial enemy with far better technology and capabilities",
+  "VideoURL": "http://www.youtube.com/watch?v=https://tZdanb02280",
+  "CommunityRating": "3.2",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/XCOM:_Enemy_Unknown",
+  "ESRB": "M - Mature",
+  "Genres": " Strategy",
+  "Developer": "Firaxis Games",
+  "Publisher": "2K Games",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "37239bf8-0bc9-4e6f-b288-f2c4fe5b0325.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "908446619",
+        "URL": "http://images.launchbox-app.com/37239bf8-0bc9-4e6f-b288-f2c4fe5b0325.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "1dc25241-ed89-4ad7-8899-67623d40be68.png",
+          "Type": "Box - 3D",
+          "CRC32": "3777726632",
+          "URL": "http://images.launchbox-app.com/1dc25241-ed89-4ad7-8899-67623d40be68.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "4f9db530-a21d-4df6-a58d-2404d0a2001d.jpg",
+          "Type": "Box - Front",
+          "CRC32": "4036194673",
+          "URL": "http://images.launchbox-app.com/4f9db530-a21d-4df6-a58d-2404d0a2001d.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "d22cda79-c250-4625-8785-6883ccffbd4a.png",
+        "Type": "Clear Logo",
+        "CRC32": "3791313976",
+        "URL": "http://images.launchbox-app.com/d22cda79-c250-4625-8785-6883ccffbd4a.png"
+      }
+    ]
+  }
+}

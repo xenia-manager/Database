@@ -1,0 +1,66 @@
+{
+  "Name": "Dragon Ball Z: Budokai HD Collection",
+  "DatabaseID": "26739",
+  "ReleaseDate": "2012-11-06T00:00:00-08:00",
+  "Overview": "Dragon Ball Z Budokai: HD Collection features both Dragon Ball Z: Budokai 1 and Dragon Ball Z: Budokai 3 enhanced and re-mastered in HD, alongside full Trophy and Achievements support. Both included games have entirely new soundtracks and sport the optional original Japanese language track. \n\nDragon Ball Z Budokai 1: Fight to the finish against the deadliest fighters in the universe and take on the most powerful heroes and the most evil villains in Dragon Ball Z. The more you win, the more difficult it gets. Can you survive? Includes the authentic Japanese voiceover cast. Dragon Ball Z Budokai 3: A Hall of Fame cast of warriors from Dragon Ball Z, Dragon Ball GT, and DBZ movies come together for a tournament of champions. With the power of the new Saiyan Overdrive Fighting System, players have unprecedented gameplay control and Dragon Ball Z authenticity. Budokai 3 Features - More than 40 characters from Dragon Ball Z, movies and Dragon Ball GT Character customization Saiyan Overdrive Fighting System bringing the speed, cinematic attacks and combos, airborne acrobatics and intensity of the Dragon Ball Z anime Share character profile passwords for other players to use Includes the authentic Japanese voiceover cast",
+  "VideoURL": "https://www.youtube.com/watch?v=_zznqf1L9jY",
+  "CommunityRating": "4.2727272727272725",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Budokai#Budokai:_HD_Collection",
+  "ESRB": "T - Teen",
+  "Genres": " Fighting",
+  "Developer": "Dimps",
+  "Publisher": "Bandai Namco Games",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "c9592d9e-7f1e-42f4-9bf2-d82bf9eeeb25.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1948732227",
+        "URL": "http://images.launchbox-app.com/c9592d9e-7f1e-42f4-9bf2-d82bf9eeeb25.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "8aad2f1b-afcd-4070-99ab-13a491e6de7b.png",
+          "Type": "Box - 3D",
+          "CRC32": "1715345557",
+          "URL": "http://images.launchbox-app.com/8aad2f1b-afcd-4070-99ab-13a491e6de7b.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "be9c6439-ea0b-442c-8a48-01514ffdb686.png",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "3748580814",
+          "URL": "http://images.launchbox-app.com/be9c6439-ea0b-442c-8a48-01514ffdb686.png"
+        },
+        {
+          "FileName": "4267ea9f-3274-4ab8-8ef9-219a9dcec9d0.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "17894914",
+          "URL": "http://images.launchbox-app.com/4267ea9f-3274-4ab8-8ef9-219a9dcec9d0.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "2fd57446-3108-4e86-866b-fe110e165027.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "3044547681",
+        "URL": "http://images.launchbox-app.com/2fd57446-3108-4e86-866b-fe110e165027.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "bbf7390d-e02f-4489-9b37-4b8393114622.png",
+        "Type": "Clear Logo",
+        "CRC32": "1211911546",
+        "URL": "http://images.launchbox-app.com/bbf7390d-e02f-4489-9b37-4b8393114622.png"
+      }
+    ]
+  }
+}

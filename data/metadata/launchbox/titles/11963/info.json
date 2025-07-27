@@ -1,0 +1,31 @@
+{
+  "Name": "Konami Classics Vol. 1",
+  "DatabaseID": "11963",
+  "ReleaseDate": "2009-12-18T00:00:00-08:00",
+  "Overview": "This is a compilation of three Xbox Live Arcade titles on one disc. It includes Castlevania: Symphony of the Night, Frogger, and Super Contra.",
+  "CommunityRating": "3.9",
+  "ESRB": "T - Teen",
+  "Genres": " Compilation",
+  "Developer": "Konami",
+  "Publisher": "Konami",
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "3fd90a6d-8ae9-4049-94c7-38a81289b3a2.png",
+          "Type": "Box - Back",
+          "CRC32": "898227415",
+          "URL": "http://images.launchbox-app.com/3fd90a6d-8ae9-4049-94c7-38a81289b3a2.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "40569fde-32ba-483c-970d-d20bdec17d5e.png",
+          "Type": "Box - Front",
+          "CRC32": "2107033730",
+          "URL": "http://images.launchbox-app.com/40569fde-32ba-483c-970d-d20bdec17d5e.png"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "Name": "Street Fighter IV",
+  "DatabaseID": "12528",
+  "ReleaseDate": "2009-02-17T00:00:00-08:00",
+  "Overview": "Street Fighter IV is a 2008 fighting game produced by Capcom. It is the first numbered Street Fighter game released by Capcom for the arcades since 1999.",
+  "CommunityRating": "4.55",
+  "ESRB": "T - Teen",
+  "Genres": " Fighting",
+  "Developer": "Capcom",
+  "Publisher": "Capcom",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "b1ecae8f-4384-4d69-a197-bf59672b833e.jpg",
+        "Type": "Banner",
+        "CRC32": "4222264257",
+        "URL": "http://images.launchbox-app.com/b1ecae8f-4384-4d69-a197-bf59672b833e.jpg"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "578781d0-8db8-42fa-873e-eb8e5d0a60f3.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "552723190",
+        "URL": "http://images.launchbox-app.com/578781d0-8db8-42fa-873e-eb8e5d0a60f3.jpg"
+      },
+      {
+        "FileName": "8a0c7fd6-c5af-41a0-9b0b-4f4c8b828a87.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1895452776",
+        "URL": "http://images.launchbox-app.com/8a0c7fd6-c5af-41a0-9b0b-4f4c8b828a87.jpg"
+      },
+      {
+        "FileName": "9381865b-e512-4ebc-9568-65e904dbeb26.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3164033335",
+        "URL": "http://images.launchbox-app.com/9381865b-e512-4ebc-9568-65e904dbeb26.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "c4c2cff0-29bb-4ca9-8ef7-9544485b083f.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "2548562681",
+          "URL": "http://images.launchbox-app.com/c4c2cff0-29bb-4ca9-8ef7-9544485b083f.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "9b48bceb-4ad5-4373-ac82-d14da50adc41.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "4025750228",
+          "URL": "http://images.launchbox-app.com/9b48bceb-4ad5-4373-ac82-d14da50adc41.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "7fbbd522-a509-4824-815c-eb61b790080d.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "546507708",
+          "URL": "http://images.launchbox-app.com/7fbbd522-a509-4824-815c-eb61b790080d.jpg"
+        },
+        {
+          "FileName": "bde86572-5bc5-45af-8323-c2896ae17ab4.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "North America",
+          "CRC32": "3208784919",
+          "URL": "http://images.launchbox-app.com/bde86572-5bc5-45af-8323-c2896ae17ab4.png"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "7c8b7a30-30d2-4d52-b9f9-0f882768f3f6.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2273765090",
+        "URL": "http://images.launchbox-app.com/7c8b7a30-30d2-4d52-b9f9-0f882768f3f6.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "3bee2f69-80b9-4f35-af00-0207f4edfbe9.png",
+        "Type": "Clear Logo",
+        "CRC32": "653481251",
+        "URL": "http://images.launchbox-app.com/3bee2f69-80b9-4f35-af00-0207f4edfbe9.png"
+      }
+    ]
+  }
+}

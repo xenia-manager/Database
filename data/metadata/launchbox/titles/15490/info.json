@@ -1,0 +1,133 @@
+{
+  "Name": "Gears of War: Judgment",
+  "DatabaseID": "15490",
+  "ReleaseDate": "2013-03-19T00:00:00-07:00",
+  "Overview": "\"Gears of War: Judgment\" takes you back before events of the original \"Gears of War\" trilogy to the immediate aftermath of Emergence Day - the defining event of the \"Gears of War\" universe. Follow Kilo Squad, led by Damon Baird and Augustus \"The Cole Train\" Cole, as they fight to save the city of Halvo Bay from an unstoppable enemy in the most intense 'Gears' game yet.",
+  "VideoURL": "http://www.youtube.com/watch?v=WBoPE0i93GE",
+  "CommunityRating": "3.824074074074074",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Gears_of_War:_Judgment",
+  "ESRB": "M - Mature",
+  "Genres": " Shooter",
+  "Developer": "Epic Games",
+  "Publisher": "Microsoft Game Studios",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "cdcbede9-028e-4f54-8e8b-b36ca8685d69.jpg",
+        "Type": "Banner",
+        "CRC32": "2813275191",
+        "URL": "http://images.launchbox-app.com/cdcbede9-028e-4f54-8e8b-b36ca8685d69.jpg"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "cf5ddaee-68ec-4897-af73-305a6f1fd44f.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3758958554",
+        "URL": "http://images.launchbox-app.com/cf5ddaee-68ec-4897-af73-305a6f1fd44f.jpg"
+      },
+      {
+        "FileName": "727ae933-c232-4d24-9bbc-fb7617434ce1.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3937888136",
+        "URL": "http://images.launchbox-app.com/727ae933-c232-4d24-9bbc-fb7617434ce1.jpg"
+      },
+      {
+        "FileName": "f4f66b95-e4e7-4b31-a011-811ac6e33fd1.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1468841606",
+        "URL": "http://images.launchbox-app.com/f4f66b95-e4e7-4b31-a011-811ac6e33fd1.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "3cdc72f7-9dc3-45ce-b043-e3d4b8b47d00.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "571773334",
+          "URL": "http://images.launchbox-app.com/3cdc72f7-9dc3-45ce-b043-e3d4b8b47d00.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "7641ad58-b48b-4179-acea-fe7be738ff7c.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "482926980",
+          "URL": "http://images.launchbox-app.com/7641ad58-b48b-4179-acea-fe7be738ff7c.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "ecf5591a-c1cf-4e5e-beae-77ecddb4016a.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3073472064",
+          "URL": "http://images.launchbox-app.com/ecf5591a-c1cf-4e5e-beae-77ecddb4016a.jpg"
+        },
+        {
+          "FileName": "f8fa2140-5c92-468f-a2d5-672c13108bde.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "3951217847",
+          "URL": "http://images.launchbox-app.com/f8fa2140-5c92-468f-a2d5-672c13108bde.jpg"
+        },
+        {
+          "FileName": "69d0b54f-6935-4c80-a699-4094c68c96f6.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1717618897",
+          "URL": "http://images.launchbox-app.com/69d0b54f-6935-4c80-a699-4094c68c96f6.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "ee94662a-d4fd-401b-b15b-e227bc01df7f.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "1963058773",
+          "URL": "http://images.launchbox-app.com/ee94662a-d4fd-401b-b15b-e227bc01df7f.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "831afbb5-ff9d-43c0-82b3-b9795662c126.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2245132959",
+        "URL": "http://images.launchbox-app.com/831afbb5-ff9d-43c0-82b3-b9795662c126.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "d9f85ab8-4c44-4387-b8f9-ef4993194e6f.jpg",
+        "Type": "Screenshot - Game Title",
+        "Region": "France",
+        "CRC32": "4246405669",
+        "URL": "http://images.launchbox-app.com/d9f85ab8-4c44-4387-b8f9-ef4993194e6f.jpg"
+      },
+      {
+        "FileName": "993f0d70-1ed4-4dd6-9a0a-0c07fccf2938.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2056820659",
+        "URL": "http://images.launchbox-app.com/993f0d70-1ed4-4dd6-9a0a-0c07fccf2938.jpg"
+      },
+      {
+        "FileName": "7ed32bc9-45d4-472b-8a83-ec81b212fcfd.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3373986293",
+        "URL": "http://images.launchbox-app.com/7ed32bc9-45d4-472b-8a83-ec81b212fcfd.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "7f66cfd7-91c5-4738-88df-3522f4cf9d70.png",
+        "Type": "Clear Logo",
+        "CRC32": "1246608463",
+        "URL": "http://images.launchbox-app.com/7f66cfd7-91c5-4738-88df-3522f4cf9d70.png"
+      }
+    ]
+  }
+}

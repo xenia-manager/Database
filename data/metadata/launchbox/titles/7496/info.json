@@ -1,0 +1,105 @@
+{
+  "Name": "Kameo: Elements of Power",
+  "DatabaseID": "7496",
+  "ReleaseDate": "2005-11-07T00:00:00-08:00",
+  "Overview": "Kameo: Elements of Power was one of the Xbox 360 launch games and puts you in the role of the young fairy-like elf Kameo. In the introduction, she storms a castle to rescue her family members, but fails, and loses all her powers. Your task is to collect ten elemental spirits and defeat Thorn, the king of the trolls, along with your evil sister Kalus.\n\nThe game mixes action with exploring and basic puzzle-solving tasks. There are four themed areas, with friendly zones where you can shop and talk to the inhabitants. Next to the distinct zones, there are also Badlands to cross, where there is an ongoing battle between elves and trolls. The Enchanted Kingdom is your base, a hub from which you can access the different areas.\n\nBy collecting elemental spirits, Kameo can transform into ten different forms, each with their own abilities. Those are acquired by solving quests or defeating boss characters. As you progress in the game, you will need to make use of them to overcome obstacles. Some forms allow you to perform special attacks, link combos, or grant abilities such as swimming (Deep Blue), breathing fire (Ash), shooting torpedoes or use rock-like body parts to engage enemies (Rubble). Each form can be enhanced with different upgrades by collecting hidden pieces of fruit.\n\nDuring gameplay, you can access a hint book where Ortho offers hints. There is a cooperative mode for two players, both offline and online, and the music was done by an 80 piece orchestra.",
+  "VideoURL": "https://www.youtube.com/watch?v=U3mPs0WmTYs",
+  "CommunityRating": "3.9553571428571428",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Kameo",
+  "ESRB": "T - Teen",
+  "Genres": " Action; Adventure",
+  "Developer": "Rare",
+  "Publisher": "Microsoft Game Studios",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "f524adeb-bf52-4599-b25b-cf840385d687.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1324025718",
+        "URL": "http://images.launchbox-app.com/f524adeb-bf52-4599-b25b-cf840385d687.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "ca018475-7028-4a34-92bf-88e77f480586.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "2447665126",
+          "URL": "http://images.launchbox-app.com/ca018475-7028-4a34-92bf-88e77f480586.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "3a8c5fdd-5241-4a7a-be5a-abdffaab147c.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "2667254531",
+          "URL": "http://images.launchbox-app.com/3a8c5fdd-5241-4a7a-be5a-abdffaab147c.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "51c74122-517b-4a94-8832-cd678ad6aa39.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2553585526",
+          "URL": "http://images.launchbox-app.com/51c74122-517b-4a94-8832-cd678ad6aa39.jpg"
+        },
+        {
+          "FileName": "9c73117f-c767-4c2f-8373-796ed5db5ebf.jpg",
+          "Type": "Box - Front",
+          "Region": "China",
+          "CRC32": "2400620913",
+          "URL": "http://images.launchbox-app.com/9c73117f-c767-4c2f-8373-796ed5db5ebf.jpg"
+        },
+        {
+          "FileName": "e978790c-4eac-490f-a773-7d556605dd57.jpg",
+          "Type": "Box - Front",
+          "Region": "Japan",
+          "CRC32": "3293812422",
+          "URL": "http://images.launchbox-app.com/e978790c-4eac-490f-a773-7d556605dd57.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "be08df71-624c-42db-8c15-9e53c83ee3a8.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "3904219664",
+        "URL": "http://images.launchbox-app.com/be08df71-624c-42db-8c15-9e53c83ee3a8.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "6d03f7a9-3768-4f83-b4d1-71f947264873.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "877400708",
+        "URL": "http://images.launchbox-app.com/6d03f7a9-3768-4f83-b4d1-71f947264873.jpg"
+      },
+      {
+        "FileName": "611e0faa-40ea-4fb7-a261-1a5865686703.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "937098971",
+        "URL": "http://images.launchbox-app.com/611e0faa-40ea-4fb7-a261-1a5865686703.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "92fbf178-049b-442e-ad07-83204ceef1ff.jpg",
+        "Type": "Advertisement Flyer - Front",
+        "Region": "North America",
+        "CRC32": "3996619441",
+        "URL": "http://images.launchbox-app.com/92fbf178-049b-442e-ad07-83204ceef1ff.jpg"
+      },
+      {
+        "FileName": "d3a9edd8-5f70-40c0-8896-39f9f25717ff.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "531837265",
+        "URL": "http://images.launchbox-app.com/d3a9edd8-5f70-40c0-8896-39f9f25717ff.png"
+      }
+    ]
+  }
+}

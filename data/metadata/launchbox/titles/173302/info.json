@@ -1,0 +1,32 @@
+{
+  "Name": "FIFA 18: Legacy Edition",
+  "DatabaseID": "173302",
+  "ReleaseDate": "2017-09-29T00:00:00-07:00",
+  "Overview": "In FIFA 18 we're adding new features to bring the players of the World's Game to life, making your favourite footballers move and act as they do on the pitch.\n\nFeaturing the latest kits, clubs, and player squads from top leagues around the world.",
+  "CommunityRating": "3.1666666666666665",
+  "ESRB": "E - Everyone",
+  "Genres": " Sports",
+  "Developer": "Electronic Arts",
+  "Publisher": "Electronic Arts",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "12e018a4-093c-41c2-9c4f-2a84c8065701.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3879442851",
+          "URL": "http://images.launchbox-app.com/12e018a4-093c-41c2-9c4f-2a84c8065701.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "a5ba062a-b76a-4223-9916-8b4cec0e626c.png",
+        "Type": "Clear Logo",
+        "CRC32": "12823770",
+        "URL": "http://images.launchbox-app.com/a5ba062a-b76a-4223-9916-8b4cec0e626c.png"
+      }
+    ]
+  }
+}

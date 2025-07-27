@@ -1,0 +1,90 @@
+{
+  "Name": "Dream C Club Zero",
+  "DatabaseID": "216527",
+  "ReleaseDate": "2011-01-27T00:00:00-08:00",
+  "Overview": "Dream C Club Zero is an Action game, developed by Tamsoft and published by D3Publisher, which was released in Japan in 2011.",
+  "CommunityRating": "5",
+  "Genres": " Music",
+  "Developer": "Tamsoft",
+  "Publisher": "D3Publisher",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "c45ab7fd-ae81-4364-9f4c-00c0cdd93a36.jpg",
+        "Type": "Banner",
+        "Region": "Japan",
+        "CRC32": "4135273756",
+        "URL": "http://images.launchbox-app.com/c45ab7fd-ae81-4364-9f4c-00c0cdd93a36.jpg"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "2a4bfd5c-346f-4ae2-b5f6-3ef12ae3f460.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2033745902",
+        "URL": "http://images.launchbox-app.com/2a4bfd5c-346f-4ae2-b5f6-3ef12ae3f460.jpg"
+      }
+    ],
+    "Box": {
+      "Back": [
+        {
+          "FileName": "47b591a9-5a19-477a-b904-39c7dc6391a9.jpg",
+          "Type": "Box - Back",
+          "Region": "Japan",
+          "CRC32": "788787315",
+          "URL": "http://images.launchbox-app.com/47b591a9-5a19-477a-b904-39c7dc6391a9.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "e9c977a6-a70b-4afd-ba7b-101e65202c84.jpg",
+          "Type": "Box - Front",
+          "Region": "Japan",
+          "CRC32": "2498203174",
+          "URL": "http://images.launchbox-app.com/e9c977a6-a70b-4afd-ba7b-101e65202c84.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "7b2edaef-624e-4954-83fe-49e6409a4afe.jpg",
+          "Type": "Box - Spine",
+          "Region": "Japan",
+          "CRC32": "758658800",
+          "URL": "http://images.launchbox-app.com/7b2edaef-624e-4954-83fe-49e6409a4afe.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "6cd0e2ca-912a-4434-a147-357e7abce3f1.jpg",
+        "Type": "Screenshot - Gameplay",
+        "Region": "Japan",
+        "CRC32": "3197697686",
+        "URL": "http://images.launchbox-app.com/6cd0e2ca-912a-4434-a147-357e7abce3f1.jpg"
+      },
+      {
+        "FileName": "c005aa56-2b72-465d-8534-3e53751069fe.jpg",
+        "Type": "Screenshot - Gameplay",
+        "Region": "Japan",
+        "CRC32": "521169866",
+        "URL": "http://images.launchbox-app.com/c005aa56-2b72-465d-8534-3e53751069fe.jpg"
+      },
+      {
+        "FileName": "db1373e1-bd3c-4b5c-9be4-aea2fdfe64c1.jpg",
+        "Type": "Screenshot - Gameplay",
+        "Region": "Japan",
+        "CRC32": "3534184153",
+        "URL": "http://images.launchbox-app.com/db1373e1-bd3c-4b5c-9be4-aea2fdfe64c1.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "e811636a-8db4-4621-bf90-1beb9819b97c.png",
+        "Type": "Clear Logo",
+        "Region": "Japan",
+        "CRC32": "4185930057",
+        "URL": "http://images.launchbox-app.com/e811636a-8db4-4621-bf90-1beb9819b97c.png"
+      }
+    ]
+  }
+}

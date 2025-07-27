@@ -1,0 +1,18 @@
+{
+  "Name": "Spongebob Squarepants: Underpants Slam",
+  "DatabaseID": "162243",
+  "CommunityRating": "4.25",
+  "Genres": null,
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "6235aabe-eda4-487b-86ac-fcad5989c855.png",
+          "Type": "Box - 3D",
+          "CRC32": "3955944515",
+          "URL": "http://images.launchbox-app.com/6235aabe-eda4-487b-86ac-fcad5989c855.png"
+        }
+      ]
+    }
+  }
+}

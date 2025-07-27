@@ -1,0 +1,54 @@
+{
+  "Name": "Comix Zone",
+  "DatabaseID": "209275",
+  "ReleaseDate": "2009-06-10T00:00:00-07:00",
+  "Overview": "Sketch Turner is an artist in New York City. One day Sketch is drawing, and a then there is a huge thunderstorm in the city. A bolt of lightning hits Sketch's image, and brings it to life. That image is Mortus, a megalomaniac mutant who wants to become real and to rule the earth. Mortus magically transports Sketch into the pages of his comic book so that he can end his creator’s life and become real. Inside the comic book, Sketch meets General Alissa Cyan, who believes he is a superhero that came to save their post-apocalyptic world from the evil brought by Mortus' hand. Now that he's a comic book superhero, Sketch can kick some serious butt. Instantly, Sketch can fight like a one-man mercenary platoon!",
+  "CommunityRating": "3.1666666666666665",
+  "ESRB": "E - Everyone",
+  "Genres": " Action",
+  "Developer": "Sega Technical Institute",
+  "Publisher": "Sega of America",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "befecc73-9d6f-4483-9acf-5f11ba5af67c.png",
+        "Type": "Banner",
+        "CRC32": "32538730",
+        "URL": "http://images.launchbox-app.com/befecc73-9d6f-4483-9acf-5f11ba5af67c.png"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "cb3a9933-6ef1-42df-b549-6f8398fef775.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "919470108",
+          "URL": "http://images.launchbox-app.com/cb3a9933-6ef1-42df-b549-6f8398fef775.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "ba4e9b5f-7e14-41fd-892e-2fb57aff0b0d.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3412382487",
+        "URL": "http://images.launchbox-app.com/ba4e9b5f-7e14-41fd-892e-2fb57aff0b0d.jpg"
+      },
+      {
+        "FileName": "ef7a2d13-c588-4328-b5fb-2eed696e14b8.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "624460686",
+        "URL": "http://images.launchbox-app.com/ef7a2d13-c588-4328-b5fb-2eed696e14b8.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "bc93f455-eed4-49fe-bb4f-a0801f33415a.PNG",
+        "Type": "Clear Logo",
+        "CRC32": "4115695834",
+        "URL": "http://images.launchbox-app.com/bc93f455-eed4-49fe-bb4f-a0801f33415a.PNG"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Name": "WRC 2: FIA World Rally Championship ",
+  "DatabaseID": "22715",
+  "ReleaseDate": "2011-10-14T00:00:00-07:00",
+  "Overview": "WRC 2: FIA World Rally Championship 2011 offers an exclusive driving experience as well as the official cars, teams, drivers and co-drivers from the current WRC season.",
+  "VideoURL": "https://www.youtube.com/watch?v=-Z0CM5gB1t8",
+  "CommunityRating": "4",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/WRC_2:_FIA_World_Rally_Championship",
+  "ESRB": "E - Everyone",
+  "Genres": " Racing",
+  "Developer": "Milestone",
+  "Publisher": "Black Bean Games",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "e654fadc-53db-4d40-a679-73030a6f6e4e.jpg",
+          "Type": "Box - Front",
+          "CRC32": "1470422768",
+          "URL": "http://images.launchbox-app.com/e654fadc-53db-4d40-a679-73030a6f6e4e.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "c91d39e0-de7f-4f75-8346-15d7a97631e9.png",
+        "Type": "Clear Logo",
+        "CRC32": "3631394032",
+        "URL": "http://images.launchbox-app.com/c91d39e0-de7f-4f75-8346-15d7a97631e9.png"
+      }
+    ]
+  }
+}

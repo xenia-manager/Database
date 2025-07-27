@@ -1,0 +1,95 @@
+{
+  "Name": "NeverDead",
+  "DatabaseID": "5286",
+  "ReleaseDate": "2012-01-31T00:00:00-08:00",
+  "Overview": "NEVERDEAD begins in the waking hours of peace and calm, when the world is under threat of being consumed by a demonic plague. Centuries have passed since the world succumbed to an unforeseen shadow of evil, and a hero was made an immortal by demons. These demons have risen once again in the present day causing unrelenting mayhem reinforced by destructible environments within the game. Now using his immortalic regenerative powers re-assembling his own body to evade death, the hero carries out the only salvation the world will know, for he is Never Dead.",
+  "VideoURL": "https://www.youtube.com/watch?v=_xKxoRVH2EA",
+  "CommunityRating": "3.5",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/NeverDead",
+  "ESRB": "M - Mature",
+  "Genres": " Action",
+  "Developer": "Rebellion Developments",
+  "Publisher": "Konami",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "32d5a53d-a860-4748-98d4-57bed516d66d.png",
+        "Type": "Banner",
+        "CRC32": "814204528",
+        "URL": "http://images.launchbox-app.com/32d5a53d-a860-4748-98d4-57bed516d66d.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "cce6ba39-5819-4f6b-8db9-5cdd4841b452.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3085578588",
+        "URL": "http://images.launchbox-app.com/cce6ba39-5819-4f6b-8db9-5cdd4841b452.jpg"
+      },
+      {
+        "FileName": "fc6fcb7e-3664-4e0a-9fac-1ed3faa862f0.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1137465599",
+        "URL": "http://images.launchbox-app.com/fc6fcb7e-3664-4e0a-9fac-1ed3faa862f0.jpg"
+      },
+      {
+        "FileName": "32412936-4c4f-4ce1-af6d-80bcdf485e62.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "4174142811",
+        "URL": "http://images.launchbox-app.com/32412936-4c4f-4ce1-af6d-80bcdf485e62.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "0e7dee41-45b6-4208-a41b-5c847e89bc20.png",
+          "Type": "Box - 3D",
+          "CRC32": "72974529",
+          "URL": "http://images.launchbox-app.com/0e7dee41-45b6-4208-a41b-5c847e89bc20.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "db62bae4-f469-4b1e-9224-bde9f3325d77.jpg",
+          "Type": "Box - Back",
+          "CRC32": "832651914",
+          "URL": "http://images.launchbox-app.com/db62bae4-f469-4b1e-9224-bde9f3325d77.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "1af27d5f-d8bd-4027-be44-5c350520f845.jpg",
+          "Type": "Box - Front",
+          "CRC32": "679428273",
+          "URL": "http://images.launchbox-app.com/1af27d5f-d8bd-4027-be44-5c350520f845.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "1fc55f18-db6d-47fa-8ff4-59d083f4932f.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "337304702",
+          "URL": "http://images.launchbox-app.com/1fc55f18-db6d-47fa-8ff4-59d083f4932f.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "4b267295-c938-4bd1-b4fe-e3708605009c.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1629135811",
+        "URL": "http://images.launchbox-app.com/4b267295-c938-4bd1-b4fe-e3708605009c.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "3c3f149e-ece9-4beb-9a8c-126b13cd6baa.png",
+        "Type": "Clear Logo",
+        "CRC32": "2217089267",
+        "URL": "http://images.launchbox-app.com/3c3f149e-ece9-4beb-9a8c-126b13cd6baa.png"
+      }
+    ]
+  }
+}

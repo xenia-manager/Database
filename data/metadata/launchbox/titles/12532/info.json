@@ -1,0 +1,34 @@
+{
+  "Name": "Leisure Suit Larry: Box Office Bust",
+  "DatabaseID": "12532",
+  "ReleaseDate": "2009-03-31T00:00:00-07:00",
+  "Overview": "The Leisure Suit Larry Box Office Bust video game gives gamers an all-access pass to the glitz, glamour, and gorgeous women of Tinseltown. In this third-person adventure game, Larry takes a summer job working on his Uncle Larry's movie lot doing odd jobs and trying to uncover a mole from another studio who threatens to air their dirty laundry in the tabloids. Leisure Suit Larry Box Office Bust is a rollicking, innuendo-laden lampoon of Hollywood that features open-world sandbox gameplay that uses exploration, platforming, racing, and puzzle-solving to complete missions.",
+  "VideoURL": "https://www.youtube.com/watch?v=WJ_G-KotCYo",
+  "CommunityRating": "1.9166666666666667",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Box_Office_Bust",
+  "ESRB": "M - Mature",
+  "Genres": " Adventure; Puzzle",
+  "Developer": "Team17 Software",
+  "Publisher": "Funsta",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "85f3e78c-f4fc-453f-b8d1-bb8a0933cb0f.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1040201275",
+          "URL": "http://images.launchbox-app.com/85f3e78c-f4fc-453f-b8d1-bb8a0933cb0f.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "a1cbf219-02d0-4d92-b095-67c8f23deffc.png",
+        "Type": "Clear Logo",
+        "CRC32": "986621792",
+        "URL": "http://images.launchbox-app.com/a1cbf219-02d0-4d92-b095-67c8f23deffc.png"
+      }
+    ]
+  }
+}

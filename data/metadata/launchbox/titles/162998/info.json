@@ -1,0 +1,57 @@
+{
+  "Name": "Rio",
+  "DatabaseID": "162998",
+  "ReleaseDate": "2011-04-12T00:00:00-07:00",
+  "Overview": "Rio is a party style game using the characters from the movie Rio. The story follows Blu, the last blue macaw in the world, as he and his owner travel to Rio de Janeiro, Brazil, to meet Blu's female counterpart, Jewel.\n\nBlu's journey contains 40 mini-games inspired by the film. The Xbox 360 version has three additional, exclusive mini-games.\n\nThere are multiple ways to play which include Story, Party, Carnival, and more. Players can choose to play as one of six characters from the movie: Blu, Jewel, Pedro, Nico, Eva, or Raphael. Up to four players can join in at any point with drop-in/drop-out multiplayer.",
+  "CommunityRating": "4.5",
+  "ESRB": "Not Rated",
+  "Genres": " Action",
+  "Developer": "Eurocom Developments",
+  "Publisher": "THQ",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "cbb1d56e-4e91-40c5-9563-431803fb41b7.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "354180434",
+          "URL": "http://images.launchbox-app.com/cbb1d56e-4e91-40c5-9563-431803fb41b7.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "a530ce09-fdfb-496a-8a76-32cc7d5b0577.jpg",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "3070694635",
+          "URL": "http://images.launchbox-app.com/a530ce09-fdfb-496a-8a76-32cc7d5b0577.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "d9a37348-ce44-4bb5-ab15-a99735ef1f58.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "2536910692",
+          "URL": "http://images.launchbox-app.com/d9a37348-ce44-4bb5-ab15-a99735ef1f58.jpg"
+        },
+        {
+          "FileName": "8381c509-f46e-4b37-8eb1-621a4d924235.png",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "841483880",
+          "URL": "http://images.launchbox-app.com/8381c509-f46e-4b37-8eb1-621a4d924235.png"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "f5c6b223-3eb8-4ff9-ba88-268b1dff7ac2.png",
+        "Type": "Clear Logo",
+        "CRC32": "3136788576",
+        "URL": "http://images.launchbox-app.com/f5c6b223-3eb8-4ff9-ba88-268b1dff7ac2.png"
+      }
+    ]
+  }
+}

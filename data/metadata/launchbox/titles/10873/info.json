@@ -1,0 +1,40 @@
+{
+  "Name": "Conflict: Denied Ops",
+  "DatabaseID": "10873",
+  "ReleaseDate": "2008-02-12T00:00:00-08:00",
+  "Overview": "Lincoln Graves is a 47-year old ex-Special Forces sniper and Reggie Lang is a former FBI-heavy weapons specialist. Graves doesn't really like Lang but they are now both agents of the CIA's Special Activities Division and their mission is to prevent a third-world dictatorship from gaining nuclear weapons.\n\nThis mission takes the team across three continents and through hordes of bad guys. To deal with them, both Lang and Graves have access to several types of weapons from pistols over snipers to machine guns, rocket launchers and several different kinds of grenades. But they also earn upgrades for these weapons after successfully finishing a mission. The first upgrade to Graves's 7.62m Sniper Rifle for example allows the player to fire a bullet around the corner or over low cover.",
+  "CommunityRating": "2.1666666666666665",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Conflict:_Denied_Ops",
+  "ESRB": "M - Mature",
+  "Genres": " Shooter",
+  "Developer": "Pivotal Games",
+  "Publisher": "Eidos Interactive",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "ac88b92e-7534-4ad1-8a70-d57ad2b10df4.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3821028331",
+        "URL": "http://images.launchbox-app.com/ac88b92e-7534-4ad1-8a70-d57ad2b10df4.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "ec14305e-b834-42ad-83d4-e68499933e6a.png",
+          "Type": "Box - 3D",
+          "CRC32": "903995545",
+          "URL": "http://images.launchbox-app.com/ec14305e-b834-42ad-83d4-e68499933e6a.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "d0d04d94-5ede-4a03-8f5e-a6d7b9dd5197.jpg",
+          "Type": "Box - Front",
+          "CRC32": "2730160824",
+          "URL": "http://images.launchbox-app.com/d0d04d94-5ede-4a03-8f5e-a6d7b9dd5197.jpg"
+        }
+      ]
+    }
+  }
+}

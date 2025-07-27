@@ -1,0 +1,24 @@
+{
+  "Name": "Diario: Rebirth Moon Legend",
+  "DatabaseID": "26245",
+  "ReleaseDate": "2007-02-08T00:00:00-08:00",
+  "VideoURL": "https://www.youtube.com/watch?v=PP_xKIMkauo",
+  "CommunityRating": "3.75",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Diario:_Rebirth_Moon_Legend",
+  "ESRB": "Not Rated",
+  "Genres": " Role-Playing",
+  "Developer": "Idea Factory",
+  "Publisher": "Idea Factory",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "ffd3c566-35d6-4499-af8f-893176a09e73.png",
+          "Type": "Box - Front",
+          "CRC32": "2439951228",
+          "URL": "http://images.launchbox-app.com/ffd3c566-35d6-4499-af8f-893176a09e73.png"
+        }
+      ]
+    }
+  }
+}

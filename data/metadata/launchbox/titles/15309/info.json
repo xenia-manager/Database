@@ -1,0 +1,77 @@
+{
+  "Name": "Ben 10: Galactic Racing",
+  "DatabaseID": "15309",
+  "ReleaseDate": "2011-10-18T00:00:00-07:00",
+  "Overview": "BEN 10 Galactic Racing presents the ultimate racing experience! While Ben makes use of his Ultimatrix to transform into his alien forms mid-race, every other character utilizes their unique special abilities, based on powers straight out of the television series, to affect the outcome of each race. All characters can pick up special Omni-Node Power-Ups with varying alien-based abilities, including an Ultimate move that unleashes a super-charged, race-changing boost of speed and power that is themed to that character's abilities. Players will race with or against friends in any of the various game modes. They can also win trophies in each of the Galactic Grand Prix circuits, or they can race their favorite tracks in an attempt to set record-breaking times in Time Trials mode.",
+  "CommunityRating": "1.75",
+  "ESRB": "E - Everyone",
+  "Genres": null,
+  "Publisher": "D3Publisher",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "8664bd12-2b4f-4c57-862e-963815366214.png",
+        "Type": "Banner",
+        "CRC32": "1616497804",
+        "URL": "http://images.launchbox-app.com/8664bd12-2b4f-4c57-862e-963815366214.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "f1aba92e-0044-45ca-9f07-e90f6370bc1d.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2880371637",
+        "URL": "http://images.launchbox-app.com/f1aba92e-0044-45ca-9f07-e90f6370bc1d.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "ea853017-6a1b-4485-86d5-e392f530b750.png",
+          "Type": "Box - 3D",
+          "CRC32": "4121559640",
+          "URL": "http://images.launchbox-app.com/ea853017-6a1b-4485-86d5-e392f530b750.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "5f849ea1-fab5-46e0-baf5-56e23132c3bd.jpg",
+          "Type": "Box - Front",
+          "CRC32": "3705990908",
+          "URL": "http://images.launchbox-app.com/5f849ea1-fab5-46e0-baf5-56e23132c3bd.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "b70d476a-f721-425c-aad3-0eea63bd449b.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2591214069",
+        "URL": "http://images.launchbox-app.com/b70d476a-f721-425c-aad3-0eea63bd449b.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "45a4b86e-7911-4c38-bf05-00a67c0f2dbf.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2642229879",
+        "URL": "http://images.launchbox-app.com/45a4b86e-7911-4c38-bf05-00a67c0f2dbf.jpg"
+      },
+      {
+        "FileName": "05bf2a8c-bd94-4560-8a2c-a2ef50e0baed.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1712574185",
+        "URL": "http://images.launchbox-app.com/05bf2a8c-bd94-4560-8a2c-a2ef50e0baed.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "d9fd0b70-3709-4401-8abc-cdefdc227d3b.png",
+        "Type": "Clear Logo",
+        "CRC32": "3472512198",
+        "URL": "http://images.launchbox-app.com/d9fd0b70-3709-4401-8abc-cdefdc227d3b.png"
+      }
+    ]
+  }
+}

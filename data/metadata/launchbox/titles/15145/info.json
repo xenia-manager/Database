@@ -1,0 +1,28 @@
+{
+  "Name": "Michael Phelps: Push the Limit",
+  "DatabaseID": "15145",
+  "ReleaseDate": "2011-10-11T00:00:00-07:00",
+  "Overview": "Michael Phelps: Push the Limit is a Kinect-only swimming game. It includes the four major competitive swimming styles (freestyle, backstroke, breaststroke, butterfly) which can either be played as single races or within a career. During the latter, the player receives experience points after successful races which can be used to improve the swimmer's abilities.\n\nA race consists of a four general phases: cheering the crowd (for a stat boost during the race), diving in, the race itself and the finish. During all phases, the player needs to perform different motion-control actions (which are more or less based on the movements on screen) in order to have a successful race. However, the athlete only has a limited amount of stamina available which is depleted faster with faster swimming movements. When the player performs with the right rhythm, a special energy bar fills up which is used during the finishing phase instead of stamina.",
+  "CommunityRating": "5",
+  "Genres": " Sports",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "3255b87e-2503-4184-ad88-06953b08fb89.png",
+          "Type": "Box - 3D",
+          "CRC32": "188680875",
+          "URL": "http://images.launchbox-app.com/3255b87e-2503-4184-ad88-06953b08fb89.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "adcbfefb-7743-4c79-a71d-6184dd2d0617.jpg",
+          "Type": "Box - Front",
+          "CRC32": "526222129",
+          "URL": "http://images.launchbox-app.com/adcbfefb-7743-4c79-a71d-6184dd2d0617.jpg"
+        }
+      ]
+    }
+  }
+}

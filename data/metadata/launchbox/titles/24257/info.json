@@ -1,0 +1,73 @@
+{
+  "Name": "Grand Theft Auto: San Andreas",
+  "DatabaseID": "24257",
+  "ReleaseDate": "2014-10-26T00:00:00-07:00",
+  "Overview": "Five years ago Carl Johnson escaped from the pressures of life in Los Santos, San Andreas... a city tearing itself apart with gang trouble, drugs and corruption. Where filmstars and millionaires do their best to avoid the dealers and gangbangers. Now, it's the early 90s. Carl's got to go home. His mother has been murdered, his family has fallen apart and his childhood friends are all heading towards disaster. On his return to the neighborhood, a couple of corrupt cops frame him for homicide. CJ is forced on a journey that takes him across the entire state of San Andreas, to save his family and to take control of the streets.",
+  "VideoURL": "http://www.youtube.com/watch?v=u_CbHrBbHNQ",
+  "CommunityRating": "3.9782608695652173",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_San_Andreas",
+  "ESRB": "M - Mature",
+  "Genres": " Sandbox",
+  "Developer": "War Drum Studios",
+  "Publisher": "Rockstar Games",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "afe7d459-a6e7-41a4-b3d8-99e23fba0344.png",
+        "Type": "Banner",
+        "CRC32": "1620803214",
+        "URL": "http://images.launchbox-app.com/afe7d459-a6e7-41a4-b3d8-99e23fba0344.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "1a2fc072-93e6-4010-aa47-42a9573656cb.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "4242877916",
+        "URL": "http://images.launchbox-app.com/1a2fc072-93e6-4010-aa47-42a9573656cb.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "c5ab14cd-67a4-4317-9ba8-3d47191fa4e9.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "2895952908",
+          "URL": "http://images.launchbox-app.com/c5ab14cd-67a4-4317-9ba8-3d47191fa4e9.jpg"
+        },
+        {
+          "FileName": "d42390cc-08a5-449a-9d66-d1ab388626d1.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "283366698",
+          "URL": "http://images.launchbox-app.com/d42390cc-08a5-449a-9d66-d1ab388626d1.jpg"
+        },
+        {
+          "FileName": "e397f437-83aa-47c8-b56a-4e34110fb7fd.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2673653164",
+          "URL": "http://images.launchbox-app.com/e397f437-83aa-47c8-b56a-4e34110fb7fd.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "b481d57a-047b-43b9-a6ba-0ecb18fcd7d5.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2687040337",
+        "URL": "http://images.launchbox-app.com/b481d57a-047b-43b9-a6ba-0ecb18fcd7d5.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "68caf386-2df9-4f74-9407-f8cf3cc0691f.png",
+        "Type": "Clear Logo",
+        "CRC32": "157293134",
+        "URL": "http://images.launchbox-app.com/68caf386-2df9-4f74-9407-f8cf3cc0691f.png"
+      }
+    ]
+  }
+}

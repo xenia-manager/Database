@@ -1,0 +1,55 @@
+{
+  "Name": "Naughty Bear: Panic in Paradise",
+  "DatabaseID": "14494",
+  "ReleaseDate": "2012-10-09T00:00:00-07:00",
+  "Overview": "Naughty Bear is a third-person shooter action video game released in June 2010 for the PlayStation 3 and Xbox 360 consoles. Players control the eponymous bear as they use various things to earn \"nasty Points\", with extra points being given for random missions.[1]\n\nThe game is set on a paradisal island where teddy bears live in harmony. The main character, Naughty Bear, is a shabby teddy bear who has a tendency to be mischievous, which earns him the dislike of the other bears. Like the other teddy bears, he does not speak but instead conveys his emotions through a variety of sounds and facial expressions. His actions are influenced by an unseen narrator with a demeanor reminiscent of that of a young children's television show host.[2][3]",
+  "VideoURL": "http://www.youtube.com/watch?v=thoo0GyZXDI",
+  "CommunityRating": "2.25",
+  "ESRB": "T - Teen",
+  "Genres": null,
+  "Developer": "Behaviour Interactive",
+  "Publisher": "505 Games",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "2c7e74f4-c129-4a72-8115-345d20404ccb.png",
+        "Type": "Banner",
+        "CRC32": "3478491189",
+        "URL": "http://images.launchbox-app.com/2c7e74f4-c129-4a72-8115-345d20404ccb.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "2990988b-0f95-4386-b6b4-d032369ea440.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "734474209",
+        "URL": "http://images.launchbox-app.com/2990988b-0f95-4386-b6b4-d032369ea440.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "d417d803-35cf-4493-be55-90071c2dc3e9.jpg",
+          "Type": "Box - Front",
+          "CRC32": "3707897409",
+          "URL": "http://images.launchbox-app.com/d417d803-35cf-4493-be55-90071c2dc3e9.jpg"
+        },
+        {
+          "FileName": "b7225430-56fc-4af1-a162-61e4f3554549.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "World",
+          "CRC32": "767042875",
+          "URL": "http://images.launchbox-app.com/b7225430-56fc-4af1-a162-61e4f3554549.png"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "a3fcd7a7-d09a-4d81-9b17-4605b1461347.png",
+        "Type": "Clear Logo",
+        "CRC32": "2778491893",
+        "URL": "http://images.launchbox-app.com/a3fcd7a7-d09a-4d81-9b17-4605b1461347.png"
+      }
+    ]
+  }
+}

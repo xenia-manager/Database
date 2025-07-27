@@ -1,0 +1,24 @@
+{
+  "Name": "Go! Go! Break Steady",
+  "DatabaseID": "209390",
+  "ReleaseDate": "2010-06-23T00:00:00-07:00",
+  "Overview": "Upgrade to the full version of Go! Go! Break Steady and unlock all 30 rounds of the Break Steady Tournament. Play solo, cooperate with friends, or challenge the world with your rhythm and smarts!",
+  "CommunityRating": "3",
+  "ESRB": "E - Everyone",
+  "Genres": " Music",
+  "Developer": "Little Boy Games",
+  "Publisher": "Microsoft Studios",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "950ed256-3dce-4029-9db2-51cd05f6d650.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "695511834",
+          "URL": "http://images.launchbox-app.com/950ed256-3dce-4029-9db2-51cd05f6d650.jpg"
+        }
+      ]
+    }
+  }
+}

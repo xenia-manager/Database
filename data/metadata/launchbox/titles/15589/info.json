@@ -1,0 +1,56 @@
+{
+  "Name": "Generator Rex: Agent of Providence",
+  "DatabaseID": "15589",
+  "ReleaseDate": "2011-11-01T00:00:00-07:00",
+  "Overview": "Based on Cartoon Network's top-rated animated series, the Generator Rex: Agent of Providence video game lets players take control of Rex, a teenager who has harnessed nanites within his body to become the ultimate weapon. In the game, Rex is in a race against time to prevent Van Kleiss and his minions from gaining unprecedented powers that could destroy the earth!",
+  "CommunityRating": "3",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": null,
+  "Publisher": "Activision",
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "b6cfdf72-0e86-46ea-8144-52ef57540138.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "641093055",
+          "URL": "http://images.launchbox-app.com/b6cfdf72-0e86-46ea-8144-52ef57540138.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "33057213-0138-47a0-a006-f2659869f5be.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1358316802",
+          "URL": "http://images.launchbox-app.com/33057213-0138-47a0-a006-f2659869f5be.jpg"
+        },
+        {
+          "FileName": "ad034048-9242-4dc4-967d-8cf040451452.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "North America",
+          "CRC32": "2402338739",
+          "URL": "http://images.launchbox-app.com/ad034048-9242-4dc4-967d-8cf040451452.png"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "dac9fac9-f871-446e-ba40-93845a8e8e2b.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "3091110740",
+        "URL": "http://images.launchbox-app.com/dac9fac9-f871-446e-ba40-93845a8e8e2b.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "1ed18315-c7e2-403b-8af3-08d48765023d.png",
+        "Type": "Clear Logo",
+        "CRC32": "927506581",
+        "URL": "http://images.launchbox-app.com/1ed18315-c7e2-403b-8af3-08d48765023d.png"
+      }
+    ]
+  }
+}

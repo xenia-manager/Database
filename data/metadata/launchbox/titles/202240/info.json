@@ -1,0 +1,39 @@
+{
+  "Name": "Virtua Striker",
+  "DatabaseID": "202240",
+  "ReleaseDate": "2013-02-13T00:00:00-08:00",
+  "CommunityRating": "3.7",
+  "Genres": " Sports",
+  "Developer": "Sega",
+  "Publisher": "Sega",
+  "Artwork": {
+    "Arcade": [
+      {
+        "FileName": "1da8349b-8cf9-4bb5-9e2e-1208275414ea.png",
+        "Type": "Arcade - Marquee",
+        "CRC32": "3409303954",
+        "URL": "http://images.launchbox-app.com/1da8349b-8cf9-4bb5-9e2e-1208275414ea.png"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "26ced78e-06f4-4ae2-b894-95617755abb6.jpg",
+          "Type": "Box - 3D",
+          "Region": "Japan",
+          "CRC32": "2528702553",
+          "URL": "http://images.launchbox-app.com/26ced78e-06f4-4ae2-b894-95617755abb6.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "6f195d58-7b59-4d33-a079-1673995de3ae.png",
+        "Type": "Clear Logo",
+        "Region": "Japan",
+        "CRC32": "1192343287",
+        "URL": "http://images.launchbox-app.com/6f195d58-7b59-4d33-a079-1673995de3ae.png"
+      }
+    ]
+  }
+}

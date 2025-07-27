@@ -1,0 +1,32 @@
+{
+  "Name": "Motorcycle Club",
+  "DatabaseID": "203869",
+  "ReleaseYear": "2014",
+  "Overview": "Ride 22 motorcycles with the official BMW, Honda, Kawasaki, KTM, Suzuki and Yamaha licences. From 125 to 2000cc, find all of the biggest makes, faithfully reproduced with 3 unique ways to play: Superbike, Roadster and Custom.\n\nHit the road in Tournament mode and take on over 40 challenges of skill on 20 different circuits.\nCustomize your riders and challenge rival clubs in solo mode or in wild online games with up to 4 players.",
+  "CommunityRating": "3",
+  "ESRB": "E - Everyone",
+  "Genres": " Racing; Vehicle Simulation",
+  "Developer": "Bigben Interactive",
+  "Publisher": "Kylotonn",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "67749a8c-3f13-4c0a-8b58-f809bfda545c.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "922394118",
+          "URL": "http://images.launchbox-app.com/67749a8c-3f13-4c0a-8b58-f809bfda545c.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "6b9f75e7-cc7a-4f4d-8a18-f2cbea8f1bc9.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2234527045",
+        "URL": "http://images.launchbox-app.com/6b9f75e7-cc7a-4f4d-8a18-f2cbea8f1bc9.jpg"
+      }
+    ]
+  }
+}

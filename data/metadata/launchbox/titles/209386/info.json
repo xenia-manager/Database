@@ -1,0 +1,24 @@
+{
+  "Name": "FunTown Mahjong",
+  "DatabaseID": "209386",
+  "ReleaseDate": "2009-12-16T00:00:00-08:00",
+  "Overview": "Unlock the full version of FunTown Mahjong to play even more of this traditional Chinese tile game! The full version includes the ability to compete against your friends on Xbox LIVE or against AI opponents. You can also earn achievements, aim for the top of the leaderboards, and enjoy tons of exciting Mahjong variations!",
+  "CommunityRating": "3",
+  "ESRB": "E - Everyone",
+  "Genres": " Casino; Board Game",
+  "Developer": "FunTown World",
+  "Publisher": "Microsoft",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "6f3a044f-9b1c-40be-87f9-d4b4883b965b.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "550130813",
+          "URL": "http://images.launchbox-app.com/6f3a044f-9b1c-40be-87f9-d4b4883b965b.jpg"
+        }
+      ]
+    }
+  }
+}

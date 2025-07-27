@@ -1,0 +1,49 @@
+{
+  "Name": "Overlord II",
+  "DatabaseID": "7560",
+  "ReleaseDate": "2009-06-23T00:00:00-07:00",
+  "Overview": "Overlord II, sequel to the critically acclaimed cult hit, sees the return of the chaotic Minions and their new Dark Master. Bigger, badder and more beautifully destructive, Overlord II has a Glorious Empire to smash, a massive Netherworld to revive, Minion mounts to mobilise, a trio of mistresses to woo, War Machines to crush opposition and lots of cute creatures to, err... murder (and a mini-map)\n\nContinuing the style of the series, players take the role of the Overlord, a mysterious warrior whose goal is to destroy or conquer the land by commanding hordes of small creatures known as \"Minions\". The story directly follows the events of the first Overlord game, with the succeeding Overlord rising to power opposing a Roman-styled military power known as the \"Glorious Empire\". The story was written by Rhianna Pratchett and maintains a satirical tone and dark humour towards the fantasy setting and genre.",
+  "VideoURL": "https://www.youtube.com/watch?v=g6fqAKD2DGA",
+  "CommunityRating": "3.4166666666666665",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Overlord_II",
+  "ESRB": "T - Teen",
+  "Genres": " Action; Role-Playing; Strategy",
+  "Developer": "Triumph Studios",
+  "Publisher": "Codemasters",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "10fb9920-ba24-4287-9a41-f29941b7020d.png",
+          "Type": "Box - 3D",
+          "CRC32": "3899506644",
+          "URL": "http://images.launchbox-app.com/10fb9920-ba24-4287-9a41-f29941b7020d.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "8e6b0545-c850-42be-a635-128f31ef659d.jpg",
+          "Type": "Box - Back",
+          "CRC32": "3396656289",
+          "URL": "http://images.launchbox-app.com/8e6b0545-c850-42be-a635-128f31ef659d.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "43e7fe83-2fb7-4946-94ba-5b90ef5e08cb.jpg",
+          "Type": "Box - Front",
+          "CRC32": "1527167843",
+          "URL": "http://images.launchbox-app.com/43e7fe83-2fb7-4946-94ba-5b90ef5e08cb.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "a48b1b56-5dfe-4269-a3be-809a9ae3962c.png",
+        "Type": "Clear Logo",
+        "CRC32": "3029561725",
+        "URL": "http://images.launchbox-app.com/a48b1b56-5dfe-4269-a3be-809a9ae3962c.png"
+      }
+    ]
+  }
+}

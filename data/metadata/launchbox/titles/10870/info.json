@@ -1,0 +1,100 @@
+{
+  "Name": "Bulletstorm",
+  "DatabaseID": "10870",
+  "ReleaseDate": "2011-02-22T00:00:00-08:00",
+  "Overview": "Set in a futuristic utopia, an elite peacekeeping force thwarts the rumblings of civil war. But deception within the ranks has caused two members of the most feared unit to strike out on their own. Now stranded on an abandoned paradise, Grayson Hunt and Ishi Sato find themselves surrounded by hordes of mutants and flesh eating gangs. They survive on two objectives: get off the planet alive and extract revenge on the man who sent them there. As Grayson Hunt, players wield an arsenal of over-the-top combat moves and outrageously large guns that feed into Bulletstorm’s distinct ‘skillshot’ system producing unprecedented levels of frantic gameplay and yell-inducing satisfaction.",
+  "VideoURL": "http://www.youtube.com/watch?v=gjNEKnifT5M&hd=1",
+  "CommunityRating": "3.9583333333333335",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Bulletstorm",
+  "ESRB": "M - Mature",
+  "Genres": " Shooter",
+  "Developer": "Epic Games",
+  "Publisher": "Electronic Arts",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "a8fb27fb-c517-491e-b1a5-5ebc919bbad9.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "4146731614",
+        "URL": "http://images.launchbox-app.com/a8fb27fb-c517-491e-b1a5-5ebc919bbad9.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "44e3046e-27c1-444a-aee8-3d97fcfc8458.png",
+          "Type": "Box - 3D",
+          "Region": "Europe",
+          "CRC32": "1223937951",
+          "URL": "http://images.launchbox-app.com/44e3046e-27c1-444a-aee8-3d97fcfc8458.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "2f1f6ef2-cb3c-4e32-a665-6a6d91eb8761.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "2500201196",
+          "URL": "http://images.launchbox-app.com/2f1f6ef2-cb3c-4e32-a665-6a6d91eb8761.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "096eedf2-b710-460f-8ffc-df64fffcd33e.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2545164678",
+          "URL": "http://images.launchbox-app.com/096eedf2-b710-460f-8ffc-df64fffcd33e.jpg"
+        },
+        {
+          "FileName": "9e1a58f3-ff8c-400f-811e-db4b87300f5f.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "3597101683",
+          "URL": "http://images.launchbox-app.com/9e1a58f3-ff8c-400f-811e-db4b87300f5f.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "3cf03e1b-3959-404e-854e-5487838777f0.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "1285205500",
+          "URL": "http://images.launchbox-app.com/3cf03e1b-3959-404e-854e-5487838777f0.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "96e2ef8b-bafb-4996-98c5-458289c5beee.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "418074533",
+        "URL": "http://images.launchbox-app.com/96e2ef8b-bafb-4996-98c5-458289c5beee.png"
+      },
+      {
+        "FileName": "e27fdefb-299d-4d7d-b002-f6d11410d62c.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "431522374",
+        "URL": "http://images.launchbox-app.com/e27fdefb-299d-4d7d-b002-f6d11410d62c.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "c77d4353-81fb-4fa5-b3ad-0b965d6bac23.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3851220770",
+        "URL": "http://images.launchbox-app.com/c77d4353-81fb-4fa5-b3ad-0b965d6bac23.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "4cd654b0-2eee-4b85-9870-443be414de36.png",
+        "Type": "Clear Logo",
+        "CRC32": "259074764",
+        "URL": "http://images.launchbox-app.com/4cd654b0-2eee-4b85-9870-443be414de36.png"
+      }
+    ]
+  }
+}

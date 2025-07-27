@@ -1,0 +1,24 @@
+{
+  "Name": "Hunter's Trophy 2: America",
+  "DatabaseID": "209399",
+  "ReleaseDate": "2013-05-17T00:00:00-07:00",
+  "Overview": "Experience all the excitement of the hunt in America! From brown bear to elk, track 25 different preys in this hunting simulation set in the most beautiful countryside of the USA. Complete 30 hunting plans, play as your hunting dog during tracking phases and take on a friend in Ball-Trap mode!",
+  "CommunityRating": "3",
+  "ESRB": "T - Teen",
+  "Genres": " Shooter",
+  "Developer": "Kylotonn",
+  "Publisher": "BigBen Interactive",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "3d2adc00-aaab-4a35-aeca-9b6d4b535021.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "3423577016",
+          "URL": "http://images.launchbox-app.com/3d2adc00-aaab-4a35-aeca-9b6d4b535021.jpg"
+        }
+      ]
+    }
+  }
+}

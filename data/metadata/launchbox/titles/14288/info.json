@@ -1,0 +1,31 @@
+{
+  "Name": "EA Sports Active 2.0",
+  "DatabaseID": "14288",
+  "ReleaseDate": "2010-11-16T00:00:00-08:00",
+  "Overview": "EA Sports Active 2: Personal Trainer is an exercise video game developed by EA Canada. The Xbox 360 version makes use of Kinect. It is the successor to EA Sports Active, which was released in 2009. On April 13, 2012 EA discontinued the online support for this title.",
+  "CommunityRating": "3.1666666666666665",
+  "ESRB": "E - Everyone",
+  "Genres": " Sports; Education",
+  "Developer": "Electronic Arts Canada",
+  "Publisher": "Electronic Arts",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "780ee9aa-f653-4439-8e2e-32563b9d460d.png",
+          "Type": "Box - 3D",
+          "CRC32": "2883506336",
+          "URL": "http://images.launchbox-app.com/780ee9aa-f653-4439-8e2e-32563b9d460d.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "acfaf57d-e4de-4a14-ae79-116181ab8c69.jpg",
+          "Type": "Box - Front",
+          "CRC32": "3892508178",
+          "URL": "http://images.launchbox-app.com/acfaf57d-e4de-4a14-ae79-116181ab8c69.jpg"
+        }
+      ]
+    }
+  }
+}

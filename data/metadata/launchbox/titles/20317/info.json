@@ -1,0 +1,57 @@
+{
+  "Name": "Lara Croft and the Guardian of Light",
+  "DatabaseID": "20317",
+  "ReleaseDate": "2010-08-18T00:00:00-07:00",
+  "Overview": "Lara Croft and the Guardian of Light is an action/adventure game featuring Lara Croft. This brand extension combines the hallmarks of the Tomb Raider franchise including exploration & discovery, platforming, and puzzle solving combined with character progression, fun fast-paced combat, and elements of human cooperation and competition. \n\nA classic formula of puzzles, combat, exploration, and breathtaking visuals put through the lens of an isometric fast-paced gaming experience. A wide range of options for solving puzzles and traversing deadly environmental traps, offering players an unprecedented level of freedom to choose their own solutions and explore various paths through the dense jungles of Central America. \n\nCrystal Dynamics' proprietary engine delivers sprawling environments with no load-times and unbelievable vertical gameplay through tombs reaching deep into the Earth. Face off against a myriad of undead warriors brought to life by the evil Xolotl, including a number of boss battles that are not to be missed!",
+  "VideoURL": "http://www.youtube.com/watch?v=VJlLXv8w54o",
+  "CommunityRating": "4.125",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Lara_Croft_and_the_Guardian_of_Light",
+  "ESRB": "T - Teen",
+  "Genres": " Platform; Shooter",
+  "Developer": "Crystal Dynamics",
+  "Publisher": "Square Enix",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "3783e7c0-e3b6-4a96-bf6c-01abae3087dc.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "472332406",
+        "URL": "http://images.launchbox-app.com/3783e7c0-e3b6-4a96-bf6c-01abae3087dc.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "8a4c75d8-2cef-4a73-bc35-f63bcaaf6683.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "890966075",
+          "URL": "http://images.launchbox-app.com/8a4c75d8-2cef-4a73-bc35-f63bcaaf6683.jpg"
+        },
+        {
+          "FileName": "8b16b913-f775-4543-8a96-75483ff7186a.jpg",
+          "Type": "Box - Front - Reconstructed",
+          "CRC32": "1858475200",
+          "URL": "http://images.launchbox-app.com/8b16b913-f775-4543-8a96-75483ff7186a.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "f8b73ff1-d481-4d22-a3e0-02d9e56d376e.jpg",
+        "Type": "Screenshot - Gameplay",
+        "Region": "World",
+        "CRC32": "3555659627",
+        "URL": "http://images.launchbox-app.com/f8b73ff1-d481-4d22-a3e0-02d9e56d376e.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "d5f5b92a-8e5c-4a2c-ab21-f440ecd48c25.png",
+        "Type": "Clear Logo",
+        "CRC32": "3153526737",
+        "URL": "http://images.launchbox-app.com/d5f5b92a-8e5c-4a2c-ab21-f440ecd48c25.png"
+      }
+    ]
+  }
+}

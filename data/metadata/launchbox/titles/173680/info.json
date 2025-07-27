@@ -1,0 +1,50 @@
+{
+  "Name": "Space Chimps",
+  "DatabaseID": "173680",
+  "ReleaseDate": "2008-07-15T00:00:00-07:00",
+  "Overview": "Based on the movie of the same name, Space Chimps features Ham III, grandson of the first chimp astronaut, sent into space to fight an evil dictator of an alien planet. The problem? Ham III is less of an action-movie hero, and more of a goofball. He was selected for the mission because of his grandfather, and is now in way over his head, to the annoyance of the other chimp astronauts, Luna and Titan.\n\nGameplay is 3D third-person platforming and combat. You'll control either Ham III or Luna, depending on the level, with Ham III having a stronger melee ability, and Luna having ranged attacks. There are hidden Globhoppers in each level, which let you unlock movie clips and concept art, and one Dole Banana in each level, which let you unlock costumes.",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Action",
+  "Developer": "Red Tribe",
+  "Publisher": "Brash entertainment",
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "d29b6f9c-2dc9-4265-9b62-9eca084edf3a.jpg",
+          "Type": "Box - Back",
+          "Region": "Australia",
+          "CRC32": "4166192545",
+          "URL": "http://images.launchbox-app.com/d29b6f9c-2dc9-4265-9b62-9eca084edf3a.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "7b0d07da-b0b0-424c-9851-3566eae95d1f.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3990817659",
+          "URL": "http://images.launchbox-app.com/7b0d07da-b0b0-424c-9851-3566eae95d1f.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "2f57af62-b868-476d-960a-def3c8c8f368.jpg",
+          "Type": "Box - Spine",
+          "Region": "Australia",
+          "CRC32": "2156348051",
+          "URL": "http://images.launchbox-app.com/2f57af62-b868-476d-960a-def3c8c8f368.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "4c9307f7-2520-48bd-8c9b-c2f7cd254f91.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "750234832",
+        "URL": "http://images.launchbox-app.com/4c9307f7-2520-48bd-8c9b-c2f7cd254f91.png"
+      }
+    ]
+  }
+}

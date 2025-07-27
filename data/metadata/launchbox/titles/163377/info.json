@@ -1,0 +1,60 @@
+{
+  "Name": "Power Rangers Super Samurai",
+  "DatabaseID": "163377",
+  "Overview": "Power Rangers: Super Samurai is a game that uses the Kinect peripheral exclusively for the player input. It is a sequel to Power Rangers: Samuraiand it is also based on the TV show of the same name. The entire cast from the predecessor appears in this game.\n\nThe game consists of a series of encounters where specific body movements and poses are used to avoid projectiles and attack enemies. The character has a health meter. At the end of an encounter, a result is calculated based on action, skill and ranger points.",
+  "CommunityRating": "3.25",
+  "Genres": null,
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "6f9a63f8-dae3-4175-9a99-f67bdaeb1905.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2414189353",
+        "URL": "http://images.launchbox-app.com/6f9a63f8-dae3-4175-9a99-f67bdaeb1905.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "0abe27d0-6e18-4f13-a6e4-069047a0884c.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "1649352610",
+          "URL": "http://images.launchbox-app.com/0abe27d0-6e18-4f13-a6e4-069047a0884c.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "afdf1a81-3ff1-4b35-bffb-b4fef70a9cb6.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "4203892748",
+          "URL": "http://images.launchbox-app.com/afdf1a81-3ff1-4b35-bffb-b4fef70a9cb6.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "e6ee8555-ab04-4130-b99e-75e8a0c3d996.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "220359861",
+        "URL": "http://images.launchbox-app.com/e6ee8555-ab04-4130-b99e-75e8a0c3d996.png"
+      },
+      {
+        "FileName": "0c4a09f6-5e1a-481f-93ff-19ca8941dd35.jpg",
+        "Type": "Disc",
+        "Region": "United States",
+        "CRC32": "1512039434",
+        "URL": "http://images.launchbox-app.com/0c4a09f6-5e1a-481f-93ff-19ca8941dd35.jpg"
+      },
+      {
+        "FileName": "c2ed36e4-2e7f-4ee0-bca1-2a32b194c7f7.jpg",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "2739667675",
+        "URL": "http://images.launchbox-app.com/c2ed36e4-2e7f-4ee0-bca1-2a32b194c7f7.jpg"
+      }
+    ]
+  }
+}

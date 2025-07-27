@@ -1,0 +1,62 @@
+{
+  "Name": "Fatal Inertia",
+  "DatabaseID": "17119",
+  "ReleaseDate": "2007-09-11T00:00:00-07:00",
+  "Overview": "Fatal Inertia is a futuristic hovercar racing game from Koei. Originally an exclusive for the PlayStation 3, it was released for the Xbox 360 in 2007 and then released on the PlayStation 3 on May 29, 2008 in Japan, June 19, 2008 in North America and July 15, 2008 in Europe as a download on the PlayStation Network under the title Fatal Inertia EX. The PlayStation 3 version was initially delayed because of difficulties with the Unreal Engine 3 on the console, due to the cell processor's architecture.[1]\n\nThe game is set in the mid-22nd century Earth, and a handful of immense corporations control virtually all business, politics, and entertainment. Extreme sports have become one of the main sources of entertainment with Fatal Inertia as the most popular.[2] Competitions take place far from cities due to the high level of danger.[3]\n\nThere are six different racing environments that are divided into fifty-one courses.[4]",
+  "VideoURL": "http://www.youtube.com/watch?v=1nlqUK7q578",
+  "CommunityRating": "3.625",
+  "Genres": " Racing",
+  "Developer": "Koei Canada",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "82d8612e-b979-417b-a60c-f224e0cd6775.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "2955254838",
+          "URL": "http://images.launchbox-app.com/82d8612e-b979-417b-a60c-f224e0cd6775.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "4b202312-f1c1-4e4c-ac37-d1e70fe3c494.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3733261756",
+          "URL": "http://images.launchbox-app.com/4b202312-f1c1-4e4c-ac37-d1e70fe3c494.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "2d09d756-cea2-4607-aab4-c90ab927a355.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1129955219",
+        "URL": "http://images.launchbox-app.com/2d09d756-cea2-4607-aab4-c90ab927a355.png"
+      },
+      {
+        "FileName": "01243874-33fe-4e96-9b04-c6f421885816.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "426295951",
+        "URL": "http://images.launchbox-app.com/01243874-33fe-4e96-9b04-c6f421885816.png"
+      },
+      {
+        "FileName": "2f675cd5-d58c-44b4-a594-df646d157500.png",
+        "Type": "Disc",
+        "CRC32": "3478597986",
+        "URL": "http://images.launchbox-app.com/2f675cd5-d58c-44b4-a594-df646d157500.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "600a5def-db2b-460e-8611-bb03b18c7b78.png",
+        "Type": "Clear Logo",
+        "CRC32": "441282383",
+        "URL": "http://images.launchbox-app.com/600a5def-db2b-460e-8611-bb03b18c7b78.png"
+      }
+    ]
+  }
+}

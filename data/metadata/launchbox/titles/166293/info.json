@@ -1,0 +1,31 @@
+{
+  "Name": "High School Musical 3: Senior Year Dance",
+  "DatabaseID": "166293",
+  "Overview": "Dance to favorite High School Musical songs from all three films Play as familiar characters including Troy, Gabriella, Sharpay, Ryan, Chad, and Taylor, or create and customize a unique Wildcat Engage in competitive multiplayer dance-offs for a fun dance party experience Earn points by learning dance moves from High School Musical characters to unlock songs, clothing and characters Interact with scenes by activating special effects",
+  "CommunityRating": "2.5",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/High_School_Musical_3:_Senior_Year_Dance",
+  "ESRB": "E - Everyone",
+  "Genres": " Music",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "7bbaaa0e-1dde-401f-91c3-fe0d46725f6d.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "730506968",
+          "URL": "http://images.launchbox-app.com/7bbaaa0e-1dde-401f-91c3-fe0d46725f6d.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "7a460ad4-8899-47d7-ba12-f4f63b6bcd60.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3488566925",
+          "URL": "http://images.launchbox-app.com/7a460ad4-8899-47d7-ba12-f4f63b6bcd60.jpg"
+        }
+      ]
+    }
+  }
+}

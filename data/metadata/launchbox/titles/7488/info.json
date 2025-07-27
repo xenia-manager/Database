@@ -1,0 +1,60 @@
+{
+  "Name": "Guitar Hero III: Legends of Rock",
+  "DatabaseID": "7488",
+  "ReleaseDate": "2007-10-28T00:00:00-07:00",
+  "Overview": "Rock out to the third entry in in Red Octane's music series for guitar gods! Songs for Guitar Hero III include Barracuda by Heart, Sabotage by Beastie Boys, Rock And Roll All Nite by Kiss, and much more! In addition, players can experience an incredible number of added features and explosive content including a new multiplayer action-inspired battle mode, grueling boss battles, a bevy of exclusive unlockable content and authentic rock venues.",
+  "VideoURL": "http://www.youtube.com/watch?v=zp4N5yQrfcY",
+  "CommunityRating": "3.8636363636363638",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Guitar_Hero_III:_Legends_of_Rock",
+  "ESRB": "T - Teen",
+  "Genres": " Music",
+  "Developer": "Neversoft Entertainment",
+  "Publisher": "RedOctane",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "2317a5c3-32ba-40e2-8b04-3cff2fe55bc3.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "549199778",
+        "URL": "http://images.launchbox-app.com/2317a5c3-32ba-40e2-8b04-3cff2fe55bc3.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "f326ab03-3df1-46a9-b9b4-9bb24b3bac39.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "2666934324",
+          "URL": "http://images.launchbox-app.com/f326ab03-3df1-46a9-b9b4-9bb24b3bac39.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "087206a9-917d-42f8-a8bd-2eedcdc5579f.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "892401950",
+          "URL": "http://images.launchbox-app.com/087206a9-917d-42f8-a8bd-2eedcdc5579f.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "48527de7-3230-419b-a406-c1859faa5b38.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2353115286",
+          "URL": "http://images.launchbox-app.com/48527de7-3230-419b-a406-c1859faa5b38.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "f68a2243-09dd-4d48-af1e-8f4f5f139ff8.png",
+        "Type": "Clear Logo",
+        "CRC32": "1132110640",
+        "URL": "http://images.launchbox-app.com/f68a2243-09dd-4d48-af1e-8f4f5f139ff8.png"
+      }
+    ]
+  }
+}

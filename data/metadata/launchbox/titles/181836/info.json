@@ -1,0 +1,45 @@
+{
+  "Name": "Street Trace: NYC",
+  "DatabaseID": "181836",
+  "ReleaseDate": "2007-08-22T00:00:00-07:00",
+  "Overview": "Street Trace NYC is a cel-shaded combat hoverboard racing game set in the Boroughs of New York City outside Manhattan by independent software developer Gaia Industries for the Xbox 360's Xbox Live Arcade service. The game gets its name from the New York City setting and the Tron-like light trails the hoverboards generate. The game was released on August 22, 2007. The game is reported to have had one of the longest development cycles of any of the Xbox Live Arcade titles, with a supposed initial release date planned for the date of Xbox 360 launch on November 22, 2005. The game languished in development until it was finally released in August 2007.",
+  "CommunityRating": "2.5",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Street_Trace_NYC",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Racing; Shooter",
+  "Developer": "Gaia Industries",
+  "Publisher": "Microsoft",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "614e991a-e2e3-456e-a801-9c6710cf4934.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "518687764",
+          "URL": "http://images.launchbox-app.com/614e991a-e2e3-456e-a801-9c6710cf4934.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "81211707-5ffc-4ece-8177-01cab96a7e22.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "4205418721",
+        "URL": "http://images.launchbox-app.com/81211707-5ffc-4ece-8177-01cab96a7e22.jpg"
+      },
+      {
+        "FileName": "d891d54c-8b85-4880-b225-f15916bf9fa1.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1331013882",
+        "URL": "http://images.launchbox-app.com/d891d54c-8b85-4880-b225-f15916bf9fa1.jpg"
+      },
+      {
+        "FileName": "60d31f0c-1be6-4742-9b7e-ebce5d633c76.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1545201370",
+        "URL": "http://images.launchbox-app.com/60d31f0c-1be6-4742-9b7e-ebce5d633c76.jpg"
+      }
+    ]
+  }
+}

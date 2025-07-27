@@ -1,0 +1,52 @@
+{
+  "Name": "NHL 2K9",
+  "DatabaseID": "15796",
+  "ReleaseDate": "2008-09-10T00:00:00-07:00",
+  "Overview": "NHL 2K9 is an ice hockey simulation made by 2K Sports, part of the NHL 2K series, and published on the PlayStation 2, PlayStation 3, Wii, and Xbox 360 consoles. It features New York Rangers, former Columbus Blue Jackets left winger Rick Nash on its cover.[citation needed]",
+  "VideoURL": "https://www.youtube.com/watch?app=desktop&v=rxUJ9INrkWI&embeds_referring_euri=https%3A%2F%2Fpiterplay.com%2F&feature=emb_imp_woyt",
+  "CommunityRating": "2.1",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/NHL_2K9",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Sports",
+  "Developer": "Visual Concepts",
+  "Publisher": "2K Games",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "3258143d-7405-411f-b1eb-bf1d8ba70f7c.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "3587575434",
+          "URL": "http://images.launchbox-app.com/3258143d-7405-411f-b1eb-bf1d8ba70f7c.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "3bc098ac-9faf-49f5-a128-8b9e22a16c2c.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "353902992",
+          "URL": "http://images.launchbox-app.com/3bc098ac-9faf-49f5-a128-8b9e22a16c2c.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "c1882357-ab4d-482e-8436-76a80098920f.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "235609349",
+          "URL": "http://images.launchbox-app.com/c1882357-ab4d-482e-8436-76a80098920f.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "e754decf-2f04-4b33-9400-9dc58a1bcfc6.png",
+        "Type": "Clear Logo",
+        "CRC32": "2704538307",
+        "URL": "http://images.launchbox-app.com/e754decf-2f04-4b33-9400-9dc58a1bcfc6.png"
+      }
+    ]
+  }
+}

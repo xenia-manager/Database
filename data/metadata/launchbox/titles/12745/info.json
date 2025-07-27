@@ -1,0 +1,66 @@
+{
+  "Name": "Jurassic Park: The Game",
+  "DatabaseID": "12745",
+  "ReleaseDate": "2011-11-15T00:00:00-08:00",
+  "Overview": "Jurassic Park is a cinematic adventure game that has you playing from the viewpoints of multiple characters trapped on Isla Nublar, the island theme park where the attractions are prehistoric beasts. While the game has an original storyline, the events run parallel to the timeline in Michael Crichton's book and Steven Spielberg's 1993 film. Players will find themselves trapped on the island after Dennis Nedry's ill-fated attempt to sell frozen dinosaur embryos to a rival corporation. \n\nThe game is a departure from developer Telltale Games' previous point-and-click titles, adding more action-oriented sequences in the form of quick-time events. You'll also be able to converse with fellow characters at any time using an \"on-demand\" dialogue system, and switch between story points and locales using a picture-in-picture display. Solving puzzles is still a central focus of the gameplay, as characters explore the island while figuring out how best to survive against the deadly dinosaurs.",
+  "CommunityRating": "4.083333333333333",
+  "ESRB": "T - Teen",
+  "Genres": " Adventure",
+  "Developer": "Telltale Games",
+  "Publisher": "Telltale Games",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "e8c23867-bd79-4b36-a912-4e04bbfd99b0.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "722164265",
+        "URL": "http://images.launchbox-app.com/e8c23867-bd79-4b36-a912-4e04bbfd99b0.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "f8d63c25-b328-472d-87cb-8a0cea9b2402.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "284051524",
+          "URL": "http://images.launchbox-app.com/f8d63c25-b328-472d-87cb-8a0cea9b2402.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "8ba02a1a-7cd4-454d-afd3-8e30045e546e.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "1943949804",
+          "URL": "http://images.launchbox-app.com/8ba02a1a-7cd4-454d-afd3-8e30045e546e.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "25ce8ef8-d83a-4c32-947a-3eb1410b3025.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2023414040",
+          "URL": "http://images.launchbox-app.com/25ce8ef8-d83a-4c32-947a-3eb1410b3025.jpg"
+        },
+        {
+          "FileName": "35a295d5-e791-4b2a-94f3-c02e604a21a8.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "North America",
+          "CRC32": "2186324144",
+          "URL": "http://images.launchbox-app.com/35a295d5-e791-4b2a-94f3-c02e604a21a8.png"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "42c032a4-5ae2-445e-827a-d4a22119da3a.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "3345586667",
+        "URL": "http://images.launchbox-app.com/42c032a4-5ae2-445e-827a-d4a22119da3a.png"
+      }
+    ]
+  }
+}

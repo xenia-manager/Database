@@ -1,0 +1,74 @@
+{
+  "Name": "Sniper Elite V2",
+  "DatabaseID": "12546",
+  "ReleaseDate": "2012-05-02T00:00:00-07:00",
+  "Overview": "Sniper Elite V2 is a 2012 tactical shooter video game developed by Rebellion Developments and published by 505 Games for the PlayStation 3, Xbox 360 and later Wii U consoles and a developer self-published version for Microsoft Windows. It is a sequel/remake of Rebellion's 2005 game Sniper Elite that takes place in the same timeframe and location—the Battle of Berlin in April–May 1945—but with an altered narrative. The game's story follows an American Office of Strategic Services officer who must capture or eliminate the scientists involved in the German V-2 rocket program while the Red Army invades.[2] A prequel named Sniper Elite III was released in 2014[3][4] for current and new-generation platforms.[5][6]",
+  "VideoURL": "https://www.youtube.com/watch?v=-wJL544RcOU",
+  "CommunityRating": "3.5",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Sniper_Elite_V2",
+  "ESRB": "M - Mature",
+  "Genres": " Shooter",
+  "Developer": "Rebellion Developments",
+  "Publisher": "505 Games",
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "1a6536b0-2253-4cd2-9069-8b370fa6afcf.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "3767301241",
+          "URL": "http://images.launchbox-app.com/1a6536b0-2253-4cd2-9069-8b370fa6afcf.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "426e81e5-441c-48b3-a45d-5ba5577e25b4.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3765107918",
+          "URL": "http://images.launchbox-app.com/426e81e5-441c-48b3-a45d-5ba5577e25b4.jpg"
+        },
+        {
+          "FileName": "ec933661-978a-43d6-8af2-1c5b4a2f9ef6.jpg",
+          "Type": "Box - Front",
+          "Region": "United Kingdom",
+          "CRC32": "3797648241",
+          "URL": "http://images.launchbox-app.com/ec933661-978a-43d6-8af2-1c5b4a2f9ef6.jpg"
+        },
+        {
+          "FileName": "491d58da-8ecd-4fa5-8077-e43d6c3d3ac8.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "North America",
+          "CRC32": "1097207045",
+          "URL": "http://images.launchbox-app.com/491d58da-8ecd-4fa5-8077-e43d6c3d3ac8.png"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "e6f1d642-f8b4-4a38-8a42-36c0a07d562f.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "473287771",
+        "URL": "http://images.launchbox-app.com/e6f1d642-f8b4-4a38-8a42-36c0a07d562f.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "23038536-a899-4d77-b8fb-c72ffa7ff711.png",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2514597252",
+        "URL": "http://images.launchbox-app.com/23038536-a899-4d77-b8fb-c72ffa7ff711.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "f6f8251f-10a6-4bf4-b655-5e5ea879636d.png",
+        "Type": "Clear Logo",
+        "CRC32": "1515940732",
+        "URL": "http://images.launchbox-app.com/f6f8251f-10a6-4bf4-b655-5e5ea879636d.png"
+      }
+    ]
+  }
+}

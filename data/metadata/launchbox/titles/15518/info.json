@@ -1,0 +1,34 @@
+{
+  "Name": "Faery: Legends of Avalon",
+  "DatabaseID": "15518",
+  "ReleaseDate": "2010-11-10T00:00:00-08:00",
+  "Overview": "Faery: Legends of Avalon is a role-playing video game, released on the Xbox Live Arcade service on November 10, 2010, and on the PlayStation Network on January 11, 2011. It was developed by Spiders Studio and published by Focus Home Interactive.[1",
+  "VideoURL": "https://www.youtube.com/watch?v=q3wfFZqJORI&ab_channel=IGN",
+  "CommunityRating": "3.1666666666666665",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Faery:_Legends_of_Avalon",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Role-Playing",
+  "Developer": "Spiders",
+  "Publisher": "Focus Home Interactive",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "26be01f6-e9d9-4075-869d-0f844983d890.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "265074346",
+          "URL": "http://images.launchbox-app.com/26be01f6-e9d9-4075-869d-0f844983d890.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "88528b87-1ba7-4edd-bf4d-30a14ec7779c.png",
+        "Type": "Clear Logo",
+        "CRC32": "38717490",
+        "URL": "http://images.launchbox-app.com/88528b87-1ba7-4edd-bf4d-30a14ec7779c.png"
+      }
+    ]
+  }
+}

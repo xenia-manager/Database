@@ -1,0 +1,25 @@
+{
+  "Name": "Happy Wars",
+  "DatabaseID": "20301",
+  "ReleaseDate": "2012-10-12T00:00:00-07:00",
+  "Overview": "Happy Wars is a casual multi-player action game in which a large number of players control comical characters in fun battles. In a variety of fantasy battlefields including grasslands, a dark world, and the ocean floor, players can control any of 3 types of characters: warrior, mage, and cleric. Cooperate with friends to enjoy action on the grand scale, casting magic spells, attacking castles, and so on. For off-line fun, the player can take on missions in the solo campaign mode.",
+  "VideoURL": "https://www.youtube.com/watch?v=CaZdLEYHJZI",
+  "CommunityRating": "4.333333333333333",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Happy_Wars",
+  "ESRB": "T - Teen",
+  "Genres": " Action",
+  "Developer": "Toylogic",
+  "Publisher": "Toylogic",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "8d5fb508-e783-4c95-af15-77b5800a129f.jpg",
+          "Type": "Box - Front",
+          "CRC32": "655313455",
+          "URL": "http://images.launchbox-app.com/8d5fb508-e783-4c95-af15-77b5800a129f.jpg"
+        }
+      ]
+    }
+  }
+}

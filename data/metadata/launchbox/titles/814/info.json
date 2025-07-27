@@ -1,0 +1,73 @@
+{
+  "Name": "Vampire Rain",
+  "DatabaseID": "814",
+  "ReleaseDate": "2007-01-25T00:00:00-08:00",
+  "Overview": "The American Information Bureau has created a team to hunt down and destroy Nightwalkers - modern day vampires. The player controls John Lloyd, an agent on such a team, sent in to discover the whereabouts of an advance recon team that has gone missing in a city swarming with Nightwalkers. It's up to John and his team to hunt down the Prime Walker and clear the city of the vampire infestation.\n\nGameplay is in the third person, and involves a lot stealth play, similar to the Splinter Cell and Metal Gear Solid series, with some platform, exploration and combat-style elements too. Players often need to take advantage of the darkness to stay undetected for an entire mission. This is further encouraged to exceptionally strong enemies and the lack of effective close-combat weapons for a large part of the game. The arsenal includes a handgun, sub-machine gun, assault rifle, shotgun, sniper rifle, anti-armor rifle and a UV Knife. Traps are more effective and large groups of Nightwalkers can be taken out all at once by killing the master known as the Prime Walker.",
+  "VideoURL": "https://www.youtube.com/watch?v=GyQhuZnXNK4",
+  "CommunityRating": "3.5",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Vampire_Rain",
+  "ESRB": "M - Mature",
+  "Genres": " Horror; Stealth",
+  "Developer": "Artoon",
+  "Publisher": "Microsoft",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "98bc4503-d8e1-467c-80e6-e2e5c625dee6.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3665238021",
+        "URL": "http://images.launchbox-app.com/98bc4503-d8e1-467c-80e6-e2e5c625dee6.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "7b6cf8db-eac3-4e6f-964f-0808eccd81d8.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "224345506",
+          "URL": "http://images.launchbox-app.com/7b6cf8db-eac3-4e6f-964f-0808eccd81d8.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "801864e0-725e-498f-8170-0c866e4321fd.jpg",
+          "Type": "Box - Back",
+          "CRC32": "1665681244",
+          "URL": "http://images.launchbox-app.com/801864e0-725e-498f-8170-0c866e4321fd.jpg"
+        },
+        {
+          "FileName": "5424b0d9-bb3e-43fc-a4d7-812225728ac7.jpg",
+          "Type": "Box - Back",
+          "Region": "Australia",
+          "CRC32": "1367194844",
+          "URL": "http://images.launchbox-app.com/5424b0d9-bb3e-43fc-a4d7-812225728ac7.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "21ca62e8-8ef7-482d-94dc-7775a9a5e2dc.jpg",
+          "Type": "Box - Front",
+          "Region": "Australia",
+          "CRC32": "1040171938",
+          "URL": "http://images.launchbox-app.com/21ca62e8-8ef7-482d-94dc-7775a9a5e2dc.jpg"
+        },
+        {
+          "FileName": "b2135b7d-8f9b-4dac-ab86-e8727c684116.jpg",
+          "Type": "Box - Front",
+          "CRC32": "2566957749",
+          "URL": "http://images.launchbox-app.com/b2135b7d-8f9b-4dac-ab86-e8727c684116.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "e00d8c55-3e7e-4be6-8ebc-05a796aa4969.jpg",
+          "Type": "Box - Spine",
+          "Region": "Australia",
+          "CRC32": "2681100368",
+          "URL": "http://images.launchbox-app.com/e00d8c55-3e7e-4be6-8ebc-05a796aa4969.jpg"
+        }
+      ]
+    }
+  }
+}

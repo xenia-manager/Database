@@ -1,0 +1,50 @@
+{
+  "Name": "Metal Slug 3",
+  "DatabaseID": "209680",
+  "ReleaseDate": "2009-12-16T00:00:00-08:00",
+  "Overview": "This is the 4th title of [METAL SLUG] series. It is the Action Shooting game which is popular among game fans all over the world.",
+  "CommunityRating": "3.8636363636363638",
+  "ESRB": "T - Teen",
+  "Genres": " Shooter",
+  "Developer": "SNK Playmore",
+  "Publisher": "SNK Playmore",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "a978d609-0052-4922-8825-fe2b17ce5249.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1723231568",
+        "URL": "http://images.launchbox-app.com/a978d609-0052-4922-8825-fe2b17ce5249.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "f394cf2c-555e-4aa9-af63-267ac12063fe.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "451317397",
+          "URL": "http://images.launchbox-app.com/f394cf2c-555e-4aa9-af63-267ac12063fe.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "03bb8262-bdbf-4238-a7e6-b0a1a35b2356.jpg",
+        "Type": "Screenshot - Gameplay",
+        "Region": "North America",
+        "CRC32": "3292041378",
+        "URL": "http://images.launchbox-app.com/03bb8262-bdbf-4238-a7e6-b0a1a35b2356.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "ef891888-b296-484f-a23a-0907879c7a05.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "3080064890",
+        "URL": "http://images.launchbox-app.com/ef891888-b296-484f-a23a-0907879c7a05.png"
+      }
+    ]
+  }
+}

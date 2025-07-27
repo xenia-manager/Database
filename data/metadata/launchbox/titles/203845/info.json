@@ -1,0 +1,39 @@
+{
+  "Name": "Hulk Hogan's Main Event",
+  "DatabaseID": "203845",
+  "ReleaseDate": "2011-10-11T00:00:00-07:00",
+  "Overview": "It’s all about the show in the first motion-based wrestling game on Kinect for Xbox 360 that lets players train with mentor Hulk Hogan as they build their own wrestling personalities and learn the art of showmanship to win over the crowd.",
+  "CommunityRating": "3.5",
+  "ESRB": "T - Teen",
+  "Genres": " Fighting; Sports",
+  "Developer": "Panic Button",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "55ab0147-acc5-4cd3-ae5d-5d987ecf3ea1.png",
+          "Type": "Box - Front",
+          "Region": "Germany",
+          "CRC32": "3770161010",
+          "URL": "http://images.launchbox-app.com/55ab0147-acc5-4cd3-ae5d-5d987ecf3ea1.png"
+        },
+        {
+          "FileName": "8c270c02-fd08-4317-8160-ec5f602093b5.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "4192984213",
+          "URL": "http://images.launchbox-app.com/8c270c02-fd08-4317-8160-ec5f602093b5.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "f09e5c36-4f3c-441c-8a28-00c7566a69b6.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "3818327643",
+        "URL": "http://images.launchbox-app.com/f09e5c36-4f3c-441c-8a28-00c7566a69b6.png"
+      }
+    ]
+  }
+}

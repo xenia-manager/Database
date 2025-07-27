@@ -1,0 +1,48 @@
+{
+  "Name": "Split Second",
+  "DatabaseID": "14341",
+  "ReleaseDate": "2010-05-18T00:00:00-07:00",
+  "Overview": "You have made the cut to join a group of elite drivers chosen to participate in the global broadcast event known as Split/Second. Racing through a city created specifically for destruction, your goal is to become the season champ where fame, fortune and glory await. But first, you must survive a grueling 24-episode season of races in a variety of explosive locations to crush the competition and become the champion. When speed is not enough, the city is your weapon.",
+  "CommunityRating": "2.9375",
+  "ESRB": "E - Everyone",
+  "Genres": " Racing",
+  "Developer": "Black Rock Studio",
+  "Publisher": "Disney Interactive Studios",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "ba6b497d-dbdc-470f-b892-01c5865c1e6a.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "2014714017",
+          "URL": "http://images.launchbox-app.com/ba6b497d-dbdc-470f-b892-01c5865c1e6a.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "e1930600-bc88-44b0-8ca4-37c742dd7c45.jpg",
+          "Type": "Box - Front",
+          "CRC32": "4002853669",
+          "URL": "http://images.launchbox-app.com/e1930600-bc88-44b0-8ca4-37c742dd7c45.jpg"
+        },
+        {
+          "FileName": "d7e62391-fe3c-4336-9971-42ce9c64f4f8.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "3693903346",
+          "URL": "http://images.launchbox-app.com/d7e62391-fe3c-4336-9971-42ce9c64f4f8.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "558476e5-65c1-4180-a953-42a0b45fbe98.png",
+        "Type": "Clear Logo",
+        "Region": "Europe",
+        "CRC32": "1907447746",
+        "URL": "http://images.launchbox-app.com/558476e5-65c1-4180-a953-42a0b45fbe98.png"
+      }
+    ]
+  }
+}

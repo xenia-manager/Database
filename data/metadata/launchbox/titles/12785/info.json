@@ -1,0 +1,110 @@
+{
+  "Name": "Knights Contract",
+  "DatabaseID": "12785",
+  "ReleaseDate": "2011-02-22T00:00:00-08:00",
+  "Overview": "A violent hack-and-slash title set in a medieval land ruled by spells and steel, Knights Contract has you guiding immortal executioner Henrich and resurrected witch Gretchen from a third-person perspective. The two are pressed into battle primarily to rid the land of evil witches that are threatening the local population. Yet the relationship between Henrich and Gretchen is far from cordial. Henrich originally killed Gretchen, but not before she cursed him.\n\nTo end the curse, Henrich agrees to help the resurrected Gretchen in a quest to stop her fellow witches from upending the world. Henrich wields a giant scythe while Gretchen uses spells to defeat an assortment of dark creatures. Players will control Henrich as the computer assists in combat with Gretchen, with team-based moves and combos possible for more powerful attacks. While Henrich cannot die, his soul is linked to Gretchen's through a blood pact, so he must protect her if he wants to rid himself of the curse once and for all.",
+  "VideoURL": "https://www.youtube.com/watch?v=yQZW31wV3kY",
+  "CommunityRating": "3.75",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Knights_Contract",
+  "ESRB": "M - Mature",
+  "Genres": " Action",
+  "Developer": "Game Republic",
+  "Publisher": "Namco Bandai",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "fc662d5e-e6cb-4305-984b-43f094ee1757.png",
+        "Type": "Banner",
+        "CRC32": "2157117751",
+        "URL": "http://images.launchbox-app.com/fc662d5e-e6cb-4305-984b-43f094ee1757.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "53968b65-9331-425a-9b4f-769a255c2364.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "284835791",
+        "URL": "http://images.launchbox-app.com/53968b65-9331-425a-9b4f-769a255c2364.jpg"
+      },
+      {
+        "FileName": "4ebb4a86-878c-424a-b6a2-07fb9a5e9831.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3362625460",
+        "URL": "http://images.launchbox-app.com/4ebb4a86-878c-424a-b6a2-07fb9a5e9831.jpg"
+      },
+      {
+        "FileName": "0ce1d8c6-314d-4cae-a8f1-95b9c2ef80aa.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2344004978",
+        "URL": "http://images.launchbox-app.com/0ce1d8c6-314d-4cae-a8f1-95b9c2ef80aa.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "r2_7fd7a0a2-42ba-4fbb-8cd7-52618b1a506c.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "3745584504",
+          "URL": "http://images.launchbox-app.com/r2_7fd7a0a2-42ba-4fbb-8cd7-52618b1a506c.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "d4d8b28b-fc99-4822-8519-49fd750dba05.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "555325208",
+          "URL": "http://images.launchbox-app.com/d4d8b28b-fc99-4822-8519-49fd750dba05.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "39f4aeff-95e5-46dc-a6d3-0cf45f6eb96a.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3056685533",
+          "URL": "http://images.launchbox-app.com/39f4aeff-95e5-46dc-a6d3-0cf45f6eb96a.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "e4e1c4e1-8c07-4864-bbd5-1e9866eee3f1.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "2723741158",
+          "URL": "http://images.launchbox-app.com/e4e1c4e1-8c07-4864-bbd5-1e9866eee3f1.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "b03553d9-402d-4fbf-8bb4-633b86f7274e.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3185411401",
+        "URL": "http://images.launchbox-app.com/b03553d9-402d-4fbf-8bb4-633b86f7274e.jpg"
+      },
+      {
+        "FileName": "9f6ce481-ba7f-4b08-9f5f-ee25689c4361.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3952119944",
+        "URL": "http://images.launchbox-app.com/9f6ce481-ba7f-4b08-9f5f-ee25689c4361.jpg"
+      },
+      {
+        "FileName": "62de2c81-1740-4b7f-8de4-0fa138381788.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1439467914",
+        "URL": "http://images.launchbox-app.com/62de2c81-1740-4b7f-8de4-0fa138381788.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "83cd548b-57f6-472f-81f6-50331a7dc7db.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "2632816567",
+        "URL": "http://images.launchbox-app.com/83cd548b-57f6-472f-81f6-50331a7dc7db.png"
+      }
+    ]
+  }
+}

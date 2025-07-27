@@ -1,0 +1,60 @@
+{
+  "Name": "Cabela's Big Game Hunter 2010",
+  "DatabaseID": "15142",
+  "ReleaseDate": "2009-09-29T00:00:00-07:00",
+  "Overview": "The player is a man named Jack, who is trying to become a member of a hunting club named the Order of Orion. Terrain is one thing the player needs to focus on. Falling off ledges or logs, or stepping on noisy terrain could cause failure in the hunt. Aggressive animals, such as bear, will attack the player, which also results in hunt failure. Game like African buffalo, impala, and kudu are more challenging than deer, elk, and bighorn.",
+  "CommunityRating": "3.25",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Cabela%27s_Big_Game_Hunter_2010",
+  "ESRB": "T - Teen",
+  "Genres": " Sports",
+  "Developer": "Cauldron",
+  "Publisher": "Activision Publishing",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "f0d89681-9e3f-4774-b773-433e6e557d60.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "2813585096",
+          "URL": "http://images.launchbox-app.com/f0d89681-9e3f-4774-b773-433e6e557d60.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "d7100950-b203-42ba-a467-323d6d459fc0.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "724252824",
+          "URL": "http://images.launchbox-app.com/d7100950-b203-42ba-a467-323d6d459fc0.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "c04490c7-1602-4d84-a27e-87509cc0c61e.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "4096633076",
+          "URL": "http://images.launchbox-app.com/c04490c7-1602-4d84-a27e-87509cc0c61e.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "67a00d09-9025-4d79-a399-e2f512c6654d.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "4083105001",
+        "URL": "http://images.launchbox-app.com/67a00d09-9025-4d79-a399-e2f512c6654d.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "1358a4d5-8d8a-414e-80ad-119e63fbc93c.png",
+        "Type": "Clear Logo",
+        "CRC32": "1969154882",
+        "URL": "http://images.launchbox-app.com/1358a4d5-8d8a-414e-80ad-119e63fbc93c.png"
+      }
+    ]
+  }
+}

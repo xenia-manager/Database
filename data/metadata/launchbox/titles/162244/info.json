@@ -1,0 +1,80 @@
+{
+  "Name": "SpongeBob SquarePants: Plankton's Robotic Revenge",
+  "DatabaseID": "162244",
+  "ReleaseDate": "2013-10-22T00:00:00-07:00",
+  "Overview": "SpongeBob SquarePants: Plankton's Robotic Revenge is a 3D action-adventure game based on the SpongeBob SquarePants Nickelodeon cartoon series. Plankton finds a bunch of batteries dropped in the ocean by a cargo ship and sees an opportunity to use these batteries to steel the Krabby Patty secret formula. Soon after this he shows up at the Krusty Krab in his giant robot and takes the safe with the formula. It is up to you to stop him and slam and shoot your way through his robot army and find three keys to retrieve the formula. The game offers several upgradeable weapons. The playable characters are: SpongeBob, Patrick, Squidward, Sandy, and Mr. Krabs. Locations shown in the game are Bikini Bottom, Rock Bottom and Dutchman's Triangle.\n\nThe DS versions are single-player games and the console versions offers cooperative gameplay for up to four players. For the Wii U version up to five players are supported, one using the Game Pad and the other players regular controllers.",
+  "CommunityRating": "2.4285714285714284",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/SpongeBob_SquarePants:_Plankton%27s_Robotic_Revenge",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Action; Adventure",
+  "Developer": "Behaviour Interactive",
+  "Publisher": "Activision",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "c32d1cfa-8c13-4ebd-bb1b-d6fc31f863b7.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2630136287",
+        "URL": "http://images.launchbox-app.com/c32d1cfa-8c13-4ebd-bb1b-d6fc31f863b7.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "666ebccd-f0ad-4834-ad98-251e01fc388d.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "4280503968",
+          "URL": "http://images.launchbox-app.com/666ebccd-f0ad-4834-ad98-251e01fc388d.png"
+        },
+        {
+          "FileName": "10fbfc57-2413-4e61-a8d2-eca840d224f5.png",
+          "Type": "Box - 3D",
+          "Region": "Europe",
+          "CRC32": "4146627280",
+          "URL": "http://images.launchbox-app.com/10fbfc57-2413-4e61-a8d2-eca840d224f5.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "8533003c-e0b5-4b58-b9a5-c5bb2661f5f9.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "304220748",
+          "URL": "http://images.launchbox-app.com/8533003c-e0b5-4b58-b9a5-c5bb2661f5f9.jpg"
+        },
+        {
+          "FileName": "417a58ae-9baf-4875-924f-34f55a81ca11.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "261436787",
+          "URL": "http://images.launchbox-app.com/417a58ae-9baf-4875-924f-34f55a81ca11.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "08d9199e-d7f9-498a-84d6-d2802716466f.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2648063942",
+        "URL": "http://images.launchbox-app.com/08d9199e-d7f9-498a-84d6-d2802716466f.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "cd7362a3-3928-4948-9b3b-9feec11b5e31.png",
+        "Type": "Clear Logo",
+        "CRC32": "1519907475",
+        "URL": "http://images.launchbox-app.com/cd7362a3-3928-4948-9b3b-9feec11b5e31.png"
+      },
+      {
+        "FileName": "b24d33ea-c50a-4126-a1d5-5c266c29da4b.png",
+        "Type": "Clear Logo",
+        "Region": "Spain",
+        "CRC32": "1964136456",
+        "URL": "http://images.launchbox-app.com/b24d33ea-c50a-4126-a1d5-5c266c29da4b.png"
+      }
+    ]
+  }
+}

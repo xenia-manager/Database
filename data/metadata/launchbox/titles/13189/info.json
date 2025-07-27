@@ -1,0 +1,102 @@
+{
+  "Name": "Eternal Sonata",
+  "DatabaseID": "13189",
+  "ReleaseDate": "2007-09-17T00:00:00-07:00",
+  "Overview": "Cross the Bridge Between Dreams and Reality. On his deathbed, Frédéric Chopin, the famous composer, drifts between this life and the next. In his dreams, happenstance encounters with a young girl facing a terrible destiny and the boy who will fight to save her, leads to Chopin's discovery of the light that shines in each of us in this enduring tale of good and evil, love and betrayal. Developed by tri-Crescendo and featuring the music of Chopin, Eternal Sonata promises to give Xbox 360 fans the RPG they've been waiting for.",
+  "VideoURL": "https://www.youtube.com/watch?v=LHkQPBu2xqg",
+  "CommunityRating": "3.9333333333333331",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Eternal_Sonata",
+  "ESRB": "T - Teen",
+  "Genres": " Role-Playing",
+  "Developer": "Tri-crescendo",
+  "Publisher": "Namco Bandai Games",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "faeee942-eca0-424e-9811-b7591229e08d.png",
+        "Type": "Banner",
+        "CRC32": "3089888581",
+        "URL": "http://images.launchbox-app.com/faeee942-eca0-424e-9811-b7591229e08d.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "fd5597b8-1d13-4e96-aa36-f2f851f60059.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3999281146",
+        "URL": "http://images.launchbox-app.com/fd5597b8-1d13-4e96-aa36-f2f851f60059.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "063e047e-43dd-4675-9d7c-27a7c8bd3264.png",
+          "Type": "Box - 3D",
+          "CRC32": "2590500993",
+          "URL": "http://images.launchbox-app.com/063e047e-43dd-4675-9d7c-27a7c8bd3264.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "40517ab3-36a8-40e8-9df3-f8c167c0ddca.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "428341174",
+          "URL": "http://images.launchbox-app.com/40517ab3-36a8-40e8-9df3-f8c167c0ddca.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "2aa2db42-288b-451f-84ec-e3a5e613b28d.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1967314292",
+          "URL": "http://images.launchbox-app.com/2aa2db42-288b-451f-84ec-e3a5e613b28d.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "8f7c9253-529b-42f9-9515-89881c29b028.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "1158722708",
+          "URL": "http://images.launchbox-app.com/8f7c9253-529b-42f9-9515-89881c29b028.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "46c64ad8-9f60-4a5a-bd46-01c97d37a6f2.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "113642589",
+        "URL": "http://images.launchbox-app.com/46c64ad8-9f60-4a5a-bd46-01c97d37a6f2.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "b6b0a328-37e9-49f1-b038-7e780b04502f.jpg",
+        "Type": "Screenshot - Gameplay",
+        "Region": "World",
+        "CRC32": "794802866",
+        "URL": "http://images.launchbox-app.com/b6b0a328-37e9-49f1-b038-7e780b04502f.jpg"
+      },
+      {
+        "FileName": "3d9c0b16-913f-48bd-83e5-e2e587af5bf2.jpg",
+        "Type": "Screenshot - Gameplay",
+        "Region": "World",
+        "CRC32": "1582849324",
+        "URL": "http://images.launchbox-app.com/3d9c0b16-913f-48bd-83e5-e2e587af5bf2.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "073db0e1-0447-412e-acba-8d8644ae5516.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "3538979021",
+        "URL": "http://images.launchbox-app.com/073db0e1-0447-412e-acba-8d8644ae5516.png"
+      }
+    ]
+  }
+}

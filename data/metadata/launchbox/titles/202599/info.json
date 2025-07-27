@@ -1,0 +1,43 @@
+{
+  "Name": "DoDonPachi Dai-Ou-Jou Black Label Extra",
+  "DatabaseID": "202599",
+  "ReleaseDate": "2010-02-19T00:00:00-08:00",
+  "Overview": "DoDonPachi DaiOuJou is the fourth arcade game in Cave's DonPachi series. The history section of DoDonPachi Resurrection on iPhone calls it \"DoDonPachi Blissful Death\" in localisation. CAVE later ported the game to iOS under this localised name.\n\nThe Xbox 360 port includes the original and Black Label editions of the game, as well as online score ranking, replay saving, enhanced graphics, and Xbox Live Marketplace content. There is an Xbox 360 original mode for beginners named the \"X Mode\", where a new Element Doll named Piper is introduced.",
+  "CommunityRating": "3.6875",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/DoDonPachi_DaiOuJou",
+  "ESRB": "Not Rated",
+  "Genres": null,
+  "Developer": "5pb.",
+  "Publisher": "5pb.",
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "624a7616-2ed1-48fd-a06a-88da1008e52a.jpg",
+          "Type": "Box - Back",
+          "Region": "Japan",
+          "CRC32": "1977702604",
+          "URL": "http://images.launchbox-app.com/624a7616-2ed1-48fd-a06a-88da1008e52a.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "885ac66a-6d84-4944-8ad1-4b3dcb296c3b.jpg",
+          "Type": "Box - Front",
+          "Region": "Japan",
+          "CRC32": "1960049368",
+          "URL": "http://images.launchbox-app.com/885ac66a-6d84-4944-8ad1-4b3dcb296c3b.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "5b058fda-a7af-4fc3-bbbf-aaf0bbd2fa04.jpg",
+          "Type": "Box - Spine",
+          "Region": "Japan",
+          "CRC32": "955295152",
+          "URL": "http://images.launchbox-app.com/5b058fda-a7af-4fc3-bbbf-aaf0bbd2fa04.jpg"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "Name": "Guncraft: Blocked and Loaded",
+  "DatabaseID": "209393",
+  "ReleaseDate": "2015-07-14T00:00:00-07:00",
+  "Overview": "Block and Load! Combining the addictive nature of block building sandbox games with the speed and competition of modern first-person shooters, Guncraft takes voxel-based gaming to a whole new level. Players can create maps and arenas based on anything imaginable and, once complete, can utterly destroy them with bullets, bombs, grenades, tanks, helicopters, gunships, and much more. In the heat of battle, soldiers can create custom blockades and fortresses instantaneously. Watch out – just when you think you’re safe, enemies can tunnel through walls and dig through floors to ambush you from behind, above or below!   In addition to standard modes like Deathmatch, Team Deathmatch, and Capture the Flag, Guncraft offers over seven outlandish game modes like Lava Survival and Racing Mode, plus 100% customizable load-outs that include perks, weapons, vehicles and more. Even better, the core crafting mechanics of Guncraft are available throughout every aspect of the game, enabling players to build maps, prefabs, characters, and weapons on the fly, then decimate them all to take down enemies.",
+  "CommunityRating": "3",
+  "ESRB": "T - Teen",
+  "Genres": " Action; Adventure",
+  "Developer": "Exato Games",
+  "Publisher": "GameMill Entertainment",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "373fb0a5-f616-436c-af7c-337e2882d01a.png",
+          "Type": "Box - 3D",
+          "Region": "World",
+          "CRC32": "3546358439",
+          "URL": "http://images.launchbox-app.com/373fb0a5-f616-436c-af7c-337e2882d01a.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "498f2954-272b-4aaa-bfff-e7e6b546587f.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "404143460",
+          "URL": "http://images.launchbox-app.com/498f2954-272b-4aaa-bfff-e7e6b546587f.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "7c9227d9-47cf-4310-a6b8-76035b19c331.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "1986475517",
+        "URL": "http://images.launchbox-app.com/7c9227d9-47cf-4310-a6b8-76035b19c331.png"
+      }
+    ]
+  }
+}

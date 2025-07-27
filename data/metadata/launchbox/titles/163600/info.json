@@ -1,0 +1,127 @@
+{
+  "Name": "Ninety-Nine Nights II",
+  "DatabaseID": "163600",
+  "ReleaseDate": "2010-06-29T00:00:00-07:00",
+  "Overview": "In a World that the Gods have all but forgotten, where terror reigns, as many races, including Humans, Elves, Goblins & Ogres, are at war, miracles and magic can still happen. Take on hordes upon hordes of enemies and battle against titanic bosses to bring calm to the chaos that rules the land. Discover how the story of 5 different characters is intertwined and take advantage of their individual skills and fighting styles. Pick up various accessories along the way to help customise the action.",
+  "CommunityRating": "2.7857142857142856",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Ninety-Nine_Nights_II",
+  "ESRB": "M - Mature",
+  "Genres": " Fighting",
+  "Developer": "feelplus",
+  "Publisher": "Konami",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "34f77b01-9e51-4f45-bcac-76a6ee046427.png",
+        "Type": "Banner",
+        "CRC32": "2367122744",
+        "URL": "http://images.launchbox-app.com/34f77b01-9e51-4f45-bcac-76a6ee046427.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "9debb904-36f1-415a-9290-54876ebeba27.png",
+        "Type": "Fanart - Background",
+        "CRC32": "444378101",
+        "URL": "http://images.launchbox-app.com/9debb904-36f1-415a-9290-54876ebeba27.png"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "5bb49324-8200-49d4-8af0-67601a424453.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "3279791906",
+          "URL": "http://images.launchbox-app.com/5bb49324-8200-49d4-8af0-67601a424453.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "86db7428-f7a9-404a-afd9-9239e875d580.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "1133078763",
+          "URL": "http://images.launchbox-app.com/86db7428-f7a9-404a-afd9-9239e875d580.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "ce2b8e94-67b4-4f85-b43c-025b06cac5ff.jpg",
+          "Type": "Box - Front",
+          "Region": "Germany",
+          "CRC32": "996706986",
+          "URL": "http://images.launchbox-app.com/ce2b8e94-67b4-4f85-b43c-025b06cac5ff.jpg"
+        },
+        {
+          "FileName": "a8d455da-5209-4abc-a1b1-f22ebbdac755.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1300244562",
+          "URL": "http://images.launchbox-app.com/a8d455da-5209-4abc-a1b1-f22ebbdac755.jpg"
+        },
+        {
+          "FileName": "d1518688-6687-4588-af69-5be1d978a6a5.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "3608454482",
+          "URL": "http://images.launchbox-app.com/d1518688-6687-4588-af69-5be1d978a6a5.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "7d922538-3163-4ad3-a6c1-25d4ef1e911b.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "1644370338",
+          "URL": "http://images.launchbox-app.com/7d922538-3163-4ad3-a6c1-25d4ef1e911b.jpg"
+        },
+        {
+          "FileName": "8f536817-110b-4d6a-99e2-083773a5eff9.jpg",
+          "Type": "Box - Spine",
+          "Region": "Europe",
+          "CRC32": "3178588800",
+          "URL": "http://images.launchbox-app.com/8f536817-110b-4d6a-99e2-083773a5eff9.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "f7d32fd0-77e2-421e-af9c-3ca8580cbd81.png",
+        "Type": "Disc",
+        "Region": "Japan",
+        "CRC32": "3489268113",
+        "URL": "http://images.launchbox-app.com/f7d32fd0-77e2-421e-af9c-3ca8580cbd81.png"
+      },
+      {
+        "FileName": "a52bbd96-2a6d-4e3b-b5b5-0b018cca6bc7.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "3982590046",
+        "URL": "http://images.launchbox-app.com/a52bbd96-2a6d-4e3b-b5b5-0b018cca6bc7.png"
+      },
+      {
+        "FileName": "3857bcbc-e313-46a9-be04-e9e5dbfecf7c.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2615746651",
+        "URL": "http://images.launchbox-app.com/3857bcbc-e313-46a9-be04-e9e5dbfecf7c.png"
+      },
+      {
+        "FileName": "af65bbc5-639e-4730-a99f-be176079b8f0.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "2314876611",
+        "URL": "http://images.launchbox-app.com/af65bbc5-639e-4730-a99f-be176079b8f0.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "6d4ef469-9107-408d-a530-a21276d982bc.png",
+        "Type": "Clear Logo",
+        "CRC32": "2281139888",
+        "URL": "http://images.launchbox-app.com/6d4ef469-9107-408d-a530-a21276d982bc.png"
+      }
+    ]
+  }
+}

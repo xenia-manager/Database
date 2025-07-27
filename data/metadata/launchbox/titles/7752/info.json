@@ -1,0 +1,111 @@
+{
+  "Name": "Dark Souls",
+  "DatabaseID": "7752",
+  "ReleaseDate": "2011-10-04T00:00:00-07:00",
+  "Overview": "Dark Souls is a brand new dark fantasy RPG designed to completely embrace the concepts of tension in dungeon exploration, fear in encountering enemies, the joy of new discoveries, and a high sense of achievement in progressing. The game is set in a dark fantasy world filled with decadent atmosphere, with a heavy emphasis on player freedom in discovering various tactics and strategies to use in weapon based combat.",
+  "VideoURL": "http://www.youtube.com/watch?v=eF61dmgmvlk",
+  "CommunityRating": "4.2368421052631575",
+  "ESRB": "M - Mature",
+  "Genres": " Role-Playing",
+  "Developer": "FromSoftware",
+  "Publisher": "Namco Bandai",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "d54ff558-1b8c-4585-8b1e-857137656bdd.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1925611915",
+        "URL": "http://images.launchbox-app.com/d54ff558-1b8c-4585-8b1e-857137656bdd.jpg"
+      },
+      {
+        "FileName": "f6414946-fba3-4240-b4b1-7b57599e088e.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "165642605",
+        "URL": "http://images.launchbox-app.com/f6414946-fba3-4240-b4b1-7b57599e088e.jpg"
+      },
+      {
+        "FileName": "3e8895b9-3196-4cef-9ba0-abd580706b52.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3962130838",
+        "URL": "http://images.launchbox-app.com/3e8895b9-3196-4cef-9ba0-abd580706b52.jpg"
+      },
+      {
+        "FileName": "7cf0c523-a73f-427f-a945-9d1256a99b5f.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2216141103",
+        "URL": "http://images.launchbox-app.com/7cf0c523-a73f-427f-a945-9d1256a99b5f.jpg"
+      },
+      {
+        "FileName": "024263f6-e922-4157-88db-e4603f0d54d6.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "202791345",
+        "URL": "http://images.launchbox-app.com/024263f6-e922-4157-88db-e4603f0d54d6.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "dd1b0897-be06-4491-89bf-5f776ddec103.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "67778446",
+          "URL": "http://images.launchbox-app.com/dd1b0897-be06-4491-89bf-5f776ddec103.png"
+        },
+        {
+          "FileName": "2cac398b-ad50-4851-af87-f6258a28be55.png",
+          "Type": "Box - 3D",
+          "Region": "Europe",
+          "CRC32": "1459301593",
+          "URL": "http://images.launchbox-app.com/2cac398b-ad50-4851-af87-f6258a28be55.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "d68c3928-bf41-4e87-89fa-02eb5056895d.jpg",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "246536139",
+          "URL": "http://images.launchbox-app.com/d68c3928-bf41-4e87-89fa-02eb5056895d.jpg"
+        },
+        {
+          "FileName": "b7c379fc-dd8d-44e0-bec7-7fa421b7c093.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "175827150",
+          "URL": "http://images.launchbox-app.com/b7c379fc-dd8d-44e0-bec7-7fa421b7c093.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "d1c3e3b0-34b9-43ec-8d9e-121cef4e0931.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "3185714865",
+          "URL": "http://images.launchbox-app.com/d1c3e3b0-34b9-43ec-8d9e-121cef4e0931.jpg"
+        },
+        {
+          "FileName": "395be8c3-cb24-49cb-84da-b8bea0248bdd.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1475801552",
+          "URL": "http://images.launchbox-app.com/395be8c3-cb24-49cb-84da-b8bea0248bdd.jpg"
+        },
+        {
+          "FileName": "9b1ae075-912c-4c71-8ab6-a248a16cd0f9.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "North America",
+          "CRC32": "442623592",
+          "URL": "http://images.launchbox-app.com/9b1ae075-912c-4c71-8ab6-a248a16cd0f9.png"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "6526c311-26ad-4454-be88-c9e3e4765839.png",
+        "Type": "Clear Logo",
+        "CRC32": "370966635",
+        "URL": "http://images.launchbox-app.com/6526c311-26ad-4454-be88-c9e3e4765839.png"
+      }
+    ]
+  }
+}

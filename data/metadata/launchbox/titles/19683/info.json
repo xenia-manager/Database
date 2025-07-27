@@ -1,0 +1,50 @@
+{
+  "Name": "Doritos Crash Course",
+  "DatabaseID": "19683",
+  "ReleaseDate": "2010-12-08T00:00:00-08:00",
+  "Overview": "Doritos Crash Course is a fast-paced, funny, obstacle course game show for your Avatar to compete against your friends and family over Xbox LIVE. Play through 15 exciting platformer levels across 3 different countries. Compete against your friends and family up to four players over Xbox LIVE and local split-screen.",
+  "VideoURL": "https://www.youtube.com/watch?v=YuCFgaI_qEA",
+  "CommunityRating": "3.5",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Doritos_Crash_Course",
+  "ESRB": "E - Everyone",
+  "Genres": " Platform",
+  "Developer": "Wanako Studios",
+  "Publisher": "Microsoft Game Studios",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "9896a271-0e26-4d03-ac5a-929d08bba115.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2840707123",
+        "URL": "http://images.launchbox-app.com/9896a271-0e26-4d03-ac5a-929d08bba115.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "dc49f24a-02e4-4e08-bf83-8f8bbebac6e9.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3095262802",
+          "URL": "http://images.launchbox-app.com/dc49f24a-02e4-4e08-bf83-8f8bbebac6e9.jpg"
+        },
+        {
+          "FileName": "a292a99e-f417-4e29-8bff-d3544bd02520.png",
+          "Type": "Fanart - Box - Front",
+          "Region": "World",
+          "CRC32": "2869673007",
+          "URL": "http://images.launchbox-app.com/a292a99e-f417-4e29-8bff-d3544bd02520.png"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "bc87c492-03e1-40e8-9fae-70f2739fdc45.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "2315939785",
+        "URL": "http://images.launchbox-app.com/bc87c492-03e1-40e8-9fae-70f2739fdc45.png"
+      }
+    ]
+  }
+}

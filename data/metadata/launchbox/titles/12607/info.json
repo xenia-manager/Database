@@ -1,0 +1,79 @@
+{
+  "Name": "Crysis 2",
+  "DatabaseID": "12607",
+  "ReleaseDate": "2011-03-22T00:00:00-07:00",
+  "Overview": "Be strong, be fast, be invisible, be the weapon.\n\nSequel to one of the greatest PC shooters ever, Crysis 2 offers console players their first taste of Crytek's unique shooter gameplay. Featuring futuristic war, gorgeous destruction, and the chance to kick alien butt on the grandest stage of all, New York City, Crysis 2 is destined at the least to equal its predecessor, if not surpass it. Additional features include: challenging AI enemies in the single player campaign, 12-player support online, new and improved upgradable Nanosuit 2 technology, and more. \n\nThe world has been ravaged by a series of climatic disasters and society is on the verge of total breakdown. Now the aliens have returned, with a full invasion force bent on nothing less than the total annihilation of mankind, starting by trying to rip the heart out of Earth's most iconic city. \n\nIn New York, terrifying alien invaders stalk the streets and a nightmare plague strikes down the city's myriad inhabitants with brutal epidemic speed. The city's systems are in chaos, its streets and skyline are smashed and in flaming ruin. This is New York City like you've never seen it before. Neither paramilitary law enforcement nor the might of the US military machine can stand against the invaders, and all who choose not to flee are dead men walking. Just to survive in this maelstrom of death will require technology beyond anything any modern soldier has ever seen. \n\nOne man will inherit that means to survive. One supersoldier, wielding the combat enhancement technology of the future with Nanosuit 2, will make the last stand to save humanity from destruction in the urban jungle that is New York City.",
+  "VideoURL": "https://www.youtube.com/watch?v=kF67XFXq_ys",
+  "CommunityRating": "3.9285714285714284",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Crysis_2",
+  "ESRB": "M - Mature",
+  "Genres": " Shooter",
+  "Developer": "Crytek",
+  "Publisher": "Electronic Arts",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "a6e7df75-fc9d-4561-99ea-413224618e05.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2540464550",
+        "URL": "http://images.launchbox-app.com/a6e7df75-fc9d-4561-99ea-413224618e05.jpg"
+      },
+      {
+        "FileName": "8b597ce4-4682-4b12-aad3-00c714cc937d.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2813922312",
+        "URL": "http://images.launchbox-app.com/8b597ce4-4682-4b12-aad3-00c714cc937d.jpg"
+      },
+      {
+        "FileName": "22673a7a-a8f0-44a4-93ac-40af27ba0df4.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2702241680",
+        "URL": "http://images.launchbox-app.com/22673a7a-a8f0-44a4-93ac-40af27ba0df4.jpg"
+      }
+    ],
+    "Box": {
+      "Back": [
+        {
+          "FileName": "3aa0ca0d-eba2-4ece-81e0-ae625a6c53e7.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "1696194527",
+          "URL": "http://images.launchbox-app.com/3aa0ca0d-eba2-4ece-81e0-ae625a6c53e7.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "80f091e7-a636-4145-8849-226f54bea5a2.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "124128030",
+          "URL": "http://images.launchbox-app.com/80f091e7-a636-4145-8849-226f54bea5a2.jpg"
+        },
+        {
+          "FileName": "054567e6-67df-4fa2-8a1f-958441ed73a3.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "3447997357",
+          "URL": "http://images.launchbox-app.com/054567e6-67df-4fa2-8a1f-958441ed73a3.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "1ee24f4f-3387-4488-b9b8-54b9fa222837.png",
+        "Type": "Disc",
+        "Region": "Australia",
+        "CRC32": "1442149898",
+        "URL": "http://images.launchbox-app.com/1ee24f4f-3387-4488-b9b8-54b9fa222837.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "53275df4-a043-4db3-b5b4-fbf608d24dc7.png",
+        "Type": "Clear Logo",
+        "CRC32": "3746172958",
+        "URL": "http://images.launchbox-app.com/53275df4-a043-4db3-b5b4-fbf608d24dc7.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "Name": "Resonance of Fate",
+  "DatabaseID": "12622",
+  "ReleaseDate": "2010-03-16T00:00:00-07:00",
+  "Overview": "Resonance of Fate, known as End of Eternity in Japan, is an RPG produced by tri-Ace, in collaboration with SEGA, for the PlayStation 3 and Xbox 360. It was released in Japan on January 28, 2010. The North American version was released on March 16, 2010.",
+  "VideoURL": "http://www.youtube.com/watch?v=HiwWcU47N9E",
+  "CommunityRating": "3",
+  "ESRB": "T - Teen",
+  "Genres": " Role-Playing",
+  "Developer": "tri-Ace",
+  "Publisher": "Sega",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "3e6a0fd0-d243-4dd0-b25a-e3d95cce8d6f.png",
+          "Type": "Box - 3D",
+          "CRC32": "1337163769",
+          "URL": "http://images.launchbox-app.com/3e6a0fd0-d243-4dd0-b25a-e3d95cce8d6f.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "4e4f1790-075e-49a1-98c6-59000fd85492.jpg",
+          "Type": "Box - Front",
+          "CRC32": "4012218644",
+          "URL": "http://images.launchbox-app.com/4e4f1790-075e-49a1-98c6-59000fd85492.jpg"
+        },
+        {
+          "FileName": "1903f55f-31c0-46b3-8364-3425b472484e.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "4148832791",
+          "URL": "http://images.launchbox-app.com/1903f55f-31c0-46b3-8364-3425b472484e.jpg"
+        },
+        {
+          "FileName": "35e50d2c-a0ff-45ae-b6ba-2b2aa8503f75.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "989286125",
+          "URL": "http://images.launchbox-app.com/35e50d2c-a0ff-45ae-b6ba-2b2aa8503f75.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "b5e97303-de64-4c71-bb4d-199899efc957.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1251941183",
+        "URL": "http://images.launchbox-app.com/b5e97303-de64-4c71-bb4d-199899efc957.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "e5470f14-ea09-42dc-8e34-4fc9aead6873.png",
+        "Type": "Clear Logo",
+        "CRC32": "2519030611",
+        "URL": "http://images.launchbox-app.com/e5470f14-ea09-42dc-8e34-4fc9aead6873.png"
+      }
+    ]
+  }
+}

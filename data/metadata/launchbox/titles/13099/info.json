@@ -1,0 +1,97 @@
+{
+  "Name": "NHL 09",
+  "DatabaseID": "13099",
+  "ReleaseDate": "2008-09-10T00:00:00-07:00",
+  "Overview": "NHL 09 is the 17th video game in the NHL series released by EA Sports in 2008. Both the Nintendo DS and Wii versions had been planned, but canceled. It was the last installment of the NHL series to be released on Playstation 2 and the last to get a PC release",
+  "VideoURL": "http://www.youtube.com/watch?v=dnftVKYAGlE",
+  "ESRB": "E10+ - Everyone 10+",
+  "Genres": " Sports",
+  "Developer": "Electronic Arts Canada",
+  "Publisher": "Electronic Arts",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "587ce6ec-6c84-4a3e-ad26-189921edc7f2.png",
+        "Type": "Banner",
+        "CRC32": "323090475",
+        "URL": "http://images.launchbox-app.com/587ce6ec-6c84-4a3e-ad26-189921edc7f2.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "24091834-dd3c-45cb-94f2-9f5bec99c926.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "382591754",
+        "URL": "http://images.launchbox-app.com/24091834-dd3c-45cb-94f2-9f5bec99c926.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "57678438-28be-4e56-83b6-23f72af337ec.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "1927782513",
+          "URL": "http://images.launchbox-app.com/57678438-28be-4e56-83b6-23f72af337ec.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "edf3d8db-b4b1-4716-8a20-2443d6e8de35.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "1117750396",
+          "URL": "http://images.launchbox-app.com/edf3d8db-b4b1-4716-8a20-2443d6e8de35.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "adedbcd4-ee65-4694-897c-3fcac24b9aa5.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2184651617",
+          "URL": "http://images.launchbox-app.com/adedbcd4-ee65-4694-897c-3fcac24b9aa5.jpg"
+        },
+        {
+          "FileName": "7dda4187-4aa6-4ae8-b037-e5cb2fabc449.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "North America",
+          "CRC32": "461126276",
+          "URL": "http://images.launchbox-app.com/7dda4187-4aa6-4ae8-b037-e5cb2fabc449.png"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "fc12aee1-fa67-42e6-aa6d-2236fc6a08bb.png",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "2173414706",
+          "URL": "http://images.launchbox-app.com/fc12aee1-fa67-42e6-aa6d-2236fc6a08bb.png"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "eee6e120-7a45-40a0-a947-65fa992c84a2.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "749282803",
+        "URL": "http://images.launchbox-app.com/eee6e120-7a45-40a0-a947-65fa992c84a2.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "b7b8b62f-b7b0-49ca-b456-c2ea5b10affe.png",
+        "Type": "Clear Logo",
+        "CRC32": "1526684690",
+        "URL": "http://images.launchbox-app.com/b7b8b62f-b7b0-49ca-b456-c2ea5b10affe.png"
+      },
+      {
+        "FileName": "b4fe21f3-76fa-4963-a105-82e322cdecb5.png",
+        "Type": "Clear Logo",
+        "CRC32": "577088574",
+        "URL": "http://images.launchbox-app.com/b4fe21f3-76fa-4963-a105-82e322cdecb5.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "Name": "Kinect Joy Ride",
+  "DatabaseID": "16817",
+  "ReleaseDate": "2010-11-10T00:00:00-08:00",
+  "Overview": "3…2…1…Go! Kinect Joy Ride, the first controller-free racing game, will take you and your friends on the ride of your lives — no driver’s license required. Kinect Joy Ride combines wild kart racing excitement with the effortless fun of full-body gaming possible only with Kinect for Xbox 360.",
+  "VideoURL": "https://www.youtube.com/watch?v=mbarl85A7NA",
+  "CommunityRating": "3.1666666666666665",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Kinect_Joy_Ride",
+  "ESRB": "E - Everyone",
+  "Genres": " Racing",
+  "Developer": "BigPark",
+  "Publisher": "Microsoft Game Studios",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "95691a44-d1a3-4b64-ab0e-4c9d63c5ac17.png",
+          "Type": "Box - 3D",
+          "CRC32": "2091321946",
+          "URL": "http://images.launchbox-app.com/95691a44-d1a3-4b64-ab0e-4c9d63c5ac17.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "dba66638-c955-4932-95e8-5e34334e6359.jpg",
+          "Type": "Box - Front",
+          "CRC32": "1001047244",
+          "URL": "http://images.launchbox-app.com/dba66638-c955-4932-95e8-5e34334e6359.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "ac782a95-23b3-4756-992d-06d8094470e8.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "88297881",
+        "URL": "http://images.launchbox-app.com/ac782a95-23b3-4756-992d-06d8094470e8.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "Name": "Fable II: Platinum Hits",
+  "DatabaseID": "209118",
+  "ReleaseDate": "2009-09-18T00:00:00-07:00",
+  "Overview": "Fable™ II is the true sequel to the wildly successful original that sold more than 3 million copies, offering even more choices and building on the core gameplay theme of \"Fable,\" where a player’s every decision continually defines whom they become. \"Fable II\" is an action role-playing game (RPG) that truly allows players to live the life they choose in an unimaginably open world environment. Set 500 years after the original, \"Fable II\" will provide gamers with an epic story and innovative real-time gameplay, including a massive amount of freedom and choice to explore a vast collection of dungeons, catacombs and caves in the world of Albion.",
+  "VideoURL": "https://www.youtube.com/watch?v=v0OaBsWtwFc",
+  "CommunityRating": "4.5961538461538458",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Fable_II",
+  "ESRB": "M - Mature",
+  "Genres": " Role-Playing",
+  "Developer": "Lionhead Studios",
+  "Publisher": "Xbox Game Studios",
+  "Artwork": {
+    "Box": {
+      "Back": [
+        {
+          "FileName": "03aed3a9-e19b-4b58-8859-644d3443ab66.jpg",
+          "Type": "Box - Back",
+          "Region": "Australia",
+          "CRC32": "3676230365",
+          "URL": "http://images.launchbox-app.com/03aed3a9-e19b-4b58-8859-644d3443ab66.jpg"
+        },
+        {
+          "FileName": "306f69c8-2932-4f49-a5c9-a3690003563b.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "4021392752",
+          "URL": "http://images.launchbox-app.com/306f69c8-2932-4f49-a5c9-a3690003563b.jpg"
+        },
+        {
+          "FileName": "55b88f09-5ad7-4a75-8771-0ad016ca920b.jpg",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "848785527",
+          "URL": "http://images.launchbox-app.com/55b88f09-5ad7-4a75-8771-0ad016ca920b.jpg"
+        },
+        {
+          "FileName": "1ad2cff8-09da-4cb5-ba5c-1734aa191814.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "1269003397",
+          "URL": "http://images.launchbox-app.com/1ad2cff8-09da-4cb5-ba5c-1734aa191814.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "42ac0c41-eaa6-4143-b26b-23578bfea274.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "1640464265",
+          "URL": "http://images.launchbox-app.com/42ac0c41-eaa6-4143-b26b-23578bfea274.jpg"
+        },
+        {
+          "FileName": "56681a2f-b953-4c07-b5db-8688f44b433d.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3555470029",
+          "URL": "http://images.launchbox-app.com/56681a2f-b953-4c07-b5db-8688f44b433d.jpg"
+        },
+        {
+          "FileName": "554be873-d674-4978-8e28-3c8178214454.jpg",
+          "Type": "Box - Front",
+          "Region": "Australia",
+          "CRC32": "2203569135",
+          "URL": "http://images.launchbox-app.com/554be873-d674-4978-8e28-3c8178214454.jpg"
+        },
+        {
+          "FileName": "70f4bc54-b4b7-41b3-b703-b4da406f90e2.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "105658706",
+          "URL": "http://images.launchbox-app.com/70f4bc54-b4b7-41b3-b703-b4da406f90e2.jpg"
+        },
+        {
+          "FileName": "521180ec-dc3e-46f6-82d4-d0f1d0ac21b8.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "Europe",
+          "CRC32": "3154700482",
+          "URL": "http://images.launchbox-app.com/521180ec-dc3e-46f6-82d4-d0f1d0ac21b8.png"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "6f3b89b8-edd9-4e83-b0db-952537c15939.jpg",
+          "Type": "Box - Spine",
+          "Region": "Australia",
+          "CRC32": "1019517727",
+          "URL": "http://images.launchbox-app.com/6f3b89b8-edd9-4e83-b0db-952537c15939.jpg"
+        }
+      ]
+    },
+    "Screenshots": [
+      {
+        "FileName": "a0b6bead-8325-4b8b-8647-fd622ee69a24.jpg",
+        "Type": "Screenshot - Gameplay",
+        "Region": "World",
+        "CRC32": "2504922472",
+        "URL": "http://images.launchbox-app.com/a0b6bead-8325-4b8b-8647-fd622ee69a24.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "79d18550-6579-465f-89f9-4d615427fb80.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "2669678645",
+        "URL": "http://images.launchbox-app.com/79d18550-6579-465f-89f9-4d615427fb80.png"
+      }
+    ]
+  }
+}

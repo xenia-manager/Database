@@ -1,0 +1,91 @@
+{
+  "Name": "BioShock Infinite",
+  "DatabaseID": "14409",
+  "ReleaseDate": "2013-03-26T00:00:00-07:00",
+  "Overview": "BioShock Infinite is a first-person shooter like you’ve never seen. Set in 1912, players assume the role of former Pinkerton agent Booker DeWitt, sent to the flying city of Columbia on a rescue mission. His target? Elizabeth, imprisoned since childhood. During their daring escape, Booker and Elizabeth form a powerful bond -- one that lets Booker augment his own abilities with her world-altering control over the environment. Together, they fight from high-speed Sky-Lines, in the streets and houses of Columbia, on giant zeppelins, and in the clouds, all while learning to harness an expanding arsenal of weapons and abilities, and immersing players in a story that is not only steeped in profound thrills and surprises, but also invests its characters with deep emotional bonds.",
+  "VideoURL": "http://www.youtube.com/watch?v=8sgARUJcylA",
+  "CommunityRating": "4.4655172413793105",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/BioShock_Infinite",
+  "ESRB": "M - Mature",
+  "Genres": " Shooter",
+  "Developer": "Irrational Games",
+  "Publisher": "2K Games",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "755eaa37-e0f4-4102-82ce-917af1d585db.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1426210401",
+        "URL": "http://images.launchbox-app.com/755eaa37-e0f4-4102-82ce-917af1d585db.jpg"
+      },
+      {
+        "FileName": "83930b17-3c09-4bd7-970a-faeaa2d4c4a9.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1362611882",
+        "URL": "http://images.launchbox-app.com/83930b17-3c09-4bd7-970a-faeaa2d4c4a9.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "20e81298-8125-4021-a577-3b88c42e1bea.png",
+          "Type": "Box - 3D",
+          "CRC32": "573621334",
+          "URL": "http://images.launchbox-app.com/20e81298-8125-4021-a577-3b88c42e1bea.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "2734c711-a260-4ce0-8333-1846fddaedac.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "624324076",
+          "URL": "http://images.launchbox-app.com/2734c711-a260-4ce0-8333-1846fddaedac.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "6784cc58-f0b1-4dbe-ae6a-ee8af1520fd2.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "841867422",
+          "URL": "http://images.launchbox-app.com/6784cc58-f0b1-4dbe-ae6a-ee8af1520fd2.jpg"
+        }
+      ],
+      "Spine": [
+        {
+          "FileName": "9bfcc1da-a4fb-4225-9b41-20b111b4d8e4.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "2504834987",
+          "URL": "http://images.launchbox-app.com/9bfcc1da-a4fb-4225-9b41-20b111b4d8e4.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "5214f5dd-69ed-4bac-9954-85ef7b74019a.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "760840843",
+        "URL": "http://images.launchbox-app.com/5214f5dd-69ed-4bac-9954-85ef7b74019a.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "8de9a267-9227-41c7-9c7d-5720cc55ddfb.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3426264200",
+        "URL": "http://images.launchbox-app.com/8de9a267-9227-41c7-9c7d-5720cc55ddfb.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "b90247d6-f3b5-4d7e-92e6-b369d5ffe3a9.png",
+        "Type": "Clear Logo",
+        "CRC32": "1107927287",
+        "URL": "http://images.launchbox-app.com/b90247d6-f3b5-4d7e-92e6-b369d5ffe3a9.png"
+      }
+    ]
+  }
+}

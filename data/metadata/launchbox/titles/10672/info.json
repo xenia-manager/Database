@@ -1,0 +1,65 @@
+{
+  "Name": "Ascend: New Gods",
+  "DatabaseID": "10672",
+  "ReleaseDate": "2013-04-01T00:00:00-07:00",
+  "Overview": "Ascend: Hand of Kul (formerly Ascend: New Gods) is a 2013 free-to-play game for the Xbox 360 and Microsoft Windows.[1] It was unveiled at the Electronic Entertainment Expo 2012 during Microsoft's press conference. It was available in the Xbox Live Arcade for free if you are a Gold member. On August 18, 2014 the game was delisted from the Xbox marketplace. On August 21, 2014 it was announced the game's server will be closing November 18, 2014. The PC version remains online.[2][3]",
+  "CommunityRating": "3.1666666666666665",
+  "ESRB": "M - Mature",
+  "Genres": " Strategy",
+  "Developer": "Signal Studios",
+  "Publisher": "Microsoft",
+  "Artwork": {
+    "Background": [
+      {
+        "FileName": "c25d5320-f81d-4f6f-88f2-64d52f5e1aeb.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3486006492",
+        "URL": "http://images.launchbox-app.com/c25d5320-f81d-4f6f-88f2-64d52f5e1aeb.jpg"
+      },
+      {
+        "FileName": "7b750398-d1b7-4baa-a2c9-6cf62c6f4a0b.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3219348982",
+        "URL": "http://images.launchbox-app.com/7b750398-d1b7-4baa-a2c9-6cf62c6f4a0b.jpg"
+      }
+    ],
+    "Box": {
+      "Front": [
+        {
+          "FileName": "cf2197e7-5436-44c4-8507-e4b356e4fc86.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "1809043921",
+          "URL": "http://images.launchbox-app.com/cf2197e7-5436-44c4-8507-e4b356e4fc86.jpg"
+        },
+        {
+          "FileName": "06f7e512-9064-45c0-a165-be730d200eac.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "3009700938",
+          "URL": "http://images.launchbox-app.com/06f7e512-9064-45c0-a165-be730d200eac.jpg"
+        },
+        {
+          "FileName": "2665435a-5bc1-4876-94a0-3dc709f6ef2d.png",
+          "Type": "Fanart - Box - Front",
+          "CRC32": "375993372",
+          "URL": "http://images.launchbox-app.com/2665435a-5bc1-4876-94a0-3dc709f6ef2d.png"
+        },
+        {
+          "FileName": "b3299558-0ca5-44ec-9047-6c9bef41b8bb.png",
+          "Type": "Fanart - Box - Front",
+          "CRC32": "2080200872",
+          "URL": "http://images.launchbox-app.com/b3299558-0ca5-44ec-9047-6c9bef41b8bb.png"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "469cd1c1-db93-42d8-9ecb-daefbf75fe7f.png",
+        "Type": "Clear Logo",
+        "CRC32": "4294666104",
+        "URL": "http://images.launchbox-app.com/469cd1c1-db93-42d8-9ecb-daefbf75fe7f.png"
+      }
+    ]
+  }
+}

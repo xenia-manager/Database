@@ -1,0 +1,39 @@
+{
+  "Name": "PES 2014: Pro Evolution Soccer",
+  "DatabaseID": "19161",
+  "ReleaseDate": "2013-09-20T00:00:00-07:00",
+  "Overview": "Pro Evolution Soccer 2014 (officially abbreviated as PES 2014, also known in Japan and South Korea as World Soccer: Winning Eleven 2014 in 2013 and also World Soccer: Winning Eleven 2014 - Aoki Samurai no Chousen in 2014) is an association football video game developed and published by Konami. The game features a modified version of the new Fox Engine. It was released on September 19 in Europe, September 20 in United Kingdom, and on November 14 in Japan. The playable demo became available on September 11 for download. Once again, the UEFA Champions League, UEFA Europa League and UEFA Super Cup competitions are fully licensed in the game, and the First Playable UEFA Europa League without entering Master League, Become a Legend, and/or League. For the first time, the game features an exclusive license for the AFC Champions League, the Argentine Primera División, Chilean Primera División, and Arabic commentary as well, by Rhaouf Khelif of beIN Sports, also Argentinean commentary, by Mariano Closs and Fernando Niembro, and Chilean commentary by Fernando Solabarrieta and Patricio Yáñez of Fox Sports Latinoamérica.\n\nKonami confirmed that rain will not feature in PES 2014 due to the engine upgrade, as well as the Stadium Editor and La Liga stadiums because of licensing restrictions.\n\nPro Evolution Soccer 2014 is the last video game for the PlayStation 2 produced and released in North America and is the last retailed PlayStation Portable game released in Europe and Asia, which ceased production in January 2013 and December 2014 respectively. In Japanese version of this game, the cover art features Japan national football team.",
+  "CommunityRating": "3.1666666666666665",
+  "ESRB": "E - Everyone",
+  "Genres": " Sports",
+  "Developer": "Konami",
+  "Publisher": "Konami",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "9cf890a0-ef24-48ed-b7ad-a584be16574a.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "1744823499",
+          "URL": "http://images.launchbox-app.com/9cf890a0-ef24-48ed-b7ad-a584be16574a.jpg"
+        },
+        {
+          "FileName": "b29ed0ec-00af-45b1-937b-72e22e51f06e.png",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1590115763",
+          "URL": "http://images.launchbox-app.com/b29ed0ec-00af-45b1-937b-72e22e51f06e.png"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "5f1a5781-7339-4b01-825f-9f91d68066c3.png",
+        "Type": "Clear Logo",
+        "CRC32": "771500103",
+        "URL": "http://images.launchbox-app.com/5f1a5781-7339-4b01-825f-9f91d68066c3.png"
+      }
+    ]
+  }
+}

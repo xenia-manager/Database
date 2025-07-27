@@ -1,0 +1,19 @@
+{
+  "Name": "Disney Sing It: High School Musical 3: Senior Year",
+  "DatabaseID": "15438",
+  "ReleaseDate": "2009-02-17T00:00:00-08:00",
+  "ESRB": "E - Everyone",
+  "Genres": " Music",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "c91e91bb-e60c-4bee-9049-4a5471ac0bcd.jpg",
+          "Type": "Box - Front",
+          "CRC32": "2298319953",
+          "URL": "http://images.launchbox-app.com/c91e91bb-e60c-4bee-9049-4a5471ac0bcd.jpg"
+        }
+      ]
+    }
+  }
+}

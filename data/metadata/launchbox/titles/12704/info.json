@@ -1,0 +1,65 @@
+{
+  "Name": "IL-2 Sturmovik: Birds of Prey",
+  "DatabaseID": "12704",
+  "ReleaseDate": "2009-09-08T00:00:00-07:00",
+  "Overview": "IL-2 Sturmovik: Birds of Prey allows players to participate in some of the most famous military confrontations of World War II in large-scale aerial combat over ground-based military operations. As pilots, gamers battle in fighter planes or heavy bombers across a range of missions through six major WWII battles - The Battle of Britain, Stalingrad, Berlin, Sicily, the Battle of the Bulge and Korsun - which represent the main airborne battles of World War II in Europe.",
+  "VideoURL": "http://www.youtube.com/watch?v=8N9_C--zqZI",
+  "CommunityRating": "4.25",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/IL-2_Sturmovik:_Birds_of_Prey",
+  "ESRB": "T - Teen",
+  "Genres": " Action; Flight Simulator",
+  "Developer": "Gaijin Entertainment",
+  "Publisher": "1C Company",
+  "Artwork": {
+    "Banner": [
+      {
+        "FileName": "9e3d2e43-7d79-4e5e-84bd-209ae44f6aa3.png",
+        "Type": "Banner",
+        "CRC32": "1497018767",
+        "URL": "http://images.launchbox-app.com/9e3d2e43-7d79-4e5e-84bd-209ae44f6aa3.png"
+      }
+    ],
+    "Background": [
+      {
+        "FileName": "0a0cf6cc-5592-48a2-97a1-247349929185.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2004245456",
+        "URL": "http://images.launchbox-app.com/0a0cf6cc-5592-48a2-97a1-247349929185.jpg"
+      },
+      {
+        "FileName": "1d0b37e2-3dc3-43de-a59c-8bfc1592a50f.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "572447068",
+        "URL": "http://images.launchbox-app.com/1d0b37e2-3dc3-43de-a59c-8bfc1592a50f.jpg"
+      }
+    ],
+    "Box": {
+      "3D": [
+        {
+          "FileName": "5bb0ae12-2dc1-4d6c-8545-cb364232b7f1.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "1192302454",
+          "URL": "http://images.launchbox-app.com/5bb0ae12-2dc1-4d6c-8545-cb364232b7f1.png"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "fc5a19c6-0ba0-40c7-8fc9-b2e406ef7a8c.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2557915634",
+          "URL": "http://images.launchbox-app.com/fc5a19c6-0ba0-40c7-8fc9-b2e406ef7a8c.jpg"
+        }
+      ]
+    },
+    "Other": [
+      {
+        "FileName": "09c21563-120c-49ae-a114-a0f16efc6fab.png",
+        "Type": "Clear Logo",
+        "CRC32": "2051849025",
+        "URL": "http://images.launchbox-app.com/09c21563-120c-49ae-a114-a0f16efc6fab.png"
+      }
+    ]
+  }
+}

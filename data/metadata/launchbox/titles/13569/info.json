@@ -1,0 +1,67 @@
+{
+  "Name": "Dynasty Warriors 6: Empires",
+  "DatabaseID": "13569",
+  "ReleaseDate": "2009-06-23T00:00:00-07:00",
+  "Overview": "Designed for the legions of Dynasty Warriors fans, DYNASTY WARRIORS 6: Empires is game that brings together the best aspects of the action and strategy genres. In this latest edition, players can experience Ancient China's greatest and most glorious war as an all-powerful lord or as an officer. As a lord, gamers must think strategically. By deciding when to attack, when to resist invasion, or when to initiate policies, a lord can expand their power and influence. An easy-to-learn card collecting system lets players enact policies that will increase their empire's strength, improve the abilities of their forces, and more. The cards that a player receives will depend on the attributes of the officers and their army. Players can also pledge their allegiance to a kingdom to become an officer. As an officer, players can suggest policies in the kingdom's war council, complete missions for rewards, or even turn against their ruler should relations sour. Most eagerly awaited by fans is a game mode that allows players to create their own warrior. DYNASTY WARRIORS 6: Empires features an extensive character editing system with options to customize a warrior's gender, build, skin tone, facial features, voice, clothing, weapon and more. Whomever players choose to be, they can now use mountain ledges and waterways to infiltrate enemy bases and launch surprise attacks on supply depots to change the flow of battle.",
+  "VideoURL": "http://www.youtube.com/watch?v=lEVrzPmq2f4",
+  "CommunityRating": "4.5",
+  "ESRB": "T - Teen",
+  "Genres": " Fighting",
+  "Developer": "Omega Force",
+  "Publisher": "Koei",
+  "Artwork": {
+    "Box": {
+      "3D": [
+        {
+          "FileName": "97d614d0-7ad7-42fc-8b24-5029e54a3a2a.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "3970685349",
+          "URL": "http://images.launchbox-app.com/97d614d0-7ad7-42fc-8b24-5029e54a3a2a.png"
+        }
+      ],
+      "Back": [
+        {
+          "FileName": "d82d8dda-8446-4545-b638-fc5b5ffc9fb6.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "2832247771",
+          "URL": "http://images.launchbox-app.com/d82d8dda-8446-4545-b638-fc5b5ffc9fb6.jpg"
+        }
+      ],
+      "Front": [
+        {
+          "FileName": "242afaf9-e092-4e16-b0ce-38d9dec6a49a.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1355391457",
+          "URL": "http://images.launchbox-app.com/242afaf9-e092-4e16-b0ce-38d9dec6a49a.jpg"
+        },
+        {
+          "FileName": "e6597c88-72f8-45f7-8c65-70935356f5de.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "North America",
+          "CRC32": "1542131703",
+          "URL": "http://images.launchbox-app.com/e6597c88-72f8-45f7-8c65-70935356f5de.png"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "942352ae-99ff-49a7-9dbd-c57299be1bce.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2662833998",
+        "URL": "http://images.launchbox-app.com/942352ae-99ff-49a7-9dbd-c57299be1bce.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "6f25add1-853b-4167-ad1c-291afa5ee39a.png",
+        "Type": "Clear Logo",
+        "CRC32": "131354738",
+        "URL": "http://images.launchbox-app.com/6f25add1-853b-4167-ad1c-291afa5ee39a.png"
+      }
+    ]
+  }
+}

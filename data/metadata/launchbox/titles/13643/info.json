@@ -1,0 +1,43 @@
+{
+  "Name": "Cabela's Dangerous Hunts 2013",
+  "DatabaseID": "13643",
+  "ReleaseDate": "2012-10-23T00:00:00-07:00",
+  "Overview": "In an epic story written by Andrew Kreisberg of Fringe, two brothers are torn apart after the death of their father at the hands of a grizzly bear. Ten years later, the estranged brothers reunite for the hunt of their lives. One beast tore them apart. Can another beast bring them back together?\n\nCan you hold your own against the most vicious beasts the animal kingdom has to offer? Find out in Cabela's Dangerous Hunts 2013! The game introduces a new horde-based \"Maneater\" mode allowing for two-player co-operative gameplay where teamwork is essential as both players must work together to strategize and complete missions in order to survive for as long as possible. And it won't be easy to draw down on your deadly prey as predators come powered by the all-new Prowler AI system making them smarter and deadlier than ever before.",
+  "VideoURL": "https://www.youtube.com/watch?v=cCSepZMyhpM",
+  "CommunityRating": "3",
+  "WikipediaURL": "https://en.wikipedia.org/wiki/Cabela%27s_Dangerous_Hunts_2013",
+  "ESRB": "T - Teen",
+  "Genres": " Action; Adventure; Shooter",
+  "Developer": "Cauldron",
+  "Publisher": "Activision Publishing",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "cd22dc72-c182-40f0-a786-de005f9bbed8.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3512819779",
+          "URL": "http://images.launchbox-app.com/cd22dc72-c182-40f0-a786-de005f9bbed8.jpg"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "7fa7ef41-17f0-41d4-98d6-7169b89495d5.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2461806319",
+        "URL": "http://images.launchbox-app.com/7fa7ef41-17f0-41d4-98d6-7169b89495d5.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "d0211cb4-259b-4fa0-a2f2-49d71c32a086.png",
+        "Type": "Clear Logo",
+        "CRC32": "4188500311",
+        "URL": "http://images.launchbox-app.com/d0211cb4-259b-4fa0-a2f2-49d71c32a086.png"
+      }
+    ]
+  }
+}

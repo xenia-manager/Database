@@ -1,0 +1,50 @@
+{
+  "Name": "Naruto Shippuden: Ultimate Ninja Storm Revolution",
+  "DatabaseID": "31607",
+  "ReleaseDate": "2014-09-16T00:00:00-07:00",
+  "Overview": "Naruto Shippuden: Ultimate Ninja Storm Revolution brings back the ultimate anime fighting game from famed developer CyberConnect2. Stunning anime visuals and fluid 3D ninja fighting action come together once again for the largest and most explosive Ultimate Ninja Storm game yet. Naruto Shippuden: Ultimate Ninja Storm Revolution features brand new gameplay mechanics including devastating Combination Ultimate Jutsu attacks, allowing characters to combine their honed powers to create powerful techniques to bring opponents to their knees. With a roster reaching 100 playable characters spanning the entire Naruto and Naruto Shippuden anime arcs, there are sure to be characters that fit everyone’s play style. A brand new character designed by Naruto manga creator Masashi Kishimoto also makes an appearance in Naruto Shippuden: Ultimate Ninja Storm Revolution.",
+  "VideoURL": "http://www.youtube.com/watch?v=fNJD8CfAsJA",
+  "CommunityRating": "4",
+  "ESRB": "T - Teen",
+  "Genres": " Fighting",
+  "Developer": "Cyberconnect2",
+  "Publisher": "Bandai Namco Games",
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "7d174bda-3f59-4717-b763-16805e8801f2.png",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3342320089",
+          "URL": "http://images.launchbox-app.com/7d174bda-3f59-4717-b763-16805e8801f2.png"
+        }
+      ]
+    },
+    "Disc": [
+      {
+        "FileName": "59ce70bb-aa33-473d-8201-dbdf6d2de473.jpg",
+        "Type": "Disc",
+        "Region": "United States",
+        "CRC32": "158574797",
+        "URL": "http://images.launchbox-app.com/59ce70bb-aa33-473d-8201-dbdf6d2de473.jpg"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "91bace4b-c1f8-4bc5-993b-20a7e807ef20.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1088378558",
+        "URL": "http://images.launchbox-app.com/91bace4b-c1f8-4bc5-993b-20a7e807ef20.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "43c3c446-cdc3-43d0-94a5-0ae2cf194403.png",
+        "Type": "Clear Logo",
+        "CRC32": "4264305153",
+        "URL": "http://images.launchbox-app.com/43c3c446-cdc3-43d0-94a5-0ae2cf194403.png"
+      }
+    ]
+  }
+}
