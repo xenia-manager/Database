@@ -2,8 +2,10 @@ name: Database Updater
 
 on:
   schedule:
-    - cron: "0 0 * * *" # daily at 00:00 UTC
-    - cron: "0 12 * * *" # daily at 12:00 UTC
+    # update-version runs every hour
+    - cron: "0 * * * *"
+    # update-compatibility, update-patches & update-launchbox-metadata run daily at 00:00
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 env:
@@ -11,9 +13,12 @@ env:
   XENIA_NETPLAY_REPO: AdrianCassar/Xenia-WebServices
 
 jobs:
-  update-database:
-    name: Update Database
+  update-version:
+    name: Update Xenia Manager Version
     runs-on: ubuntu-latest
+    if: |
+      github.event_name == 'workflow_dispatch' ||
+      github.event.schedule == '0 * * * *'
     permissions:
       contents: write
     steps:
@@ -21,14 +26,7 @@ jobs:
         with:
           token: ${{ secrets.COMMIT_TOKEN }}
           sparse-checkout: |
-            data/patches/canary.json
-            data/patches/canary.tmp
-            data/patches/netplay.json
-            data/patches/netplay.tmp
-            data/game-compatibility/stable.json
-            data/game-compatibility/canary.json
             data/version.json
-            scripts/game_compatibility.py
           sparse-checkout-cone-mode: false
 
       - name: Set up Python
@@ -40,8 +38,8 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install requests
+
       - name: Fetch Xenia Manager versions
-        id: fetch-versions
         env:
           AUTH_TOKEN: ${{ secrets.COMMIT_TOKEN }}
         run: |
@@ -77,6 +75,48 @@ jobs:
           print("Versions fetched successfully")
           EOF
           python fetch_versions.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'xeniamanager-ci'
+          git config --global user.email '214508751+xeniamanager-ci@users.noreply.github.com'
+          git add data/version.json
+          if git diff --cached --quiet; then
+            echo "No changes detected in version.json"
+            exit 0
+          fi
+          git commit -m "chore: Update Xenia Manager versions"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "${GITHUB_REF_NAME}"
+
+  update-compatibility:
+    name: Update Game Compatibility Database
+    runs-on: ubuntu-latest
+    if: |
+      github.event_name == 'workflow_dispatch' ||
+      github.event.schedule == '0 0 * * *'
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.COMMIT_TOKEN }}
+          sparse-checkout: |
+            data/game-compatibility/stable.json
+            data/game-compatibility/canary.json
+            scripts/game_compatibility.py
+          sparse-checkout-cone-mode: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
       - name: Update game compatibility database (Canary)
         run: python scripts/game_compatibility.py --complete --debug
         env:
@@ -88,8 +128,49 @@ jobs:
         env:
           TOKEN: ${{ secrets.COMMIT_TOKEN }}
 
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'xeniamanager-ci'
+          git config --global user.email '214508751+xeniamanager-ci@users.noreply.github.com'
+          git add data/game-compatibility/
+          if git diff --cached --quiet; then
+            echo "No changes detected in game compatibility database"
+            exit 0
+          fi
+          git commit -m "chore: Update game compatibility database"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "${GITHUB_REF_NAME}"
+
+  update-patches:
+    name: Update Game Patches
+    runs-on: ubuntu-latest
+    if: |
+      github.event_name == 'workflow_dispatch' ||
+      github.event.schedule == '0 0 * * *'
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.COMMIT_TOKEN }}
+          sparse-checkout: |
+            data/patches/canary.json
+            data/patches/canary.tmp
+            data/patches/netplay.json
+            data/patches/netplay.tmp
+          sparse-checkout-cone-mode: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
       - name: Fetch game patches
-        id: fetch-patches
         env:
           AUTH_TOKEN: ${{ secrets.COMMIT_TOKEN }}
         run: |
@@ -118,7 +199,6 @@ jobs:
                   jq '.' "$temp_file" > "$output"
                   rm "$temp_file"
                   echo "$name fetched successfully"
-                  echo "${name}_success=true" >> $GITHUB_OUTPUT
                   return 0
                 else
                   echo "Invalid JSON in $name response"
@@ -129,7 +209,6 @@ jobs:
               attempt=$((attempt + 1))
               [ $attempt -le $max_attempts ] && sleep 10
             done
-            echo "${name}_success=false" >> $GITHUB_OUTPUT
             return 1
           }
           mkdir -p data/patches
@@ -141,61 +220,26 @@ jobs:
             "https://api.github.com/repos/${{ env.XENIA_NETPLAY_REPO }}/contents/patches" \
             "data/patches/netplay.json" \
             "netplay"
-      - name: Check for changes and commit
-        id: check-changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.COMMIT_TOKEN }}
+
+      - name: Commit and push changes
         run: |
           git config --global user.name 'xeniamanager-ci'
           git config --global user.email '214508751+xeniamanager-ci@users.noreply.github.com'
-          git add data/
+          git add data/patches/
           if git diff --cached --quiet; then
-            echo "No changes detected in any database files"
-            echo "changes=false" >> $GITHUB_OUTPUT
+            echo "No changes detected in patch files"
             exit 0
           fi
-          echo "changes=true" >> $GITHUB_OUTPUT
-          changed_files=""
-          updates=()
-          if git diff --cached --name-only | grep -q "data/version.json"; then
-            changed_files="$changed_files data/version.json"
-            updates+=("Xenia Manager versions")
-          fi
-          if git diff --cached --name-only | grep -q "data/game-compatibility/canary.json"; then
-            changed_files="$changed_files data/game-compatibility/canary.json"
-            updates+=("Game compatibility database (Canary)")
-          fi
-          if git diff --cached --name-only | grep -q "data/game-compatibility/stable.json"; then
-            changed_files="$changed_files data/game-compatibility/stable.json"
-            updates+=("Game compatibility database (Stable)")
-          fi
-          if git diff --cached --name-only | grep -q "data/patches/"; then
-            changed_files="$changed_files data/patches/"
-            if [ "${{ steps.fetch-patches.outputs.canary_success }}" = "true" ] && [ "${{ steps.fetch-patches.outputs.netplay_success }}" = "true" ]; then
-              updates+=("Xenia Canary & Netplay patches")
-            elif [ "${{ steps.fetch-patches.outputs.canary_success }}" = "true" ]; then
-              updates+=("Xenia Canary patches")
-            elif [ "${{ steps.fetch-patches.outputs.netplay_success }}" = "true" ]; then
-              updates+=("Xenia Netplay patches")
-            fi
-          fi
-          if [ ${#updates[@]} -eq 1 ]; then
-            commit_msg="chore: Update ${updates[0]}"
-          else
-            commit_msg="chore: Update database"
-            for update in "${updates[@]}"; do
-              commit_msg="$commit_msg"$'\n- '"$update"
-            done
-          fi
-          echo "Committing changes:"
-          git diff --stat --cached
-          git commit -m "$commit_msg"
-          git push
-          echo "Successfully committed and pushed changes"
+          git commit -m "chore: Update Xenia Canary & Netplay patches"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "${GITHUB_REF_NAME}"
 
   update_launchbox_metadata:
     name: Update Launchbox Database Metadata
-    needs: update-database
+    if: |
+      github.event_name == 'workflow_dispatch' ||
+      github.event.schedule == '0 0 * * *'
+    needs: [update-compatibility, update-patches]
     runs-on: windows-latest
 
     steps:
@@ -237,5 +281,8 @@ jobs:
           git config --global user.name "xeniamanager-ci"
           git config --global user.email "214508751+xeniamanager-ci@users.noreply.github.com"
           git add data/metadata/launchbox/
-          git diff --cached --quiet || git commit -m "chore: Update Launchbox Metadata"
-          git push
+          if (-not (git diff --cached --quiet)) {
+            git commit -m "chore: Update Launchbox Metadata"
+            git pull --rebase origin $env:GITHUB_REF_NAME
+            git push origin $env:GITHUB_REF_NAME
+          }
