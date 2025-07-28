@@ -54,6 +54,6 @@ jobs:
           git add data/metadata/launchbox/
           if (-not (git diff --cached --quiet)) {
             git commit -m "chore: Update Launchbox Metadata"
-            git pull --rebase origin feat/launchbox-support
+            git pull --rebase origin main
             git push
           }
