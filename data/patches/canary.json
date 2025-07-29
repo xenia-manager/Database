@@ -754,32 +754,32 @@
   {
     "name": "425607D3 - Turok (TU2).patch.toml",
     "path": "patches/425607D3 - Turok (TU2).patch.toml",
-    "sha": "4c5bd937a251bbd22392a483c749e39d4bba5ed3",
-    "size": 1037,
+    "sha": "895048da8b55921e9a44f82f30c121443aceb6f5",
+    "size": 1215,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/425607D3%20-%20Turok%20(TU2).patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/425607D3%20-%20Turok%20(TU2).patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/4c5bd937a251bbd22392a483c749e39d4bba5ed3",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/895048da8b55921e9a44f82f30c121443aceb6f5",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/425607D3%20-%20Turok%20(TU2).patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/425607D3%20-%20Turok%20(TU2).patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/4c5bd937a251bbd22392a483c749e39d4bba5ed3",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/895048da8b55921e9a44f82f30c121443aceb6f5",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/425607D3%20-%20Turok%20(TU2).patch.toml"
     }
   },
   {
     "name": "425607D3 - Turok.patch.toml",
     "path": "patches/425607D3 - Turok.patch.toml",
-    "sha": "f3247e9dd7aff14d8e6a4e9cfc85a4aa171d2d6b",
-    "size": 1031,
+    "sha": "a42e0a08658f64fa3de233ba4962f957809b2b25",
+    "size": 1209,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/425607D3%20-%20Turok.patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/425607D3%20-%20Turok.patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/f3247e9dd7aff14d8e6a4e9cfc85a4aa171d2d6b",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/a42e0a08658f64fa3de233ba4962f957809b2b25",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/425607D3%20-%20Turok.patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/425607D3%20-%20Turok.patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/f3247e9dd7aff14d8e6a4e9cfc85a4aa171d2d6b",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/a42e0a08658f64fa3de233ba4962f957809b2b25",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/425607D3%20-%20Turok.patch.toml"
     }
   },
@@ -2960,18 +2960,34 @@
     }
   },
   {
+    "name": "4D530A87 - Fable Anniversary (TU5).patch.toml",
+    "path": "patches/4D530A87 - Fable Anniversary (TU5).patch.toml",
+    "sha": "53c6acf9311c49d2233a84657b646418aa5c40c0",
+    "size": 1317,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4D530A87%20-%20Fable%20Anniversary%20(TU5).patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/4D530A87%20-%20Fable%20Anniversary%20(TU5).patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/53c6acf9311c49d2233a84657b646418aa5c40c0",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/4D530A87%20-%20Fable%20Anniversary%20(TU5).patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4D530A87%20-%20Fable%20Anniversary%20(TU5).patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/53c6acf9311c49d2233a84657b646418aa5c40c0",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/4D530A87%20-%20Fable%20Anniversary%20(TU5).patch.toml"
+    }
+  },
+  {
     "name": "4D530A87 - Fable Anniversary.patch.toml",
     "path": "patches/4D530A87 - Fable Anniversary.patch.toml",
-    "sha": "0eff850cd2fc62025cb275c13afef7bdb74c6c5c",
-    "size": 650,
+    "sha": "4b4cd16bc6460221cfd67d443c7af9fa42f1ef59",
+    "size": 1311,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4D530A87%20-%20Fable%20Anniversary.patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/4D530A87%20-%20Fable%20Anniversary.patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/0eff850cd2fc62025cb275c13afef7bdb74c6c5c",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/4b4cd16bc6460221cfd67d443c7af9fa42f1ef59",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/4D530A87%20-%20Fable%20Anniversary.patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4D530A87%20-%20Fable%20Anniversary.patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/0eff850cd2fc62025cb275c13afef7bdb74c6c5c",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/4b4cd16bc6460221cfd67d443c7af9fa42f1ef59",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/4D530A87%20-%20Fable%20Anniversary.patch.toml"
     }
   },
@@ -3890,16 +3906,16 @@
   {
     "name": "545107F8 - Saints Row (Japan).patch.toml",
     "path": "patches/545107F8 - Saints Row (Japan).patch.toml",
-    "sha": "6b4c298ba2c300f9f3af64eb9f7a0a714014ff14",
-    "size": 14115,
+    "sha": "25653aac2b2929d2fc4af142b507ae90953fa129",
+    "size": 14348,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/545107F8%20-%20Saints%20Row%20(Japan).patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/545107F8%20-%20Saints%20Row%20(Japan).patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/6b4c298ba2c300f9f3af64eb9f7a0a714014ff14",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/25653aac2b2929d2fc4af142b507ae90953fa129",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/545107F8%20-%20Saints%20Row%20(Japan).patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/545107F8%20-%20Saints%20Row%20(Japan).patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/6b4c298ba2c300f9f3af64eb9f7a0a714014ff14",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/25653aac2b2929d2fc4af142b507ae90953fa129",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/545107F8%20-%20Saints%20Row%20(Japan).patch.toml"
     }
   },
@@ -4738,16 +4754,16 @@
   {
     "name": "565707D6 - Killer Is Dead.patch.toml",
     "path": "patches/565707D6 - Killer Is Dead.patch.toml",
-    "sha": "91dd53ccab07b0501e5bc0ca0a9b00a6e4afbd46",
-    "size": 583,
+    "sha": "3cb67776188261e0468d10cbbe9fad6971aa50eb",
+    "size": 1146,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/565707D6%20-%20Killer%20Is%20Dead.patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/565707D6%20-%20Killer%20Is%20Dead.patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/91dd53ccab07b0501e5bc0ca0a9b00a6e4afbd46",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/3cb67776188261e0468d10cbbe9fad6971aa50eb",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/565707D6%20-%20Killer%20Is%20Dead.patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/565707D6%20-%20Killer%20Is%20Dead.patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/91dd53ccab07b0501e5bc0ca0a9b00a6e4afbd46",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/3cb67776188261e0468d10cbbe9fad6971aa50eb",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/565707D6%20-%20Killer%20Is%20Dead.patch.toml"
     }
   },
@@ -5570,32 +5586,48 @@
   {
     "name": "584111E8 - State of Decay (TU5).patch.toml",
     "path": "patches/584111E8 - State of Decay (TU5).patch.toml",
-    "sha": "1654097295b8d33d9c3bd0c3490077020bf908e2",
-    "size": 1041,
+    "sha": "3c7866510faa8edc0b472c55eac6e0e72ab4ac40",
+    "size": 1436,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/584111E8%20-%20State%20of%20Decay%20(TU5).patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/584111E8%20-%20State%20of%20Decay%20(TU5).patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/1654097295b8d33d9c3bd0c3490077020bf908e2",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/3c7866510faa8edc0b472c55eac6e0e72ab4ac40",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/584111E8%20-%20State%20of%20Decay%20(TU5).patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/584111E8%20-%20State%20of%20Decay%20(TU5).patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/1654097295b8d33d9c3bd0c3490077020bf908e2",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/3c7866510faa8edc0b472c55eac6e0e72ab4ac40",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/584111E8%20-%20State%20of%20Decay%20(TU5).patch.toml"
+    }
+  },
+  {
+    "name": "584111E8 - State of Decay (TU7).patch.toml",
+    "path": "patches/584111E8 - State of Decay (TU7).patch.toml",
+    "sha": "a9bebf45de774ebdf82d166b718d597c2225e59a",
+    "size": 1061,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/584111E8%20-%20State%20of%20Decay%20(TU7).patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/584111E8%20-%20State%20of%20Decay%20(TU7).patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/a9bebf45de774ebdf82d166b718d597c2225e59a",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/584111E8%20-%20State%20of%20Decay%20(TU7).patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/584111E8%20-%20State%20of%20Decay%20(TU7).patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/a9bebf45de774ebdf82d166b718d597c2225e59a",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/584111E8%20-%20State%20of%20Decay%20(TU7).patch.toml"
     }
   },
   {
     "name": "584111E8 - State of Decay.patch.toml",
     "path": "patches/584111E8 - State of Decay.patch.toml",
-    "sha": "2354d1e112f1a693e5773c0ec765d8fc92f2488e",
-    "size": 660,
+    "sha": "c59fd9e5cfeb4a1a10988c3b4057430d495de659",
+    "size": 1055,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/584111E8%20-%20State%20of%20Decay.patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/584111E8%20-%20State%20of%20Decay.patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/2354d1e112f1a693e5773c0ec765d8fc92f2488e",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/c59fd9e5cfeb4a1a10988c3b4057430d495de659",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/584111E8%20-%20State%20of%20Decay.patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/584111E8%20-%20State%20of%20Decay.patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/2354d1e112f1a693e5773c0ec765d8fc92f2488e",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/c59fd9e5cfeb4a1a10988c3b4057430d495de659",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/584111E8%20-%20State%20of%20Decay.patch.toml"
     }
   },
