@@ -1,11 +1,11 @@
 {
   "Name": "LEGO Pirates of the Caribbean: The Video Game",
   "DatabaseID": "13198",
-  "ReleaseDate": "2011-05-10T00:00:00-07:00",
+  "ReleaseDate": "2011-05-10T00:00:00+00:00",
   "Overview": "Lego Pirates of the Caribbean: The Video Game is a game based on the four popular movies; The Curse of the Black Pearl, Dead Man's Chest, At World's End and On Stranger Tides. This game mixes these movies with the child-friendly Lego style of other Lego games, but for the most part everything is still the same. The player takes control of characters like; Jack Sparrow, Elizabeth and Bootstrap and uses their special abilities to solve the puzzles. Most of the puzzles require the player to build items with Lego-bricks or to open locked doors, aside from the character that are available the player can also take control of animals like a dog or a bird. The story allows the player to choose on of the four movies and a chapter to play, each movie has four chapters.",
-  "CommunityRating": "3.7857142857142856",
+  "CommunityRating": "3.78571428571429",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Traveller's Tales (UK)",
   "Publisher": "Disney Interactive Studios",
   "Artwork": {
@@ -48,17 +48,17 @@
     },
     "Other": [
       {
-        "FileName": "c9fe9012-6abd-448c-b8ca-7ffcc336575b.png",
-        "Type": "Clear Logo",
-        "CRC32": "428451278",
-        "URL": "http://images.launchbox-app.com/c9fe9012-6abd-448c-b8ca-7ffcc336575b.png"
-      },
-      {
         "FileName": "c5e65b28-a2b2-4a38-8fb0-302c1fe9bdf4.png",
         "Type": "Clear Logo",
         "Region": "Spain",
         "CRC32": "4228571954",
         "URL": "http://images.launchbox-app.com/c5e65b28-a2b2-4a38-8fb0-302c1fe9bdf4.png"
+      },
+      {
+        "FileName": "c9fe9012-6abd-448c-b8ca-7ffcc336575b.png",
+        "Type": "Clear Logo",
+        "CRC32": "428451278",
+        "URL": "http://images.launchbox-app.com/c9fe9012-6abd-448c-b8ca-7ffcc336575b.png"
       }
     ]
   }

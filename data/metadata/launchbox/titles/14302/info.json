@@ -1,11 +1,11 @@
 {
   "Name": "Wipeout 3",
   "DatabaseID": "14302",
-  "ReleaseDate": "2012-09-25T00:00:00-07:00",
+  "ReleaseDate": "2012-09-25T00:00:00+00:00",
   "Overview": "Wipeout 3 gets gamers back on their favorite insane obstacle course game show, complete with updated features, even more wacky characters, and all the epic wipeouts players can handle.",
   "CommunityRating": "4.25",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Behaviour Interactive",
   "Publisher": "Activision Publishing",
   "Artwork": {

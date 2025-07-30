@@ -1,9 +1,9 @@
 {
   "Name": "Virtua Striker",
   "DatabaseID": "202240",
-  "ReleaseDate": "2013-02-13T00:00:00-08:00",
+  "ReleaseDate": "2013-02-13T00:00:00+00:00",
   "CommunityRating": "3.7",
-  "Genres": " Sports",
+  "Genres": "Sports",
   "Developer": "Sega",
   "Publisher": "Sega",
   "Artwork": {

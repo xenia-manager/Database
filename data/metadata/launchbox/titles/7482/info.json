@@ -1,13 +1,13 @@
 {
   "Name": "Ghostbusters: The Video Game",
   "DatabaseID": "7482",
-  "ReleaseDate": "2009-06-16T00:00:00-07:00",
+  "ReleaseDate": "2009-06-16T00:00:00+00:00",
   "Overview": "Ghostbusters: The Video Game follows the player's character as a new recruit in the Ghostbusters, a team of parapsychologists who pursue and capture ghosts. The player is equipped with a \"Proton Pack\" and a ghost trap to fight and capture ghosts. The game's plot is set two years after Ghostbusters II, around Thanksgiving in 1991, with the Ghostbusters team training the player's character while investigating paranormal activities in New York.",
   "VideoURL": "https://www.youtube.com/watch?v=udgwgcKorN8",
   "CommunityRating": "4.5",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Ghostbusters:_The_Video_Game",
   "ESRB": "T - Teen",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Terminal Reality",
   "Publisher": "Atari",
   "Artwork": {

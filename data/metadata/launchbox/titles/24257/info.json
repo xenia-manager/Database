@@ -1,13 +1,13 @@
 {
   "Name": "Grand Theft Auto: San Andreas",
   "DatabaseID": "24257",
-  "ReleaseDate": "2014-10-26T00:00:00-07:00",
+  "ReleaseDate": "2014-10-26T00:00:00+00:00",
   "Overview": "Five years ago Carl Johnson escaped from the pressures of life in Los Santos, San Andreas... a city tearing itself apart with gang trouble, drugs and corruption. Where filmstars and millionaires do their best to avoid the dealers and gangbangers. Now, it's the early 90s. Carl's got to go home. His mother has been murdered, his family has fallen apart and his childhood friends are all heading towards disaster. On his return to the neighborhood, a couple of corrupt cops frame him for homicide. CJ is forced on a journey that takes him across the entire state of San Andreas, to save his family and to take control of the streets.",
   "VideoURL": "http://www.youtube.com/watch?v=u_CbHrBbHNQ",
-  "CommunityRating": "3.9782608695652173",
+  "CommunityRating": "3.97826086956522",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_San_Andreas",
   "ESRB": "M - Mature",
-  "Genres": " Sandbox",
+  "Genres": "Sandbox",
   "Developer": "War Drum Studios",
   "Publisher": "Rockstar Games",
   "Artwork": {
@@ -30,18 +30,18 @@
     "Box": {
       "Front": [
         {
-          "FileName": "c5ab14cd-67a4-4317-9ba8-3d47191fa4e9.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
-          "CRC32": "2895952908",
-          "URL": "http://images.launchbox-app.com/c5ab14cd-67a4-4317-9ba8-3d47191fa4e9.jpg"
-        },
-        {
           "FileName": "d42390cc-08a5-449a-9d66-d1ab388626d1.jpg",
           "Type": "Box - Front",
           "Region": "Europe",
           "CRC32": "283366698",
           "URL": "http://images.launchbox-app.com/d42390cc-08a5-449a-9d66-d1ab388626d1.jpg"
+        },
+        {
+          "FileName": "c5ab14cd-67a4-4317-9ba8-3d47191fa4e9.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "2895952908",
+          "URL": "http://images.launchbox-app.com/c5ab14cd-67a4-4317-9ba8-3d47191fa4e9.jpg"
         },
         {
           "FileName": "e397f437-83aa-47c8-b56a-4e34110fb7fd.jpg",

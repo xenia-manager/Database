@@ -1,7 +1,7 @@
 {
   "Name": "DoDonPachi Dai-Ou-Jou Black Label Extra",
   "DatabaseID": "202599",
-  "ReleaseDate": "2010-02-19T00:00:00-08:00",
+  "ReleaseDate": "2010-02-19T00:00:00+00:00",
   "Overview": "DoDonPachi DaiOuJou is the fourth arcade game in Cave's DonPachi series. The history section of DoDonPachi Resurrection on iPhone calls it \"DoDonPachi Blissful Death\" in localisation. CAVE later ported the game to iOS under this localised name.\n\nThe Xbox 360 port includes the original and Black Label editions of the game, as well as online score ranking, replay saving, enhanced graphics, and Xbox Live Marketplace content. There is an Xbox 360 original mode for beginners named the \"X Mode\", where a new Element Doll named Piper is introduced.",
   "CommunityRating": "3.6875",
   "WikipediaURL": "https://en.wikipedia.org/wiki/DoDonPachi_DaiOuJou",
@@ -38,6 +38,15 @@
           "URL": "http://images.launchbox-app.com/5b058fda-a7af-4fc3-bbbf-aaf0bbd2fa04.jpg"
         }
       ]
-    }
+    },
+    "Other": [
+      {
+        "FileName": "r2_3b3b6bac-1b1d-4104-b7a5-737f10e68f3c.png",
+        "Type": "Clear Logo",
+        "Region": "Japan",
+        "CRC32": "710876063",
+        "URL": "http://images.launchbox-app.com/r2_3b3b6bac-1b1d-4104-b7a5-737f10e68f3c.png"
+      }
+    ]
   }
 }

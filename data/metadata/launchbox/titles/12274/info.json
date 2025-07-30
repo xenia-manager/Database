@@ -1,13 +1,13 @@
 {
   "Name": "Adrenalin Misfits",
   "DatabaseID": "12274",
-  "ReleaseDate": "2010-11-04T00:00:00-07:00",
+  "ReleaseDate": "2010-11-04T00:00:00+00:00",
   "Overview": "This game requires a Kinect™ Sensor. A pick-up and play, simple and easy Kinect-only title! Using the latest technology of Kinect, experience total game immersion so you feel like you're actually riding on a real board! You play as a cool monster in Adrenalin Misfits. Race against 7 enemy monsters throughout 7 worlds! Beating enemy monsters allows you to play as them as you progress in the game. Of course, you can use your favorite avatar to ride a board! Winning in a tournament and clearing under various conditions will get you original boards! These new boards will enhance your speed, jumping, and techniques. There is a total of over 50 kinds of boards!",
   "VideoURL": "http://www.youtube.com/watch?v=ajkjeXuY9xU",
   "CommunityRating": "3.3125",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Adrenalin_Misfits",
   "ESRB": "E - Everyone",
-  "Genres": " Racing; Sports",
+  "Genres": "Racing; Sports",
   "Developer": "Konami",
   "Publisher": "Konami Digital Entertainment",
   "Artwork": {
@@ -21,16 +21,16 @@
     ],
     "Background": [
       {
-        "FileName": "1421b43d-ff7f-4d11-8ed9-c851cf2a8328.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "4160819638",
-        "URL": "http://images.launchbox-app.com/1421b43d-ff7f-4d11-8ed9-c851cf2a8328.jpg"
-      },
-      {
         "FileName": "d190dffa-bf12-4cd9-89bb-69c5cfc4655a.jpg",
         "Type": "Fanart - Background",
         "CRC32": "4127489850",
         "URL": "http://images.launchbox-app.com/d190dffa-bf12-4cd9-89bb-69c5cfc4655a.jpg"
+      },
+      {
+        "FileName": "1421b43d-ff7f-4d11-8ed9-c851cf2a8328.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "4160819638",
+        "URL": "http://images.launchbox-app.com/1421b43d-ff7f-4d11-8ed9-c851cf2a8328.jpg"
       }
     ],
     "Box": {
@@ -54,16 +54,16 @@
     ],
     "Screenshots": [
       {
-        "FileName": "f831316d-d5e1-4fa6-8ee3-a611c2fe0759.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "4062809885",
-        "URL": "http://images.launchbox-app.com/f831316d-d5e1-4fa6-8ee3-a611c2fe0759.jpg"
-      },
-      {
         "FileName": "69faa312-fca8-4cdc-8b70-3018979ccc92.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "2835800791",
         "URL": "http://images.launchbox-app.com/69faa312-fca8-4cdc-8b70-3018979ccc92.jpg"
+      },
+      {
+        "FileName": "05c21699-34de-45db-a234-86bfe9231e18.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2112478345",
+        "URL": "http://images.launchbox-app.com/05c21699-34de-45db-a234-86bfe9231e18.jpg"
       },
       {
         "FileName": "418d7d0b-f188-4e74-96c1-a40dcc677749.jpg",
@@ -72,10 +72,10 @@
         "URL": "http://images.launchbox-app.com/418d7d0b-f188-4e74-96c1-a40dcc677749.jpg"
       },
       {
-        "FileName": "05c21699-34de-45db-a234-86bfe9231e18.jpg",
+        "FileName": "f831316d-d5e1-4fa6-8ee3-a611c2fe0759.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "2112478345",
-        "URL": "http://images.launchbox-app.com/05c21699-34de-45db-a234-86bfe9231e18.jpg"
+        "CRC32": "4062809885",
+        "URL": "http://images.launchbox-app.com/f831316d-d5e1-4fa6-8ee3-a611c2fe0759.jpg"
       },
       {
         "FileName": "b0c8124a-8da6-47ae-a59f-5b7c88ed4c28.jpg",

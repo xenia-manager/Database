@@ -1,26 +1,26 @@
 {
   "Name": "Meet the Robinsons",
   "DatabaseID": "166286",
-  "ReleaseDate": "2007-03-29T00:00:00-07:00",
+  "ReleaseDate": "2007-03-29T00:00:00+00:00",
   "Overview": "Meet the Robinsons is based on the animated movie of the same name, but acts as a sequel to it. The player assumes the role of Wilbur Robinsion, who arrives home after a journey through his time machine from ancient Egypt to find that the Bowler Hat Guy has stolen his second time machine, and so he has to go back in time to stop it. Unfortunately, it goes pear shaped and returns to a future where Robinson industries has been taken over by Magma Industries Corporation, run by Emperor Stanley, who is now in the process of waging war on Queen Lizzie and her army of robot ants. The ants then manage to steal the time machine, and Wilbur has to sort all this out.\n\nGameplay involves fighting your way through hordes of enemies to get to and achieve your goals. Along the way, you will come across health upgrades as well as components to build new gadgets such as the charge glove, the dissembler and the havoc glove. Whilst playing the game, the player will also have to complete several mini games in order to proceed. These include one that involves getting bubbles across a course and removing tiles from a wall to access a goal behind the tiles.",
-  "CommunityRating": "4.333333333333333",
+  "CommunityRating": "4.33333333333333",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Avalanche Software",
   "Publisher": "Disney Interactive Studios",
   "Artwork": {
     "Background": [
       {
-        "FileName": "3488eb7c-4a6d-40b5-90d7-669a41dbc53b.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "34300037",
-        "URL": "http://images.launchbox-app.com/3488eb7c-4a6d-40b5-90d7-669a41dbc53b.jpg"
-      },
-      {
         "FileName": "1db25c6d-b2bf-448f-be7d-9447240df0d3.png",
         "Type": "Fanart - Background",
         "CRC32": "3005249104",
         "URL": "http://images.launchbox-app.com/1db25c6d-b2bf-448f-be7d-9447240df0d3.png"
+      },
+      {
+        "FileName": "3488eb7c-4a6d-40b5-90d7-669a41dbc53b.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "34300037",
+        "URL": "http://images.launchbox-app.com/3488eb7c-4a6d-40b5-90d7-669a41dbc53b.jpg"
       }
     ],
     "Box": {

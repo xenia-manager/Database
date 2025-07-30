@@ -1,11 +1,11 @@
 {
   "Name": "Lucha Libre AAA Heroes del Ring",
   "DatabaseID": "13711",
-  "ReleaseDate": "2010-10-12T00:00:00-07:00",
+  "ReleaseDate": "2010-10-12T00:00:00+00:00",
   "Overview": "Lucha Libre AAA: Heroes del Ring is an action sports game based on Mexican sport of 'Lucha Libre' style wrestling. Featuring all of the most popular 'luchadores' from Mexico's premiere wrestling federation, the game offers fans of existing wrestling franchises an evolved and unique gaming experience which is more acrobatic and fast-paced than those of existing wrestling franchises.",
   "CommunityRating": "2.25",
   "ESRB": "T - Teen",
-  "Genres": " Fighting; Sports",
+  "Genres": "Fighting; Sports",
   "Artwork": {
     "Box": {
       "3D": [

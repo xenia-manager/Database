@@ -1,12 +1,12 @@
 {
   "Name": "Blazing Angels 2: Secret Missions of WWII",
   "DatabaseID": "7148",
-  "ReleaseDate": "2007-09-18T00:00:00-07:00",
+  "ReleaseDate": "2007-09-18T00:00:00+00:00",
   "Overview": "Blazing Angels 2: Secret Missions shows World War II from a different perspective - that of an elite pilot who is part of a secret team. In the game, the player undertakes some of the most dangerous missions in exotic locations all over the globe. As an elite pilot, the player goes from one great adventure to another, while battling the most lethal experimental weapons of the Third Reich.",
   "VideoURL": "https://www.youtube.com/watch?v=xQBlIae9608",
-  "CommunityRating": "3.1666666666666665",
+  "CommunityRating": "3.16666666666667",
   "ESRB": "T - Teen",
-  "Genres": " Action; Flight Simulator; Shooter",
+  "Genres": "Action; Flight Simulator; Shooter",
   "Developer": "Ubisoft Romania",
   "Publisher": "Ubisoft",
   "Artwork": {
@@ -75,16 +75,16 @@
     ],
     "Screenshots": [
       {
-        "FileName": "c130c0cc-4320-4325-bf94-b6f319db1faa.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2329501687",
-        "URL": "http://images.launchbox-app.com/c130c0cc-4320-4325-bf94-b6f319db1faa.jpg"
-      },
-      {
         "FileName": "62ecbd34-5441-40c6-bd62-d771dd285d46.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "1923165521",
         "URL": "http://images.launchbox-app.com/62ecbd34-5441-40c6-bd62-d771dd285d46.jpg"
+      },
+      {
+        "FileName": "c130c0cc-4320-4325-bf94-b6f319db1faa.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2329501687",
+        "URL": "http://images.launchbox-app.com/c130c0cc-4320-4325-bf94-b6f319db1faa.jpg"
       }
     ],
     "Other": [

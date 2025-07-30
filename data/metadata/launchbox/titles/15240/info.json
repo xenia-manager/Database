@@ -1,11 +1,11 @@
 {
   "Name": "Heavy Fire: Shattered Spear",
   "DatabaseID": "15240",
-  "ReleaseDate": "2013-01-29T00:00:00-08:00",
+  "ReleaseDate": "2013-01-29T00:00:00+00:00",
   "Overview": "Heavy Fire is a series of on-rails arcade shooter video games developed by Polish video game developer Teyon between 2010 and 2011. The series includes four games: Heavy Fire: Special Operations (2010), Heavy Fire: Black Arms (2011), Heavy Fire: Afghanistan (2011), and Heavy Fire: Shattered Spear (2011).",
   "CommunityRating": "4.25",
   "ESRB": "T - Teen",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "Mastiff",
   "Artwork": {
     "Banner": [
@@ -77,16 +77,10 @@
         "URL": "http://images.launchbox-app.com/c18dcfd3-7cbc-4663-aa59-38ef8ad467fb.jpg"
       },
       {
-        "FileName": "f0f38f1a-fa1f-4411-a2de-56f2831a2a95.jpg",
+        "FileName": "47ec36dc-729c-4659-8002-d89c880f00ba.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "3678183269",
-        "URL": "http://images.launchbox-app.com/f0f38f1a-fa1f-4411-a2de-56f2831a2a95.jpg"
-      },
-      {
-        "FileName": "d19540bf-540d-4c6f-b77b-1d37423c6689.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1026163461",
-        "URL": "http://images.launchbox-app.com/d19540bf-540d-4c6f-b77b-1d37423c6689.jpg"
+        "CRC32": "1249588152",
+        "URL": "http://images.launchbox-app.com/47ec36dc-729c-4659-8002-d89c880f00ba.jpg"
       },
       {
         "FileName": "edf52467-56fb-4866-8861-f37e1855619e.jpg",
@@ -107,16 +101,22 @@
         "URL": "http://images.launchbox-app.com/582f9e36-dcdf-46ca-8cb3-bb9e8b10bb2c.jpg"
       },
       {
-        "FileName": "47ec36dc-729c-4659-8002-d89c880f00ba.jpg",
+        "FileName": "d19540bf-540d-4c6f-b77b-1d37423c6689.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "1249588152",
-        "URL": "http://images.launchbox-app.com/47ec36dc-729c-4659-8002-d89c880f00ba.jpg"
+        "CRC32": "1026163461",
+        "URL": "http://images.launchbox-app.com/d19540bf-540d-4c6f-b77b-1d37423c6689.jpg"
       },
       {
         "FileName": "c6b5faa7-430e-4e99-9336-a7564a599ed2.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "1029084312",
         "URL": "http://images.launchbox-app.com/c6b5faa7-430e-4e99-9336-a7564a599ed2.jpg"
+      },
+      {
+        "FileName": "f0f38f1a-fa1f-4411-a2de-56f2831a2a95.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3678183269",
+        "URL": "http://images.launchbox-app.com/f0f38f1a-fa1f-4411-a2de-56f2831a2a95.jpg"
       }
     ]
   }

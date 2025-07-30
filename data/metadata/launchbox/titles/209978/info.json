@@ -1,10 +1,10 @@
 {
   "Name": "TotemBall",
   "DatabaseID": "209978",
-  "ReleaseDate": "2009-12-18T00:00:00-08:00",
+  "ReleaseDate": "2009-12-18T00:00:00+00:00",
   "Overview": "The Ptolmec tribe needs your help! Guide Pterry the Pturtle through his jungle home. Use your Xbox Live™ Vision camera to navigate across islands, over bridges, and through ancient ruins. Your goal: collect the missing musical totems and bring the music back to the Ptolmec Pinball Party!",
   "ESRB": "E - Everyone",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Strange Flavour",
   "Publisher": "Microsoft Studios",
   "Artwork": {

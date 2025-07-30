@@ -1,12 +1,12 @@
 {
   "Name": "Victorious: Time to Shine",
   "DatabaseID": "13951",
-  "ReleaseDate": "2011-11-15T00:00:00-08:00",
+  "ReleaseDate": "2011-11-15T00:00:00+00:00",
   "Overview": "In Victorious: Time to Shine for the Kinect, players create a Hollywood Arts show where they act, direct, play an air instrument, sing, dance and star in a music video featuring hit songs from the series! Collaborative play amongst friends adds to the fun with up to two players, co-op and competitive, to see how much star power they really have.",
   "VideoURL": "https://www.youtube.com/watch?v=4bn4T1tWNbI",
   "CommunityRating": "1",
   "ESRB": "E - Everyone",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "High Voltage Software",
   "Publisher": "D3Publisher",
   "Artwork": {

@@ -1,23 +1,23 @@
 {
   "Name": "Ninja Gaiden 3: Razor's Edge",
   "DatabaseID": "17134",
-  "ReleaseDate": "2013-04-02T00:00:00-07:00",
+  "ReleaseDate": "2013-04-02T00:00:00+00:00",
   "Overview": "Ninja Gaiden 3: Razor's Edge is an update of Ninja Gaiden 3. It includes all the downloadable content made available on other platforms as well as some new changes. A new playable character is available, Ayane from the Dead or Alive series, with her own story mode chapters. An online co-operative mode has been added where both Ryu and Ayane are playable. The controls make use of the Wii U Game Pad for tasks such as executing Ninpo, as well as displaying the combo chart. The Karma functionality from previous games in the series is reintroduced in this version, allowing players to upgrade weapons, Ninpo, character health and move set. There have been other changes to aspects such as AI, as well as additional weapon and attack types, enemies and battle arenas.",
   "CommunityRating": "4",
   "Genres": null,
   "Artwork": {
     "Background": [
       {
-        "FileName": "22458082-66fa-4005-a233-1e3ce7bf5ee8.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "375658818",
-        "URL": "http://images.launchbox-app.com/22458082-66fa-4005-a233-1e3ce7bf5ee8.jpg"
-      },
-      {
         "FileName": "bbf1dd93-6f02-421b-a1de-7a444337ca68.png",
         "Type": "Fanart - Background",
         "CRC32": "1819062695",
         "URL": "http://images.launchbox-app.com/bbf1dd93-6f02-421b-a1de-7a444337ca68.png"
+      },
+      {
+        "FileName": "22458082-66fa-4005-a233-1e3ce7bf5ee8.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "375658818",
+        "URL": "http://images.launchbox-app.com/22458082-66fa-4005-a233-1e3ce7bf5ee8.jpg"
       }
     ],
     "Box": {

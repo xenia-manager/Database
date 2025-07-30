@@ -1,13 +1,13 @@
 {
   "Name": "Life is Strange",
   "DatabaseID": "25467",
-  "ReleaseDate": "2015-01-30T00:00:00-08:00",
+  "ReleaseDate": "2015-01-30T00:00:00+00:00",
   "Overview": "Life Is Strange is a five part episodic game that sets out to revolutionise story based choice and consequence games by allowing the player to rewind time and affect the past, present and future.",
   "VideoURL": "http://www.youtube.com/watch?v=mpRhaXfvG_0",
-  "CommunityRating": "4.166666666666667",
+  "CommunityRating": "4.16666666666667",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Life_Is_Strange",
   "ESRB": "M - Mature",
-  "Genres": " Adventure",
+  "Genres": "Adventure",
   "Developer": "DONTNOD Entertainment",
   "Publisher": "Square Enix",
   "Artwork": {

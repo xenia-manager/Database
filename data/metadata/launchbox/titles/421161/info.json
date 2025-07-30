@@ -1,9 +1,9 @@
 {
   "Name": "Sonic the Hedgehog (XBLA)",
   "DatabaseID": "421161",
-  "ReleaseDate": "2007-07-11T00:00:00-07:00",
+  "ReleaseDate": "2007-07-11T00:00:00+00:00",
   "CommunityRating": "4",
-  "Genres": " Platform",
+  "Genres": "Platform",
   "Developer": "Backbone Entertainment",
   "Publisher": "Sega",
   "Artwork": {

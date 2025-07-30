@@ -1,11 +1,11 @@
 {
   "Name": "GRID 2",
   "DatabaseID": "17083",
-  "ReleaseDate": "2013-05-28T00:00:00-07:00",
+  "ReleaseDate": "2013-05-28T00:00:00+00:00",
   "Overview": "GRID 2 is a racing game and the sequel to GRID.\n\nThe player is the supposed next star of the up and coming World Series Racing (WSR) League. Players travel the world promoting the new league, attempting to coax other race stars from around the world to join the WSR cause. The player will travel around the world competing in international races in an attempt to gain fans and promote the league. Locations include Dubai, Hong Kong, and Paris, among many other international and United States raceways.\n\nDozens of different types of cars may be chosen, each having a different feel. Races vary from track, to street, to countryside, with each race setting having several unique aspects. The game features several playable modes, including Exhibition, Career, and Multiplayer. In addition, there are several different types of races players can compete in, a few being Time Attack, Drift, Eliminator, and the new LiveTrack race mode, where the race track dynamically changes throughout the race.",
   "CommunityRating": "4.3",
   "ESRB": "E - Everyone",
-  "Genres": " Racing",
+  "Genres": "Racing",
   "Developer": "Codemasters",
   "Publisher": "Codemasters",
   "Artwork": {
@@ -64,18 +64,18 @@
           "URL": "http://images.launchbox-app.com/9d85e292-10f8-41c7-8d25-5c28e9322de8.png"
         },
         {
-          "FileName": "9b9ad142-1582-408f-800d-63b0501695b3.png",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "Europe",
-          "CRC32": "1240089062",
-          "URL": "http://images.launchbox-app.com/9b9ad142-1582-408f-800d-63b0501695b3.png"
-        },
-        {
           "FileName": "20881723-0b1e-4188-8267-e8295e2f3c82.png",
           "Type": "Box - Front - Reconstructed",
           "Region": "North America",
           "CRC32": "3242790090",
           "URL": "http://images.launchbox-app.com/20881723-0b1e-4188-8267-e8295e2f3c82.png"
+        },
+        {
+          "FileName": "9b9ad142-1582-408f-800d-63b0501695b3.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "Europe",
+          "CRC32": "1240089062",
+          "URL": "http://images.launchbox-app.com/9b9ad142-1582-408f-800d-63b0501695b3.png"
         }
       ]
     },

@@ -1,25 +1,13 @@
 {
   "Name": "WWE SmackDown vs. Raw 2009",
   "DatabaseID": "13720",
-  "ReleaseDate": "2008-11-09T00:00:00-08:00",
+  "ReleaseDate": "2008-11-09T00:00:00+00:00",
   "Overview": "WWE SmackDown vs. Raw 2009 upholds the franchise's commitment to delivering the definitive video game simulation of live WWE programming. The Xbox 360, PlayStation 3 system, PlayStation 2 system, and PSP system versions of the game will unleash a brand new tag team experience, allowing players to build momentum and attributes, eliminate opponents with high-impact double teams and finishers, as well as get the \"hot tag\" for the win. The franchise's renowned creation system offers a brand new create-a-finisher option, while a new Road to WrestleMania mode paves the way to WWE's biggest event of the year and lets players experience co-op storylines for the first time.",
-  "CommunityRating": "3.8333333333333335",
+  "CommunityRating": "3.83333333333333",
   "ESRB": "T - Teen",
-  "Genres": " Fighting; Sports",
+  "Genres": "Fighting; Sports",
   "Artwork": {
     "Background": [
-      {
-        "FileName": "d8acfbf6-4bc5-4c7d-bf61-afa6626352eb.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "1169020223",
-        "URL": "http://images.launchbox-app.com/d8acfbf6-4bc5-4c7d-bf61-afa6626352eb.jpg"
-      },
-      {
-        "FileName": "90027a34-7ab2-4e8f-8154-27a8c442f692.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2052543046",
-        "URL": "http://images.launchbox-app.com/90027a34-7ab2-4e8f-8154-27a8c442f692.jpg"
-      },
       {
         "FileName": "b43baea8-e634-4186-9666-60d2e7b5540f.png",
         "Type": "Fanart - Background",
@@ -31,6 +19,18 @@
         "Type": "Fanart - Background",
         "CRC32": "2310891747",
         "URL": "http://images.launchbox-app.com/525a8262-920c-4aec-9100-a7671160ccc6.png"
+      },
+      {
+        "FileName": "90027a34-7ab2-4e8f-8154-27a8c442f692.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2052543046",
+        "URL": "http://images.launchbox-app.com/90027a34-7ab2-4e8f-8154-27a8c442f692.jpg"
+      },
+      {
+        "FileName": "d8acfbf6-4bc5-4c7d-bf61-afa6626352eb.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1169020223",
+        "URL": "http://images.launchbox-app.com/d8acfbf6-4bc5-4c7d-bf61-afa6626352eb.jpg"
       }
     ],
     "Box": {
@@ -80,6 +80,48 @@
     },
     "Screenshots": [
       {
+        "FileName": "37907e8e-04ed-453c-bfff-54b2f96f2784.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3870658763",
+        "URL": "http://images.launchbox-app.com/37907e8e-04ed-453c-bfff-54b2f96f2784.jpg"
+      },
+      {
+        "FileName": "d51dccd1-96a4-4a18-abce-ef47f1779a02.png",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1355359813",
+        "URL": "http://images.launchbox-app.com/d51dccd1-96a4-4a18-abce-ef47f1779a02.png"
+      },
+      {
+        "FileName": "aa3f6f32-2c4d-4c16-916f-3921054e6e9f.png",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3267060774",
+        "URL": "http://images.launchbox-app.com/aa3f6f32-2c4d-4c16-916f-3921054e6e9f.png"
+      },
+      {
+        "FileName": "aacf9d45-89c7-4732-bd31-0a37523b1b50.png",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1595666277",
+        "URL": "http://images.launchbox-app.com/aacf9d45-89c7-4732-bd31-0a37523b1b50.png"
+      },
+      {
+        "FileName": "e67155fe-06e7-4d46-81b5-75109223b131.png",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "345000478",
+        "URL": "http://images.launchbox-app.com/e67155fe-06e7-4d46-81b5-75109223b131.png"
+      },
+      {
+        "FileName": "7c450bb9-db52-45e3-89a4-1082c26f6891.png",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2388848483",
+        "URL": "http://images.launchbox-app.com/7c450bb9-db52-45e3-89a4-1082c26f6891.png"
+      },
+      {
+        "FileName": "06a97e43-1420-45e9-be17-c05e2d7ca7ea.png",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2847129828",
+        "URL": "http://images.launchbox-app.com/06a97e43-1420-45e9-be17-c05e2d7ca7ea.png"
+      },
+      {
         "FileName": "907d8277-f0a2-4cb1-b937-0371c06488e7.png",
         "Type": "Screenshot - Game Select",
         "CRC32": "2443955103",
@@ -90,48 +132,6 @@
         "Type": "Screenshot - Game Title",
         "CRC32": "2784066052",
         "URL": "http://images.launchbox-app.com/091ded61-23fe-4106-b753-b3afb8a796c2.png"
-      },
-      {
-        "FileName": "06a97e43-1420-45e9-be17-c05e2d7ca7ea.png",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2847129828",
-        "URL": "http://images.launchbox-app.com/06a97e43-1420-45e9-be17-c05e2d7ca7ea.png"
-      },
-      {
-        "FileName": "aacf9d45-89c7-4732-bd31-0a37523b1b50.png",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1595666277",
-        "URL": "http://images.launchbox-app.com/aacf9d45-89c7-4732-bd31-0a37523b1b50.png"
-      },
-      {
-        "FileName": "aa3f6f32-2c4d-4c16-916f-3921054e6e9f.png",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3267060774",
-        "URL": "http://images.launchbox-app.com/aa3f6f32-2c4d-4c16-916f-3921054e6e9f.png"
-      },
-      {
-        "FileName": "d51dccd1-96a4-4a18-abce-ef47f1779a02.png",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1355359813",
-        "URL": "http://images.launchbox-app.com/d51dccd1-96a4-4a18-abce-ef47f1779a02.png"
-      },
-      {
-        "FileName": "e67155fe-06e7-4d46-81b5-75109223b131.png",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "345000478",
-        "URL": "http://images.launchbox-app.com/e67155fe-06e7-4d46-81b5-75109223b131.png"
-      },
-      {
-        "FileName": "37907e8e-04ed-453c-bfff-54b2f96f2784.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3870658763",
-        "URL": "http://images.launchbox-app.com/37907e8e-04ed-453c-bfff-54b2f96f2784.jpg"
-      },
-      {
-        "FileName": "7c450bb9-db52-45e3-89a4-1082c26f6891.png",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2388848483",
-        "URL": "http://images.launchbox-app.com/7c450bb9-db52-45e3-89a4-1082c26f6891.png"
       }
     ],
     "Other": [

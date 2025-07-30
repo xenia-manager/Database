@@ -1,13 +1,13 @@
 {
   "Name": "FIFA Soccer 13",
   "DatabaseID": "12596",
-  "ReleaseDate": "2012-09-25T00:00:00-07:00",
+  "ReleaseDate": "2012-09-25T00:00:00+00:00",
   "Overview": "FIFA 13 captures all the drama and unpredictability of real-world soccer, and is driven by five game-changing innovations which revolutionize artificial intelligence, dribbling, ball control and physical play. It is the largest and deepest feature set in the history of the franchise. These innovations create a true battle for possession across the entire pitch, deliver freedom and creativity in attack, and capture all the drama and unpredictability of the real-world game.",
   "VideoURL": "http://www.youtube.com/watch?v=Ia43OgdBHaE",
   "CommunityRating": "1.5",
   "WikipediaURL": "https://en.wikipedia.org/wiki/FIFA_13",
   "ESRB": "E - Everyone",
-  "Genres": " Sports",
+  "Genres": "Sports",
   "Developer": "Electronic Arts Canada",
   "Publisher": "Electronic Arts",
   "Artwork": {
@@ -32,18 +32,18 @@
       ],
       "Front": [
         {
-          "FileName": "ff079275-761e-4df1-bfc6-c930765bee73.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
-          "CRC32": "37362010",
-          "URL": "http://images.launchbox-app.com/ff079275-761e-4df1-bfc6-c930765bee73.jpg"
-        },
-        {
           "FileName": "f0d81972-5fcc-4392-8efd-e137207ff3f5.jpg",
           "Type": "Box - Front",
           "Region": "North America",
           "CRC32": "883660939",
           "URL": "http://images.launchbox-app.com/f0d81972-5fcc-4392-8efd-e137207ff3f5.jpg"
+        },
+        {
+          "FileName": "ff079275-761e-4df1-bfc6-c930765bee73.jpg",
+          "Type": "Box - Front",
+          "Region": "Germany",
+          "CRC32": "37362010",
+          "URL": "http://images.launchbox-app.com/ff079275-761e-4df1-bfc6-c930765bee73.jpg"
         }
       ]
     },

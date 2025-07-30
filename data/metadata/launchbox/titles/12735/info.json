@@ -1,13 +1,13 @@
 {
   "Name": "007: Legends",
   "DatabaseID": "12735",
-  "ReleaseDate": "2012-10-16T00:00:00-07:00",
+  "ReleaseDate": "2012-10-16T00:00:00+00:00",
   "Overview": "Gamers participate in a mix of shooting, stealth, and intrigue as they play through classic scenes starring Daniel Craig's version of fiction's greatest spy in 007 Legends. The action finds players gathering intel, piloting vehicles, using advanced gadgets, and battling familiar villains as they weave through scenes from Goldfinger, On Her Majesty's Secret Service, Moonraker, License to Kill, and Die Another Day. Additionally, a Skyfall mission will be made available as downloadable content post-release.\n\nPlayers can unlock and upgrade a variety of gadgets and weapons, and multiplayer options include four-player local split-screen and 12-player online competitions.",
   "VideoURL": "https://www.youtube.com/watch?v=MxdP9Lvgc8g",
-  "CommunityRating": "3.3529411764705883",
+  "CommunityRating": "3.35294117647059",
   "WikipediaURL": "https://en.wikipedia.org/wiki/007_Legends",
   "ESRB": "T - Teen",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "Eurocom Developments",
   "Publisher": "Activision Publishing",
   "Artwork": {
@@ -60,18 +60,18 @@
           "URL": "http://images.launchbox-app.com/7f0a3978-b2d6-4a2e-831f-a4211447b2f7.jpg"
         },
         {
-          "FileName": "bec29729-8ea5-4056-ba07-1fc7c41bedca.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "1665191088",
-          "URL": "http://images.launchbox-app.com/bec29729-8ea5-4056-ba07-1fc7c41bedca.jpg"
-        },
-        {
           "FileName": "bf4fbaf2-0d4f-47fd-9cdb-b29bbcf40fe6.png",
           "Type": "Box - Front",
           "Region": "Germany",
           "CRC32": "3470873815",
           "URL": "http://images.launchbox-app.com/bf4fbaf2-0d4f-47fd-9cdb-b29bbcf40fe6.png"
+        },
+        {
+          "FileName": "bec29729-8ea5-4056-ba07-1fc7c41bedca.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1665191088",
+          "URL": "http://images.launchbox-app.com/bec29729-8ea5-4056-ba07-1fc7c41bedca.jpg"
         },
         {
           "FileName": "b748e1e4-26fa-4c58-9761-c6f450a35d78.png",
@@ -102,16 +102,16 @@
     ],
     "Screenshots": [
       {
-        "FileName": "90c3b53c-bc73-4241-8350-1b1a057c5b4f.png",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "1346105610",
-        "URL": "http://images.launchbox-app.com/90c3b53c-bc73-4241-8350-1b1a057c5b4f.png"
-      },
-      {
         "FileName": "f9e1ffed-8f1f-4e17-8ec1-73a871873d7e.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "2365627402",
         "URL": "http://images.launchbox-app.com/f9e1ffed-8f1f-4e17-8ec1-73a871873d7e.jpg"
+      },
+      {
+        "FileName": "90c3b53c-bc73-4241-8350-1b1a057c5b4f.png",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "1346105610",
+        "URL": "http://images.launchbox-app.com/90c3b53c-bc73-4241-8350-1b1a057c5b4f.png"
       }
     ],
     "Other": [

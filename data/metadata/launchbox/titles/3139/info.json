@@ -1,13 +1,13 @@
 {
   "Name": "Monsters vs. Aliens",
   "DatabaseID": "3139",
-  "ReleaseDate": "2009-03-24T00:00:00-07:00",
+  "ReleaseDate": "2009-03-24T00:00:00+00:00",
   "Overview": "Monsters vs. Aliens is based on the animated movie of the same name. During the course of the game the player takes control over three characters from the movie which all feature different gameplay elements. Missing Link, a mix between fish and human, has to survive levels which are similar to most licensed games from animated movies: a 3rd person platformer.\n\nThe sections with B.o.B., a slime monster, are more puzzle oriented. He can swallow enemies or items and use them to spit on other enemies. These are also used to press switches and as safety procedure when crossing bars - if B.o.B. had nothing solid in him he would just slip through them. With B.o.B. the player also has to solve mazes and shooting sequences. The last character is Gigantika, a 15 meters high woman. She uses trucks as inline skates and has to avoid obstacles by jumping or mastering quick time events (pressing a displayed button in a limited time).\n\nIn co-op mode the second player takes the role of a Dr. Cockroach and supports the main player with appropriate actions, e.g. shooting. The player can unlock a lot of bonus material, e.g. concept art, deleted scenes (in this case: levels) or audio commentaries.",
   "VideoURL": "https://www.youtube.com/watch?v=vWzllerQHeQ",
   "CommunityRating": "5",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Monsters_vs._Aliens_(video_game)",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Beenox",
   "Publisher": "Activision",
   "Artwork": {
@@ -40,18 +40,18 @@
       ],
       "Front": [
         {
-          "FileName": "af7dc653-8582-429f-a704-9b8915a02661.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "112436109",
-          "URL": "http://images.launchbox-app.com/af7dc653-8582-429f-a704-9b8915a02661.jpg"
-        },
-        {
           "FileName": "35573f6c-8839-4a29-82a7-403b03f03a9b.jpg",
           "Type": "Box - Front",
           "Region": "United Kingdom",
           "CRC32": "3273136932",
           "URL": "http://images.launchbox-app.com/35573f6c-8839-4a29-82a7-403b03f03a9b.jpg"
+        },
+        {
+          "FileName": "af7dc653-8582-429f-a704-9b8915a02661.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "112436109",
+          "URL": "http://images.launchbox-app.com/af7dc653-8582-429f-a704-9b8915a02661.jpg"
         },
         {
           "FileName": "0c81eecd-ece6-430c-95dc-dfc029fed743.png",
@@ -81,18 +81,18 @@
     ],
     "Other": [
       {
-        "FileName": "4b75cd27-3bfe-433e-8988-48437bb1d849.png",
-        "Type": "Clear Logo",
-        "Region": "World",
-        "CRC32": "2771228384",
-        "URL": "http://images.launchbox-app.com/4b75cd27-3bfe-433e-8988-48437bb1d849.png"
-      },
-      {
         "FileName": "78d582a6-a1be-4355-8987-ea5ded1c3379.png",
         "Type": "Clear Logo",
         "Region": "Spain",
         "CRC32": "2127833380",
         "URL": "http://images.launchbox-app.com/78d582a6-a1be-4355-8987-ea5ded1c3379.png"
+      },
+      {
+        "FileName": "4b75cd27-3bfe-433e-8988-48437bb1d849.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "2771228384",
+        "URL": "http://images.launchbox-app.com/4b75cd27-3bfe-433e-8988-48437bb1d849.png"
       }
     ]
   }

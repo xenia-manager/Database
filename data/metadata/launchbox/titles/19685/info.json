@@ -1,11 +1,11 @@
 {
   "Name": "Feeding Frenzy",
   "DatabaseID": "19685",
-  "ReleaseDate": "2006-03-10T00:00:00-08:00",
+  "ReleaseDate": "2006-03-10T00:00:00+00:00",
   "Overview": "Slurp, gulp, and crunch your way all along the Frenzy Coast in Feeding Frenzy! The rules here are simple: Eat anything that's smaller than you and swim clear of everything else. The more you eat, the bigger you get, and the bigger you get, the closer you come to taking on the fearsome Shark King. Starfish bubbles don't help you grow, but they’re an easy way to boost your score. Oysters offer up bonus points in the form of pearls, but be quick or the shell could snap shut with you inside! Nibbling on the tail of a patrolling barracuda is a risky way to earn extra points—he can turn on you in an instant. And the jellyfish - well, it's best to swim clear of them altogether. Did you know that tuna can swim up to 50 miles per hour? Or that a parrot fish can change its gender? Feeding Frenzy includes more than four dozen fascinating fish facts like these - one between each game level.",
-  "CommunityRating": "3.8333333333333335",
+  "CommunityRating": "3.83333333333333",
   "ESRB": "E - Everyone",
-  "Genres": " Puzzle",
+  "Genres": "Puzzle",
   "Developer": "Sprout Games",
   "Artwork": {
     "Arcade": [
@@ -74,22 +74,10 @@
     ],
     "Screenshots": [
       {
-        "FileName": "a13b62f1-63f6-44da-9620-18202fe1531b.jpg",
-        "Type": "Screenshot - Game Select",
-        "CRC32": "1758847109",
-        "URL": "http://images.launchbox-app.com/a13b62f1-63f6-44da-9620-18202fe1531b.jpg"
-      },
-      {
-        "FileName": "0f46198b-345d-4074-9e90-9f8019622d6e.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "1692505548",
-        "URL": "http://images.launchbox-app.com/0f46198b-345d-4074-9e90-9f8019622d6e.jpg"
-      },
-      {
-        "FileName": "688ee14d-de5e-410f-862e-819a81c4bd00.jpg",
+        "FileName": "45461dc6-478f-4f89-9b69-fa2c07131474.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "2320725791",
-        "URL": "http://images.launchbox-app.com/688ee14d-de5e-410f-862e-819a81c4bd00.jpg"
+        "CRC32": "2885461372",
+        "URL": "http://images.launchbox-app.com/45461dc6-478f-4f89-9b69-fa2c07131474.jpg"
       },
       {
         "FileName": "dccd915a-69c7-475a-9af4-39ec1a7d8e1a.jpg",
@@ -110,24 +98,36 @@
         "URL": "http://images.launchbox-app.com/71767ae8-2697-42f0-8ce1-391a484abc28.jpg"
       },
       {
-        "FileName": "45461dc6-478f-4f89-9b69-fa2c07131474.jpg",
+        "FileName": "688ee14d-de5e-410f-862e-819a81c4bd00.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "2885461372",
-        "URL": "http://images.launchbox-app.com/45461dc6-478f-4f89-9b69-fa2c07131474.jpg"
+        "CRC32": "2320725791",
+        "URL": "http://images.launchbox-app.com/688ee14d-de5e-410f-862e-819a81c4bd00.jpg"
+      },
+      {
+        "FileName": "a13b62f1-63f6-44da-9620-18202fe1531b.jpg",
+        "Type": "Screenshot - Game Select",
+        "CRC32": "1758847109",
+        "URL": "http://images.launchbox-app.com/a13b62f1-63f6-44da-9620-18202fe1531b.jpg"
+      },
+      {
+        "FileName": "0f46198b-345d-4074-9e90-9f8019622d6e.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "1692505548",
+        "URL": "http://images.launchbox-app.com/0f46198b-345d-4074-9e90-9f8019622d6e.jpg"
       }
     ],
     "Other": [
-      {
-        "FileName": "659617f5-6481-4fee-8f35-08e8761cd0a1.png",
-        "Type": "Clear Logo",
-        "CRC32": "2029246282",
-        "URL": "http://images.launchbox-app.com/659617f5-6481-4fee-8f35-08e8761cd0a1.png"
-      },
       {
         "FileName": "99c7c736-8f4a-4a57-be10-ad4fc6f677e3.png",
         "Type": "Clear Logo",
         "CRC32": "3779004571",
         "URL": "http://images.launchbox-app.com/99c7c736-8f4a-4a57-be10-ad4fc6f677e3.png"
+      },
+      {
+        "FileName": "659617f5-6481-4fee-8f35-08e8761cd0a1.png",
+        "Type": "Clear Logo",
+        "CRC32": "2029246282",
+        "URL": "http://images.launchbox-app.com/659617f5-6481-4fee-8f35-08e8761cd0a1.png"
       }
     ]
   }

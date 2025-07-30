@@ -1,12 +1,12 @@
 {
   "Name": "FIFA Soccer 07",
   "DatabaseID": "129916",
-  "ReleaseDate": "2006-01-09T00:00:00-08:00",
+  "ReleaseDate": "2006-01-09T00:00:00+00:00",
   "Overview": "FIFA Soccer 07 on the Xbox 360 moves away from the traditional animation-based game engine and now enables raw physics and data to drive the action, creating true-to-life movement and the most advanced visuals seen in a soccer game. Player characteristics are based on brand-new traits and twice the number of attributes, so you won't see two players moving in exactly the same way. Instead they look and behave like the athletes we see gracing the pitch week-in, week-out. Improved fundamental controls that are easy to pick-up-and play but difficult to master and enhanced AI enable you to truly enjoy the virtual recreation of the beautiful game. The ball and players react to your slightest touch with an unprecedented level of responsiveness, giving you complete control. For the first time ever the ball is alive with its own independent physics, resulting in truly unpredictable gameplay. Now any type of pass or shot is possible and goals will feel natural and unique. Using the physics-based and data-driven technology, the FIFA Soccer 07 engine creates a wealth of data that gives you the power to make real tactical decisions when managing your players. FIFA Soccer 07 offers never-before-experienced real-time player analysis. Monitor each player’s performance in the game by viewing complete passing, shooting and defending stats. Detailed feedback pinpoints where the player was located on the pitch and his contribution to the match. Now you can make informed decisions during halftime with the aid of this in-depth match analysis, enabling you to locate problem areas in both attack and defense. Check the areas of possession to make subtle adjustments to your play and spot defensive weaknesses in the opposition. All the shots, assists and goals are marked out so you can see who did the most damage.",
-  "CommunityRating": "3.1666666666666665",
+  "CommunityRating": "3.16666666666667",
   "WikipediaURL": "https://es.wikipedia.org/wiki/FIFA_07",
   "ESRB": "E - Everyone",
-  "Genres": " Sports",
+  "Genres": "Sports",
   "Developer": "Electronic Arts Canada",
   "Publisher": "Electronic Arts",
   "Artwork": {
@@ -21,18 +21,18 @@
       ],
       "Front": [
         {
-          "FileName": "4f6b2708-0a12-4669-a3ba-a18fca9cbe38.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "903305792",
-          "URL": "http://images.launchbox-app.com/4f6b2708-0a12-4669-a3ba-a18fca9cbe38.jpg"
-        },
-        {
           "FileName": "3ba9c471-d1ec-4c6a-ac6c-ef96de83a73a.jpg",
           "Type": "Box - Front",
           "Region": "Europe",
           "CRC32": "358664499",
           "URL": "http://images.launchbox-app.com/3ba9c471-d1ec-4c6a-ac6c-ef96de83a73a.jpg"
+        },
+        {
+          "FileName": "4f6b2708-0a12-4669-a3ba-a18fca9cbe38.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "903305792",
+          "URL": "http://images.launchbox-app.com/4f6b2708-0a12-4669-a3ba-a18fca9cbe38.jpg"
         }
       ]
     },

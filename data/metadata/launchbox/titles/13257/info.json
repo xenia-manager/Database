@@ -1,23 +1,17 @@
 {
   "Name": "Need for Speed: ProStreet",
   "DatabaseID": "13257",
-  "ReleaseDate": "2007-11-15T00:00:00-08:00",
+  "ReleaseDate": "2007-11-15T00:00:00+00:00",
   "Overview": "Need for Speed: ProStreet is the eleventh installment of Electronic Arts' popular racing game series Need for Speed. On May 21, 2007, Electronic Arts published a teaser trailer of ProStreet, and officially announced it ten days later.[3] It was released worldwide in November 2007.[1] ProStreet includes more than 40 cars including a few from American Le Mans Series. ProStreet was the first PlayStation 3 game with DualShock 3 rumble support.\n\nThe demo, featuring two races, one speed challenge and one grip race, appeared on Xbox Live on October 26, 2007, on PlayStation Store on November 1, 2007, and on PC on November 2, 2007. The PC version is the last in the series to use CD-ROMs, which are succeeded by the usage of DVDs for the rest of the series. ProStreet is preceded by Need for Speed: Carbon and is followed by Need for Speed: Undercover.",
   "VideoURL": "http://www.youtube.com/watch?v=3YcFDXp4tD8",
-  "CommunityRating": "3.8214285714285716",
+  "CommunityRating": "3.82142857142857",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Need_for_Speed:_ProStreet",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Racing",
+  "Genres": "Racing",
   "Developer": "Electronic Arts Black Box",
   "Publisher": "Electronic Arts",
   "Artwork": {
     "Background": [
-      {
-        "FileName": "5670a293-3f0b-45fe-ba49-eaaf93e99bed.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "352203267",
-        "URL": "http://images.launchbox-app.com/5670a293-3f0b-45fe-ba49-eaaf93e99bed.jpg"
-      },
       {
         "FileName": "7a9850f0-4eae-47b8-8082-f8476cc0da3b.jpg",
         "Type": "Fanart - Background",
@@ -25,16 +19,22 @@
         "URL": "http://images.launchbox-app.com/7a9850f0-4eae-47b8-8082-f8476cc0da3b.jpg"
       },
       {
-        "FileName": "96170b22-a32d-4d07-871a-6a7e0626089c.jpg",
+        "FileName": "5670a293-3f0b-45fe-ba49-eaaf93e99bed.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1394233337",
-        "URL": "http://images.launchbox-app.com/96170b22-a32d-4d07-871a-6a7e0626089c.jpg"
+        "CRC32": "352203267",
+        "URL": "http://images.launchbox-app.com/5670a293-3f0b-45fe-ba49-eaaf93e99bed.jpg"
       },
       {
         "FileName": "1547c44e-e6fe-4a5a-8ea6-478f455f247a.jpg",
         "Type": "Fanart - Background",
         "CRC32": "1598016655",
         "URL": "http://images.launchbox-app.com/1547c44e-e6fe-4a5a-8ea6-478f455f247a.jpg"
+      },
+      {
+        "FileName": "96170b22-a32d-4d07-871a-6a7e0626089c.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1394233337",
+        "URL": "http://images.launchbox-app.com/96170b22-a32d-4d07-871a-6a7e0626089c.jpg"
       },
       {
         "FileName": "618587fb-cd1e-4670-9051-8fee989c412d.jpg",
@@ -61,18 +61,11 @@
           "URL": "http://images.launchbox-app.com/5451ab94-ac6e-40a6-914e-5672385d6f03.jpg"
         },
         {
-          "FileName": "7585ba3c-2422-45db-b748-3c87e03b8299.jpg",
+          "FileName": "561fabb7-7e01-43c7-ac0f-e099adca8364.jpg",
           "Type": "Box - Back",
-          "Region": "Asia",
-          "CRC32": "1865988244",
-          "URL": "http://images.launchbox-app.com/7585ba3c-2422-45db-b748-3c87e03b8299.jpg"
-        },
-        {
-          "FileName": "4d1e0362-8620-4eb7-bc0f-6cf5ad735f23.jpg",
-          "Type": "Box - Back",
-          "Region": "Spain",
-          "CRC32": "1596008519",
-          "URL": "http://images.launchbox-app.com/4d1e0362-8620-4eb7-bc0f-6cf5ad735f23.jpg"
+          "Region": "Germany",
+          "CRC32": "2754057566",
+          "URL": "http://images.launchbox-app.com/561fabb7-7e01-43c7-ac0f-e099adca8364.jpg"
         },
         {
           "FileName": "587c771d-3ee6-4f86-aa32-d7b8ea508028.jpg",
@@ -82,18 +75,25 @@
           "URL": "http://images.launchbox-app.com/587c771d-3ee6-4f86-aa32-d7b8ea508028.jpg"
         },
         {
-          "FileName": "561fabb7-7e01-43c7-ac0f-e099adca8364.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
-          "CRC32": "2754057566",
-          "URL": "http://images.launchbox-app.com/561fabb7-7e01-43c7-ac0f-e099adca8364.jpg"
-        },
-        {
           "FileName": "483b85eb-679b-4793-b62c-45e34eb0e865.jpg",
           "Type": "Box - Back",
           "Region": "United Kingdom",
           "CRC32": "3815169367",
           "URL": "http://images.launchbox-app.com/483b85eb-679b-4793-b62c-45e34eb0e865.jpg"
+        },
+        {
+          "FileName": "4d1e0362-8620-4eb7-bc0f-6cf5ad735f23.jpg",
+          "Type": "Box - Back",
+          "Region": "Spain",
+          "CRC32": "1596008519",
+          "URL": "http://images.launchbox-app.com/4d1e0362-8620-4eb7-bc0f-6cf5ad735f23.jpg"
+        },
+        {
+          "FileName": "7585ba3c-2422-45db-b748-3c87e03b8299.jpg",
+          "Type": "Box - Back",
+          "Region": "Asia",
+          "CRC32": "1865988244",
+          "URL": "http://images.launchbox-app.com/7585ba3c-2422-45db-b748-3c87e03b8299.jpg"
         }
       ],
       "Front": [
@@ -105,18 +105,18 @@
           "URL": "http://images.launchbox-app.com/b376b32a-8ebe-44df-af7c-a8c2f8100c1d.jpg"
         },
         {
-          "FileName": "4e0120e6-41b0-4dee-b163-d0ba27e0ddc8.jpg",
-          "Type": "Box - Front",
-          "Region": "Asia",
-          "CRC32": "1342492720",
-          "URL": "http://images.launchbox-app.com/4e0120e6-41b0-4dee-b163-d0ba27e0ddc8.jpg"
-        },
-        {
           "FileName": "0954d68e-d1f7-4494-ac7d-778919a7d685.jpg",
           "Type": "Box - Front",
           "Region": "Europe",
           "CRC32": "2932286464",
           "URL": "http://images.launchbox-app.com/0954d68e-d1f7-4494-ac7d-778919a7d685.jpg"
+        },
+        {
+          "FileName": "4e0120e6-41b0-4dee-b163-d0ba27e0ddc8.jpg",
+          "Type": "Box - Front",
+          "Region": "Asia",
+          "CRC32": "1342492720",
+          "URL": "http://images.launchbox-app.com/4e0120e6-41b0-4dee-b163-d0ba27e0ddc8.jpg"
         },
         {
           "FileName": "d8a41695-5d43-4e75-b91a-6a36e54a9a35.jpg",

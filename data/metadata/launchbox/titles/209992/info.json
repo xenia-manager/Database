@@ -1,11 +1,11 @@
 {
   "Name": "Word Puzzle",
   "DatabaseID": "209992",
-  "ReleaseDate": "2009-12-16T00:00:00-08:00",
+  "ReleaseDate": "2009-12-16T00:00:00+00:00",
   "Overview": "Ready for the real thing? Purchase the full version of Word Puzzle now to unlock all the features, levels, stages and puzzles in all four game modes. You’ll get unlimited play, leaderboard scoring, achievements and more!",
   "CommunityRating": "3.75",
   "ESRB": "E - Everyone",
-  "Genres": " Puzzle",
+  "Genres": "Puzzle",
   "Developer": "InterServ International",
   "Publisher": "Microsoft Studios",
   "Artwork": {

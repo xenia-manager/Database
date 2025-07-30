@@ -1,13 +1,13 @@
 {
   "Name": "Dance Central 2",
   "DatabaseID": "10638",
-  "ReleaseDate": "2011-10-25T00:00:00-07:00",
+  "ReleaseDate": "2011-10-25T00:00:00+00:00",
   "Overview": "The core gameplay in Dance Central 2 is mostly identical to the original Dance Central. Players perform given dance moves, which are tracked by the Kinect. The more accurately the player performs the move, the more points he/she scores. Higher difficulties increase move complexity, and the margin for error is reduced.\nFeatures new to Dance Central 2 include voice control, simultaneous two player gameplay in both cooperative and competitive modes with drop in/drop out functionality, an improved fitness mode, a more in-depth and customizable \"Break it Down\" mode, allowing the player to practice only specific moves in a routine, and a campaign mode featuring dance crews of various styles.",
   "VideoURL": "https://www.youtube.com/watch?v=kuwB05ASh7E",
   "CommunityRating": "3",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Dance_Central_2",
   "ESRB": "T - Teen",
-  "Genres": " Music",
+  "Genres": "Music",
   "Developer": "Harmonix",
   "Publisher": "Microsoft Studios",
   "Artwork": {
@@ -23,18 +23,18 @@
       ],
       "Front": [
         {
-          "FileName": "76309c6c-b44e-4b8d-a2ad-e9bd85c1fedb.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "862077573",
-          "URL": "http://images.launchbox-app.com/76309c6c-b44e-4b8d-a2ad-e9bd85c1fedb.jpg"
-        },
-        {
           "FileName": "r2_e4845a39-eb2d-456f-89a9-afd630f5f9cf.jpg",
           "Type": "Box - Front",
           "Region": "Europe",
           "CRC32": "4096448136",
           "URL": "http://images.launchbox-app.com/r2_e4845a39-eb2d-456f-89a9-afd630f5f9cf.jpg"
+        },
+        {
+          "FileName": "76309c6c-b44e-4b8d-a2ad-e9bd85c1fedb.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "862077573",
+          "URL": "http://images.launchbox-app.com/76309c6c-b44e-4b8d-a2ad-e9bd85c1fedb.jpg"
         }
       ]
     },

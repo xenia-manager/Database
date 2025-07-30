@@ -1,11 +1,11 @@
 {
   "Name": "Bust-A-Move Live!",
   "DatabaseID": "209806",
-  "ReleaseDate": "2009-12-23T00:00:00-08:00",
+  "ReleaseDate": "2009-12-23T00:00:00+00:00",
   "Overview": "Bust-A-Move returns, with its original gameplay still intact: Fire bubbles at the bubble clusters on each stage to destroy them!",
-  "CommunityRating": "3.6666666666666665",
+  "CommunityRating": "3.66666666666667",
   "ESRB": "E - Everyone",
-  "Genres": " Puzzle",
+  "Genres": "Puzzle",
   "Developer": "Taito",
   "Publisher": "Taito",
   "Artwork": {

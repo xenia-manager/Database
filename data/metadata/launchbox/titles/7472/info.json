@@ -1,13 +1,13 @@
 {
   "Name": "Eragon",
   "DatabaseID": "7472",
-  "ReleaseDate": "2006-11-14T00:00:00-08:00",
+  "ReleaseDate": "2006-11-14T00:00:00+00:00",
   "Overview": "Eragon is a third-person video game released for the PC, PlayStation 2, Xbox, and Microsoft Windows, developed by Stormfront Studios. Also released are unique versions of Eragon for the Game Boy Advance, Nintendo DS, PSP, and mobile phone handheld gaming systems, primarily developed by Amaze Entertainment.[1]\n\nThe game is based upon the Eragon film, which is in turn loosely based on the book Eragon, by Christopher Paolini. The games were released on November 14, 2006 in the United States of America, on November 24, 2006 in European[2] and on November 23, 2006 in Australia[3] in order to coincide with the release of the film. In the game the player takes on the role of the protagonist from the book and film, Eragon, and occasionally controls his dragon Saphira.\n\nThe game was generally received poorly by critics, usually receiving press averages around the 4-6 out of 10 region (or the equivalent).[4][5] The combined sales in North America were over 400,000 copies.[6]",
   "VideoURL": "https://www.youtube.com/watch?v=5AgVGPba6SA",
   "CommunityRating": "2",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Eragon_(video_game)",
   "ESRB": "T - Teen",
-  "Genres": " Action; Adventure",
+  "Genres": "Action; Adventure",
   "Developer": "Stormfront Studios",
   "Publisher": "Vivendi Games",
   "Artwork": {
@@ -21,10 +21,10 @@
     ],
     "Background": [
       {
-        "FileName": "0ff9bac9-fc10-40de-9ca7-2667a28f4d21.jpg",
+        "FileName": "c5f6d77e-f34a-47d6-a5ad-2eda75826698.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3344121384",
-        "URL": "http://images.launchbox-app.com/0ff9bac9-fc10-40de-9ca7-2667a28f4d21.jpg"
+        "CRC32": "2046935539",
+        "URL": "http://images.launchbox-app.com/c5f6d77e-f34a-47d6-a5ad-2eda75826698.jpg"
       },
       {
         "FileName": "db07117b-1741-40ff-92ad-fb53b7051160.jpg",
@@ -33,10 +33,10 @@
         "URL": "http://images.launchbox-app.com/db07117b-1741-40ff-92ad-fb53b7051160.jpg"
       },
       {
-        "FileName": "c5f6d77e-f34a-47d6-a5ad-2eda75826698.jpg",
+        "FileName": "0ff9bac9-fc10-40de-9ca7-2667a28f4d21.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2046935539",
-        "URL": "http://images.launchbox-app.com/c5f6d77e-f34a-47d6-a5ad-2eda75826698.jpg"
+        "CRC32": "3344121384",
+        "URL": "http://images.launchbox-app.com/0ff9bac9-fc10-40de-9ca7-2667a28f4d21.jpg"
       }
     ],
     "Box": {

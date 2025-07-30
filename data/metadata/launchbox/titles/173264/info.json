@@ -1,11 +1,11 @@
 {
   "Name": "Phineas and Ferb: Quest for Cool Stuff",
   "DatabaseID": "173264",
-  "ReleaseDate": "2013-08-12T00:00:00-07:00",
+  "ReleaseDate": "2013-08-12T00:00:00+00:00",
   "Overview": "Phineas and Ferb: Quest for Cool Stuff is a 3D action-adventure game based on the Phineas and Ferb Disney XD cartoon series. In the last week of the summer vacation Phineas and Ferb decide to open up a museum and are off to find cool stuff to exhibit.\n\nIn this single player side scrolling platformer you play as Perry, Phineas and Ferb and have to collect all kinds of stuff. First you have to build a walking robot that Phineas and Ferb can operate. The robot has tools to drill through walls and can be used as a submarine. Along the way enemies have to be defeated and your robots paint job is customizable.",
   "CommunityRating": "2.5",
   "ESRB": "E - Everyone",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Behaviour Interactive",
   "Publisher": "Majesco Entertainment",
   "Artwork": {
@@ -30,18 +30,18 @@
     },
     "Disc": [
       {
-        "FileName": "7c70e875-c9e6-44cd-aa05-550f9fc603dd.jpg",
-        "Type": "Disc",
-        "Region": "United States",
-        "CRC32": "264536079",
-        "URL": "http://images.launchbox-app.com/7c70e875-c9e6-44cd-aa05-550f9fc603dd.jpg"
-      },
-      {
         "FileName": "e1f4ac34-9610-4870-99dd-15dc1099476c.jpg",
         "Type": "Disc",
         "Region": "North America",
         "CRC32": "264536079",
         "URL": "http://images.launchbox-app.com/e1f4ac34-9610-4870-99dd-15dc1099476c.jpg"
+      },
+      {
+        "FileName": "7c70e875-c9e6-44cd-aa05-550f9fc603dd.jpg",
+        "Type": "Disc",
+        "Region": "United States",
+        "CRC32": "264536079",
+        "URL": "http://images.launchbox-app.com/7c70e875-c9e6-44cd-aa05-550f9fc603dd.jpg"
       }
     ],
     "Other": [

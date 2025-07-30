@@ -1,33 +1,21 @@
 {
   "Name": "Dark Souls",
   "DatabaseID": "7752",
-  "ReleaseDate": "2011-10-04T00:00:00-07:00",
+  "ReleaseDate": "2011-10-04T00:00:00+00:00",
   "Overview": "Dark Souls is a brand new dark fantasy RPG designed to completely embrace the concepts of tension in dungeon exploration, fear in encountering enemies, the joy of new discoveries, and a high sense of achievement in progressing. The game is set in a dark fantasy world filled with decadent atmosphere, with a heavy emphasis on player freedom in discovering various tactics and strategies to use in weapon based combat.",
   "VideoURL": "http://www.youtube.com/watch?v=eF61dmgmvlk",
-  "CommunityRating": "4.2368421052631575",
+  "CommunityRating": "4.23684210526316",
   "ESRB": "M - Mature",
-  "Genres": " Role-Playing",
+  "Genres": "Role-Playing",
   "Developer": "FromSoftware",
   "Publisher": "Namco Bandai",
   "Artwork": {
     "Background": [
       {
-        "FileName": "d54ff558-1b8c-4585-8b1e-857137656bdd.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "1925611915",
-        "URL": "http://images.launchbox-app.com/d54ff558-1b8c-4585-8b1e-857137656bdd.jpg"
-      },
-      {
         "FileName": "f6414946-fba3-4240-b4b1-7b57599e088e.jpg",
         "Type": "Fanart - Background",
         "CRC32": "165642605",
         "URL": "http://images.launchbox-app.com/f6414946-fba3-4240-b4b1-7b57599e088e.jpg"
-      },
-      {
-        "FileName": "3e8895b9-3196-4cef-9ba0-abd580706b52.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "3962130838",
-        "URL": "http://images.launchbox-app.com/3e8895b9-3196-4cef-9ba0-abd580706b52.jpg"
       },
       {
         "FileName": "7cf0c523-a73f-427f-a945-9d1256a99b5f.jpg",
@@ -36,10 +24,22 @@
         "URL": "http://images.launchbox-app.com/7cf0c523-a73f-427f-a945-9d1256a99b5f.jpg"
       },
       {
+        "FileName": "d54ff558-1b8c-4585-8b1e-857137656bdd.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1925611915",
+        "URL": "http://images.launchbox-app.com/d54ff558-1b8c-4585-8b1e-857137656bdd.jpg"
+      },
+      {
         "FileName": "024263f6-e922-4157-88db-e4603f0d54d6.jpg",
         "Type": "Fanart - Background",
         "CRC32": "202791345",
         "URL": "http://images.launchbox-app.com/024263f6-e922-4157-88db-e4603f0d54d6.jpg"
+      },
+      {
+        "FileName": "3e8895b9-3196-4cef-9ba0-abd580706b52.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3962130838",
+        "URL": "http://images.launchbox-app.com/3e8895b9-3196-4cef-9ba0-abd580706b52.jpg"
       }
     ],
     "Box": {
@@ -61,18 +61,18 @@
       ],
       "Back": [
         {
-          "FileName": "d68c3928-bf41-4e87-89fa-02eb5056895d.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
-          "CRC32": "246536139",
-          "URL": "http://images.launchbox-app.com/d68c3928-bf41-4e87-89fa-02eb5056895d.jpg"
-        },
-        {
           "FileName": "b7c379fc-dd8d-44e0-bec7-7fa421b7c093.jpg",
           "Type": "Box - Back",
           "Region": "North America",
           "CRC32": "175827150",
           "URL": "http://images.launchbox-app.com/b7c379fc-dd8d-44e0-bec7-7fa421b7c093.jpg"
+        },
+        {
+          "FileName": "d68c3928-bf41-4e87-89fa-02eb5056895d.jpg",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "246536139",
+          "URL": "http://images.launchbox-app.com/d68c3928-bf41-4e87-89fa-02eb5056895d.jpg"
         }
       ],
       "Front": [

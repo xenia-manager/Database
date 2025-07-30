@@ -1,30 +1,30 @@
 {
   "Name": "Crysis 3",
   "DatabaseID": "15067",
-  "ReleaseDate": "2013-02-19T00:00:00-08:00",
+  "ReleaseDate": "2013-02-19T00:00:00+00:00",
   "Overview": "Crysis 3 is a First-Person Shooter set within a frightening future New York City. The game is a sequel to the 2011 release, Crysis 2, continuing an unfolding adventure revolving around the symbiotic relationship between the wearer of the game's iconic nanosuit, the current protagonist, and the memories of an earlier protagonist stored within the suit. Game features include sandbox shooter gameplay that allows players to choose their path, an upgradable nanosuit, expanded multiplayer options, an explosive arsenal of weapons, and improved graphics provided by the CryENGINE game engine. \n\nIn the wake of the alien invasion, New York lies covered by a giant nanodome. Hidden from the rest of the world a secretive military faction has set up shop in the ruins of the city. What do they want? Who are they? What have they found? Uncover their true motives and bring them down from the inside out. \n\nThe award-winning developer Crytek is back with Crysis 3, the first blockbuster shooter of 2013. Return to the fight as Prophet, the Nanosuit soldier on a quest to rediscover his humanity and exact brutal revenge. Adapt on the fly with the stealth and armor abilities of your unique Nanosuit as you battle through the seven wonders of New York's Liberty Dome. Unleash the firepower of your all-new, high-tech bow and alien weaponry to hunt both human and alien enemies. And uncover the truth behind the death of your squad while reestablishing the power of human will in a rich story full of exciting twists and turns. Crysis 3 is the ultimate sandbox shooter, realized in the stunning visuals only Crytek and the latest version of CryENGINE can deliver. Now, prepare to assess, adapt, and attack.",
   "VideoURL": "http://www.youtube.com/watch?v=8PdGUZauShA",
-  "CommunityRating": "3.9166666666666665",
+  "CommunityRating": "3.91666666666667",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Crysis_3",
   "ESRB": "M - Mature",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "Crytek",
   "Publisher": "Electronic Arts",
   "Artwork": {
     "Banner": [
-      {
-        "FileName": "adbe45c2-2445-48f9-9767-ecb35701ecbb.png",
-        "Type": "Banner",
-        "Region": "United Kingdom",
-        "CRC32": "4106057077",
-        "URL": "http://images.launchbox-app.com/adbe45c2-2445-48f9-9767-ecb35701ecbb.png"
-      },
       {
         "FileName": "a1848c71-3f74-4df1-b36c-aa6982f6e864.jpg",
         "Type": "Banner",
         "Region": "Europe",
         "CRC32": "363484395",
         "URL": "http://images.launchbox-app.com/a1848c71-3f74-4df1-b36c-aa6982f6e864.jpg"
+      },
+      {
+        "FileName": "adbe45c2-2445-48f9-9767-ecb35701ecbb.png",
+        "Type": "Banner",
+        "Region": "United Kingdom",
+        "CRC32": "4106057077",
+        "URL": "http://images.launchbox-app.com/adbe45c2-2445-48f9-9767-ecb35701ecbb.png"
       }
     ],
     "Background": [
@@ -63,11 +63,11 @@
       ],
       "Front": [
         {
-          "FileName": "61240960-3b1e-45b2-a88c-4713c387e4f1.png",
+          "FileName": "d8faa806-09f2-4a23-a555-9f18a44c8a97.png",
           "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "1096027049",
-          "URL": "http://images.launchbox-app.com/61240960-3b1e-45b2-a88c-4713c387e4f1.png"
+          "Region": "United Kingdom",
+          "CRC32": "3598790106",
+          "URL": "http://images.launchbox-app.com/d8faa806-09f2-4a23-a555-9f18a44c8a97.png"
         },
         {
           "FileName": "75435d86-1245-4be6-b150-ae232e61cf27.jpg",
@@ -77,11 +77,11 @@
           "URL": "http://images.launchbox-app.com/75435d86-1245-4be6-b150-ae232e61cf27.jpg"
         },
         {
-          "FileName": "d8faa806-09f2-4a23-a555-9f18a44c8a97.png",
+          "FileName": "61240960-3b1e-45b2-a88c-4713c387e4f1.png",
           "Type": "Box - Front",
-          "Region": "United Kingdom",
-          "CRC32": "3598790106",
-          "URL": "http://images.launchbox-app.com/d8faa806-09f2-4a23-a555-9f18a44c8a97.png"
+          "Region": "North America",
+          "CRC32": "1096027049",
+          "URL": "http://images.launchbox-app.com/61240960-3b1e-45b2-a88c-4713c387e4f1.png"
         },
         {
           "FileName": "b1c06fdf-1157-469a-b88e-214948dabb27.jpg",

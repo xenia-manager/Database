@@ -1,13 +1,13 @@
 {
   "Name": "Silent Hill: Downpour",
   "DatabaseID": "3907",
-  "ReleaseDate": "2012-03-13T00:00:00-07:00",
+  "ReleaseDate": "2012-03-13T00:00:00+00:00",
   "Overview": "Murphy Pendleton makes his way into the sleepy town of Silent Hill where mysterious locals welcome him into a slowly developing personal hell.\n\nStaying true to the franchise's original roots, this eighth installment of the Silent Hill franchise returns with an all new thought-provoking horror storyline. Players will once again find themselves face to face with their deepest sins and fears in the strange world of Silent Hill.\n\nThe survival horror experience begins after a prison transport vehicle careens off the road, leaving lone inmate Murphy Pendleton stranded in Silent Hill. Gamers will encounter mind-bending puzzles, as well as horrific creatures and other world terrors using everyday objects from wooden chairs to glass bottles to fend off their enemies. The natural response, fight or flight is left to the player as they unravel a dark, thought-provoking storyline which will appeal to fans of the early, classic Silent Hill series, as well as anyone who enjoys a deep, psychological horror experience. In addition to the main storyline, players will also be presented with variable side quests along the way that can change depending on their play style, revealing unknown evils within the town.",
   "VideoURL": "http://www.youtube.com/watch?v=OLruIB8fZpY",
-  "CommunityRating": "3.2727272727272729",
+  "CommunityRating": "3.27272727272727",
   "WikipediaURL": "https://www.wikipedia.org/wiki/Silent_Hill:_Downpour",
   "ESRB": "M - Mature",
-  "Genres": " Adventure; Horror",
+  "Genres": "Adventure; Horror",
   "Developer": "Vatra",
   "Publisher": "Konami",
   "Artwork": {
@@ -52,18 +52,18 @@
       ],
       "Front": [
         {
-          "FileName": "2e68536a-1599-41e2-be77-bb9622d403fb.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "1360177474",
-          "URL": "http://images.launchbox-app.com/2e68536a-1599-41e2-be77-bb9622d403fb.jpg"
-        },
-        {
           "FileName": "606d671c-3d29-457a-b15b-640ff4d0c78d.jpg",
           "Type": "Box - Front",
           "Region": "North America",
           "CRC32": "3899322728",
           "URL": "http://images.launchbox-app.com/606d671c-3d29-457a-b15b-640ff4d0c78d.jpg"
+        },
+        {
+          "FileName": "2e68536a-1599-41e2-be77-bb9622d403fb.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "1360177474",
+          "URL": "http://images.launchbox-app.com/2e68536a-1599-41e2-be77-bb9622d403fb.jpg"
         },
         {
           "FileName": "cefdabaa-1f8f-41ac-8d82-26bb0eaa9bd2.png",

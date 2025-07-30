@@ -1,13 +1,13 @@
 {
   "Name": "Shadows of the Damned",
   "DatabaseID": "3904",
-  "ReleaseDate": "2011-06-21T00:00:00-07:00",
+  "ReleaseDate": "2011-06-21T00:00:00+00:00",
   "Overview": "Shadows of the Damned is an action video game developed by Grasshopper Manufacture and published by Electronic Arts for the PlayStation 3 and Xbox 360 video game consoles. The game follows the story of Garcia Hotspur, a Mexican demon hunter who goes to the City of the Damned to battle its evils in order to save his true love. The game is the result of collaboration between Goichi Suda and Shinji Mikami, and combined the styles of the two designers, namely the \"punk rock\" edge of the former and the \"psychological action thriller\" of the latter.",
   "VideoURL": "https://www.youtube.com/watch?v=aEoJsJGU3jM",
-  "CommunityRating": "3.9666666666666668",
+  "CommunityRating": "3.96666666666667",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Shadows_of_the_Damned",
   "ESRB": "M - Mature",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "Grasshopper Manufacture",
   "Publisher": "Electronic Arts",
   "Artwork": {
@@ -61,18 +61,18 @@
           "URL": "http://images.launchbox-app.com/8b467f0b-6cf5-4d1e-8997-e29222f1115e.jpg"
         },
         {
-          "FileName": "cf30b66f-3fb1-48ab-86e8-744cc655c023.jpg",
-          "Type": "Box - Front",
-          "Region": "Italy",
-          "CRC32": "2898810653",
-          "URL": "http://images.launchbox-app.com/cf30b66f-3fb1-48ab-86e8-744cc655c023.jpg"
-        },
-        {
           "FileName": "823e79a0-deaa-4666-84ed-dbf730f031bb.jpg",
           "Type": "Box - Front",
           "Region": "United Kingdom",
           "CRC32": "1968910731",
           "URL": "http://images.launchbox-app.com/823e79a0-deaa-4666-84ed-dbf730f031bb.jpg"
+        },
+        {
+          "FileName": "cf30b66f-3fb1-48ab-86e8-744cc655c023.jpg",
+          "Type": "Box - Front",
+          "Region": "Italy",
+          "CRC32": "2898810653",
+          "URL": "http://images.launchbox-app.com/cf30b66f-3fb1-48ab-86e8-744cc655c023.jpg"
         },
         {
           "FileName": "0733b362-9fca-4372-b079-c014b82e0128.jpg",

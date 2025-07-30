@@ -1,11 +1,11 @@
 {
   "Name": "Warlords",
   "DatabaseID": "209101",
-  "ReleaseDate": "2008-05-28T00:00:00-07:00",
+  "ReleaseDate": "2008-05-28T00:00:00+00:00",
   "Overview": "A multiplayer classic that resurrects the competitive spirit of arcade games from years gone by. Knock out the other kings in their castles while keeping yourself protected at the same time. Up to four players can join the action with the game taking control of any vacant castles allowing for a variety of single- or multiplayer experiences. The Evo mode even allows players to import their own pictures to their castles!",
   "CommunityRating": "4",
   "ESRB": "E - Everyone",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Stainless Games",
   "Publisher": "Atari",
   "Artwork": {

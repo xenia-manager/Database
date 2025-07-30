@@ -1,12 +1,12 @@
 {
   "Name": "Ultimate Marvel Vs. Capcom 3",
   "DatabaseID": "13468",
-  "ReleaseDate": "2011-11-15T00:00:00-08:00",
+  "ReleaseDate": "2011-11-15T00:00:00+00:00",
   "Overview": "Ultimate Marvel vs. Capcom 3 (Japanese: アルティメット マーヴル VS. カプコン3 Hepburn: Arutimetto Māvuru bāsasu Kapukon Surī?) is a crossover fighting game developed by Capcom in collaboration with Eighting. It is an updated version of Marvel vs. Capcom 3: Fate of Two Worlds. The game features characters from both Capcom's video game franchises and comic book series published by Marvel Comics. The game was released in November 2011 for the PlayStation 3 and Xbox 360, and was featured as a launch title for the PlayStation Vita in 2012.\n\nIn Ultimate Marvel vs. Capcom 3, players select a team of three characters to engage in combat and attempt to knock out their opponents. As an update, the game utilizes largely identical gameplay mechanics to the original. However, both the aerial combat and X-Factor systems, introduced in Fate of Two Worlds, have received adjustments. In addition to gameplay modifications and new playable characters, the game features several aesthetic changes.\n\nAfter the events of the 2011 Tōhoku earthquake and tsunami disrupted the development schedule for downloadable content for Fate of Two Worlds, the additional content was created into a standalone title, Ultimate Marvel vs. Capcom 3, for a discounted retail price. The game received generally positive reviews upon release; critics praised the expanded character roster and improved online experience, but criticized the lack of new features and game modes.",
   "VideoURL": "http://www.youtube.com/watch?v=I9OqbiRLaho",
-  "CommunityRating": "3.9722222222222223",
+  "CommunityRating": "3.97222222222222",
   "ESRB": "T - Teen",
-  "Genres": " Action; Fighting",
+  "Genres": "Action; Fighting",
   "Developer": "Capcom",
   "Publisher": "Capcom",
   "Artwork": {
@@ -21,18 +21,6 @@
     ],
     "Background": [
       {
-        "FileName": "87786559-6c92-44fb-b676-931728323089.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "647807249",
-        "URL": "http://images.launchbox-app.com/87786559-6c92-44fb-b676-931728323089.jpg"
-      },
-      {
-        "FileName": "93a4efb8-bc19-417f-b383-fcb7652360e7.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "3308015473",
-        "URL": "http://images.launchbox-app.com/93a4efb8-bc19-417f-b383-fcb7652360e7.jpg"
-      },
-      {
         "FileName": "82626152-14b5-4a84-8b3e-4ddffcbc4a4f.png",
         "Type": "Fanart - Background",
         "CRC32": "2998540325",
@@ -45,10 +33,16 @@
         "URL": "http://images.launchbox-app.com/37d516ba-67fb-446f-9896-0f1c46ab41af.jpg"
       },
       {
-        "FileName": "a608549f-6707-4bd7-bbcf-467ff3ed98c0.jpg",
+        "FileName": "9d6ace64-0120-47ec-ba5a-5d46d59d6477.png",
         "Type": "Fanart - Background",
-        "CRC32": "3352498313",
-        "URL": "http://images.launchbox-app.com/a608549f-6707-4bd7-bbcf-467ff3ed98c0.jpg"
+        "CRC32": "2152968395",
+        "URL": "http://images.launchbox-app.com/9d6ace64-0120-47ec-ba5a-5d46d59d6477.png"
+      },
+      {
+        "FileName": "ee4e97f0-3899-4c78-ae7a-6e426fc37913.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2832127410",
+        "URL": "http://images.launchbox-app.com/ee4e97f0-3899-4c78-ae7a-6e426fc37913.jpg"
       },
       {
         "FileName": "4bbaff1a-cf98-47b8-872a-c133a2335c59.jpg",
@@ -57,16 +51,58 @@
         "URL": "http://images.launchbox-app.com/4bbaff1a-cf98-47b8-872a-c133a2335c59.jpg"
       },
       {
-        "FileName": "086be36c-3b1b-43ac-a208-9854f71e425c.jpg",
+        "FileName": "40ef1681-b7ff-4c90-b8a1-7027b9a9a764.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1343906727",
-        "URL": "http://images.launchbox-app.com/086be36c-3b1b-43ac-a208-9854f71e425c.jpg"
+        "CRC32": "104993789",
+        "URL": "http://images.launchbox-app.com/40ef1681-b7ff-4c90-b8a1-7027b9a9a764.jpg"
       },
       {
-        "FileName": "0734e05e-4022-4648-8361-5d29fe5bb3d1.jpg",
+        "FileName": "2616ad8c-52d5-42bc-8607-7b6a519e33a1.png",
         "Type": "Fanart - Background",
-        "CRC32": "2042197540",
-        "URL": "http://images.launchbox-app.com/0734e05e-4022-4648-8361-5d29fe5bb3d1.jpg"
+        "CRC32": "2352751133",
+        "URL": "http://images.launchbox-app.com/2616ad8c-52d5-42bc-8607-7b6a519e33a1.png"
+      },
+      {
+        "FileName": "93a4efb8-bc19-417f-b383-fcb7652360e7.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3308015473",
+        "URL": "http://images.launchbox-app.com/93a4efb8-bc19-417f-b383-fcb7652360e7.jpg"
+      },
+      {
+        "FileName": "a608549f-6707-4bd7-bbcf-467ff3ed98c0.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3352498313",
+        "URL": "http://images.launchbox-app.com/a608549f-6707-4bd7-bbcf-467ff3ed98c0.jpg"
+      },
+      {
+        "FileName": "8b8ab1a8-be42-4fd8-b246-7e9b4334ca7c.png",
+        "Type": "Fanart - Background",
+        "CRC32": "806973994",
+        "URL": "http://images.launchbox-app.com/8b8ab1a8-be42-4fd8-b246-7e9b4334ca7c.png"
+      },
+      {
+        "FileName": "9abc185c-6656-46bb-af0f-2a719fd78140.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2124096027",
+        "URL": "http://images.launchbox-app.com/9abc185c-6656-46bb-af0f-2a719fd78140.jpg"
+      },
+      {
+        "FileName": "d714c0e6-b4a2-4671-888c-81df22686706.png",
+        "Type": "Fanart - Background",
+        "CRC32": "1009713453",
+        "URL": "http://images.launchbox-app.com/d714c0e6-b4a2-4671-888c-81df22686706.png"
+      },
+      {
+        "FileName": "a0aa324e-85fe-401b-acab-44ce88b7dc8e.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2672912084",
+        "URL": "http://images.launchbox-app.com/a0aa324e-85fe-401b-acab-44ce88b7dc8e.jpg"
+      },
+      {
+        "FileName": "87786559-6c92-44fb-b676-931728323089.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "647807249",
+        "URL": "http://images.launchbox-app.com/87786559-6c92-44fb-b676-931728323089.jpg"
       },
       {
         "FileName": "f75e9ab8-2657-400d-930a-4ab5bc734733.jpg",
@@ -81,34 +117,10 @@
         "URL": "http://images.launchbox-app.com/fa6d759a-4585-4d4e-86c0-36afab2546da.png"
       },
       {
-        "FileName": "40ef1681-b7ff-4c90-b8a1-7027b9a9a764.jpg",
+        "FileName": "0734e05e-4022-4648-8361-5d29fe5bb3d1.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "104993789",
-        "URL": "http://images.launchbox-app.com/40ef1681-b7ff-4c90-b8a1-7027b9a9a764.jpg"
-      },
-      {
-        "FileName": "9d6ace64-0120-47ec-ba5a-5d46d59d6477.png",
-        "Type": "Fanart - Background",
-        "CRC32": "2152968395",
-        "URL": "http://images.launchbox-app.com/9d6ace64-0120-47ec-ba5a-5d46d59d6477.png"
-      },
-      {
-        "FileName": "9abc185c-6656-46bb-af0f-2a719fd78140.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2124096027",
-        "URL": "http://images.launchbox-app.com/9abc185c-6656-46bb-af0f-2a719fd78140.jpg"
-      },
-      {
-        "FileName": "a0aa324e-85fe-401b-acab-44ce88b7dc8e.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2672912084",
-        "URL": "http://images.launchbox-app.com/a0aa324e-85fe-401b-acab-44ce88b7dc8e.jpg"
-      },
-      {
-        "FileName": "ee4e97f0-3899-4c78-ae7a-6e426fc37913.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2832127410",
-        "URL": "http://images.launchbox-app.com/ee4e97f0-3899-4c78-ae7a-6e426fc37913.jpg"
+        "CRC32": "2042197540",
+        "URL": "http://images.launchbox-app.com/0734e05e-4022-4648-8361-5d29fe5bb3d1.jpg"
       },
       {
         "FileName": "819014df-ac6c-47b1-8edc-d034669e48f1.jpg",
@@ -117,22 +129,10 @@
         "URL": "http://images.launchbox-app.com/819014df-ac6c-47b1-8edc-d034669e48f1.jpg"
       },
       {
-        "FileName": "8b8ab1a8-be42-4fd8-b246-7e9b4334ca7c.png",
+        "FileName": "086be36c-3b1b-43ac-a208-9854f71e425c.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "806973994",
-        "URL": "http://images.launchbox-app.com/8b8ab1a8-be42-4fd8-b246-7e9b4334ca7c.png"
-      },
-      {
-        "FileName": "2616ad8c-52d5-42bc-8607-7b6a519e33a1.png",
-        "Type": "Fanart - Background",
-        "CRC32": "2352751133",
-        "URL": "http://images.launchbox-app.com/2616ad8c-52d5-42bc-8607-7b6a519e33a1.png"
-      },
-      {
-        "FileName": "d714c0e6-b4a2-4671-888c-81df22686706.png",
-        "Type": "Fanart - Background",
-        "CRC32": "1009713453",
-        "URL": "http://images.launchbox-app.com/d714c0e6-b4a2-4671-888c-81df22686706.png"
+        "CRC32": "1343906727",
+        "URL": "http://images.launchbox-app.com/086be36c-3b1b-43ac-a208-9854f71e425c.jpg"
       },
       {
         "FileName": "f1e7a75a-a98d-4248-b7c9-75e264f23311.png",
@@ -144,17 +144,17 @@
     "Box": {
       "3D": [
         {
+          "FileName": "c5287238-291d-4c1f-9626-00616ae77c09.png",
+          "Type": "Box - 3D",
+          "CRC32": "1317043490",
+          "URL": "http://images.launchbox-app.com/c5287238-291d-4c1f-9626-00616ae77c09.png"
+        },
+        {
           "FileName": "c10de6a6-1529-43f6-8623-98bd45c9e0a1.png",
           "Type": "Box - 3D",
           "Region": "North America",
           "CRC32": "206402372",
           "URL": "http://images.launchbox-app.com/c10de6a6-1529-43f6-8623-98bd45c9e0a1.png"
-        },
-        {
-          "FileName": "c5287238-291d-4c1f-9626-00616ae77c09.png",
-          "Type": "Box - 3D",
-          "CRC32": "1317043490",
-          "URL": "http://images.launchbox-app.com/c5287238-291d-4c1f-9626-00616ae77c09.png"
         }
       ],
       "Back": [

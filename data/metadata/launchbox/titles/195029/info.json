@@ -1,11 +1,11 @@
 {
   "Name": "Championship Manager 2007",
   "DatabaseID": "195029",
-  "ReleaseDate": "2007-03-16T00:00:00-07:00",
+  "ReleaseDate": "2007-03-16T00:00:00+00:00",
   "CommunityRating": "5",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Championship_Manager_2007",
   "ESRB": "Not Rated",
-  "Genres": " Strategy",
+  "Genres": "Strategy",
   "Developer": "Beautiful Game Studios",
   "Publisher": "Eidos Interactive",
   "Artwork": {

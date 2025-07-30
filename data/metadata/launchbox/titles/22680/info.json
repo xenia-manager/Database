@@ -1,12 +1,12 @@
 {
   "Name": "LEGO Batman 3: Beyond Gotham",
   "DatabaseID": "22680",
-  "ReleaseDate": "2014-12-31T00:00:00-08:00",
+  "ReleaseDate": "2014-12-31T00:00:00+00:00",
   "Overview": "The best-selling LEGO Batman videogame franchise returns in an out-of-this-world, action-packed adventure! In LEGO Batman 3: Beyond Gotham, the Caped Crusader joins forces with the super heroes of the DC Comics universe and blasts off to outer space to stop the evil Brainiac from destroying Earth. Using the power of the Lantern Rings, Brainiac shrinks worlds to add to his twisted collection of miniature cities from across the universe. Now the greatest super heroes and the most cunning villains must unite and journey to different Lantern Worlds to collect the Lantern Rings and stop Brainiac before it's too late.",
   "VideoURL": "http://www.youtube.com/watch?v=7bsHsp2WXUI",
   "CommunityRating": "4",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Action; Adventure",
+  "Genres": "Action; Adventure",
   "Developer": "Warner Bros. Interactive Entertainment",
   "Publisher": "Warner Bros. Interactive Entertainment",
   "Artwork": {
@@ -22,6 +22,13 @@
       ],
       "Front": [
         {
+          "FileName": "bf22236c-f1a5-42cc-8a19-b15010ddfd4c.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1281657083",
+          "URL": "http://images.launchbox-app.com/bf22236c-f1a5-42cc-8a19-b15010ddfd4c.jpg"
+        },
+        {
           "FileName": "cb294a9d-bc8e-40f5-8c0f-784418febf2d.jpg",
           "Type": "Box - Front",
           "Region": "Germany",
@@ -34,13 +41,6 @@
           "Region": "Europe",
           "CRC32": "4030626203",
           "URL": "http://images.launchbox-app.com/7b2786c8-3af2-413a-911b-74f63a969b95.png"
-        },
-        {
-          "FileName": "bf22236c-f1a5-42cc-8a19-b15010ddfd4c.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "1281657083",
-          "URL": "http://images.launchbox-app.com/bf22236c-f1a5-42cc-8a19-b15010ddfd4c.jpg"
         },
         {
           "FileName": "02dce335-f1bb-4dc5-9685-a04c8d147954.jpg",
@@ -62,17 +62,17 @@
     ],
     "Other": [
       {
+        "FileName": "76e8c56f-151a-47d7-a96b-11fdba7ba4d5.png",
+        "Type": "Clear Logo",
+        "CRC32": "1100457841",
+        "URL": "http://images.launchbox-app.com/76e8c56f-151a-47d7-a96b-11fdba7ba4d5.png"
+      },
+      {
         "FileName": "d12f6047-ebdd-47e7-b287-af459a4aab22.png",
         "Type": "Clear Logo",
         "Region": "Spain",
         "CRC32": "1356090437",
         "URL": "http://images.launchbox-app.com/d12f6047-ebdd-47e7-b287-af459a4aab22.png"
-      },
-      {
-        "FileName": "76e8c56f-151a-47d7-a96b-11fdba7ba4d5.png",
-        "Type": "Clear Logo",
-        "CRC32": "1100457841",
-        "URL": "http://images.launchbox-app.com/76e8c56f-151a-47d7-a96b-11fdba7ba4d5.png"
       }
     ]
   }

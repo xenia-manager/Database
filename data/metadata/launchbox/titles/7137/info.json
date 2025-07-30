@@ -1,25 +1,25 @@
 {
   "Name": "All-Pro Football 2K8",
   "DatabaseID": "7137",
-  "ReleaseDate": "2007-07-16T00:00:00-07:00",
+  "ReleaseDate": "2007-07-16T00:00:00+00:00",
   "Overview": "All-Pro Football 2K8 features a fictional league called the \"All-Pro League\", or 'APL'. The APL consists of 24 teams that are grouped into six divisions of four teams each. The league runs a sixteen-game schedule and holds a championship game at the end of the playoffs, similar to the NFL.\n\nSince the exclusivity deal the NFL has with EA only covers active players, 2K contracted the individual rights to over 240 retired NFL players to appear in the game.\n\nEven though there are no NFL teams in the game, the player can still create teams that resemble their NFL counterparts. A Create-a-Player feature allows the player to add in players that were not included in the roster, such as Hall of Fame linebacker Lawrence Taylor.\n\nWhile the game includes teams representing Los Angeles and Las Vegas, neither of which have an NFL team, there are no teams representing Buffalo, Kansas City, Baltimore, Jacksonville, Tennessee, Indianapolis, San Diego, or New Orleans—all cities with real NFL teams. Cleveland and Cincinnati are both represented by a team representing Ohio, and only one team represents the San Francisco Bay Area instead of two. Green Bay is not represented, but a city nearby, Milwaukee, is instead.",
   "VideoURL": "https://www.youtube.com/watch?v=W_XbJpZPtqc",
-  "CommunityRating": "3.9166666666666665",
+  "CommunityRating": "3.91666666666667",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Sports",
+  "Genres": "Sports",
   "Artwork": {
     "Banner": [
-      {
-        "FileName": "04a8ba6c-4686-48c0-b4bb-a23319a358ce.png",
-        "Type": "Banner",
-        "CRC32": "2489834013",
-        "URL": "http://images.launchbox-app.com/04a8ba6c-4686-48c0-b4bb-a23319a358ce.png"
-      },
       {
         "FileName": "d195cbba-9a97-44e9-9601-75fa14c34028.jpg",
         "Type": "Banner",
         "CRC32": "2464498967",
         "URL": "http://images.launchbox-app.com/d195cbba-9a97-44e9-9601-75fa14c34028.jpg"
+      },
+      {
+        "FileName": "04a8ba6c-4686-48c0-b4bb-a23319a358ce.png",
+        "Type": "Banner",
+        "CRC32": "2489834013",
+        "URL": "http://images.launchbox-app.com/04a8ba6c-4686-48c0-b4bb-a23319a358ce.png"
       }
     ],
     "Background": [

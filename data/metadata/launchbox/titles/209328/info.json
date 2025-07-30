@@ -1,11 +1,11 @@
 {
   "Name": "EXIT 2",
   "DatabaseID": "209328",
-  "ReleaseDate": "2009-02-25T00:00:00-08:00",
+  "ReleaseDate": "2009-02-25T00:00:00+00:00",
   "Overview": "The sequel to Exit, the definitive escape puzzler! Escape danger all over the world!",
   "CommunityRating": "3",
   "ESRB": "E - Everyone",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Taito",
   "Publisher": "Taito",
   "Artwork": {

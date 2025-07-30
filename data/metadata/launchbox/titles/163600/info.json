@@ -1,12 +1,12 @@
 {
   "Name": "Ninety-Nine Nights II",
   "DatabaseID": "163600",
-  "ReleaseDate": "2010-06-29T00:00:00-07:00",
+  "ReleaseDate": "2010-06-29T00:00:00+00:00",
   "Overview": "In a World that the Gods have all but forgotten, where terror reigns, as many races, including Humans, Elves, Goblins & Ogres, are at war, miracles and magic can still happen. Take on hordes upon hordes of enemies and battle against titanic bosses to bring calm to the chaos that rules the land. Discover how the story of 5 different characters is intertwined and take advantage of their individual skills and fighting styles. Pick up various accessories along the way to help customise the action.",
-  "CommunityRating": "2.7857142857142856",
+  "CommunityRating": "2.78571428571429",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Ninety-Nine_Nights_II",
   "ESRB": "M - Mature",
-  "Genres": " Fighting",
+  "Genres": "Fighting",
   "Developer": "feelplus",
   "Publisher": "Konami",
   "Artwork": {
@@ -47,11 +47,11 @@
       ],
       "Front": [
         {
-          "FileName": "ce2b8e94-67b4-4f85-b43c-025b06cac5ff.jpg",
+          "FileName": "d1518688-6687-4588-af69-5be1d978a6a5.jpg",
           "Type": "Box - Front",
-          "Region": "Germany",
-          "CRC32": "996706986",
-          "URL": "http://images.launchbox-app.com/ce2b8e94-67b4-4f85-b43c-025b06cac5ff.jpg"
+          "Region": "Europe",
+          "CRC32": "3608454482",
+          "URL": "http://images.launchbox-app.com/d1518688-6687-4588-af69-5be1d978a6a5.jpg"
         },
         {
           "FileName": "a8d455da-5209-4abc-a1b1-f22ebbdac755.jpg",
@@ -61,11 +61,11 @@
           "URL": "http://images.launchbox-app.com/a8d455da-5209-4abc-a1b1-f22ebbdac755.jpg"
         },
         {
-          "FileName": "d1518688-6687-4588-af69-5be1d978a6a5.jpg",
+          "FileName": "ce2b8e94-67b4-4f85-b43c-025b06cac5ff.jpg",
           "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "3608454482",
-          "URL": "http://images.launchbox-app.com/d1518688-6687-4588-af69-5be1d978a6a5.jpg"
+          "Region": "Germany",
+          "CRC32": "996706986",
+          "URL": "http://images.launchbox-app.com/ce2b8e94-67b4-4f85-b43c-025b06cac5ff.jpg"
         }
       ],
       "Spine": [

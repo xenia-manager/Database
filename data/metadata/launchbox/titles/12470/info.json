@@ -1,26 +1,26 @@
 {
   "Name": "Madagascar 3: The Video Game",
   "DatabaseID": "12470",
-  "ReleaseDate": "2012-06-05T00:00:00-07:00",
+  "ReleaseDate": "2012-06-05T00:00:00+00:00",
   "Overview": "In Madagascar 3: The Video Game, adventure with the entire cast of Madagascar including Alex the Lion, Marty the Zebra, Gloria the Hippo and Melman the Giraffe while you find a way home under the perfect cover: a traveling circus. Travel across Europe to promote the circus by completing missions, performing amazing publicity stunts, and dazzling the crowd with a mini-game based circus extravaganza!\n\nGame Features:\n\nTravel, adventure and explore in the exciting and worldly European locations of Madagascar 3!\n\nMultiple Playable Characters: All the Madagascar favorites are back – Alex, Marty, Melman and Gloria. Also featuring all new show-stopping characters from Madagascar 3!\n\nAction-adventure, platforming and mini-game circus fun for Madagascar fans of all ages! Explore iconic locations around Europe & perform show-stopping circus acts, Madagascar style!\n\nTwo Player Fun! A second player can jump in and out of the game at any point for fun co-op gameplay.",
   "CommunityRating": "5",
   "ESRB": "E - Everyone",
-  "Genres": " Action; Adventure",
+  "Genres": "Action; Adventure",
   "Developer": "Monkey Bar Games",
   "Publisher": "D3Publisher",
   "Artwork": {
     "Background": [
       {
-        "FileName": "040b83c7-f7e3-46e6-9435-989abe2650ce.png",
-        "Type": "Fanart - Background",
-        "CRC32": "3525914251",
-        "URL": "http://images.launchbox-app.com/040b83c7-f7e3-46e6-9435-989abe2650ce.png"
-      },
-      {
         "FileName": "ec919308-b2b0-496b-9891-7641bcb85304.png",
         "Type": "Fanart - Background",
         "CRC32": "3431263534",
         "URL": "http://images.launchbox-app.com/ec919308-b2b0-496b-9891-7641bcb85304.png"
+      },
+      {
+        "FileName": "040b83c7-f7e3-46e6-9435-989abe2650ce.png",
+        "Type": "Fanart - Background",
+        "CRC32": "3525914251",
+        "URL": "http://images.launchbox-app.com/040b83c7-f7e3-46e6-9435-989abe2650ce.png"
       },
       {
         "FileName": "d6ae41e8-6d46-40f1-a1e3-259407db9693.png",

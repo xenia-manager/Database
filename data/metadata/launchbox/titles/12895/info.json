@@ -1,29 +1,29 @@
 {
   "Name": "Call of Juarez",
   "DatabaseID": "12895",
-  "ReleaseDate": "2007-06-05T00:00:00-07:00",
+  "ReleaseDate": "2007-06-05T00:00:00+00:00",
   "Overview": "Players strap-on their virtual revolvers and step back into America's \"Wild West\" in Call of Juarez, a first-person shooter with a gritty cowboy theme. The single-player storyline follows a pair of gunslingers, bound to one another by family ties but at odds due to a gruesome misunderstanding. The righteous Reverend Ray McCall has come out of retirement to hunt down his own nephew, Billy Candle, for murdering his family. Innocent but framed for the crime, Billy must seek the true killers while avoiding his uncle's mighty vengeance.\n\nStages in which players take the role Reverend Ray feature rollicking gunfights, quick-draw showdowns, and other classic Western action. Billy's story features more adventure-styled gameplay, with exploration, horseback riding, stealth scenes, and environmental puzzles. Both characters have opportunity to interact in famous scenes from Old West legend, including a shootout with the notorious Billy the kid. Call of Juarez is built on a version of Techland's own Chrome game engine, designed to create large open spaces full of realistic Old West detail.",
   "VideoURL": "https://www.youtube.com/watch?v=KbDFj0gYcWU",
   "CommunityRating": "3.75",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Call_of_Juarez_(video_game)",
   "ESRB": "M - Mature",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "Techland",
   "Publisher": "Ubisoft",
   "Artwork": {
     "Banner": [
+      {
+        "FileName": "0c2dd12d-1d53-4d6a-9f16-be56cca5fec0.png",
+        "Type": "Banner",
+        "CRC32": "51899666",
+        "URL": "http://images.launchbox-app.com/0c2dd12d-1d53-4d6a-9f16-be56cca5fec0.png"
+      },
       {
         "FileName": "8b16f152-c6b1-4db8-ad33-862f16b7f6d6.jpg",
         "Type": "Banner",
         "Region": "North America",
         "CRC32": "963530544",
         "URL": "http://images.launchbox-app.com/8b16f152-c6b1-4db8-ad33-862f16b7f6d6.jpg"
-      },
-      {
-        "FileName": "0c2dd12d-1d53-4d6a-9f16-be56cca5fec0.png",
-        "Type": "Banner",
-        "CRC32": "51899666",
-        "URL": "http://images.launchbox-app.com/0c2dd12d-1d53-4d6a-9f16-be56cca5fec0.png"
       }
     ],
     "Background": [
@@ -55,18 +55,18 @@
       ],
       "Front": [
         {
-          "FileName": "bc821a2b-1d8c-4a07-ae34-23ced5a8b604.jpg",
-          "Type": "Box - Front",
-          "Region": "United Kingdom",
-          "CRC32": "3197674849",
-          "URL": "http://images.launchbox-app.com/bc821a2b-1d8c-4a07-ae34-23ced5a8b604.jpg"
-        },
-        {
           "FileName": "8ca637ce-6e4d-480b-9e3c-0b80aa9d48b7.jpg",
           "Type": "Box - Front",
           "Region": "North America",
           "CRC32": "2126913486",
           "URL": "http://images.launchbox-app.com/8ca637ce-6e4d-480b-9e3c-0b80aa9d48b7.jpg"
+        },
+        {
+          "FileName": "bc821a2b-1d8c-4a07-ae34-23ced5a8b604.jpg",
+          "Type": "Box - Front",
+          "Region": "United Kingdom",
+          "CRC32": "3197674849",
+          "URL": "http://images.launchbox-app.com/bc821a2b-1d8c-4a07-ae34-23ced5a8b604.jpg"
         }
       ],
       "Spine": [

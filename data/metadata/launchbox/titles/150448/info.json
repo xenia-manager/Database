@@ -1,13 +1,13 @@
 {
   "Name": "Duke Nukem 3D",
   "DatabaseID": "150448",
-  "ReleaseDate": "2008-09-24T00:00:00-07:00",
+  "ReleaseDate": "2008-09-24T00:00:00+00:00",
   "Overview": "Unlock the full version for 39 levels of mayhem! Wreak havoc on your foes with weapons like Pipe Bombs, Shrink Ray, and Freezer. Impress your friends on the leaderboards, earn achievements, and take advantage of the painless death system - rewind 10 seconds or 10 minutes, the choice is up to you. All new User Clip recording, sharing and uploading have been added and best of all - online multiplayer with cooperative and Duke. Match for up to 8 players through Xbox LIVE! What are you waiting for?",
   "VideoURL": "https://www.youtube.com/watch?v=eHdsjS3IOu0",
   "CommunityRating": "3.625",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Duke_Nukem_3D",
   "ESRB": "M - Mature",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "3D Realms Entertainment",
   "Publisher": "3D Realms Entertainment",
   "Artwork": {

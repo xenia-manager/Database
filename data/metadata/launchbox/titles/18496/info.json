@@ -1,13 +1,13 @@
 {
   "Name": "A Kingdom for Keflings",
   "DatabaseID": "18496",
-  "ReleaseDate": "2009-09-12T00:00:00-07:00",
+  "ReleaseDate": "2009-09-12T00:00:00+00:00",
   "Overview": "Build your own Medieval world in A Kingdom for Keflings, a city-building game from NinjaBee.\n\nPlay as a giant to help the tiny Keflings build up and beautify their Kingdom. Start out small, unlocking new blueprints, buildings and tasks as you work towards designing and building a Kefling castle. Create your own private world, or construct a kingdom with your friends online!",
   "VideoURL": "https://www.youtube.com/watch?v=EI8ahuJkvZ4",
   "CommunityRating": "3.4375",
   "WikipediaURL": "https://en.wikipedia.org/wiki/A_Kingdom_for_Keflings",
   "ESRB": "E - Everyone",
-  "Genres": " Construction and Management Simulation; Life Simulation; Sandbox",
+  "Genres": "Construction and Management Simulation; Life Simulation; Sandbox",
   "Developer": "NinjaBee",
   "Publisher": "Microsoft",
   "Artwork": {
@@ -22,18 +22,18 @@
     "Box": {
       "Front": [
         {
-          "FileName": "c57c87a8-8f8c-47fc-9a91-3f5be1577da1.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
-          "CRC32": "3259525145",
-          "URL": "http://images.launchbox-app.com/c57c87a8-8f8c-47fc-9a91-3f5be1577da1.jpg"
-        },
-        {
           "FileName": "1587012a-910c-445a-8fca-628d492bcefe.jpg",
           "Type": "Box - Front",
           "Region": "World",
           "CRC32": "1722242278",
           "URL": "http://images.launchbox-app.com/1587012a-910c-445a-8fca-628d492bcefe.jpg"
+        },
+        {
+          "FileName": "c57c87a8-8f8c-47fc-9a91-3f5be1577da1.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "3259525145",
+          "URL": "http://images.launchbox-app.com/c57c87a8-8f8c-47fc-9a91-3f5be1577da1.jpg"
         }
       ]
     },

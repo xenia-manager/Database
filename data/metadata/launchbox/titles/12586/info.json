@@ -1,11 +1,11 @@
 {
   "Name": "Jillian Michaels' Fitness Adventure",
   "DatabaseID": "12586",
-  "ReleaseDate": "2011-11-10T00:00:00-08:00",
+  "ReleaseDate": "2011-11-10T00:00:00+00:00",
   "Overview": "Jillian Michaels' Fitness Adventure is a fitness game exclusively for the Kinect on Xbox 360.",
   "VideoURL": "https://www.youtube.com/watch?v=5C8fGC_zQEc",
   "ESRB": "E - Everyone",
-  "Genres": " Sports",
+  "Genres": "Sports",
   "Developer": "N-Space",
   "Publisher": "505 Games",
   "Artwork": {

@@ -1,13 +1,13 @@
 {
   "Name": "The Adventures of Tintin: The Game",
   "DatabaseID": "12764",
-  "ReleaseDate": "2011-12-06T00:00:00-08:00",
+  "ReleaseDate": "2011-12-06T00:00:00+00:00",
   "Overview": "The interactive adaptation of Tintin's computer-animated debut is an action-adventure game in true spirit, presenting players with a variety of platforming challenges as they proceed along a central storyline, based on the Steven Spielberg film. Players lead the ambitious young reporter to explore exotic locations around the world, overcoming perilous situations with clever thinking and agile button-presses. Captain Haddock, Snowy, and other characters can be unlocked, to play through parts of the story from their own perspectives, using their distinct strengths and special abilities.\n\nMuch of the game is played like a 2D platformer, presented in polygonal 3D. Tintin must climb, dash, and make nimble leaps to find his way through each level. In both single-player and co-op modes, his companions lend a hand in puzzle solving, whenever Snowy may need to squeeze ahead through a tight gap, or Haddock may need to stay behind to hold down a gate trigger. Other escapades have the heroes driving, swimming, sword fighting, and piloting a plane. The player's point-of-view shifts as puzzle and action sequences are presented from conventional perspectives. Graphics are in the style of the movie.",
   "VideoURL": "https://www.youtube.com/watch?v=Acs8BgNxJno",
-  "CommunityRating": "3.8636363636363638",
+  "CommunityRating": "3.86363636363636",
   "WikipediaURL": "https://en.wikipedia.org/wiki/The_Adventures_of_Tintin:_The_Secret_of_the_Unicorn_(video_game)",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Action; Adventure",
+  "Genres": "Action; Adventure",
   "Developer": "Ubisoft Montpellier",
   "Publisher": "Ubisoft Entertainment",
   "Artwork": {
@@ -30,13 +30,6 @@
       ],
       "Front": [
         {
-          "FileName": "8ecdf511-e4cc-4059-9676-3a42178e0f3e.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
-          "CRC32": "1348253204",
-          "URL": "http://images.launchbox-app.com/8ecdf511-e4cc-4059-9676-3a42178e0f3e.jpg"
-        },
-        {
           "FileName": "770128ac-cf4b-4b6e-819c-e7fabf16d2da.jpg",
           "Type": "Box - Front",
           "Region": "Australia",
@@ -49,6 +42,13 @@
           "Region": "North America",
           "CRC32": "609364311",
           "URL": "http://images.launchbox-app.com/59488692-96df-47fa-bb6e-ce9c1fbdc63c.jpg"
+        },
+        {
+          "FileName": "8ecdf511-e4cc-4059-9676-3a42178e0f3e.jpg",
+          "Type": "Box - Front",
+          "Region": "Germany",
+          "CRC32": "1348253204",
+          "URL": "http://images.launchbox-app.com/8ecdf511-e4cc-4059-9676-3a42178e0f3e.jpg"
         }
       ],
       "Spine": [

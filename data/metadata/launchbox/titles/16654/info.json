@@ -1,13 +1,13 @@
 {
   "Name": "Sonic Adventure",
   "DatabaseID": "16654",
-  "ReleaseDate": "2010-09-15T00:00:00-07:00",
+  "ReleaseDate": "2010-09-15T00:00:00+00:00",
   "Overview": "Join Sonic and friends as they embark on their first truly epic quest to stop Dr, Eggman’s most villainous scheme in the hit Dreamcast title Sonic Adventure now available on Xbox LIVE Arcade. An ancient evil lurking within the Master Emerald has been unleashed from its slumber by the devious Dr. Eggman and is on the verge of becoming the ultimate monster using the 7 Chaos Emeralds. Only Sonic and his friends are heroic enough to put a stop to Dr. Eggman and his evil minions. Hit the ground running in this classic epic adventure in a race against time to save the world!",
   "VideoURL": "https://www.youtube.com/watch?v=CJc23pIK5yg",
   "CommunityRating": "4.15",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Sonic_Adventure",
   "ESRB": "E - Everyone",
-  "Genres": " Action; Platform",
+  "Genres": "Action; Platform",
   "Developer": "Sonic Team",
   "Publisher": "Sega",
   "Artwork": {
@@ -39,17 +39,17 @@
     },
     "Other": [
       {
+        "FileName": "700a5917-af69-419b-b332-fc4dd1d4b7a9.png",
+        "Type": "Clear Logo",
+        "CRC32": "2966791316",
+        "URL": "http://images.launchbox-app.com/700a5917-af69-419b-b332-fc4dd1d4b7a9.png"
+      },
+      {
         "FileName": "22e76186-6e23-4713-a137-2acfb287f5c9.png",
         "Type": "Clear Logo",
         "Region": "United States",
         "CRC32": "2079043191",
         "URL": "http://images.launchbox-app.com/22e76186-6e23-4713-a137-2acfb287f5c9.png"
-      },
-      {
-        "FileName": "700a5917-af69-419b-b332-fc4dd1d4b7a9.png",
-        "Type": "Clear Logo",
-        "CRC32": "2966791316",
-        "URL": "http://images.launchbox-app.com/700a5917-af69-419b-b332-fc4dd1d4b7a9.png"
       }
     ]
   }

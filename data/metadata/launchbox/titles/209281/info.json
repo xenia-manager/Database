@@ -1,11 +1,11 @@
 {
   "Name": "CrazyMouse",
   "DatabaseID": "209281",
-  "ReleaseDate": "2010-01-04T00:00:00-08:00",
+  "ReleaseDate": "2010-01-04T00:00:00+00:00",
   "Overview": "Upgrade to the full version of CrazyMouse and unlock all 32 single-player stages. You’ll also get 16 multiplayer maps for cooperative or competitive play, ranked matches via Xbox LIVE, leaderboards, achievements, and more!",
   "CommunityRating": "3",
   "ESRB": "E - Everyone",
-  "Genres": " Action; Adventure",
+  "Genres": "Action; Adventure",
   "Developer": "Ultizen Games",
   "Publisher": "Microsoft Studios",
   "Artwork": {

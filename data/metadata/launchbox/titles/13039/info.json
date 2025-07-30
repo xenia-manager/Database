@@ -1,12 +1,12 @@
 {
   "Name": "Namco Museum: Virtual Arcade",
   "DatabaseID": "13039",
-  "ReleaseDate": "2008-11-04T00:00:00-08:00",
+  "ReleaseDate": "2008-11-04T00:00:00+00:00",
   "Overview": "Namco Museum: Virtual Arcade is one of Namco Bandai's numerous retro game collections. This particular one collects together all of their current Xbox Live Arcade releases as well as a selection of other '80s arcade titles, for a total of 34 games.\n\nLive Arcade titles:\nDig Dug\nGalaga\nGalaga Legions\nPac-Man\nPac-Man: Championship Edition\nNew Rally-X\nMr. Driller Online\nMs. Pac-Man\nXevious\nMuseum classics:\nBaraduke\nBosconian\nDig Dug II\nDig Dug Arrangement\nDragon Buster\nDragon Spirit\nGalaga '88\nGalaga Arrangement\nGalaxian\nGrobda\nKing & Balloon\nMappy\nMetro-Cross\nMotos\nPac & Pal\nPac-Man Arrangement\nPac-Mania\nPole Position\nPole Position II\nRally-X\nRolling Thunder\nSky Kid\nSky Kid Deluxe\nSuper Pac-Man\nThe Tower of Druaga",
-  "CommunityRating": "2.5833333333333335",
+  "CommunityRating": "2.58333333333333",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Namco_Museum_Virtual_Arcade",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Compilation",
+  "Genres": "Compilation",
   "Developer": "Namco Bandai Games",
   "Publisher": "Namco Bandai Games",
   "Artwork": {
@@ -21,28 +21,22 @@
     ],
     "Background": [
       {
-        "FileName": "3e57339f-d491-44c3-bbd4-122489600522.jpg",
+        "FileName": "397a5b27-573a-4c07-ab47-ba10c1336026.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2903123757",
-        "URL": "http://images.launchbox-app.com/3e57339f-d491-44c3-bbd4-122489600522.jpg"
+        "CRC32": "1697703075",
+        "URL": "http://images.launchbox-app.com/397a5b27-573a-4c07-ab47-ba10c1336026.jpg"
       },
       {
-        "FileName": "a0cc6224-0922-4a28-8026-9856a4b9d733.jpg",
+        "FileName": "21434f14-ff8d-4ca3-aed8-1363bf5a2200.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3198698123",
-        "URL": "http://images.launchbox-app.com/a0cc6224-0922-4a28-8026-9856a4b9d733.jpg"
+        "CRC32": "466581221",
+        "URL": "http://images.launchbox-app.com/21434f14-ff8d-4ca3-aed8-1363bf5a2200.jpg"
       },
       {
-        "FileName": "e1075995-5077-4f9c-9247-3bd281e00df6.jpg",
+        "FileName": "dfc930e5-68d4-4269-bdb2-9636d26108f8.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2147105843",
-        "URL": "http://images.launchbox-app.com/e1075995-5077-4f9c-9247-3bd281e00df6.jpg"
-      },
-      {
-        "FileName": "12be1011-dc9f-4447-bd21-21efeffdc113.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "3612441474",
-        "URL": "http://images.launchbox-app.com/12be1011-dc9f-4447-bd21-21efeffdc113.jpg"
+        "CRC32": "1919271498",
+        "URL": "http://images.launchbox-app.com/dfc930e5-68d4-4269-bdb2-9636d26108f8.jpg"
       },
       {
         "FileName": "a2ce4836-f7a8-4227-aa5c-009f2925566b.png",
@@ -51,10 +45,40 @@
         "URL": "http://images.launchbox-app.com/a2ce4836-f7a8-4227-aa5c-009f2925566b.png"
       },
       {
-        "FileName": "397a5b27-573a-4c07-ab47-ba10c1336026.jpg",
+        "FileName": "f2c1fd89-bd8e-49df-87e5-fb3570c58e47.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1697703075",
-        "URL": "http://images.launchbox-app.com/397a5b27-573a-4c07-ab47-ba10c1336026.jpg"
+        "CRC32": "2647293613",
+        "URL": "http://images.launchbox-app.com/f2c1fd89-bd8e-49df-87e5-fb3570c58e47.jpg"
+      },
+      {
+        "FileName": "4ad0b929-a0c1-42ad-843d-b0aca2e151f7.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "569898067",
+        "URL": "http://images.launchbox-app.com/4ad0b929-a0c1-42ad-843d-b0aca2e151f7.jpg"
+      },
+      {
+        "FileName": "12be1011-dc9f-4447-bd21-21efeffdc113.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3612441474",
+        "URL": "http://images.launchbox-app.com/12be1011-dc9f-4447-bd21-21efeffdc113.jpg"
+      },
+      {
+        "FileName": "3e57339f-d491-44c3-bbd4-122489600522.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2903123757",
+        "URL": "http://images.launchbox-app.com/3e57339f-d491-44c3-bbd4-122489600522.jpg"
+      },
+      {
+        "FileName": "e1075995-5077-4f9c-9247-3bd281e00df6.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2147105843",
+        "URL": "http://images.launchbox-app.com/e1075995-5077-4f9c-9247-3bd281e00df6.jpg"
+      },
+      {
+        "FileName": "a0cc6224-0922-4a28-8026-9856a4b9d733.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3198698123",
+        "URL": "http://images.launchbox-app.com/a0cc6224-0922-4a28-8026-9856a4b9d733.jpg"
       },
       {
         "FileName": "ad5cb914-c1f1-408d-b9f9-fc4bbd834d8e.jpg",
@@ -67,30 +91,6 @@
         "Type": "Fanart - Background",
         "CRC32": "1968644850",
         "URL": "http://images.launchbox-app.com/eff7d090-3991-4fbd-b70d-3692812729fc.jpg"
-      },
-      {
-        "FileName": "4ad0b929-a0c1-42ad-843d-b0aca2e151f7.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "569898067",
-        "URL": "http://images.launchbox-app.com/4ad0b929-a0c1-42ad-843d-b0aca2e151f7.jpg"
-      },
-      {
-        "FileName": "21434f14-ff8d-4ca3-aed8-1363bf5a2200.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "466581221",
-        "URL": "http://images.launchbox-app.com/21434f14-ff8d-4ca3-aed8-1363bf5a2200.jpg"
-      },
-      {
-        "FileName": "f2c1fd89-bd8e-49df-87e5-fb3570c58e47.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2647293613",
-        "URL": "http://images.launchbox-app.com/f2c1fd89-bd8e-49df-87e5-fb3570c58e47.jpg"
-      },
-      {
-        "FileName": "dfc930e5-68d4-4269-bdb2-9636d26108f8.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "1919271498",
-        "URL": "http://images.launchbox-app.com/dfc930e5-68d4-4269-bdb2-9636d26108f8.jpg"
       }
     ],
     "Box": {
@@ -105,7 +105,7 @@
         {
           "FileName": "eed235be-e6c6-49b0-9dbc-12bf8815457c.jpg",
           "Type": "Box - Back",
-          "Region": "United States",
+          "Region": "North America",
           "CRC32": "1441434629",
           "URL": "http://images.launchbox-app.com/eed235be-e6c6-49b0-9dbc-12bf8815457c.jpg"
         }
@@ -114,7 +114,7 @@
         {
           "FileName": "21c2edc8-8f80-4b30-b575-e9553f4c1dee.jpg",
           "Type": "Box - Front",
-          "Region": "United States",
+          "Region": "North America",
           "CRC32": "3859071987",
           "URL": "http://images.launchbox-app.com/21c2edc8-8f80-4b30-b575-e9553f4c1dee.jpg"
         },
@@ -137,7 +137,7 @@
         {
           "FileName": "c1976d9e-e97e-467e-9cea-48903278f9b5.jpg",
           "Type": "Box - Spine",
-          "Region": "United States",
+          "Region": "North America",
           "CRC32": "179796900",
           "URL": "http://images.launchbox-app.com/c1976d9e-e97e-467e-9cea-48903278f9b5.jpg"
         }
@@ -145,18 +145,18 @@
     },
     "Disc": [
       {
-        "FileName": "d486b170-e79e-451e-a796-233e76a69b3d.jpg",
-        "Type": "Disc",
-        "Region": "United States",
-        "CRC32": "1450935942",
-        "URL": "http://images.launchbox-app.com/d486b170-e79e-451e-a796-233e76a69b3d.jpg"
-      },
-      {
         "FileName": "0c86e82f-7b82-4a1f-b7ae-39bfd1e27bdb.jpg",
         "Type": "Disc",
         "Region": "North America",
         "CRC32": "1369329745",
         "URL": "http://images.launchbox-app.com/0c86e82f-7b82-4a1f-b7ae-39bfd1e27bdb.jpg"
+      },
+      {
+        "FileName": "r2_3188ea67-c2ba-49ff-9d1a-2f90aafdfd91.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1450935942",
+        "URL": "http://images.launchbox-app.com/r2_3188ea67-c2ba-49ff-9d1a-2f90aafdfd91.png"
       }
     ],
     "Other": [

@@ -1,13 +1,13 @@
 {
   "Name": "3 on 3 NHL Arcade",
   "DatabaseID": "30595",
-  "ReleaseDate": "2009-02-11T00:00:00-08:00",
+  "ReleaseDate": "2009-02-11T00:00:00+00:00",
   "Overview": "EA SPORTS Freestyle welcomes you to the fast paced world of arcade hockey. From the same team that brought you NHL 09 (EA Canada) comes a 3 on 3 experience that throws conventional hockey, and its rules, out the window. Choose from the NHL’s top players and bring them into this no rules hockey game where big hits rule the day.",
   "VideoURL": "https://www.youtube.com/watch?v=ONs3g_pZG3Y",
-  "CommunityRating": "3.7916666666666665",
+  "CommunityRating": "3.79166666666667",
   "WikipediaURL": "https://en.wikipedia.org/wiki/3_on_3_NHL_Arcade",
   "ESRB": "E - Everyone",
-  "Genres": " Sports",
+  "Genres": "Sports",
   "Developer": "Electronic Arts Canada",
   "Publisher": "Electronic Arts",
   "Artwork": {
@@ -46,11 +46,11 @@
     },
     "Disc": [
       {
-        "FileName": "e09a761f-48ca-41ab-8f8c-b80d16548244.png",
+        "FileName": "cb302ecc-c95e-4169-833d-fac0517f8363.png",
         "Type": "Fanart - Disc",
         "Region": "North America",
-        "CRC32": "2752427353",
-        "URL": "http://images.launchbox-app.com/e09a761f-48ca-41ab-8f8c-b80d16548244.png"
+        "CRC32": "4017597147",
+        "URL": "http://images.launchbox-app.com/cb302ecc-c95e-4169-833d-fac0517f8363.png"
       },
       {
         "FileName": "418fcc42-d674-464e-a873-4339318c211c.png",
@@ -60,25 +60,25 @@
         "URL": "http://images.launchbox-app.com/418fcc42-d674-464e-a873-4339318c211c.png"
       },
       {
-        "FileName": "cb302ecc-c95e-4169-833d-fac0517f8363.png",
+        "FileName": "e09a761f-48ca-41ab-8f8c-b80d16548244.png",
         "Type": "Fanart - Disc",
         "Region": "North America",
-        "CRC32": "4017597147",
-        "URL": "http://images.launchbox-app.com/cb302ecc-c95e-4169-833d-fac0517f8363.png"
+        "CRC32": "2752427353",
+        "URL": "http://images.launchbox-app.com/e09a761f-48ca-41ab-8f8c-b80d16548244.png"
       }
     ],
     "Screenshots": [
-      {
-        "FileName": "77d732fb-363a-47f3-96e6-14f3f3592ccd.png",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "2860048476",
-        "URL": "http://images.launchbox-app.com/77d732fb-363a-47f3-96e6-14f3f3592ccd.png"
-      },
       {
         "FileName": "3c77a2f7-8914-464b-88b2-24b193323e43.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "2000892828",
         "URL": "http://images.launchbox-app.com/3c77a2f7-8914-464b-88b2-24b193323e43.jpg"
+      },
+      {
+        "FileName": "77d732fb-363a-47f3-96e6-14f3f3592ccd.png",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "2860048476",
+        "URL": "http://images.launchbox-app.com/77d732fb-363a-47f3-96e6-14f3f3592ccd.png"
       }
     ],
     "Other": [

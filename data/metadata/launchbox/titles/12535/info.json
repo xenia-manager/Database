@@ -1,13 +1,13 @@
 {
   "Name": "Kinect Star Wars",
   "DatabaseID": "12535",
-  "ReleaseDate": "2012-04-03T00:00:00-07:00",
+  "ReleaseDate": "2012-04-03T00:00:00+00:00",
   "Overview": "This game requires a Kinect Sensor. Step into Star Wars and experience a new galaxy of physical gameplay. Pilot a starfighter, race speeder bikes and even become the ultimate Jedi. Stomp, roar, grab and throw Stormtroopers as a powerful Rancor Monster, or speed past rivals to become a Podracing champion. Even dance for your life as you entertain Jabba the Hutt and other characters, and enjoy more adventures by yourself or with friends.",
   "VideoURL": "https://www.youtube.com/watch?v=GlWOAYV4U_0",
   "CommunityRating": "2.5",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Kinect_Star_Wars",
   "ESRB": "T - Teen",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Terminal Reality",
   "Publisher": "Microsoft Studios",
   "Artwork": {
@@ -49,12 +49,6 @@
     ],
     "Screenshots": [
       {
-        "FileName": "10e39d38-6860-4ebe-ace6-ca54c374ac23.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2993293613",
-        "URL": "http://images.launchbox-app.com/10e39d38-6860-4ebe-ace6-ca54c374ac23.jpg"
-      },
-      {
         "FileName": "e0407f5f-6f06-43e2-bd7b-32b32bd671e7.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "3154165921",
@@ -71,6 +65,12 @@
         "Type": "Screenshot - Gameplay",
         "CRC32": "21171352",
         "URL": "http://images.launchbox-app.com/d2d2b2bf-aa12-428b-9d6c-4831b7bd15a2.jpg"
+      },
+      {
+        "FileName": "10e39d38-6860-4ebe-ace6-ca54c374ac23.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2993293613",
+        "URL": "http://images.launchbox-app.com/10e39d38-6860-4ebe-ace6-ca54c374ac23.jpg"
       }
     ],
     "Other": [

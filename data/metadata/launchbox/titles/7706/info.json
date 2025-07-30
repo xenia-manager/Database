@@ -1,11 +1,11 @@
 {
   "Name": "World Series of Poker: Tournament of Champions",
   "DatabaseID": "7706",
-  "ReleaseDate": "2006-09-19T00:00:00-07:00",
+  "ReleaseDate": "2006-09-19T00:00:00+00:00",
   "Overview": "World Series of Poker: Tournament of Champions is a video game based on the popular gambling tournament World Series of Poker. It's available for multiple systems: Xbox 360, PlayStation 2, Wii, PlayStation Portable and PC. It is the successor of the original World Series of Poker video game.",
   "CommunityRating": "3.4",
   "ESRB": "T - Teen",
-  "Genres": " Casino",
+  "Genres": "Casino",
   "Developer": "Left Field Productions",
   "Publisher": "Activision Value Publishing",
   "Artwork": {
@@ -20,32 +20,32 @@
       ],
       "Back": [
         {
-          "FileName": "fd51346e-31ec-41c2-89e0-24e0aac46694.jpg",
-          "Type": "Box - Back",
-          "CRC32": "2749109011",
-          "URL": "http://images.launchbox-app.com/fd51346e-31ec-41c2-89e0-24e0aac46694.jpg"
-        },
-        {
           "FileName": "b18b1878-93bb-40b8-8c19-d9f57999880d.jpg",
           "Type": "Box - Back",
           "Region": "United States",
           "CRC32": "3850362858",
           "URL": "http://images.launchbox-app.com/b18b1878-93bb-40b8-8c19-d9f57999880d.jpg"
+        },
+        {
+          "FileName": "fd51346e-31ec-41c2-89e0-24e0aac46694.jpg",
+          "Type": "Box - Back",
+          "CRC32": "2749109011",
+          "URL": "http://images.launchbox-app.com/fd51346e-31ec-41c2-89e0-24e0aac46694.jpg"
         }
       ],
       "Front": [
+        {
+          "FileName": "d800b0f8-8083-4c53-9362-12004564e1fb.jpg",
+          "Type": "Box - Front",
+          "CRC32": "3227763730",
+          "URL": "http://images.launchbox-app.com/d800b0f8-8083-4c53-9362-12004564e1fb.jpg"
+        },
         {
           "FileName": "443b2ccf-9fea-4ff4-97a8-9fce6e6fd90d.jpg",
           "Type": "Box - Front",
           "Region": "United States",
           "CRC32": "1687022108",
           "URL": "http://images.launchbox-app.com/443b2ccf-9fea-4ff4-97a8-9fce6e6fd90d.jpg"
-        },
-        {
-          "FileName": "d800b0f8-8083-4c53-9362-12004564e1fb.jpg",
-          "Type": "Box - Front",
-          "CRC32": "3227763730",
-          "URL": "http://images.launchbox-app.com/d800b0f8-8083-4c53-9362-12004564e1fb.jpg"
         }
       ],
       "Spine": [

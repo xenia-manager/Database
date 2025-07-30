@@ -1,13 +1,13 @@
 {
   "Name": "Call of Duty: Advanced Warfare",
   "DatabaseID": "147571",
-  "ReleaseDate": "2014-11-04T00:00:00-08:00",
+  "ReleaseDate": "2014-11-04T00:00:00+00:00",
   "Overview": "Advanced Warfare is Sledgehammer's first Call of Duty title where they are the primary developer, following the supporting work they did on Call of Duty: Modern Warfare 3 alongside Infinity Ward in 2011. The game was released on November 4, 2014, but a special edition titled the Day Zero Edition, which came with bonus in-game content, was released on November 3 for people who pre-ordered the game. The game was not released on the Wii U, making it the first title in the series since Call of Duty: Modern Warfare 2 to not be released on either the Wii or Wii U. It is the last Call of Duty title to feature a single-player campaign mode for the PlayStation 3 and Xbox 360.\n\nBefore the development of Advanced Warfare, Sledgehammer were originally working on an action-adventure game titled Call of Duty: Fog of War, which was going to be set during the events of the Vietnam War. Development for Advanced Warfare began in late 2011, shortly before the release of Modern Warfare 3. The game became the first entry in the Call of Duty series since Call of Duty 2 to feature a game engine that has had its majority re-written and built from scratch. For the game's single-player campaign mode, Sledgehammer employed veteran actors Troy Baker and Kevin Spacey in lead roles. The game's story, featuring a futuristic setting which is set between 2054 and 2061, follows Jack Mitchell of the United States Marine Corps and his interactions with Atlas, a private military corporation that sells its services to the highest bidder.",
   "VideoURL": "https://www.youtube.com/watch?v=0C2cG30FBas",
-  "CommunityRating": "3.1818181818181817",
+  "CommunityRating": "3.18181818181818",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Call_of_Duty:_Advanced_Warfare",
   "ESRB": "M - Mature",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "Sledgehammer Games",
   "Publisher": "Activision",
   "Artwork": {
@@ -21,33 +21,33 @@
     ],
     "Background": [
       {
-        "FileName": "49367010-6265-4a9b-866b-b226af8c19f2.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2484234748",
-        "URL": "http://images.launchbox-app.com/49367010-6265-4a9b-866b-b226af8c19f2.jpg"
-      },
-      {
         "FileName": "d1caca0d-8876-4eb7-b824-32b2149f32cd.jpg",
         "Type": "Fanart - Background",
         "CRC32": "630766387",
         "URL": "http://images.launchbox-app.com/d1caca0d-8876-4eb7-b824-32b2149f32cd.jpg"
+      },
+      {
+        "FileName": "49367010-6265-4a9b-866b-b226af8c19f2.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2484234748",
+        "URL": "http://images.launchbox-app.com/49367010-6265-4a9b-866b-b226af8c19f2.jpg"
       }
     ],
     "Box": {
       "3D": [
-        {
-          "FileName": "59980168-9568-4321-8045-3ecc9ce90f04.png",
-          "Type": "Box - 3D",
-          "Region": "Europe",
-          "CRC32": "3370424096",
-          "URL": "http://images.launchbox-app.com/59980168-9568-4321-8045-3ecc9ce90f04.png"
-        },
         {
           "FileName": "89728c62-da4f-444b-ae22-71f6f1ff12cd.png",
           "Type": "Box - 3D",
           "Region": "North America",
           "CRC32": "2448208475",
           "URL": "http://images.launchbox-app.com/89728c62-da4f-444b-ae22-71f6f1ff12cd.png"
+        },
+        {
+          "FileName": "59980168-9568-4321-8045-3ecc9ce90f04.png",
+          "Type": "Box - 3D",
+          "Region": "Europe",
+          "CRC32": "3370424096",
+          "URL": "http://images.launchbox-app.com/59980168-9568-4321-8045-3ecc9ce90f04.png"
         }
       ],
       "Back": [
@@ -68,18 +68,18 @@
           "URL": "http://images.launchbox-app.com/615dfae5-b7ab-4bc1-918e-c7b94d524acb.jpg"
         },
         {
-          "FileName": "00b85ece-2c84-4f23-85db-27e48640169f.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
-          "CRC32": "2735384417",
-          "URL": "http://images.launchbox-app.com/00b85ece-2c84-4f23-85db-27e48640169f.jpg"
-        },
-        {
           "FileName": "be3bbbfb-6288-4961-acbf-c274b98e840a.jpg",
           "Type": "Box - Front",
           "Region": "World",
           "CRC32": "567148153",
           "URL": "http://images.launchbox-app.com/be3bbbfb-6288-4961-acbf-c274b98e840a.jpg"
+        },
+        {
+          "FileName": "00b85ece-2c84-4f23-85db-27e48640169f.jpg",
+          "Type": "Box - Front",
+          "Region": "Japan",
+          "CRC32": "2735384417",
+          "URL": "http://images.launchbox-app.com/00b85ece-2c84-4f23-85db-27e48640169f.jpg"
         }
       ],
       "Spine": [

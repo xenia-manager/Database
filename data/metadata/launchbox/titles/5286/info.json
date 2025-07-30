@@ -1,13 +1,13 @@
 {
   "Name": "NeverDead",
   "DatabaseID": "5286",
-  "ReleaseDate": "2012-01-31T00:00:00-08:00",
+  "ReleaseDate": "2012-01-31T00:00:00+00:00",
   "Overview": "NEVERDEAD begins in the waking hours of peace and calm, when the world is under threat of being consumed by a demonic plague. Centuries have passed since the world succumbed to an unforeseen shadow of evil, and a hero was made an immortal by demons. These demons have risen once again in the present day causing unrelenting mayhem reinforced by destructible environments within the game. Now using his immortalic regenerative powers re-assembling his own body to evade death, the hero carries out the only salvation the world will know, for he is Never Dead.",
   "VideoURL": "https://www.youtube.com/watch?v=_xKxoRVH2EA",
   "CommunityRating": "3.5",
   "WikipediaURL": "https://en.wikipedia.org/wiki/NeverDead",
   "ESRB": "M - Mature",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Rebellion Developments",
   "Publisher": "Konami",
   "Artwork": {
@@ -21,10 +21,10 @@
     ],
     "Background": [
       {
-        "FileName": "cce6ba39-5819-4f6b-8db9-5cdd4841b452.jpg",
+        "FileName": "32412936-4c4f-4ce1-af6d-80bcdf485e62.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3085578588",
-        "URL": "http://images.launchbox-app.com/cce6ba39-5819-4f6b-8db9-5cdd4841b452.jpg"
+        "CRC32": "4174142811",
+        "URL": "http://images.launchbox-app.com/32412936-4c4f-4ce1-af6d-80bcdf485e62.jpg"
       },
       {
         "FileName": "fc6fcb7e-3664-4e0a-9fac-1ed3faa862f0.jpg",
@@ -33,10 +33,10 @@
         "URL": "http://images.launchbox-app.com/fc6fcb7e-3664-4e0a-9fac-1ed3faa862f0.jpg"
       },
       {
-        "FileName": "32412936-4c4f-4ce1-af6d-80bcdf485e62.jpg",
+        "FileName": "cce6ba39-5819-4f6b-8db9-5cdd4841b452.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "4174142811",
-        "URL": "http://images.launchbox-app.com/32412936-4c4f-4ce1-af6d-80bcdf485e62.jpg"
+        "CRC32": "3085578588",
+        "URL": "http://images.launchbox-app.com/cce6ba39-5819-4f6b-8db9-5cdd4841b452.jpg"
       }
     ],
     "Box": {

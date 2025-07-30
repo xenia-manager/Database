@@ -1,11 +1,11 @@
 {
   "Name": "Caladrius",
   "DatabaseID": "203829",
-  "ReleaseDate": "2015-09-04T00:00:00-07:00",
+  "ReleaseDate": "2015-09-04T00:00:00+00:00",
   "Overview": "Caladrius Blaze is a vertical scrolling shooting game developed by Moss. Caladrius Blaze includes all the elements of Caladrius and Caladrius AC. It also includes extra content such as new stages, new story scenarios, new bosses and characters designed by Yasuda.",
   "CommunityRating": "3",
   "ESRB": "T - Teen",
-  "Genres": " Action; Shooter",
+  "Genres": "Action; Shooter",
   "Developer": "Moss",
   "Artwork": {
     "Banner": [
@@ -71,16 +71,16 @@
     ],
     "Screenshots": [
       {
-        "FileName": "1e763bd2-ebc3-4325-b29c-7f32463b86b3.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "324329947",
-        "URL": "http://images.launchbox-app.com/1e763bd2-ebc3-4325-b29c-7f32463b86b3.jpg"
-      },
-      {
         "FileName": "887f019d-ae83-4bda-92c9-cc7336e0c2a3.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "3056172493",
         "URL": "http://images.launchbox-app.com/887f019d-ae83-4bda-92c9-cc7336e0c2a3.jpg"
+      },
+      {
+        "FileName": "1e763bd2-ebc3-4325-b29c-7f32463b86b3.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "324329947",
+        "URL": "http://images.launchbox-app.com/1e763bd2-ebc3-4325-b29c-7f32463b86b3.jpg"
       }
     ],
     "Other": [

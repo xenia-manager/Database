@@ -1,12 +1,12 @@
 {
   "Name": "Ice Age: Continental Drift: Arctic Games",
   "DatabaseID": "13197",
-  "ReleaseDate": "2012-07-10T00:00:00-07:00",
+  "ReleaseDate": "2012-07-10T00:00:00+00:00",
   "Overview": "When their island is set adrift in the midst of continental upheaval, Manny and the herd encounter a ragtag menagerie of seafaring pirates with a secret treasure. Having trouble deciding on how to split the treasure evenly, they collectively decide to settle the problem through a series of off-the-wall sporting events including ski jumping, ice smashing, and glacial hopping. Ultimately, the winner of the most events will be entitled to the prize. As the prehistoric games begin, players must side with Manny and the herd, or the seafaring pirates to determine the fate of the riches.",
   "VideoURL": "http://www.youtube.com/watch?v=bjggTeyLKlM",
   "CommunityRating": "4",
   "ESRB": "E - Everyone",
-  "Genres": " Sports",
+  "Genres": "Sports",
   "Developer": "Behaviour Interactive",
   "Publisher": "Activision Publishing",
   "Artwork": {
@@ -39,18 +39,18 @@
     ],
     "Other": [
       {
-        "FileName": "ba28042b-e5ae-4161-8b66-8991bb7307b0.png",
-        "Type": "Clear Logo",
-        "Region": "Spain",
-        "CRC32": "1475654617",
-        "URL": "http://images.launchbox-app.com/ba28042b-e5ae-4161-8b66-8991bb7307b0.png"
-      },
-      {
         "FileName": "09ed361c-a99a-40cf-9959-c58737491bc4.png",
         "Type": "Clear Logo",
         "Region": "World",
         "CRC32": "1225387884",
         "URL": "http://images.launchbox-app.com/09ed361c-a99a-40cf-9959-c58737491bc4.png"
+      },
+      {
+        "FileName": "ba28042b-e5ae-4161-8b66-8991bb7307b0.png",
+        "Type": "Clear Logo",
+        "Region": "Spain",
+        "CRC32": "1475654617",
+        "URL": "http://images.launchbox-app.com/ba28042b-e5ae-4161-8b66-8991bb7307b0.png"
       }
     ]
   }

@@ -1,11 +1,11 @@
 {
   "Name": "Arcana Heart 3",
   "DatabaseID": "23563",
-  "ReleaseDate": "2011-04-19T00:00:00-07:00",
+  "ReleaseDate": "2011-04-19T00:00:00+00:00",
   "Overview": "A plucky cast of female fighters duke it out on a battlefield with the help of their \"Arcana\" spirit (who adds to the character's attacks and defense) in this third entry in the all-girls fighting franchise. Arcana Heart 3 combines fast-paced aerial action with a unique cast for an extraordinary fighting experience!\n\n\nChaos and disorder are threatening to rip apart the very fabric of Japanese society as planar rifts appear throughout the country. It is suspected that the Drexler Institute, the instigator of the Great War many years ago and creator of the Divine Celestial Weapon, is somehow involved. In the midst of this confusion, a mysterious rumor arises, claiming the existence of wish-granting \"Celestial Stones\" within the chaotic planar rifts. As a result of these rumors, a number of individuals have converged on Japan in the hopes of obtaining one of these fabled stones – either to seal them away or to see for themselves if rumor is true. Each person has their own reasons for seeking these rare and valuable stones, and they won't let anyone stand in their way, be they foe ... or friend.",
   "VideoURL": "https://www.youtube.com/watch?v=VUc-IZ-uHuk",
   "CommunityRating": "3.25",
-  "Genres": " Fighting",
+  "Genres": "Fighting",
   "Developer": "Examu",
   "Publisher": "Aksys Games Localization",
   "Artwork": {
@@ -88,6 +88,18 @@
     ],
     "Screenshots": [
       {
+        "FileName": "ab2d39c7-230f-47b0-9ce2-542fe4f2dfbc.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2436725225",
+        "URL": "http://images.launchbox-app.com/ab2d39c7-230f-47b0-9ce2-542fe4f2dfbc.jpg"
+      },
+      {
+        "FileName": "3635b939-0e4d-45fd-8cc3-71d05bb77d94.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1368726087",
+        "URL": "http://images.launchbox-app.com/3635b939-0e4d-45fd-8cc3-71d05bb77d94.jpg"
+      },
+      {
         "FileName": "2ca66114-242f-4c8d-82a1-0be055777042.jpg",
         "Type": "Screenshot - Game Select",
         "CRC32": "2664668226",
@@ -98,18 +110,6 @@
         "Type": "Screenshot - Game Title",
         "CRC32": "659953659",
         "URL": "http://images.launchbox-app.com/704b6053-bf1e-4cae-8cd6-5412af4cda87.jpg"
-      },
-      {
-        "FileName": "3635b939-0e4d-45fd-8cc3-71d05bb77d94.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1368726087",
-        "URL": "http://images.launchbox-app.com/3635b939-0e4d-45fd-8cc3-71d05bb77d94.jpg"
-      },
-      {
-        "FileName": "ab2d39c7-230f-47b0-9ce2-542fe4f2dfbc.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2436725225",
-        "URL": "http://images.launchbox-app.com/ab2d39c7-230f-47b0-9ce2-542fe4f2dfbc.jpg"
       }
     ],
     "Other": [

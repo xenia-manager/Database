@@ -1,11 +1,11 @@
 {
   "Name": "Just Dance Disney Party 2",
   "DatabaseID": "203851",
-  "ReleaseDate": "2015-10-20T00:00:00-07:00",
+  "ReleaseDate": "2015-10-20T00:00:00+00:00",
   "Overview": "Dance like the personalities from popular Disney Channel shows and movies.",
   "CommunityRating": "2",
   "ESRB": "E - Everyone",
-  "Genres": " Music",
+  "Genres": "Music",
   "Developer": "Now Productions",
   "Publisher": "Ubisoft",
   "Artwork": {

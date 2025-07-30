@@ -1,24 +1,24 @@
 {
   "Name": "Dead to Rights: Retribution",
   "DatabaseID": "892",
-  "ReleaseDate": "2010-04-27T00:00:00-07:00",
+  "ReleaseDate": "2010-04-27T00:00:00+00:00",
   "Overview": "Dead to Rights: Retribution is a 2010 third-person action video game. It is the reboot of the Dead to Rights franchise featuring Grant City police officer Jack Slate and his canine companion Shadow. Developed by Volatile Games and published by Bandai Namco Games for the Xbox 360 and PlayStation 3, the game was released on April 2010. This marks the series' first outing onto consoles in almost four years.[2][3]",
-  "CommunityRating": "3.5909090909090908",
+  "CommunityRating": "3.59090909090909",
   "ESRB": "M - Mature",
   "Genres": null,
   "Artwork": {
     "Background": [
       {
-        "FileName": "02755625-63f0-44b4-acb2-9755e2b41a4b.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2332554600",
-        "URL": "http://images.launchbox-app.com/02755625-63f0-44b4-acb2-9755e2b41a4b.jpg"
-      },
-      {
         "FileName": "d54f15d6-2d61-4515-8a6c-1885eea2060e.jpg",
         "Type": "Fanart - Background",
         "CRC32": "2842523354",
         "URL": "http://images.launchbox-app.com/d54f15d6-2d61-4515-8a6c-1885eea2060e.jpg"
+      },
+      {
+        "FileName": "02755625-63f0-44b4-acb2-9755e2b41a4b.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2332554600",
+        "URL": "http://images.launchbox-app.com/02755625-63f0-44b4-acb2-9755e2b41a4b.jpg"
       }
     ],
     "Box": {
@@ -42,18 +42,18 @@
       ],
       "Front": [
         {
-          "FileName": "18b8221e-ffcf-427a-823f-54d57b69680d.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "1541115228",
-          "URL": "http://images.launchbox-app.com/18b8221e-ffcf-427a-823f-54d57b69680d.jpg"
-        },
-        {
           "FileName": "acd17edb-53ea-4157-8802-e08f5f56f6ef.jpg",
           "Type": "Box - Front",
           "Region": "North America",
           "CRC32": "3679314887",
           "URL": "http://images.launchbox-app.com/acd17edb-53ea-4157-8802-e08f5f56f6ef.jpg"
+        },
+        {
+          "FileName": "18b8221e-ffcf-427a-823f-54d57b69680d.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "1541115228",
+          "URL": "http://images.launchbox-app.com/18b8221e-ffcf-427a-823f-54d57b69680d.jpg"
         }
       ],
       "Spine": [

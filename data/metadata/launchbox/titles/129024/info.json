@@ -1,11 +1,11 @@
 {
   "Name": "Dungeons & Dragons: Daggerdale",
   "DatabaseID": "129024",
-  "ReleaseDate": "2011-05-25T00:00:00-07:00",
+  "ReleaseDate": "2011-05-25T00:00:00+00:00",
   "Overview": "Daggerdale features third person real-time tactics combat, questing, character development, and exploration.\nTwo modes, campaign and freeplay, have been announced. Single and multiplayer modes also exist for the game, including split-screen multiplayer for up to four players. While some gameplay elements were borrowed from Baldur's Gate: Dark Alliance, developers stated that this was only the linear part of the game and that the gameplay was inspired from Dungeons & Dragons: Heroes.\n\nThe game makes use of the four main D&D character classes: clerics, rogues, wizards and fighters, as well as the four main races, dwarves, elves, halflings and humans. Some customization of the characters is provided as a player earns experience in the game, and character progression advances as per a limited set of 4th Edition Dungeons and Dragons rules for both class and race. Further customization is achieved through loot and equipment drops. Character level advancement is currently limited to level 10.",
-  "CommunityRating": "3.5833333333333335",
+  "CommunityRating": "3.58333333333333",
   "ESRB": "T - Teen",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Bedlam Games",
   "Publisher": "Atari",
   "Artwork": {
@@ -47,6 +47,18 @@
     },
     "Screenshots": [
       {
+        "FileName": "cc19e4bd-1ec3-4cde-be97-58006ae78f82.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3045017255",
+        "URL": "http://images.launchbox-app.com/cc19e4bd-1ec3-4cde-be97-58006ae78f82.jpg"
+      },
+      {
+        "FileName": "28d860e9-38a7-4562-aedb-e729fe0248ea.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "420961886",
+        "URL": "http://images.launchbox-app.com/28d860e9-38a7-4562-aedb-e729fe0248ea.jpg"
+      },
+      {
         "FileName": "88353b52-d225-4d29-8fc5-4af46ec46a3e.jpg",
         "Type": "Screenshot - Game Select",
         "CRC32": "1892019119",
@@ -57,18 +69,6 @@
         "Type": "Screenshot - Game Title",
         "CRC32": "1627020875",
         "URL": "http://images.launchbox-app.com/4c23c6d4-9c59-447c-90dc-70f8ac22b0e8.jpg"
-      },
-      {
-        "FileName": "28d860e9-38a7-4562-aedb-e729fe0248ea.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "420961886",
-        "URL": "http://images.launchbox-app.com/28d860e9-38a7-4562-aedb-e729fe0248ea.jpg"
-      },
-      {
-        "FileName": "cc19e4bd-1ec3-4cde-be97-58006ae78f82.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3045017255",
-        "URL": "http://images.launchbox-app.com/cc19e4bd-1ec3-4cde-be97-58006ae78f82.jpg"
       }
     ],
     "Other": [

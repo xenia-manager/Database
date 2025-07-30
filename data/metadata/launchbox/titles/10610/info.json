@@ -1,11 +1,11 @@
 {
   "Name": "Infernal: Hell's Vengeance",
   "DatabaseID": "10610",
-  "ReleaseDate": "2007-05-08T00:00:00-07:00",
+  "ReleaseDate": "2007-05-08T00:00:00+00:00",
   "Overview": "Infernal is a modern-style third person shooter, with major first-person shooter influences. Players control protagonist, Ryan Lennox, a former agent of light turned dark by unfortunate circumstances who has access to a number of unique demonic powers, including pyrokinesis, teleportation, and the ability to feed on the souls of fallen enemies.",
   "CommunityRating": "2.875",
   "ESRB": "M - Mature",
-  "Genres": " Action; Adventure",
+  "Genres": "Action; Adventure",
   "Developer": "Metropolis Software House",
   "Publisher": "Playlogic International",
   "Artwork": {
@@ -60,18 +60,18 @@
       ],
       "Front": [
         {
-          "FileName": "7a197421-2fe3-43df-bc29-d3e0678f8440.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "2683706517",
-          "URL": "http://images.launchbox-app.com/7a197421-2fe3-43df-bc29-d3e0678f8440.jpg"
-        },
-        {
           "FileName": "fa6536cc-f459-4e20-804d-4cd6721655f1.png",
           "Type": "Box - Front",
           "Region": "United States",
           "CRC32": "590660179",
           "URL": "http://images.launchbox-app.com/fa6536cc-f459-4e20-804d-4cd6721655f1.png"
+        },
+        {
+          "FileName": "7a197421-2fe3-43df-bc29-d3e0678f8440.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "2683706517",
+          "URL": "http://images.launchbox-app.com/7a197421-2fe3-43df-bc29-d3e0678f8440.jpg"
         }
       ],
       "Spine": [
@@ -86,21 +86,27 @@
     },
     "Disc": [
       {
-        "FileName": "b1e3a3bc-fd25-430d-ab67-e8258fd0400a.png",
-        "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "3909155123",
-        "URL": "http://images.launchbox-app.com/b1e3a3bc-fd25-430d-ab67-e8258fd0400a.png"
-      },
-      {
         "FileName": "1f71d8f9-1450-415b-a763-5598fc61468d.png",
         "Type": "Disc",
         "Region": "North America",
         "CRC32": "2055943174",
         "URL": "http://images.launchbox-app.com/1f71d8f9-1450-415b-a763-5598fc61468d.png"
+      },
+      {
+        "FileName": "b1e3a3bc-fd25-430d-ab67-e8258fd0400a.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "3909155123",
+        "URL": "http://images.launchbox-app.com/b1e3a3bc-fd25-430d-ab67-e8258fd0400a.png"
       }
     ],
     "Screenshots": [
+      {
+        "FileName": "843d5daa-adeb-4054-8f69-daa8fb004d58.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2374351288",
+        "URL": "http://images.launchbox-app.com/843d5daa-adeb-4054-8f69-daa8fb004d58.jpg"
+      },
       {
         "FileName": "0fb8510e-e682-47d0-81fe-7772ec8c242e.jpg",
         "Type": "Screenshot - Game Select",
@@ -112,12 +118,6 @@
         "Type": "Screenshot - Game Title",
         "CRC32": "3186674350",
         "URL": "http://images.launchbox-app.com/946d4ed0-1070-4cd2-ad41-08f84a4ad48b.jpg"
-      },
-      {
-        "FileName": "843d5daa-adeb-4054-8f69-daa8fb004d58.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2374351288",
-        "URL": "http://images.launchbox-app.com/843d5daa-adeb-4054-8f69-daa8fb004d58.jpg"
       }
     ],
     "Other": [

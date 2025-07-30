@@ -1,11 +1,11 @@
 {
   "Name": "Poker Smash",
   "DatabaseID": "209792",
-  "ReleaseDate": "2008-02-06T00:00:00-08:00",
+  "ReleaseDate": "2008-02-06T00:00:00+00:00",
   "Overview": "Unlock the full version of Poker Smash to experience seven unique game modes, eleven immersive environments, next-gen 3D graphics, original music, and innovative gameplay. Hone your skills, earn achievements, show off your prowess in LIVE multiplayer tournaments, compete with your friends, and see how you stack up in the Poker Smash community!",
   "CommunityRating": "3.5",
   "ESRB": "E - Everyone",
-  "Genres": " Puzzle",
+  "Genres": "Puzzle",
   "Developer": "Void Star Creations",
   "Artwork": {
     "Box": {

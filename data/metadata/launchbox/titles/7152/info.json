@@ -1,13 +1,13 @@
 {
   "Name": "Bullet Witch",
   "DatabaseID": "7152",
-  "ReleaseDate": "2007-02-27T00:00:00-08:00",
+  "ReleaseDate": "2007-02-27T00:00:00+00:00",
   "Overview": "At first, we thought she was one of them - a woman in black, with a long gun like a witch's broom and the magical powers to match. Survivors whispered her stories in the alleyways: stories of battles so intense that they leveled whole city blocks, during which she mowed down entire demon regiments with flaming bullets, then shared her own blood to save the wounded. They say she can summon clouds of ravens, call up thorns from the ground, and even conjure up lightning and tornadoes at will. \n\nMaybe she flew down from Heaven. Maybe Hell spat her back out. Either way, she's all we've got. \n\nBullet Witch is set on a bleak Earth, in the year 2013. The human race is almost extinct as hideous demons and monsters dominate the planet. It's been decided that only a combination of ancient and modern combat can beat the creatures. Alicia is a highly-trained soldier who also knows ancient magic. The fate of the human race is in her hands as she ventures into the world of monsters and fights them with her mix of magical arts and military equipment. Manage Alicia's health & magic meters to avoid running out of ammo or power - be strategic & play it safe, or the world dies with her.",
   "VideoURL": "https://www.youtube.com/watch?v=k9g5nccu0FU",
   "CommunityRating": "3.5",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Bullet_Witch",
   "ESRB": "M - Mature",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "Cavia",
   "Publisher": "Atari",
   "Artwork": {
@@ -102,16 +102,16 @@
         "URL": "http://images.launchbox-app.com/c8fda207-77fb-403c-8a4d-72846ac1d5ec.jpg"
       },
       {
-        "FileName": "b4192400-7ae6-49a2-b772-801f28b80d8e.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2121424416",
-        "URL": "http://images.launchbox-app.com/b4192400-7ae6-49a2-b772-801f28b80d8e.jpg"
-      },
-      {
         "FileName": "90517a4c-b1a0-4313-bfb7-5a54d1d4a1cc.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "4108040038",
         "URL": "http://images.launchbox-app.com/90517a4c-b1a0-4313-bfb7-5a54d1d4a1cc.jpg"
+      },
+      {
+        "FileName": "b4192400-7ae6-49a2-b772-801f28b80d8e.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2121424416",
+        "URL": "http://images.launchbox-app.com/b4192400-7ae6-49a2-b772-801f28b80d8e.jpg"
       }
     ],
     "Other": [

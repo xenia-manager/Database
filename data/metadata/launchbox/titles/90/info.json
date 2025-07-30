@@ -1,28 +1,28 @@
 {
   "Name": "Halo 3",
   "DatabaseID": "90",
-  "ReleaseDate": "2007-09-25T00:00:00-07:00",
+  "ReleaseDate": "2007-09-25T00:00:00+00:00",
   "Overview": "Master Chief returns to a Covenant Dominated Earth on a mission to kill the final alien leader. Meanwhile, the Arbiter, Johnson, and Keyes form a loose alliance and escape from Delta Halo. The Covenant is ripped in civil war, and the Elites along with a handful of other alien races become sympathetic to the human cause. Delta Halo's impromptu dis-activation has brought all of the Halos to a \"remote activation phase\". They can be activated from a facility called the ark, which happens to be on Earth.",
   "VideoURL": "https://www.youtube.com/watch?v=1guNxg8RA3c",
   "CommunityRating": "4.45253164556962",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Halo_3",
   "ESRB": "M - Mature",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "Bungie",
   "Publisher": "Microsoft Game Studios",
   "Artwork": {
     "Background": [
       {
-        "FileName": "9661293e-6774-4fda-8f24-798be8015314.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "612721478",
-        "URL": "http://images.launchbox-app.com/9661293e-6774-4fda-8f24-798be8015314.jpg"
-      },
-      {
         "FileName": "51657e44-c076-41d9-b335-78af4c8b5bb2.jpg",
         "Type": "Fanart - Background",
         "CRC32": "3052958489",
         "URL": "http://images.launchbox-app.com/51657e44-c076-41d9-b335-78af4c8b5bb2.jpg"
+      },
+      {
+        "FileName": "9661293e-6774-4fda-8f24-798be8015314.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "612721478",
+        "URL": "http://images.launchbox-app.com/9661293e-6774-4fda-8f24-798be8015314.jpg"
       }
     ],
     "Box": {
@@ -37,18 +37,18 @@
       ],
       "Back": [
         {
-          "FileName": "847bf3ad-2949-44d3-84e4-68b664dac7bf.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
-          "CRC32": "3036935026",
-          "URL": "http://images.launchbox-app.com/847bf3ad-2949-44d3-84e4-68b664dac7bf.jpg"
-        },
-        {
           "FileName": "cfa94113-0013-4032-b9ce-0b2e6b1bd1ca.png",
           "Type": "Box - Back",
           "Region": "Korea",
           "CRC32": "3137596239",
           "URL": "http://images.launchbox-app.com/cfa94113-0013-4032-b9ce-0b2e6b1bd1ca.png"
+        },
+        {
+          "FileName": "847bf3ad-2949-44d3-84e4-68b664dac7bf.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "3036935026",
+          "URL": "http://images.launchbox-app.com/847bf3ad-2949-44d3-84e4-68b664dac7bf.jpg"
         }
       ],
       "Front": [
@@ -76,38 +76,50 @@
       ],
       "Spine": [
         {
-          "FileName": "7c1a637f-26c0-44c7-8922-ecb9ce602f3a.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
-          "CRC32": "3769771119",
-          "URL": "http://images.launchbox-app.com/7c1a637f-26c0-44c7-8922-ecb9ce602f3a.jpg"
-        },
-        {
           "FileName": "fa581adc-0ce3-432e-9793-1e67200a3d6c.png",
           "Type": "Box - Spine",
           "Region": "Korea",
           "CRC32": "1790216638",
           "URL": "http://images.launchbox-app.com/fa581adc-0ce3-432e-9793-1e67200a3d6c.png"
+        },
+        {
+          "FileName": "7c1a637f-26c0-44c7-8922-ecb9ce602f3a.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "3769771119",
+          "URL": "http://images.launchbox-app.com/7c1a637f-26c0-44c7-8922-ecb9ce602f3a.jpg"
         }
       ]
     },
     "Disc": [
-      {
-        "FileName": "6687fd2b-ca34-49da-b647-bda347f6387f.png",
-        "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "1454205661",
-        "URL": "http://images.launchbox-app.com/6687fd2b-ca34-49da-b647-bda347f6387f.png"
-      },
       {
         "FileName": "57286922-ce09-4da9-9ef8-8dbe567bbbb5.png",
         "Type": "Disc",
         "Region": "Korea",
         "CRC32": "1084013176",
         "URL": "http://images.launchbox-app.com/57286922-ce09-4da9-9ef8-8dbe567bbbb5.png"
+      },
+      {
+        "FileName": "6687fd2b-ca34-49da-b647-bda347f6387f.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1454205661",
+        "URL": "http://images.launchbox-app.com/6687fd2b-ca34-49da-b647-bda347f6387f.png"
       }
     ],
     "Screenshots": [
+      {
+        "FileName": "90d44914-d2b9-4e43-84e4-012605db0f3c.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1984112993",
+        "URL": "http://images.launchbox-app.com/90d44914-d2b9-4e43-84e4-012605db0f3c.jpg"
+      },
+      {
+        "FileName": "87b1c4b3-2f0e-4e0c-884a-877caa553300.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "736155148",
+        "URL": "http://images.launchbox-app.com/87b1c4b3-2f0e-4e0c-884a-877caa553300.jpg"
+      },
       {
         "FileName": "b17abe7b-7b0e-4353-9055-5876911df6d5.jpg",
         "Type": "Screenshot - Game Select",
@@ -120,18 +132,6 @@
         "Region": "North America",
         "CRC32": "4231024732",
         "URL": "http://images.launchbox-app.com/24d75810-353e-4a26-bd22-23741ae58e69.jpg"
-      },
-      {
-        "FileName": "87b1c4b3-2f0e-4e0c-884a-877caa553300.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "736155148",
-        "URL": "http://images.launchbox-app.com/87b1c4b3-2f0e-4e0c-884a-877caa553300.jpg"
-      },
-      {
-        "FileName": "90d44914-d2b9-4e43-84e4-012605db0f3c.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1984112993",
-        "URL": "http://images.launchbox-app.com/90d44914-d2b9-4e43-84e4-012605db0f3c.jpg"
       }
     ],
     "Other": [

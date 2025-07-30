@@ -1,12 +1,12 @@
 {
   "Name": "Rockstar Games Presents Table Tennis",
   "DatabaseID": "15101",
-  "ReleaseDate": "2006-05-23T00:00:00-07:00",
+  "ReleaseDate": "2006-05-23T00:00:00+00:00",
   "Overview": "Rockstar Games Presents Table Tennis is a table tennis simulation video game developed by Rockstar San Diego and published by Rockstar Games. The game was first released for the Xbox 360 on May 23, 2006 in North America, and on May 26, 2006 in Europe. It was later released for the Wii on October 17, 2007 in North America, and on October 19, 2007 in Europe. The game is a realistic simulation of the sport table tennis, with the main objective to make the opponent fail to hit the ball.\n\nThe game features various methods of serving and returning the ball, designed for players to beat their opponent. Players can compete against the game's artificial intelligence, while the game's multiplayer mode lets two players compete in matches, either through local multiplayer or online. Initially developed specifically for the Xbox 360 console, the development team took advantage of the hardware's graphical power, allowing the game to play at a faster pace than with previous hardware. The game was the first to be developed using Rockstar's proprietary Rockstar Advanced Game Engine, later used in games such as Grand Theft Auto IV and Red Dead Redemption.\n\nIts announcement in March 2006 led to confusion and surprise, due to its significantly different style from Rockstar's previous projects. It received generally positive reviews upon release, with praise particularly directed at its simplicity, replayability and detailed visuals.",
   "CommunityRating": "3.5",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Rockstar_Games_Presents_Table_Tennis",
   "ESRB": "E - Everyone",
-  "Genres": " Sports",
+  "Genres": "Sports",
   "Developer": "Rockstar San Diego",
   "Publisher": "Rockstar Games",
   "Artwork": {
@@ -22,11 +22,11 @@
       ],
       "Back": [
         {
-          "FileName": "3781b843-df2f-44f8-aefc-3d2c901a0a88.jpg",
+          "FileName": "6fc74b5b-7a4d-4e84-9649-3b334c392deb.jpg",
           "Type": "Box - Back",
-          "Region": "Australia",
-          "CRC32": "1187276212",
-          "URL": "http://images.launchbox-app.com/3781b843-df2f-44f8-aefc-3d2c901a0a88.jpg"
+          "Region": "Europe",
+          "CRC32": "3165503525",
+          "URL": "http://images.launchbox-app.com/6fc74b5b-7a4d-4e84-9649-3b334c392deb.jpg"
         },
         {
           "FileName": "2c0dc90c-c066-4776-9873-77b73494f98f.jpg",
@@ -36,11 +36,11 @@
           "URL": "http://images.launchbox-app.com/2c0dc90c-c066-4776-9873-77b73494f98f.jpg"
         },
         {
-          "FileName": "6fc74b5b-7a4d-4e84-9649-3b334c392deb.jpg",
+          "FileName": "3781b843-df2f-44f8-aefc-3d2c901a0a88.jpg",
           "Type": "Box - Back",
-          "Region": "Europe",
-          "CRC32": "3165503525",
-          "URL": "http://images.launchbox-app.com/6fc74b5b-7a4d-4e84-9649-3b334c392deb.jpg"
+          "Region": "Australia",
+          "CRC32": "1187276212",
+          "URL": "http://images.launchbox-app.com/3781b843-df2f-44f8-aefc-3d2c901a0a88.jpg"
         }
       ],
       "Front": [
@@ -68,18 +68,18 @@
       ],
       "Spine": [
         {
-          "FileName": "089fdf42-f388-4dc3-a05c-51452ad60a5e.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
-          "CRC32": "2054511564",
-          "URL": "http://images.launchbox-app.com/089fdf42-f388-4dc3-a05c-51452ad60a5e.jpg"
-        },
-        {
           "FileName": "9b43a9fe-853a-4d43-9b93-4f6e7479f5d5.jpg",
           "Type": "Box - Spine",
           "Region": "Australia",
           "CRC32": "1317559040",
           "URL": "http://images.launchbox-app.com/9b43a9fe-853a-4d43-9b93-4f6e7479f5d5.jpg"
+        },
+        {
+          "FileName": "089fdf42-f388-4dc3-a05c-51452ad60a5e.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "2054511564",
+          "URL": "http://images.launchbox-app.com/089fdf42-f388-4dc3-a05c-51452ad60a5e.jpg"
         },
         {
           "FileName": "bb079d0e-99f6-4224-999b-1960816f27e7.jpg",

@@ -1,13 +1,13 @@
 {
   "Name": "The Simpsons Game",
   "DatabaseID": "10925",
-  "ReleaseDate": "2007-10-30T00:00:00-07:00",
+  "ReleaseDate": "2007-10-30T00:00:00+00:00",
   "Overview": "The Simpsons Game is based on the animated television series The Simpsons. It features an original storyline written by Tim Long, Matt Selman, and Matt Warburton. In the self-referential plot, the family discovers that they are forced to participate in another The Simpsons video game.",
   "VideoURL": "https://www.youtube.com/watch?v=PGlzCaV_0aA",
-  "CommunityRating": "3.6590909090909092",
+  "CommunityRating": "3.65909090909091",
   "WikipediaURL": "https://en.wikipedia.org/wiki/The_Simpsons_Game",
   "ESRB": "T - Teen",
-  "Genres": " Action; Platform",
+  "Genres": "Action; Platform",
   "Developer": "Electronic Arts Redwood Shores Studio",
   "Publisher": "Electronic Arts",
   "Artwork": {
@@ -20,6 +20,12 @@
       }
     ],
     "Background": [
+      {
+        "FileName": "dca1e7ea-2b06-4c51-b47e-ac3fafce2599.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3692419813",
+        "URL": "http://images.launchbox-app.com/dca1e7ea-2b06-4c51-b47e-ac3fafce2599.jpg"
+      },
       {
         "FileName": "86a59713-2a8f-4f21-b4d8-073de0032837.jpg",
         "Type": "Fanart - Background",
@@ -37,12 +43,6 @@
         "Type": "Fanart - Background",
         "CRC32": "548034814",
         "URL": "http://images.launchbox-app.com/564e4d04-e9e2-48f4-bf53-38bab358ec39.png"
-      },
-      {
-        "FileName": "dca1e7ea-2b06-4c51-b47e-ac3fafce2599.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "3692419813",
-        "URL": "http://images.launchbox-app.com/dca1e7ea-2b06-4c51-b47e-ac3fafce2599.jpg"
       }
     ],
     "Box": {
@@ -66,18 +66,18 @@
       ],
       "Front": [
         {
-          "FileName": "4765a512-dd06-4337-8b81-24df6f3a38b6.jpg",
-          "Type": "Box - Front",
-          "Region": "Spain",
-          "CRC32": "3743693269",
-          "URL": "http://images.launchbox-app.com/4765a512-dd06-4337-8b81-24df6f3a38b6.jpg"
-        },
-        {
           "FileName": "1fba8732-adf7-49cf-b3d2-839914521980.jpg",
           "Type": "Box - Front",
           "Region": "North America",
           "CRC32": "1406667533",
           "URL": "http://images.launchbox-app.com/1fba8732-adf7-49cf-b3d2-839914521980.jpg"
+        },
+        {
+          "FileName": "4765a512-dd06-4337-8b81-24df6f3a38b6.jpg",
+          "Type": "Box - Front",
+          "Region": "Spain",
+          "CRC32": "3743693269",
+          "URL": "http://images.launchbox-app.com/4765a512-dd06-4337-8b81-24df6f3a38b6.jpg"
         }
       ]
     },
@@ -92,16 +92,28 @@
     ],
     "Screenshots": [
       {
-        "FileName": "9abd97cd-59b8-4dce-bc36-a4e1ed27f4b7.jpg",
-        "Type": "Screenshot - Game Select",
-        "CRC32": "225035015",
-        "URL": "http://images.launchbox-app.com/9abd97cd-59b8-4dce-bc36-a4e1ed27f4b7.jpg"
+        "FileName": "527823f2-ebb7-4090-aca7-7c5cfaafc146.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1370608253",
+        "URL": "http://images.launchbox-app.com/527823f2-ebb7-4090-aca7-7c5cfaafc146.jpg"
       },
       {
-        "FileName": "cfd65265-674d-4d4a-9595-7e36c6bf888a.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "372098416",
-        "URL": "http://images.launchbox-app.com/cfd65265-674d-4d4a-9595-7e36c6bf888a.jpg"
+        "FileName": "975825a8-c64c-4a3d-9a1b-8377f9f06e50.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2408219541",
+        "URL": "http://images.launchbox-app.com/975825a8-c64c-4a3d-9a1b-8377f9f06e50.jpg"
+      },
+      {
+        "FileName": "e8d8323c-1391-4434-9b06-c8f0acdb064a.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2366803893",
+        "URL": "http://images.launchbox-app.com/e8d8323c-1391-4434-9b06-c8f0acdb064a.jpg"
+      },
+      {
+        "FileName": "acd79ced-05df-41f1-8157-268190a67179.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "4124625702",
+        "URL": "http://images.launchbox-app.com/acd79ced-05df-41f1-8157-268190a67179.jpg"
       },
       {
         "FileName": "606e16d7-25dd-4ae4-a592-21b5cd151721.jpg",
@@ -116,28 +128,16 @@
         "URL": "http://images.launchbox-app.com/ef4a97c8-9b91-4e73-9e00-e5ffcc7a5b00.jpg"
       },
       {
-        "FileName": "527823f2-ebb7-4090-aca7-7c5cfaafc146.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1370608253",
-        "URL": "http://images.launchbox-app.com/527823f2-ebb7-4090-aca7-7c5cfaafc146.jpg"
+        "FileName": "9abd97cd-59b8-4dce-bc36-a4e1ed27f4b7.jpg",
+        "Type": "Screenshot - Game Select",
+        "CRC32": "225035015",
+        "URL": "http://images.launchbox-app.com/9abd97cd-59b8-4dce-bc36-a4e1ed27f4b7.jpg"
       },
       {
-        "FileName": "e8d8323c-1391-4434-9b06-c8f0acdb064a.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2366803893",
-        "URL": "http://images.launchbox-app.com/e8d8323c-1391-4434-9b06-c8f0acdb064a.jpg"
-      },
-      {
-        "FileName": "975825a8-c64c-4a3d-9a1b-8377f9f06e50.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2408219541",
-        "URL": "http://images.launchbox-app.com/975825a8-c64c-4a3d-9a1b-8377f9f06e50.jpg"
-      },
-      {
-        "FileName": "acd79ced-05df-41f1-8157-268190a67179.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "4124625702",
-        "URL": "http://images.launchbox-app.com/acd79ced-05df-41f1-8157-268190a67179.jpg"
+        "FileName": "cfd65265-674d-4d4a-9595-7e36c6bf888a.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "372098416",
+        "URL": "http://images.launchbox-app.com/cfd65265-674d-4d4a-9595-7e36c6bf888a.jpg"
       }
     ],
     "Other": [

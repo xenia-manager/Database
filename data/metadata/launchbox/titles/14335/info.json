@@ -1,11 +1,11 @@
 {
   "Name": "Capcom Digital Collection",
   "DatabaseID": "14335",
-  "ReleaseDate": "2012-03-27T00:00:00-07:00",
+  "ReleaseDate": "2012-03-27T00:00:00+00:00",
   "Overview": "Capcom Digital Collection is a compilation of arcade games released by Capcom for the Xbox 360. The game was released on March 27, 2012 in North America and March 30, 2012 in Europe.\n\n \nThe collection features eight games previously available via Xbox Live Arcade for Xbox 360.\n\n\n 1.Super Street Fighter II Turbo HD Remix,\n 2.Final Fight: Double Impact,\n 3.Super Puzzle Fighter II Turbo HD Remix,\n 4.1942: Joint Strike,\n 5.Bionic Commando Rearmed 2,\n 6.Flock!,\n 7.Rocketmen: Axis of Evil including Rocketmen : It Came From Uranus expansion,\n 8.Wolf of the Battlefield: Commando 3",
-  "CommunityRating": "4.8571428571428568",
+  "CommunityRating": "4.85714285714286",
   "ESRB": "T - Teen",
-  "Genres": " Compilation",
+  "Genres": "Compilation",
   "Developer": "Capcom",
   "Publisher": "Capcom",
   "Artwork": {
@@ -28,18 +28,18 @@
     "Box": {
       "Back": [
         {
-          "FileName": "ef45fc3c-cdde-45d9-a263-e5411b4aeee3.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
-          "CRC32": "2768616315",
-          "URL": "http://images.launchbox-app.com/ef45fc3c-cdde-45d9-a263-e5411b4aeee3.jpg"
-        },
-        {
           "FileName": "1c6d6665-fc37-4de2-b95f-ae5d30f620f6.jpg",
           "Type": "Box - Back",
           "Region": "Germany",
           "CRC32": "3616372225",
           "URL": "http://images.launchbox-app.com/1c6d6665-fc37-4de2-b95f-ae5d30f620f6.jpg"
+        },
+        {
+          "FileName": "ef45fc3c-cdde-45d9-a263-e5411b4aeee3.jpg",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "2768616315",
+          "URL": "http://images.launchbox-app.com/ef45fc3c-cdde-45d9-a263-e5411b4aeee3.jpg"
         },
         {
           "FileName": "197636a1-c775-44a6-979f-2debfbc92566.jpg",
@@ -81,11 +81,11 @@
       ],
       "Spine": [
         {
-          "FileName": "84bbb49c-8070-4fa8-970f-5a759641b12a.jpg",
+          "FileName": "8edd1fd1-9c0e-44d5-8f0a-f762d47a26be.jpg",
           "Type": "Box - Spine",
-          "Region": "Germany",
-          "CRC32": "1889657758",
-          "URL": "http://images.launchbox-app.com/84bbb49c-8070-4fa8-970f-5a759641b12a.jpg"
+          "Region": "North America",
+          "CRC32": "2608959548",
+          "URL": "http://images.launchbox-app.com/8edd1fd1-9c0e-44d5-8f0a-f762d47a26be.jpg"
         },
         {
           "FileName": "471f9492-17b7-450a-8119-78a045727ba7.jpg",
@@ -95,11 +95,11 @@
           "URL": "http://images.launchbox-app.com/471f9492-17b7-450a-8119-78a045727ba7.jpg"
         },
         {
-          "FileName": "8edd1fd1-9c0e-44d5-8f0a-f762d47a26be.jpg",
+          "FileName": "84bbb49c-8070-4fa8-970f-5a759641b12a.jpg",
           "Type": "Box - Spine",
-          "Region": "North America",
-          "CRC32": "2608959548",
-          "URL": "http://images.launchbox-app.com/8edd1fd1-9c0e-44d5-8f0a-f762d47a26be.jpg"
+          "Region": "Germany",
+          "CRC32": "1889657758",
+          "URL": "http://images.launchbox-app.com/84bbb49c-8070-4fa8-970f-5a759641b12a.jpg"
         }
       ]
     },
@@ -112,18 +112,18 @@
         "URL": "http://images.launchbox-app.com/42372850-aa55-45ad-982d-ca684527663c.png"
       },
       {
-        "FileName": "5b990aa6-983b-4e51-82d8-dc9bb244d199.png",
-        "Type": "Disc",
-        "Region": "Europe",
-        "CRC32": "3596242059",
-        "URL": "http://images.launchbox-app.com/5b990aa6-983b-4e51-82d8-dc9bb244d199.png"
-      },
-      {
         "FileName": "23a7fcb0-122f-4549-ab3d-4f426ac212f6.png",
         "Type": "Disc",
         "Region": "North America",
         "CRC32": "2958209702",
         "URL": "http://images.launchbox-app.com/23a7fcb0-122f-4549-ab3d-4f426ac212f6.png"
+      },
+      {
+        "FileName": "5b990aa6-983b-4e51-82d8-dc9bb244d199.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "3596242059",
+        "URL": "http://images.launchbox-app.com/5b990aa6-983b-4e51-82d8-dc9bb244d199.png"
       }
     ],
     "Other": [

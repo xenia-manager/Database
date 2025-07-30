@@ -1,12 +1,12 @@
 {
   "Name": "Tiger Woods PGA Tour 08",
   "DatabaseID": "7690",
-  "ReleaseDate": "2007-08-28T00:00:00-07:00",
+  "ReleaseDate": "2007-08-28T00:00:00+00:00",
   "Overview": "Tiger Woods PGA Tour 08 is the fourth-to-latest Tiger Woods golfing video game in the PGA Tour series from Electronic Arts. It was released in North America on August 28, 2007 for multiple platforms except the Mac version, which was released on September 1.",
   "VideoURL": "http://www.youtube.com/watch?v=jUcdeH6xNc4",
   "CommunityRating": "1.75",
   "ESRB": "E - Everyone",
-  "Genres": " Sports",
+  "Genres": "Sports",
   "Developer": "Electronic Arts Tiburon",
   "Publisher": "Electronic Arts",
   "Artwork": {

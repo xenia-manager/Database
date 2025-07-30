@@ -1,11 +1,11 @@
 {
   "Name": "LEGO Harry Potter: Years 1-4",
   "DatabaseID": "10871",
-  "ReleaseDate": "2010-06-29T00:00:00-07:00",
+  "ReleaseDate": "2010-06-29T00:00:00+00:00",
   "Overview": "LEGO Harry Potter: Years 1-4 is the first installment of the Harry Potter series in LEGO form. Spanning the first four years of the Harry Potter franchise, players take control of a wide variety of characters and relive famous moments from the first four books; Sorcerer's Stone, Chamber of Secrets, Prisoner of Azkaban, and Goblet of Fire. Almost all of the game takes place inside Hogwarts.\n\nThe Story mode is broken up into four years with six chapter per year. When you first play story mode you are required to play as certain characters that are part of that story and you cannot choose any character from the entire series. But once you beat that chapter a Free Mode is unlocked, allowing you to pick any unlocked character and replay that story. All story chapters and years can be accessed in The Leaky Cauldron which acts as the central hub in the game. The entire environment allows for continuous play and most places can be revisited at any time. Many of the characters' interactions change however based on the time of year, or when certain characters are introduced such as the Dementors or Gilderoy Lockhart.\n\nOutside of The Leaky Cauldron is Diagon Alley. In Diagon Alley you can head to other stores to obtain items and supplies. At Madam Malkin's Robes you can spend all of your hard earned studs (the currency) to buy new characters. At Eeylops Eye Emporium you can head upstairs and buy Red Bricks which contain cheat codes of sorts to use. And at Wiseacre's Wizarding Supplies you can buy fun new spells to cast on anybody you like. Casting spells is an important part of the gameplay and is accessed by a spell wheel in which you can choose many ranging from Wingardium Leviosa to the dreaded Aveda Kedavra (only the three versions of Voldemort can use this).",
   "CommunityRating": "4.1",
   "ESRB": "E - Everyone",
-  "Genres": " Action; Platform",
+  "Genres": "Action; Platform",
   "Developer": "Traveller's Tales (UK)",
   "Publisher": "Warner Bros. Interactive Entertainment",
   "Artwork": {
@@ -21,21 +21,28 @@
       ],
       "Back": [
         {
-          "FileName": "0b436728-f65d-4f11-95be-191bc0b8bb4d.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
-          "CRC32": "948246801",
-          "URL": "http://images.launchbox-app.com/0b436728-f65d-4f11-95be-191bc0b8bb4d.jpg"
-        },
-        {
           "FileName": "1dd9437f-bef5-4948-a0a6-f3a5e2d608e8.jpg",
           "Type": "Box - Back",
           "Region": "Oceania",
           "CRC32": "1031116584",
           "URL": "http://images.launchbox-app.com/1dd9437f-bef5-4948-a0a6-f3a5e2d608e8.jpg"
+        },
+        {
+          "FileName": "0b436728-f65d-4f11-95be-191bc0b8bb4d.jpg",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "948246801",
+          "URL": "http://images.launchbox-app.com/0b436728-f65d-4f11-95be-191bc0b8bb4d.jpg"
         }
       ],
       "Front": [
+        {
+          "FileName": "28d4410c-fa77-4661-a898-59f81df1abfd.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3909958450",
+          "URL": "http://images.launchbox-app.com/28d4410c-fa77-4661-a898-59f81df1abfd.jpg"
+        },
         {
           "FileName": "8971795d-7fcc-4d41-af8d-6f99c49a74ab.jpg",
           "Type": "Box - Front",
@@ -49,13 +56,6 @@
           "Region": "Europe",
           "CRC32": "1250518324",
           "URL": "http://images.launchbox-app.com/8d6825d2-ecb0-42d3-8e27-18014f4657be.jpg"
-        },
-        {
-          "FileName": "28d4410c-fa77-4661-a898-59f81df1abfd.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "3909958450",
-          "URL": "http://images.launchbox-app.com/28d4410c-fa77-4661-a898-59f81df1abfd.jpg"
         }
       ]
     },

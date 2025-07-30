@@ -1,11 +1,11 @@
 {
   "Name": "Surf's Up",
   "DatabaseID": "13795",
-  "ReleaseDate": "2007-05-28T00:00:00-07:00",
+  "ReleaseDate": "2007-05-28T00:00:00+00:00",
   "Overview": "When the Surf's Up, Cody Maverick comes running to hit the tubes with his board. Based on the 2007 film, Surf's Up follows the story of a young penguin surfer from Shiverpool Antarctica who enters the Big Z Memorial Surf Off on the island of Pen Gu. Single gamers may select from ten playable characters and then work their way through several environments including Shiverpool, Pen Gu, and the volcanic area. With friends, players may compete in a variety of competitions with such characters as Tank, Big Z, and Cody.",
   "CommunityRating": "5",
   "ESRB": "E - Everyone",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Ubisoft Montreal",
   "Publisher": "Ubisoft",
   "Artwork": {
@@ -21,18 +21,18 @@
       ],
       "Back": [
         {
-          "FileName": "2e41541d-f998-4c0e-99fe-8612a0fdf5a3.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
-          "CRC32": "2601246826",
-          "URL": "http://images.launchbox-app.com/2e41541d-f998-4c0e-99fe-8612a0fdf5a3.jpg"
-        },
-        {
           "FileName": "e632927b-8dfe-423b-9244-3b234a2457b0.jpg",
           "Type": "Box - Back",
           "Region": "North America",
           "CRC32": "2480324313",
           "URL": "http://images.launchbox-app.com/e632927b-8dfe-423b-9244-3b234a2457b0.jpg"
+        },
+        {
+          "FileName": "2e41541d-f998-4c0e-99fe-8612a0fdf5a3.jpg",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "2601246826",
+          "URL": "http://images.launchbox-app.com/2e41541d-f998-4c0e-99fe-8612a0fdf5a3.jpg"
         }
       ],
       "Front": [
@@ -63,18 +63,18 @@
     ],
     "Other": [
       {
-        "FileName": "ec31b5f3-d86d-472b-a15d-b906d673aa82.png",
-        "Type": "Clear Logo",
-        "Region": "World",
-        "CRC32": "1058091853",
-        "URL": "http://images.launchbox-app.com/ec31b5f3-d86d-472b-a15d-b906d673aa82.png"
-      },
-      {
         "FileName": "427510c2-edbe-492e-b635-e48f11942746.png",
         "Type": "Clear Logo",
         "Region": "Spain",
         "CRC32": "1192507784",
         "URL": "http://images.launchbox-app.com/427510c2-edbe-492e-b635-e48f11942746.png"
+      },
+      {
+        "FileName": "ec31b5f3-d86d-472b-a15d-b906d673aa82.png",
+        "Type": "Clear Logo",
+        "Region": "World",
+        "CRC32": "1058091853",
+        "URL": "http://images.launchbox-app.com/ec31b5f3-d86d-472b-a15d-b906d673aa82.png"
       }
     ]
   }

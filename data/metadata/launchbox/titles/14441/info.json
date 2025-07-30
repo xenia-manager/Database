@@ -1,11 +1,11 @@
 {
   "Name": "Naughty Bear: Gold Edition",
   "DatabaseID": "14441",
-  "ReleaseDate": "2011-05-24T00:00:00-07:00",
+  "ReleaseDate": "2011-05-24T00:00:00+00:00",
   "Overview": "Naughty Bear is a third-person shooter action video game released in June 2010 for the PlayStation 3 and Xbox 360 consoles. Players control the eponymous bear as they use various things to earn \"nasty Points\", with extra points being given for random missions.\n\nThe game is set on a paradisal island where teddy bears live in harmony. The main character, Naughty Bear, is a shabby teddy bear who has a tendency to be mischievous, which earns him the dislike of the other bears. Like the other teddy bears, he does not speak but instead conveys his emotions through a variety of sounds and facial expressions. His actions are influenced by an unseen narrator with a demeanor reminiscent of that of a young children's television show host.\n\nNaughty Bear: Gold Edition features:\n3 New Episodes\n3 New Weapons and Kills\n12 New Costumes\n4 New Multiplayer Modes",
   "CommunityRating": "2.9375",
   "ESRB": "T - Teen",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Artificial Mind & Movement",
   "Publisher": "505 Games",
   "Artwork": {
@@ -44,18 +44,18 @@
       ],
       "Front": [
         {
-          "FileName": "9483ca5a-b950-4fa9-a2c1-e6db6ce3ce1f.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "3363362330",
-          "URL": "http://images.launchbox-app.com/9483ca5a-b950-4fa9-a2c1-e6db6ce3ce1f.jpg"
-        },
-        {
           "FileName": "07146eb7-9397-43bc-b761-d6af8938d398.jpg",
           "Type": "Box - Front",
           "Region": "North America",
           "CRC32": "3938255263",
           "URL": "http://images.launchbox-app.com/07146eb7-9397-43bc-b761-d6af8938d398.jpg"
+        },
+        {
+          "FileName": "9483ca5a-b950-4fa9-a2c1-e6db6ce3ce1f.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "3363362330",
+          "URL": "http://images.launchbox-app.com/9483ca5a-b950-4fa9-a2c1-e6db6ce3ce1f.jpg"
         }
       ],
       "Spine": [
@@ -77,32 +77,32 @@
     },
     "Disc": [
       {
-        "FileName": "fcd9c1f0-f645-45e0-9bfb-9bc54c4aae98.png",
-        "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "3586268347",
-        "URL": "http://images.launchbox-app.com/fcd9c1f0-f645-45e0-9bfb-9bc54c4aae98.png"
-      },
-      {
         "FileName": "fe403e2c-44af-42a7-92d0-ce430f8f92fc.jpg",
         "Type": "Disc",
         "Region": "Europe",
         "CRC32": "2371808280",
         "URL": "http://images.launchbox-app.com/fe403e2c-44af-42a7-92d0-ce430f8f92fc.jpg"
+      },
+      {
+        "FileName": "fcd9c1f0-f645-45e0-9bfb-9bc54c4aae98.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "3586268347",
+        "URL": "http://images.launchbox-app.com/fcd9c1f0-f645-45e0-9bfb-9bc54c4aae98.png"
       }
     ],
     "Screenshots": [
-      {
-        "FileName": "46d89804-f608-4009-9384-9ef8e5817518.png",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "327246356",
-        "URL": "http://images.launchbox-app.com/46d89804-f608-4009-9384-9ef8e5817518.png"
-      },
       {
         "FileName": "aa869887-2532-4897-8e1b-3fa2ca3f2b97.png",
         "Type": "Screenshot - Gameplay",
         "CRC32": "81386886",
         "URL": "http://images.launchbox-app.com/aa869887-2532-4897-8e1b-3fa2ca3f2b97.png"
+      },
+      {
+        "FileName": "46d89804-f608-4009-9384-9ef8e5817518.png",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "327246356",
+        "URL": "http://images.launchbox-app.com/46d89804-f608-4009-9384-9ef8e5817518.png"
       }
     ],
     "Other": [

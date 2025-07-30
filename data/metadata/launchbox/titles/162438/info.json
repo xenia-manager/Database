@@ -1,12 +1,12 @@
 {
   "Name": "Brunswick Pro Bowling",
   "DatabaseID": "162438",
-  "ReleaseDate": "2011-02-15T00:00:00-08:00",
+  "ReleaseDate": "2011-02-15T00:00:00+00:00",
   "Overview": "Work your way from an amateur to a true professional Brunswick Pro Champion. Featuring real-time changing lane conditions for the player to master during the course of a match, authentic Brunswick bowling products to improve your character's performance, and ten different environments to choose from.",
   "CommunityRating": "2.5",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Brunswick_Pro_Bowling",
   "ESRB": "E - Everyone",
-  "Genres": " Sports",
+  "Genres": "Sports",
   "Developer": "FarSight Studios",
   "Publisher": "Crave Entertainment",
   "Artwork": {
@@ -22,18 +22,18 @@
       ],
       "Front": [
         {
-          "FileName": "8384faa1-39fb-4d0c-a5ad-20b259cbc19b.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "908635682",
-          "URL": "http://images.launchbox-app.com/8384faa1-39fb-4d0c-a5ad-20b259cbc19b.jpg"
-        },
-        {
           "FileName": "06489cda-2bab-4095-a726-fb7565b93ba6.jpg",
           "Type": "Box - Front",
           "Region": "North America",
           "CRC32": "1746422329",
           "URL": "http://images.launchbox-app.com/06489cda-2bab-4095-a726-fb7565b93ba6.jpg"
+        },
+        {
+          "FileName": "8384faa1-39fb-4d0c-a5ad-20b259cbc19b.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "908635682",
+          "URL": "http://images.launchbox-app.com/8384faa1-39fb-4d0c-a5ad-20b259cbc19b.jpg"
         }
       ]
     },

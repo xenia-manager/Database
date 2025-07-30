@@ -1,10 +1,10 @@
 {
   "Name": "The Elder Scrolls IV: Shivering Isles",
   "DatabaseID": "421235",
-  "ReleaseDate": "2007-03-26T00:00:00-07:00",
+  "ReleaseDate": "2007-03-26T00:00:00+00:00",
   "CommunityRating": "4.75",
   "ESRB": "M - Mature",
-  "Genres": " Role-Playing",
+  "Genres": "Role-Playing",
   "Developer": "Bethesda Game Studios",
   "Publisher": "Bethesda Softworks",
   "Artwork": {

@@ -1,12 +1,12 @@
 {
   "Name": "Zoids Assault",
   "DatabaseID": "14376",
-  "ReleaseDate": "2008-09-01T00:00:00-07:00",
+  "ReleaseDate": "2008-09-01T00:00:00+00:00",
   "Overview": "Zoids Assault is the re-imagining of the Zoids universe based on the toy model franchise. It is a strategy game with RPG elements that features giant robots. The player takes charge of Maroll's 99th Zoid Platoon, Mace Squad, and leads a covert mission behind enemy lines into Jamil alongside Sgt. Jessica Lambert and the commando squad known as Katana. The zoids can be customized with parts claimed from defeated foes to build up a force that can get a stronger grip on the battlefield.\n\nSince story's setting places the player working behind enemy lines, he is constantly outgunned and outmanned at nearly every turn. The player controls a squad of five zoid pilots that have a different role in the squad. They need to be managed in terms of special skills, weapon/armor loadout, and can be customized with different color schemes.\n\nBecause of the long odds facing the mission, mastering cover fire, coordinated fire, and the EMP systems will be the key to leading Mace Squad to victory, with the aim to bring the shadows of a 10-year-old conflict to the light of day.",
   "VideoURL": "https://www.youtube.com/watch?v=qDEKW98DuGw",
   "WikipediaURL": "https://en.wikipedia.org/wiki/List_of_Zoids_video_games#Zoids_Assault_(Xbox_360)",
   "ESRB": "T - Teen",
-  "Genres": " Role-Playing; Strategy",
+  "Genres": "Role-Playing; Strategy",
   "Developer": "SE Mobile & Online",
   "Publisher": "Atlus U.S.A.",
   "Artwork": {
@@ -20,16 +20,16 @@
     ],
     "Background": [
       {
-        "FileName": "22699fdb-1d57-4ab2-8467-1bb507cc1ba6.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "1554377017",
-        "URL": "http://images.launchbox-app.com/22699fdb-1d57-4ab2-8467-1bb507cc1ba6.jpg"
-      },
-      {
         "FileName": "884b8f32-55bb-488e-b643-ff40f3d56f56.jpg",
         "Type": "Fanart - Background",
         "CRC32": "494314583",
         "URL": "http://images.launchbox-app.com/884b8f32-55bb-488e-b643-ff40f3d56f56.jpg"
+      },
+      {
+        "FileName": "22699fdb-1d57-4ab2-8467-1bb507cc1ba6.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1554377017",
+        "URL": "http://images.launchbox-app.com/22699fdb-1d57-4ab2-8467-1bb507cc1ba6.jpg"
       }
     ],
     "Box": {
@@ -60,18 +60,18 @@
       ],
       "Front": [
         {
-          "FileName": "cb261760-e8d5-4ce2-9e6e-2ff9b5c45b51.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
-          "CRC32": "2555194492",
-          "URL": "http://images.launchbox-app.com/cb261760-e8d5-4ce2-9e6e-2ff9b5c45b51.jpg"
-        },
-        {
           "FileName": "b1f0975d-0320-467d-8123-f7aae484d892.jpg",
           "Type": "Box - Front",
           "Region": "North America",
           "CRC32": "3039878935",
           "URL": "http://images.launchbox-app.com/b1f0975d-0320-467d-8123-f7aae484d892.jpg"
+        },
+        {
+          "FileName": "cb261760-e8d5-4ce2-9e6e-2ff9b5c45b51.jpg",
+          "Type": "Box - Front",
+          "Region": "Japan",
+          "CRC32": "2555194492",
+          "URL": "http://images.launchbox-app.com/cb261760-e8d5-4ce2-9e6e-2ff9b5c45b51.jpg"
         }
       ],
       "Spine": [
@@ -95,16 +95,16 @@
     ],
     "Screenshots": [
       {
-        "FileName": "d31f7247-0ac7-4b9f-b71f-8186fc445199.png",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "987098799",
-        "URL": "http://images.launchbox-app.com/d31f7247-0ac7-4b9f-b71f-8186fc445199.png"
-      },
-      {
         "FileName": "c14b2bbb-5940-4425-9c64-21029372b833.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "4246775993",
         "URL": "http://images.launchbox-app.com/c14b2bbb-5940-4425-9c64-21029372b833.jpg"
+      },
+      {
+        "FileName": "d31f7247-0ac7-4b9f-b71f-8186fc445199.png",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "987098799",
+        "URL": "http://images.launchbox-app.com/d31f7247-0ac7-4b9f-b71f-8186fc445199.png"
       }
     ],
     "Other": [

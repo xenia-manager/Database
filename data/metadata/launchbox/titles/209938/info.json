@@ -1,11 +1,11 @@
 {
   "Name": "Screwjumper!",
   "DatabaseID": "209938",
-  "ReleaseDate": "2009-12-10T00:00:00-08:00",
+  "ReleaseDate": "2009-12-10T00:00:00+00:00",
   "Overview": "Rocket down perilous enemy mineshafts, destroying everything you can smash into along the way.",
   "CommunityRating": "2",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Action; Adventure",
+  "Genres": "Action; Adventure",
   "Developer": "Frozen Codebase",
   "Publisher": "THQ",
   "Artwork": {

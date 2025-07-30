@@ -1,13 +1,13 @@
 {
   "Name": "Trine 2",
   "DatabaseID": "164274",
-  "ReleaseDate": "2011-12-21T00:00:00-08:00",
+  "ReleaseDate": "2011-12-21T00:00:00+00:00",
   "Overview": "Trine 2 is a sidescrolling game of action, puzzles and platforming where you play as one of Three Heroes who make their way through dangers untold in a fantastical fairytale world. \n\nJoin Amadeus the Wizard, Pontius the Knight and Zoya the Thief in their adventure full of friendship, magic and betrayal.",
   "VideoURL": "https://www.youtube.com/watch?v=gcuQH3lmin8",
   "CommunityRating": "3.5",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Trine_2",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Action; Platform; Puzzle",
+  "Genres": "Action; Platform; Puzzle",
   "Developer": "Frozenbyte",
   "Publisher": "Atlus U.S.A.",
   "Artwork": {

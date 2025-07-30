@@ -1,12 +1,12 @@
 {
   "Name": "WWE 2K15",
   "DatabaseID": "25668",
-  "ReleaseDate": "2014-10-28T00:00:00-07:00",
+  "ReleaseDate": "2014-10-28T00:00:00+00:00",
   "Overview": "WWE 2K15 is a professional wrestling video game developed by Yuke's and Visual Concepts, and is published by 2K Sports for the PlayStation 3 (PS3), PlayStation 4 (PS4), Xbox 360, Xbox One and Windows PC. It was succeeded by WWE 2K16. It was released on October 28, 2014 in North America and on October 31, 2014 in Europe for last generation consoles and released on November 18, 2014 in North America and on November 21, 2014 in Europe for current generation consoles. It was released on PC on April 28, 2015 and was the first WWE game to be released on the platform since WWE RAW, which was released in 2002. WWE 2K15 is also the first 2K WWE game to be released on PC.[2][3] The cover features John Cena and is the first in the series to use the new WWE logo introduced in late 2014.\n\nThe game is based on the professional wrestling promotion WWE and WWE 2K15 serves as the first game in the series to signify the \"new generation\", placing a heavy emphasis on traditional and more relaxed gameplay, unlike the arcade-like combat prominent in previous installments. WWE 2K15 adds several new features to compliment main theme based around naturalism, adding a new chain grapple system at the beginning of matches, slowing the pacing of the matches and adding a new stamina bar to reflect and portray the quality of matches produced on WWE television in the game.",
   "CommunityRating": "4.5",
   "WikipediaURL": "https://en.wikipedia.org/wiki/WWE_2K15",
   "ESRB": "T - Teen",
-  "Genres": " Fighting; Sports",
+  "Genres": "Fighting; Sports",
   "Developer": "Yuke's",
   "Publisher": "2K Games",
   "Artwork": {
@@ -21,13 +21,6 @@
       ],
       "Front": [
         {
-          "FileName": "b7513c1c-7249-42e9-9e9d-1fe9cb1c8744.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "1626202045",
-          "URL": "http://images.launchbox-app.com/b7513c1c-7249-42e9-9e9d-1fe9cb1c8744.jpg"
-        },
-        {
           "FileName": "5229d767-2d0a-49b3-a2af-23c24a3f9354.jpg",
           "Type": "Box - Front",
           "Region": "North America",
@@ -40,6 +33,13 @@
           "Region": "Germany",
           "CRC32": "1602165338",
           "URL": "http://images.launchbox-app.com/3199728b-b6a6-4cbf-9eb1-b62962914cdf.png"
+        },
+        {
+          "FileName": "b7513c1c-7249-42e9-9e9d-1fe9cb1c8744.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "1626202045",
+          "URL": "http://images.launchbox-app.com/b7513c1c-7249-42e9-9e9d-1fe9cb1c8744.jpg"
         }
       ]
     },

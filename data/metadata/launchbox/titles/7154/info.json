@@ -1,13 +1,13 @@
 {
   "Name": "Burnout Paradise",
   "DatabaseID": "7154",
-  "ReleaseDate": "2008-01-22T00:00:00-08:00",
+  "ReleaseDate": "2008-01-22T00:00:00+00:00",
   "Overview": "Welcome to Paradise City! Make action your middle name, as you control what happens when and where in Burnout Paradise! Immerse yourself in the open roads of Paradise City from the downtown streets through the hectic freeways to the sweeping mountain roads; the world is waiting to be explored! \n\nSlam, Shunt, and Wreck opponents in cross-town race events, where YOU decide the fastest route to the finish line. Hit the jumps and find shortcuts, smash through barriers and get to the places that other racers can't reach to get that competitive edge! \n\nMeet your friends online with the revolutionary EasyDrive system that smashes through the tedium of lobbies and servers and cuts straight to the chase. Burnout Paradise provides the ultimate driving playground for you and your friends to play online on the Xbox 360.",
   "VideoURL": "https://www.youtube.com/watch?v=uRbSV6A6zs8",
-  "CommunityRating": "4.2045454545454541",
+  "CommunityRating": "4.20454545454545",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Burnout_Paradise",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Racing",
+  "Genres": "Racing",
   "Developer": "Criterion Games",
   "Publisher": "Electronic Arts",
   "Artwork": {
@@ -79,18 +79,18 @@
     },
     "Disc": [
       {
-        "FileName": "b51a5bba-b319-466a-9b20-b74d5f3ff825.png",
-        "Type": "Disc",
-        "Region": "Europe",
-        "CRC32": "1343483197",
-        "URL": "http://images.launchbox-app.com/b51a5bba-b319-466a-9b20-b74d5f3ff825.png"
-      },
-      {
         "FileName": "c6a2e98e-e935-41c4-afb4-f77e4a10baef.png",
         "Type": "Disc",
         "Region": "North America",
         "CRC32": "252937781",
         "URL": "http://images.launchbox-app.com/c6a2e98e-e935-41c4-afb4-f77e4a10baef.png"
+      },
+      {
+        "FileName": "b51a5bba-b319-466a-9b20-b74d5f3ff825.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "1343483197",
+        "URL": "http://images.launchbox-app.com/b51a5bba-b319-466a-9b20-b74d5f3ff825.png"
       }
     ],
     "Other": [

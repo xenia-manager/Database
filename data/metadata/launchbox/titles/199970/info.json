@@ -1,12 +1,12 @@
 {
   "Name": "Street Fighter III: Third Strike Online Edition",
   "DatabaseID": "199970",
-  "ReleaseDate": "2011-08-24T00:00:00-07:00",
+  "ReleaseDate": "2011-08-24T00:00:00+00:00",
   "Overview": "Bringing the new generation of World Warriors to new consoles, Street Fighter III: Third Strike Online Edition takes one of the deepest, most sophisticated fighting games of all time online with an arcade perfect re-creation.\n\nFeaturing the unique and memorable characters of the Street Fighter III series, GGPO-enabled online allows players to use their technical moves like the series-defining parry system in a seamless, arcade-like environment. High-quality, HD-filtered graphics emphasize the smooth animation, a vault of unlockables allow for replayability, and an integrated leaderboard combined with an extensive and viral replay sharing system encourage players to bring their A-game.",
-  "CommunityRating": "3.9166666666666665",
+  "CommunityRating": "3.91666666666667",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Street_Fighter_III:_3rd_Strike",
   "ESRB": "T - Teen",
-  "Genres": " Fighting",
+  "Genres": "Fighting",
   "Developer": "Iron Galaxy Studios",
   "Publisher": "Capcom",
   "Artwork": {
@@ -49,16 +49,16 @@
     },
     "Screenshots": [
       {
-        "FileName": "d3ce220d-3bf5-4208-a9f8-35ef89cc481f.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2698261371",
-        "URL": "http://images.launchbox-app.com/d3ce220d-3bf5-4208-a9f8-35ef89cc481f.jpg"
-      },
-      {
         "FileName": "783b5901-a49d-4643-8b5d-3b2b9b494ed2.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "4126648111",
         "URL": "http://images.launchbox-app.com/783b5901-a49d-4643-8b5d-3b2b9b494ed2.jpg"
+      },
+      {
+        "FileName": "d3ce220d-3bf5-4208-a9f8-35ef89cc481f.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2698261371",
+        "URL": "http://images.launchbox-app.com/d3ce220d-3bf5-4208-a9f8-35ef89cc481f.jpg"
       }
     ],
     "Other": [

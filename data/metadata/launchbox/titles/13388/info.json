@@ -1,13 +1,13 @@
 {
   "Name": "Tron: Evolution",
   "DatabaseID": "13388",
-  "ReleaseDate": "2010-12-07T00:00:00-08:00",
+  "ReleaseDate": "2010-12-07T00:00:00+00:00",
   "Overview": "Tron: Evolution is a third-person action-adventure, tie-in video game for the film Tron: Legacy by Propaganda Games, published by Disney Interactive. It was officially announced at the Spike Video Game Awards and was released for the Microsoft Windows, PlayStation 3, PlayStation Portable and Xbox 360 platforms on November 26, 2010 in Europe and December 7, 2010 in North America.",
   "VideoURL": "https://www.youtube.com/watch?v=5ZLONRreKAI",
   "CommunityRating": "3.5",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Tron:_Evolution",
   "ESRB": "T - Teen",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Progaganda Games",
   "Publisher": "Disney Interactive Studios",
   "Artwork": {
@@ -39,18 +39,18 @@
       ],
       "Back": [
         {
-          "FileName": "f0e956e2-5bcd-4295-be0b-edafc7e8cec0.jpg",
-          "Type": "Box - Back",
-          "Region": "United States",
-          "CRC32": "1753617339",
-          "URL": "http://images.launchbox-app.com/f0e956e2-5bcd-4295-be0b-edafc7e8cec0.jpg"
-        },
-        {
           "FileName": "4c935bbd-dd8a-481b-8d65-988c5b2024e0.jpg",
           "Type": "Box - Back",
           "Region": "Europe",
           "CRC32": "2537756509",
           "URL": "http://images.launchbox-app.com/4c935bbd-dd8a-481b-8d65-988c5b2024e0.jpg"
+        },
+        {
+          "FileName": "f0e956e2-5bcd-4295-be0b-edafc7e8cec0.jpg",
+          "Type": "Box - Back",
+          "Region": "United States",
+          "CRC32": "1753617339",
+          "URL": "http://images.launchbox-app.com/f0e956e2-5bcd-4295-be0b-edafc7e8cec0.jpg"
         }
       ],
       "Front": [
@@ -85,18 +85,18 @@
       ],
       "Spine": [
         {
-          "FileName": "b05bf0b1-ca9e-453c-9bc0-5c376e5402fb.jpg",
-          "Type": "Box - Spine",
-          "Region": "United States",
-          "CRC32": "450245429",
-          "URL": "http://images.launchbox-app.com/b05bf0b1-ca9e-453c-9bc0-5c376e5402fb.jpg"
-        },
-        {
           "FileName": "002663a7-e688-4fe6-8f2f-9d773790698b.jpg",
           "Type": "Box - Spine",
           "Region": "Europe",
           "CRC32": "3304119756",
           "URL": "http://images.launchbox-app.com/002663a7-e688-4fe6-8f2f-9d773790698b.jpg"
+        },
+        {
+          "FileName": "b05bf0b1-ca9e-453c-9bc0-5c376e5402fb.jpg",
+          "Type": "Box - Spine",
+          "Region": "United States",
+          "CRC32": "450245429",
+          "URL": "http://images.launchbox-app.com/b05bf0b1-ca9e-453c-9bc0-5c376e5402fb.jpg"
         }
       ]
     },
@@ -109,18 +109,18 @@
         "URL": "http://images.launchbox-app.com/a5e2ed65-86d1-459d-8063-8baecad04055.jpg"
       },
       {
-        "FileName": "7f63f935-9489-43d7-aed1-0635d4b52175.jpg",
-        "Type": "Disc",
-        "Region": "United States",
-        "CRC32": "2413298857",
-        "URL": "http://images.launchbox-app.com/7f63f935-9489-43d7-aed1-0635d4b52175.jpg"
-      },
-      {
         "FileName": "3971656e-07d6-44d8-b7f0-49fde612ca3f.png",
         "Type": "Disc",
         "Region": "North America",
         "CRC32": "993354504",
         "URL": "http://images.launchbox-app.com/3971656e-07d6-44d8-b7f0-49fde612ca3f.png"
+      },
+      {
+        "FileName": "7f63f935-9489-43d7-aed1-0635d4b52175.jpg",
+        "Type": "Disc",
+        "Region": "United States",
+        "CRC32": "2413298857",
+        "URL": "http://images.launchbox-app.com/7f63f935-9489-43d7-aed1-0635d4b52175.jpg"
       }
     ],
     "Other": [

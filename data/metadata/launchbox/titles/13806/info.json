@@ -1,10 +1,10 @@
 {
   "Name": "Tom Clancy's EndWar",
   "DatabaseID": "13806",
-  "ReleaseDate": "2008-11-04T00:00:00-08:00",
+  "ReleaseDate": "2008-11-04T00:00:00+00:00",
   "Overview": "Tom Clancy's EndWar is a real-time tactics game designed by Ubisoft Shanghai for the PlayStation 3, Xbox 360 and Windows platforms. The Nintendo DS and PlayStation Portable versions feature turn-based tactics instead of the real-time tactics of their console counterparts.[4] It was released on November 4, 2008 in the United States, November 6, 2008 in Canada, and November 8, 2008 in Europe.[2] A Windows version was released on February 24, 2009.[5]",
   "ESRB": "T - Teen",
-  "Genres": " Action; Strategy",
+  "Genres": "Action; Strategy",
   "Developer": "Ubisoft",
   "Publisher": "Ubisoft",
   "Artwork": {

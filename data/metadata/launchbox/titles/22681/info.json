@@ -1,12 +1,12 @@
 {
   "Name": "LEGO The Hobbit",
   "DatabaseID": "22681",
-  "ReleaseDate": "2014-04-17T00:00:00-07:00",
+  "ReleaseDate": "2014-04-17T00:00:00+00:00",
   "Overview": "From the makers of the immensely popular LEGO® The Lord of the Rings, comes LEGO The Hobbit, inspired by the first two films inThe Hobbit Trilogy: The Hobbit: An Unexpected Journey and the upcoming The Hobbit: Desolation of Smaug, productions of New Line Cinema and Metro-Goldwyn-Mayer Pictures (MGM) as well as the collection of LEGO The Hobbit constructions sets. The interactive game of LEGO The Hobbit allows gamers to play along their favorite scenes from the films and follows the Hobbit Bilbo Baggins as he is recruited by the Wizard Gandalf to aid Thorin Oakenshield and his Company of Dwarves. Bilbo leaves the comforts of the Shire on a journey through Middle-earth to help the Dwarves reclaim their lost Kingdom of Erebor within the Lonely Mountain. Along the way, he is introduced to ravenous Trolls, dangerous Orcs and, of course, Gollum and his precious Ring. Players will utilize and combine the Dwarves' unique abilities - often with hilarious results - to solve the most diverse Quests of any LEGO videogame to date.",
   "VideoURL": "http://www.youtube.com/watch?v=e71EpfhKRvg",
   "CommunityRating": "4",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Action; Adventure",
+  "Genres": "Action; Adventure",
   "Developer": "Traveller's Tales (UK)",
   "Publisher": "Warner Bros. Interactive Entertainment",
   "Artwork": {
@@ -55,18 +55,18 @@
     },
     "Disc": [
       {
-        "FileName": "40139787-64c9-4afd-9db1-8bdfa790e857.png",
-        "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "2070066238",
-        "URL": "http://images.launchbox-app.com/40139787-64c9-4afd-9db1-8bdfa790e857.png"
-      },
-      {
         "FileName": "dbfba285-5af4-4b68-b494-ce81fc658c47.jpg",
         "Type": "Disc",
         "Region": "United States",
         "CRC32": "2506381299",
         "URL": "http://images.launchbox-app.com/dbfba285-5af4-4b68-b494-ce81fc658c47.jpg"
+      },
+      {
+        "FileName": "40139787-64c9-4afd-9db1-8bdfa790e857.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2070066238",
+        "URL": "http://images.launchbox-app.com/40139787-64c9-4afd-9db1-8bdfa790e857.png"
       }
     ],
     "Screenshots": [
@@ -94,17 +94,17 @@
     ],
     "Other": [
       {
-        "FileName": "b5345927-cf5a-4282-9c1a-fdf6cbeabb39.png",
-        "Type": "Clear Logo",
-        "CRC32": "2322494865",
-        "URL": "http://images.launchbox-app.com/b5345927-cf5a-4282-9c1a-fdf6cbeabb39.png"
-      },
-      {
         "FileName": "a46d442e-77e3-4c84-a186-c43608ff5b7f.png",
         "Type": "Clear Logo",
         "Region": "Spain",
         "CRC32": "1337524451",
         "URL": "http://images.launchbox-app.com/a46d442e-77e3-4c84-a186-c43608ff5b7f.png"
+      },
+      {
+        "FileName": "b5345927-cf5a-4282-9c1a-fdf6cbeabb39.png",
+        "Type": "Clear Logo",
+        "CRC32": "2322494865",
+        "URL": "http://images.launchbox-app.com/b5345927-cf5a-4282-9c1a-fdf6cbeabb39.png"
       }
     ]
   }

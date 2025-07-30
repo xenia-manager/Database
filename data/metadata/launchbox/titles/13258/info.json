@@ -1,13 +1,13 @@
 {
   "Name": "Prince of Persia: The Forgotten Sands",
   "DatabaseID": "13258",
-  "ReleaseDate": "2010-05-18T00:00:00-07:00",
+  "ReleaseDate": "2010-05-18T00:00:00+00:00",
   "Overview": "Prince of Persia: The Forgotten Sands is the next chapter in the fan-favorite Sands of Time universe. Visiting his brother's kingdom following his adventure in Azad, the Prince finds the royal palace under siege from a mighty army bent on its destruction. When the decision is made to use the ancient power of the Sand in a desperate gamble to save the kingdom from total annihilation, the Prince will embark on an epic adventure in which he will learn to bear the mantle of true leadership, and discover that great power often comes with a great cost.",
   "VideoURL": "https://www.youtube.com/watch?v=T2WbkJqqXbc",
   "CommunityRating": "3.375",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Prince_of_Persia:_The_Forgotten_Sands",
   "ESRB": "T - Teen",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Ubisoft",
   "Publisher": "Ubisoft",
   "Artwork": {
@@ -85,18 +85,18 @@
         "URL": "http://images.launchbox-app.com/3ca3ff0f-1435-4b65-8468-12f84f221030.png"
       },
       {
-        "FileName": "2adc346e-7fd8-4363-9831-9c667eae8409.png",
-        "Type": "Clear Logo",
-        "Region": "Spain",
-        "CRC32": "2007834472",
-        "URL": "http://images.launchbox-app.com/2adc346e-7fd8-4363-9831-9c667eae8409.png"
-      },
-      {
         "FileName": "bc37b01a-dabd-451b-b178-d7416dd3f7b9.png",
         "Type": "Clear Logo",
         "Region": "Germany",
         "CRC32": "3029192917",
         "URL": "http://images.launchbox-app.com/bc37b01a-dabd-451b-b178-d7416dd3f7b9.png"
+      },
+      {
+        "FileName": "2adc346e-7fd8-4363-9831-9c667eae8409.png",
+        "Type": "Clear Logo",
+        "Region": "Spain",
+        "CRC32": "2007834472",
+        "URL": "http://images.launchbox-app.com/2adc346e-7fd8-4363-9831-9c667eae8409.png"
       }
     ]
   }

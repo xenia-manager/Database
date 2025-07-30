@@ -1,13 +1,13 @@
 {
   "Name": "Forza Motorsport 4",
   "DatabaseID": "8864",
-  "ReleaseDate": "2011-10-11T00:00:00-07:00",
+  "ReleaseDate": "2011-10-11T00:00:00+00:00",
   "Overview": "Forza Motorsport® 4 delivers everything you love about cars. White-knuckle racing, stunning graphics, loads of new cars, tracks, and challenges. Add ground breaking social interaction via Xbox LIVE® and powerfully engaging Kinect™ experiences, and you have a game tuned to send your passion past the rev-limiter. It's a whole new way to experience cars.\nEnjoy Top Gear content including:\n• Autovista™ narration from Jeremy Clarkson\n• Top Gear test track\n• Inspired challenges\nand more.",
   "VideoURL": "https://www.youtube.com/watch?v=7BTo-Wzdong",
-  "CommunityRating": "4.2142857142857144",
+  "CommunityRating": "4.21428571428571",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Forza_Motorsport_4",
   "ESRB": "E - Everyone",
-  "Genres": " Racing",
+  "Genres": "Racing",
   "Developer": "Turn 10 Studios",
   "Publisher": "Microsoft",
   "Artwork": {
@@ -37,6 +37,27 @@
       ],
       "Back": [
         {
+          "FileName": "1d17e11f-36bc-42c2-a579-973d2c3eaa0f.jpg",
+          "Type": "Box - Back",
+          "Region": "Australia",
+          "CRC32": "2138347174",
+          "URL": "http://images.launchbox-app.com/1d17e11f-36bc-42c2-a579-973d2c3eaa0f.jpg"
+        },
+        {
+          "FileName": "90ea813d-355f-44fb-9924-6a126860d1a4.jpg",
+          "Type": "Box - Back",
+          "Region": "Russia",
+          "CRC32": "2490366541",
+          "URL": "http://images.launchbox-app.com/90ea813d-355f-44fb-9924-6a126860d1a4.jpg"
+        },
+        {
+          "FileName": "782f10e0-46ec-4a91-ba84-7d38789f9c43.jpg",
+          "Type": "Box - Back",
+          "Region": "France",
+          "CRC32": "655924420",
+          "URL": "http://images.launchbox-app.com/782f10e0-46ec-4a91-ba84-7d38789f9c43.jpg"
+        },
+        {
           "FileName": "56b2d0c1-8920-4ec5-a979-5e55bfe08551.jpg",
           "Type": "Box - Back",
           "Region": "Japan",
@@ -49,50 +70,15 @@
           "Region": "North America",
           "CRC32": "357234354",
           "URL": "http://images.launchbox-app.com/bbec9f6e-0caa-4b16-b321-48a3fb6a7288.jpg"
-        },
-        {
-          "FileName": "782f10e0-46ec-4a91-ba84-7d38789f9c43.jpg",
-          "Type": "Box - Back",
-          "Region": "France",
-          "CRC32": "655924420",
-          "URL": "http://images.launchbox-app.com/782f10e0-46ec-4a91-ba84-7d38789f9c43.jpg"
-        },
-        {
-          "FileName": "90ea813d-355f-44fb-9924-6a126860d1a4.jpg",
-          "Type": "Box - Back",
-          "Region": "Russia",
-          "CRC32": "2490366541",
-          "URL": "http://images.launchbox-app.com/90ea813d-355f-44fb-9924-6a126860d1a4.jpg"
-        },
-        {
-          "FileName": "1d17e11f-36bc-42c2-a579-973d2c3eaa0f.jpg",
-          "Type": "Box - Back",
-          "Region": "Australia",
-          "CRC32": "2138347174",
-          "URL": "http://images.launchbox-app.com/1d17e11f-36bc-42c2-a579-973d2c3eaa0f.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "bae68993-8d3c-4d24-a488-860a97a5491a.jpg",
+          "FileName": "a7a3cfdd-fac3-4975-957f-4784d4385db3.jpg",
           "Type": "Box - Front",
-          "Region": "Australia",
-          "CRC32": "2133521622",
-          "URL": "http://images.launchbox-app.com/bae68993-8d3c-4d24-a488-860a97a5491a.jpg"
-        },
-        {
-          "FileName": "4bf8c529-c974-450c-84a9-4fc9d8eeb264.jpg",
-          "Type": "Box - Front",
-          "Region": "Russia",
-          "CRC32": "536403640",
-          "URL": "http://images.launchbox-app.com/4bf8c529-c974-450c-84a9-4fc9d8eeb264.jpg"
-        },
-        {
-          "FileName": "460440e0-803c-4f20-8399-b0131344b6d5.jpg",
-          "Type": "Box - Front",
-          "Region": "France",
-          "CRC32": "1733353322",
-          "URL": "http://images.launchbox-app.com/460440e0-803c-4f20-8399-b0131344b6d5.jpg"
+          "Region": "Japan",
+          "CRC32": "2640145218",
+          "URL": "http://images.launchbox-app.com/a7a3cfdd-fac3-4975-957f-4784d4385db3.jpg"
         },
         {
           "FileName": "37a3a65d-d318-4ba9-8c18-102b2843316d.jpg",
@@ -102,11 +88,25 @@
           "URL": "http://images.launchbox-app.com/37a3a65d-d318-4ba9-8c18-102b2843316d.jpg"
         },
         {
-          "FileName": "a7a3cfdd-fac3-4975-957f-4784d4385db3.jpg",
+          "FileName": "4bf8c529-c974-450c-84a9-4fc9d8eeb264.jpg",
           "Type": "Box - Front",
-          "Region": "Japan",
-          "CRC32": "2640145218",
-          "URL": "http://images.launchbox-app.com/a7a3cfdd-fac3-4975-957f-4784d4385db3.jpg"
+          "Region": "Russia",
+          "CRC32": "536403640",
+          "URL": "http://images.launchbox-app.com/4bf8c529-c974-450c-84a9-4fc9d8eeb264.jpg"
+        },
+        {
+          "FileName": "bae68993-8d3c-4d24-a488-860a97a5491a.jpg",
+          "Type": "Box - Front",
+          "Region": "Australia",
+          "CRC32": "2133521622",
+          "URL": "http://images.launchbox-app.com/bae68993-8d3c-4d24-a488-860a97a5491a.jpg"
+        },
+        {
+          "FileName": "460440e0-803c-4f20-8399-b0131344b6d5.jpg",
+          "Type": "Box - Front",
+          "Region": "France",
+          "CRC32": "1733353322",
+          "URL": "http://images.launchbox-app.com/460440e0-803c-4f20-8399-b0131344b6d5.jpg"
         },
         {
           "FileName": "aeb62d3f-b188-4b30-957c-18979a268a4e.jpg",
@@ -132,13 +132,6 @@
       ],
       "Spine": [
         {
-          "FileName": "79e3b561-dc31-4df5-b076-5b72e2a85e28.jpg",
-          "Type": "Box - Spine",
-          "Region": "Australia",
-          "CRC32": "1382984260",
-          "URL": "http://images.launchbox-app.com/79e3b561-dc31-4df5-b076-5b72e2a85e28.jpg"
-        },
-        {
           "FileName": "ef9a87ec-b366-40ed-a7bd-ffdc364368bd.jpg",
           "Type": "Box - Spine",
           "Region": "North America",
@@ -151,6 +144,13 @@
           "Region": "Europe",
           "CRC32": "2500413049",
           "URL": "http://images.launchbox-app.com/eec1ab8a-8585-4580-882d-0ba06227c8a2.jpg"
+        },
+        {
+          "FileName": "79e3b561-dc31-4df5-b076-5b72e2a85e28.jpg",
+          "Type": "Box - Spine",
+          "Region": "Australia",
+          "CRC32": "1382984260",
+          "URL": "http://images.launchbox-app.com/79e3b561-dc31-4df5-b076-5b72e2a85e28.jpg"
         }
       ]
     },

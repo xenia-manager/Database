@@ -1,12 +1,12 @@
 {
   "Name": "Bullet Soul: Infinite Burst",
   "DatabaseID": "23708",
-  "ReleaseDate": "2014-05-29T00:00:00-07:00",
+  "ReleaseDate": "2014-05-29T00:00:00+00:00",
   "Overview": "A brand-new recipe for the shooting genre which rewards survival through aggressive play. Blending classic shooting game design with a solid dash of modern day bullet hell, this soul food dish has it all! Destroy enemies at close quarters to build your multiplier, and see their bullets rendered harmless. Scour the stages for secret bonuses to push your score to even greater heights.\n\nBringing even more heat are Resonator: the moniker of aural wizards Kenji 'Itoken' Ito and Kohta Takahashi, setting fire to your speakers with their tunes. Last but not least, Akio Watanabe lends his skills to the scene, bringing forth some fresh character designs.",
   "VideoURL": "http://www.youtube.com/watch?v=uqliR6hPoUA",
-  "CommunityRating": "3.3333333333333335",
+  "CommunityRating": "3.33333333333333",
   "ESRB": "T - Teen",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "MAGES.",
   "Publisher": "MAGES.",
   "Artwork": {
@@ -66,10 +66,10 @@
     ],
     "Screenshots": [
       {
-        "FileName": "cbc6aefe-245f-4ccd-b14b-c2c5c9572a64.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "3088486226",
-        "URL": "http://images.launchbox-app.com/cbc6aefe-245f-4ccd-b14b-c2c5c9572a64.jpg"
+        "FileName": "3ec7449e-f6f3-4f18-86db-7a8422642cec.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "558584349",
+        "URL": "http://images.launchbox-app.com/3ec7449e-f6f3-4f18-86db-7a8422642cec.jpg"
       },
       {
         "FileName": "0f6ed8b1-0eaf-4256-b00d-6ad56f2f7a28.jpg",
@@ -78,22 +78,22 @@
         "URL": "http://images.launchbox-app.com/0f6ed8b1-0eaf-4256-b00d-6ad56f2f7a28.jpg"
       },
       {
-        "FileName": "6d1e040d-bbcb-4bb6-ad11-fe7f35ae2ac6.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3909248506",
-        "URL": "http://images.launchbox-app.com/6d1e040d-bbcb-4bb6-ad11-fe7f35ae2ac6.jpg"
-      },
-      {
         "FileName": "d1f973f9-a3cd-4e39-ae1f-d6d91febefcd.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "1669179983",
         "URL": "http://images.launchbox-app.com/d1f973f9-a3cd-4e39-ae1f-d6d91febefcd.jpg"
       },
       {
-        "FileName": "3ec7449e-f6f3-4f18-86db-7a8422642cec.jpg",
+        "FileName": "6d1e040d-bbcb-4bb6-ad11-fe7f35ae2ac6.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "558584349",
-        "URL": "http://images.launchbox-app.com/3ec7449e-f6f3-4f18-86db-7a8422642cec.jpg"
+        "CRC32": "3909248506",
+        "URL": "http://images.launchbox-app.com/6d1e040d-bbcb-4bb6-ad11-fe7f35ae2ac6.jpg"
+      },
+      {
+        "FileName": "cbc6aefe-245f-4ccd-b14b-c2c5c9572a64.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "3088486226",
+        "URL": "http://images.launchbox-app.com/cbc6aefe-245f-4ccd-b14b-c2c5c9572a64.jpg"
       }
     ],
     "Other": [

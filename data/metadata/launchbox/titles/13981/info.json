@@ -1,11 +1,11 @@
 {
   "Name": "Of Orcs and Men",
   "DatabaseID": "13981",
-  "ReleaseDate": "2012-10-11T00:00:00-07:00",
+  "ReleaseDate": "2012-10-11T00:00:00+00:00",
   "Overview": "Of Orcs and Men is a fantasy action role-playing game developed by Cyanide and Spiders for PlayStation 3, Xbox 360 and PC.[2] The Empire of Men's oppressive threat looms over the territories of the Orcs and the Goblins. Goblins are systematically persecuted and slaughtered, while Orcs not killed in battle are captured and enslaved or killed.\n\nA prequel, titled Styx: Master of Shadows, was released in 2014, and stars Styx the goblin from this game.",
   "CommunityRating": "4",
   "ESRB": "M - Mature",
-  "Genres": " Role-Playing",
+  "Genres": "Role-Playing",
   "Developer": "Cyanide",
   "Publisher": "Focus Home Interactive",
   "Artwork": {
@@ -37,18 +37,18 @@
           "URL": "http://images.launchbox-app.com/31c35e04-a730-40da-9166-f10d3a523d10.png"
         },
         {
-          "FileName": "cb89a10d-64ca-4635-8976-e1c40370ae83.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "3077811804",
-          "URL": "http://images.launchbox-app.com/cb89a10d-64ca-4635-8976-e1c40370ae83.jpg"
-        },
-        {
           "FileName": "2ab5f9d6-495b-446e-a7da-ed1554809b8f.jpg",
           "Type": "Box - Front",
           "Region": "North America",
           "CRC32": "3551310140",
           "URL": "http://images.launchbox-app.com/2ab5f9d6-495b-446e-a7da-ed1554809b8f.jpg"
+        },
+        {
+          "FileName": "cb89a10d-64ca-4635-8976-e1c40370ae83.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "3077811804",
+          "URL": "http://images.launchbox-app.com/cb89a10d-64ca-4635-8976-e1c40370ae83.jpg"
         }
       ]
     },

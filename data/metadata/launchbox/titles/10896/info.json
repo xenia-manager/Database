@@ -1,13 +1,13 @@
 {
   "Name": "Alice: Madness Returns",
   "DatabaseID": "10896",
-  "ReleaseDate": "2011-06-14T00:00:00-07:00",
+  "ReleaseDate": "2011-06-14T00:00:00+00:00",
   "Overview": "Alice: Madness Returns is an action-adventure game that delves deep into the dark and violent side of the imagination, creating a nightmarish Wonderland where Alice must face the demons that haunt her visions. Visit the grim reality of Victorian London and then travel to the beautiful yet ghastly Wonderland to uncover the root of Alice's madness and discover the truth behind a deadly secret, kept hidden for years. Features include: upgradable melee weapons and magic abilities, a shattered game world filled with altered versions of Lewis Carroll's famous characters and intuitive and rewarding puzzle play. \n\nEleven years ago a horrific fire took Alice's family from her and left her mind horrifically scarred. Afterwards she was confined to Rutledge Asylum where she struggled to confront her demons by slipping slipping further into her fantasy world of Wonderland. Now, after ten years, she has finally secured her release - yet she still bears the heavy psychological burden of that tragic event.\n\nWith her mind in tatters, she is unable to resolve the fear prompted by her strange memories, dreams, and visions. Perhaps she'll do better in Wonderland. She always has. She travels there, seeking what the \"real\" world can't provide: security, knowledge, and the truth about the past. But in her absence, Wonderland too has suffered. Something has gone horribly wrong, and now a great evil is descending upon what once was her beautiful refuge. Can Alice save Wonderland - and herself - from the madness that consumes them both?",
   "VideoURL": "https://www.youtube.com/watch?v=cFrs5UGB-ns",
   "CommunityRating": "4.1328125",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Alice:_Madness_Returns",
   "ESRB": "M - Mature",
-  "Genres": " Horror; Platform; Beat 'em Up",
+  "Genres": "Beat 'em Up; Horror; Platform",
   "Developer": "Spicy Horse",
   "Publisher": "Electronic Arts",
   "Artwork": {
@@ -54,11 +54,11 @@
       ],
       "Front": [
         {
-          "FileName": "d70c0509-f1ff-4af6-ad26-fcf1d8e27fdc.jpg",
+          "FileName": "1d652a3c-5bca-4a69-9812-c1dafc584057.png",
           "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "2877180530",
-          "URL": "http://images.launchbox-app.com/d70c0509-f1ff-4af6-ad26-fcf1d8e27fdc.jpg"
+          "Region": "Germany",
+          "CRC32": "1835653455",
+          "URL": "http://images.launchbox-app.com/1d652a3c-5bca-4a69-9812-c1dafc584057.png"
         },
         {
           "FileName": "7e739aa0-5851-433e-a012-b670a654b6aa.jpg",
@@ -68,11 +68,11 @@
           "URL": "http://images.launchbox-app.com/7e739aa0-5851-433e-a012-b670a654b6aa.jpg"
         },
         {
-          "FileName": "1d652a3c-5bca-4a69-9812-c1dafc584057.png",
+          "FileName": "d70c0509-f1ff-4af6-ad26-fcf1d8e27fdc.jpg",
           "Type": "Box - Front",
-          "Region": "Germany",
-          "CRC32": "1835653455",
-          "URL": "http://images.launchbox-app.com/1d652a3c-5bca-4a69-9812-c1dafc584057.png"
+          "Region": "North America",
+          "CRC32": "2877180530",
+          "URL": "http://images.launchbox-app.com/d70c0509-f1ff-4af6-ad26-fcf1d8e27fdc.jpg"
         },
         {
           "FileName": "104ec73c-b178-41c3-b271-2352b0779f88.png",
@@ -103,10 +103,10 @@
     ],
     "Other": [
       {
-        "FileName": "e79e2e0b-ad56-4968-b541-bf6d9d195d9a.PNG",
+        "FileName": "e79e2e0b-ad56-4968-b541-bf6d9d195d9a.png",
         "Type": "Clear Logo",
         "CRC32": "132465274",
-        "URL": "http://images.launchbox-app.com/e79e2e0b-ad56-4968-b541-bf6d9d195d9a.PNG"
+        "URL": "http://images.launchbox-app.com/e79e2e0b-ad56-4968-b541-bf6d9d195d9a.png"
       }
     ]
   }

@@ -1,30 +1,30 @@
 {
   "Name": "Zumba Fitness Rush",
   "DatabaseID": "10636",
-  "ReleaseDate": "2012-02-13T00:00:00-08:00",
+  "ReleaseDate": "2012-02-13T00:00:00+00:00",
   "Overview": "Players can learn and perfect nine different dance styles: Reggaeton, Merengue, Salsa, Cumbia, Hip hop, Mambo, Rumba, Flamenco and Calypso as well as new routines including the Axe, Indian, Latin Pop, Bellydance and Pasodoble., led by Zumba creator Beto and celebrity instructors Gina Grant and Tanya Beardsley. New features include a calorie tracker, revamped gameplay, and graphical representations of the instructors.",
   "VideoURL": "https://www.youtube.com/watch?v=GXQe00s7JgU",
   "CommunityRating": "4",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Music",
+  "Genres": "Music",
   "Developer": "Zoë Mode",
   "Publisher": "Majesco Entertainment",
   "Artwork": {
     "Box": {
       "3D": [
         {
-          "FileName": "e0b6ff22-acd4-4c8a-922b-2290c182ebc6.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
-          "CRC32": "4137634846",
-          "URL": "http://images.launchbox-app.com/e0b6ff22-acd4-4c8a-922b-2290c182ebc6.png"
-        },
-        {
           "FileName": "0a74c0d2-1316-4b8e-a40f-ec4dd0dce7eb.png",
           "Type": "Box - 3D",
           "Region": "Europe",
           "CRC32": "3959662080",
           "URL": "http://images.launchbox-app.com/0a74c0d2-1316-4b8e-a40f-ec4dd0dce7eb.png"
+        },
+        {
+          "FileName": "e0b6ff22-acd4-4c8a-922b-2290c182ebc6.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "4137634846",
+          "URL": "http://images.launchbox-app.com/e0b6ff22-acd4-4c8a-922b-2290c182ebc6.png"
         }
       ],
       "Front": [

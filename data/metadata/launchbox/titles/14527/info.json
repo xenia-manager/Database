@@ -1,12 +1,12 @@
 {
   "Name": "Sega Rally Revo",
   "DatabaseID": "14527",
-  "ReleaseDate": "2007-10-27T00:00:00-07:00",
+  "ReleaseDate": "2007-10-27T00:00:00+00:00",
   "Overview": "Sega Rally Revo (known in Europe as Sega Rally) is an offroad racing video game, the fourth installment of the Sega Rally series. The game was released for PlayStation 3, PlayStation Portable, Xbox 360 and Microsoft Windows in 2007.[5] The game's title is \"Revo\" as Sega intends it to be a revolution in rally racing games. The game was developed simultaneously with Sega Rally 3.",
   "VideoURL": "http://www.youtube.com/watch?v=X0zDvzxztoY",
-  "CommunityRating": "3.8181818181818183",
+  "CommunityRating": "3.81818181818182",
   "ESRB": "E - Everyone",
-  "Genres": " Racing",
+  "Genres": "Racing",
   "Artwork": {
     "Background": [
       {

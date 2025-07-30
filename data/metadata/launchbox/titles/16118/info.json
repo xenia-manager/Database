@@ -1,13 +1,13 @@
 {
   "Name": "Operation Flashpoint: Dragon Rising",
   "DatabaseID": "16118",
-  "ReleaseDate": "2009-10-06T00:00:00-07:00",
+  "ReleaseDate": "2009-10-06T00:00:00+00:00",
   "Overview": "Operation Flashpoint: Dragon Rising is a military simulation video game for Microsoft Windows, PlayStation 3 and Xbox 360 developed by British game developer Codemasters. Codemasters has advertised the game as a tactical shooter designed to represent modern infantry combat realistically. It is a stand-alone sequel to Bohemia Interactive's Operation Flashpoint: Cold War Crisis, but was developed entirely by Codemasters due to a falling-out between the two companies.",
   "VideoURL": "https://www.youtube.com/watch?v=h19_WwfFDpE",
   "CommunityRating": "3.375",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Operation_Flashpoint:_Dragon_Rising",
   "ESRB": "M - Mature",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "Codemasters",
   "Publisher": "Codemasters",
   "Artwork": {
@@ -32,18 +32,18 @@
       ],
       "Front": [
         {
-          "FileName": "5fd16ec2-8bcb-4a85-80b2-b3bd95c7b5f2.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "2703703014",
-          "URL": "http://images.launchbox-app.com/5fd16ec2-8bcb-4a85-80b2-b3bd95c7b5f2.jpg"
-        },
-        {
           "FileName": "1ac3a408-f19c-4af8-b8b0-cf544f896b9b.jpg",
           "Type": "Box - Front",
           "Region": "Europe",
           "CRC32": "1781962560",
           "URL": "http://images.launchbox-app.com/1ac3a408-f19c-4af8-b8b0-cf544f896b9b.jpg"
+        },
+        {
+          "FileName": "5fd16ec2-8bcb-4a85-80b2-b3bd95c7b5f2.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2703703014",
+          "URL": "http://images.launchbox-app.com/5fd16ec2-8bcb-4a85-80b2-b3bd95c7b5f2.jpg"
         }
       ]
     },

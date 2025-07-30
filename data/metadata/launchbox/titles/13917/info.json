@@ -1,12 +1,12 @@
 {
   "Name": "NASCAR 09",
   "DatabaseID": "13917",
-  "ReleaseDate": "2008-06-10T00:00:00-07:00",
+  "ReleaseDate": "2008-06-10T00:00:00+00:00",
   "Overview": "NASCAR 09 is the twelfth installment in the EA Sports NASCAR series, it is the sequel to 2007 game NASCAR 08. It is developed by EA Tiburon and released on the PlayStation 2, PlayStation 3, Xbox 360 and mobile phones in North America on June 10, 2008. On March 12, 2008, EA announced Jeff Gordon as the cover athlete for NASCAR 09. Through the career mode, \"Chase for the NASCAR Sprint Cup\", Gordon leads a mentoring program, a new feature offered in NASCAR 09. This is also the third EA Sports NASCAR video game to appear on a handheld system for Mobile phone version.\n\nIn October 2007, Electronic Arts moved the PlayStation 2 game development to a new studio in North Carolina to be able to get better information with the NASCAR teams in an attempt to improve the game. The PlayStation 3 and Xbox 360 versions of the game were still made at the old studio.\n\nDue to the development team using certain resources to work on key features in the game, no car manufacturers were present in this year's title.\n\nTo date, this is the last NASCAR game to be produced by EA, and the last NASCAR game for the PlayStation 2, after suffering from slumping sales, the difficulty of installing new features, and the lack of popularity. In 2009, NASCAR Kart Racing was released, replacing any 2009 installment for the annual series. It may be EA's last game before their exclusive license with NASCAR expires. Yet the door to NASCAR games for the PlayStation 2 has been shut, as Polyphony Digital's Gran Turismo 5 was not featured for the sixth-generation console.\n\nFor game players in Canada, while the game was still released only in English, the instruction manual and box cover were bilingual, with text in both English and French.",
   "VideoURL": "http://www.youtube.com/watch?v=luHi30kT3no",
   "CommunityRating": "4.25",
   "ESRB": "E - Everyone",
-  "Genres": " Racing; Sports",
+  "Genres": "Racing; Sports",
   "Developer": "Electronic Arts Tiburon",
   "Publisher": "Electronic Arts",
   "Artwork": {
@@ -54,18 +54,18 @@
       ],
       "Front": [
         {
-          "FileName": "3a100f57-733b-4cdc-8ed5-a37a492ccaf1.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "3500701484",
-          "URL": "http://images.launchbox-app.com/3a100f57-733b-4cdc-8ed5-a37a492ccaf1.jpg"
-        },
-        {
           "FileName": "f8f4f397-d830-4b67-8178-94b57300b8d1.jpg",
           "Type": "Box - Front",
           "Region": "Europe",
           "CRC32": "3080642413",
           "URL": "http://images.launchbox-app.com/f8f4f397-d830-4b67-8178-94b57300b8d1.jpg"
+        },
+        {
+          "FileName": "3a100f57-733b-4cdc-8ed5-a37a492ccaf1.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3500701484",
+          "URL": "http://images.launchbox-app.com/3a100f57-733b-4cdc-8ed5-a37a492ccaf1.jpg"
         },
         {
           "FileName": "3915cf8e-1fe4-4d14-b5ee-3c8360d39a89.png",

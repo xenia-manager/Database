@@ -1,12 +1,12 @@
 {
   "Name": "Just Cause 2",
   "DatabaseID": "12591",
-  "ReleaseDate": "2010-03-23T00:00:00-07:00",
+  "ReleaseDate": "2010-03-23T00:00:00+00:00",
   "Overview": "Harness Just Cause 2's unique parachute and grapple combination to create your own unbelievable, high-speed aerial stunts. Whether free-falling from thousands of feet, hijacking enemy fighter jets in midair or blasting through security checkpoints on the ground, use your imagination to create maximum chaos. With hundreds of weapons, vehicles, missions and Rico's trademark parachute and grapple, experience vertical freedom unparalleled in the third-person action genre.",
-  "CommunityRating": "3.4545454545454546",
+  "CommunityRating": "3.45454545454545",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Just_Cause_2",
   "ESRB": "M - Mature",
-  "Genres": " Sandbox; Shooter",
+  "Genres": "Sandbox; Shooter",
   "Developer": "Avalanche Studios",
   "Publisher": "Square Enix",
   "Artwork": {
@@ -29,20 +29,26 @@
       ],
       "Back": [
         {
-          "FileName": "6bcb9619-33a1-47ae-9dec-c787e2861bba.jpg",
-          "Type": "Box - Back",
-          "CRC32": "3385901642",
-          "URL": "http://images.launchbox-app.com/6bcb9619-33a1-47ae-9dec-c787e2861bba.jpg"
-        },
-        {
           "FileName": "85fcb464-a414-4617-bd63-16097865ad64.jpg",
           "Type": "Box - Back",
           "Region": "Europe",
           "CRC32": "722455842",
           "URL": "http://images.launchbox-app.com/85fcb464-a414-4617-bd63-16097865ad64.jpg"
+        },
+        {
+          "FileName": "6bcb9619-33a1-47ae-9dec-c787e2861bba.jpg",
+          "Type": "Box - Back",
+          "CRC32": "3385901642",
+          "URL": "http://images.launchbox-app.com/6bcb9619-33a1-47ae-9dec-c787e2861bba.jpg"
         }
       ],
       "Front": [
+        {
+          "FileName": "51b9ab6f-28d4-48e1-bacf-32aacec438b7.jpg",
+          "Type": "Box - Front",
+          "CRC32": "3938619609",
+          "URL": "http://images.launchbox-app.com/51b9ab6f-28d4-48e1-bacf-32aacec438b7.jpg"
+        },
         {
           "FileName": "929d37e2-e308-40b6-a654-621bfc94d1dd.jpg",
           "Type": "Box - Front",
@@ -56,38 +62,32 @@
           "Region": "Australia",
           "CRC32": "508239406",
           "URL": "http://images.launchbox-app.com/b49e6443-09cb-4617-9268-964a73092a2c.jpg"
-        },
-        {
-          "FileName": "51b9ab6f-28d4-48e1-bacf-32aacec438b7.jpg",
-          "Type": "Box - Front",
-          "CRC32": "3938619609",
-          "URL": "http://images.launchbox-app.com/51b9ab6f-28d4-48e1-bacf-32aacec438b7.jpg"
         }
       ],
       "Spine": [
-        {
-          "FileName": "6dde38c4-7bb3-468e-91fd-8bbcde37779e.jpg",
-          "Type": "Box - Spine",
-          "Region": "Europe",
-          "CRC32": "171903163",
-          "URL": "http://images.launchbox-app.com/6dde38c4-7bb3-468e-91fd-8bbcde37779e.jpg"
-        },
         {
           "FileName": "d90b3adf-8217-4dba-b1e0-1ba78337e9a8.jpg",
           "Type": "Box - Spine",
           "Region": "Europe",
           "CRC32": "1583126484",
           "URL": "http://images.launchbox-app.com/d90b3adf-8217-4dba-b1e0-1ba78337e9a8.jpg"
+        },
+        {
+          "FileName": "6dde38c4-7bb3-468e-91fd-8bbcde37779e.jpg",
+          "Type": "Box - Spine",
+          "Region": "Europe",
+          "CRC32": "171903163",
+          "URL": "http://images.launchbox-app.com/6dde38c4-7bb3-468e-91fd-8bbcde37779e.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "f501e0f9-c77b-4ebe-8ade-82d68c4e6a33.png",
+        "FileName": "81c8edc3-483e-432f-a453-8f98ae79855f.png",
         "Type": "Disc",
-        "Region": "United Kingdom",
-        "CRC32": "1447196968",
-        "URL": "http://images.launchbox-app.com/f501e0f9-c77b-4ebe-8ade-82d68c4e6a33.png"
+        "Region": "North America",
+        "CRC32": "4248329113",
+        "URL": "http://images.launchbox-app.com/81c8edc3-483e-432f-a453-8f98ae79855f.png"
       },
       {
         "FileName": "f71ffc32-9e97-4e8d-b55a-1efae894626f.png",
@@ -97,25 +97,25 @@
         "URL": "http://images.launchbox-app.com/f71ffc32-9e97-4e8d-b55a-1efae894626f.png"
       },
       {
-        "FileName": "81c8edc3-483e-432f-a453-8f98ae79855f.png",
+        "FileName": "f501e0f9-c77b-4ebe-8ade-82d68c4e6a33.png",
         "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "4248329113",
-        "URL": "http://images.launchbox-app.com/81c8edc3-483e-432f-a453-8f98ae79855f.png"
+        "Region": "United Kingdom",
+        "CRC32": "1447196968",
+        "URL": "http://images.launchbox-app.com/f501e0f9-c77b-4ebe-8ade-82d68c4e6a33.png"
       }
     ],
     "Screenshots": [
-      {
-        "FileName": "ace776dd-b6ba-4910-8330-8773f244f2b9.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "2950674959",
-        "URL": "http://images.launchbox-app.com/ace776dd-b6ba-4910-8330-8773f244f2b9.jpg"
-      },
       {
         "FileName": "b7d9cc91-4c4c-4b00-9b96-96b3501a5c3a.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "1960470419",
         "URL": "http://images.launchbox-app.com/b7d9cc91-4c4c-4b00-9b96-96b3501a5c3a.jpg"
+      },
+      {
+        "FileName": "ace776dd-b6ba-4910-8330-8773f244f2b9.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "2950674959",
+        "URL": "http://images.launchbox-app.com/ace776dd-b6ba-4910-8330-8773f244f2b9.jpg"
       }
     ],
     "Other": [

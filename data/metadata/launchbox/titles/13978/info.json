@@ -1,10 +1,10 @@
 {
   "Name": "BlazBlue: Continuum Shift Extend",
   "DatabaseID": "13978",
-  "ReleaseDate": "2012-02-14T00:00:00-08:00",
+  "ReleaseDate": "2012-02-14T00:00:00+00:00",
   "Overview": "BlazBlue: Continuum Shift (ブレイブルー コンティニュアム シフト BureiBurū: Kontinyuamu Shifuto?) is a 2009 fighting game developed by Arc System Works as an official sequel to BlazBlue: Calamity Trigger. As with the previous game, the game first came to arcades before both the Xbox 360 and PlayStation 3 versions as the game was currently released for the Taito Type X2 arcade system board, with a 16:9 ratio and 768p resolution.\n\nRevisions entitled BlazBlue: Continuum Shift II and BlazBlue: Continuum Shift Extend were released in arcades in 2010-2011. They were later ported to the PlayStation 3, PlayStation Portable, Nintendo 3DS, and Windows.",
-  "CommunityRating": "3.3888888888888888",
-  "Genres": " Fighting",
+  "CommunityRating": "3.38888888888889",
+  "Genres": "Fighting",
   "Developer": "Arc System Works",
   "Publisher": "Aksys Games Localization",
   "Artwork": {
@@ -73,18 +73,6 @@
     ],
     "Screenshots": [
       {
-        "FileName": "39c85874-a940-4f3e-b4ae-eee4d4a63da7.jpg",
-        "Type": "Screenshot - Game Select",
-        "CRC32": "571863830",
-        "URL": "http://images.launchbox-app.com/39c85874-a940-4f3e-b4ae-eee4d4a63da7.jpg"
-      },
-      {
-        "FileName": "c80b50b5-40bc-4078-8c4e-9e59142e632f.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "1353483346",
-        "URL": "http://images.launchbox-app.com/c80b50b5-40bc-4078-8c4e-9e59142e632f.jpg"
-      },
-      {
         "FileName": "99052021-c6b9-4714-a7d0-a1d1828f2629.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "2149787447",
@@ -95,6 +83,18 @@
         "Type": "Screenshot - Gameplay",
         "CRC32": "205848593",
         "URL": "http://images.launchbox-app.com/44743165-0815-4a98-b834-30411f50dec1.jpg"
+      },
+      {
+        "FileName": "39c85874-a940-4f3e-b4ae-eee4d4a63da7.jpg",
+        "Type": "Screenshot - Game Select",
+        "CRC32": "571863830",
+        "URL": "http://images.launchbox-app.com/39c85874-a940-4f3e-b4ae-eee4d4a63da7.jpg"
+      },
+      {
+        "FileName": "c80b50b5-40bc-4078-8c4e-9e59142e632f.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "1353483346",
+        "URL": "http://images.launchbox-app.com/c80b50b5-40bc-4078-8c4e-9e59142e632f.jpg"
       }
     ],
     "Other": [

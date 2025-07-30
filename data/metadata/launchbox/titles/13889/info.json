@@ -1,13 +1,13 @@
 {
   "Name": "Dynasty Warriors: Gundam 3",
   "DatabaseID": "13889",
-  "ReleaseDate": "2011-06-28T00:00:00-07:00",
+  "ReleaseDate": "2011-06-28T00:00:00+00:00",
   "Overview": "Dynasty Warriors: Gundam 3, known in Japan as Gundam Musou 3 (ガンダム無双3, Gandamu Musō Surī), is a tactical action video game based on the Gundam anime series, and the sequel to 2008's Dynasty Warriors: Gundam 2.\n\nDynasty Warriors: Gundam 3 follows in the style of previous Dynasty Warriors and Samurai Warriors games as an action-oriented hack and slash with some tactical elements. Despite their similar heritage, Koei's Gundam titles have unique gameplay mechanics that help set them apart from Koei's core Dynasty Warriors series. For example: players are given more ranged combat options than in other Dynasty Warriors games, although melee combat is still the focus of the game. Also, units in Dynasty Warriors: Gundam 3 are much more mobile, using their thrusters to dash, jump in mid-air, and (for some) even fly.\n\nHowever, the greatest difference between Koei's Gundam titles (of which there are currently three) and Koei's Dynasty Warriors series is the core content: rather than using characters and story from the novel Romance of the Three Kingdoms, the games draw their material from across the various Mobile Suit Gundam anime and manga series.",
   "VideoURL": "https://www.youtube.com/watch?v=JbHMx0Aymw8",
   "CommunityRating": "3.5",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Dynasty_Warriors:_Gundam_3",
   "ESRB": "T - Teen",
-  "Genres": " Beat 'em Up",
+  "Genres": "Beat 'em Up",
   "Developer": "Omega Force",
   "Publisher": "Namco Bandai Games",
   "Artwork": {
@@ -72,6 +72,12 @@
     ],
     "Screenshots": [
       {
+        "FileName": "04d070b9-9fde-4dfb-ae3a-2b8a77493dd7.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3490158781",
+        "URL": "http://images.launchbox-app.com/04d070b9-9fde-4dfb-ae3a-2b8a77493dd7.jpg"
+      },
+      {
         "FileName": "83c77c61-4d2a-4629-8515-c9b26bde782c.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "3550154076",
@@ -83,12 +89,6 @@
         "Region": "North America",
         "CRC32": "1638408344",
         "URL": "http://images.launchbox-app.com/dabc2b28-92ab-44b8-b10a-22902e62e2fa.jpg"
-      },
-      {
-        "FileName": "04d070b9-9fde-4dfb-ae3a-2b8a77493dd7.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3490158781",
-        "URL": "http://images.launchbox-app.com/04d070b9-9fde-4dfb-ae3a-2b8a77493dd7.jpg"
       }
     ],
     "Other": [

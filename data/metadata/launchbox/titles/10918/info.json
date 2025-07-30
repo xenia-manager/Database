@@ -1,28 +1,28 @@
 {
   "Name": "The Orange Box",
   "DatabaseID": "10918",
-  "ReleaseDate": "2007-10-09T00:00:00-07:00",
+  "ReleaseDate": "2007-10-09T00:00:00+00:00",
   "Overview": "The Orange Box is a compilation that contains five games, all powered by Valve's Source engine. The games included are: Half-Life 2, Half-Life 2: Episode One, Half-Life 2: Episode Two, Portal and Team Fortress 2. Two of the games included, Half-Life 2 and its first stand-alone expansion, Episode One, had previously been released as separate products. Three new games were also included in the compilation: the second stand-alone expansion, Half-Life 2: Episode Two, the puzzle game Portal, and Team Fortress 2, the multiplayer game sequel to the original mod based on the Quake engine, Team Fortress.",
   "VideoURL": "https://www.youtube.com/watch?v=9FYQ1tynj6U",
   "CommunityRating": "4.53125",
   "WikipediaURL": "https://en.wikipedia.org/wiki/The_Orange_Box",
   "ESRB": "M - Mature",
-  "Genres": " Compilation",
+  "Genres": "Compilation",
   "Developer": "Valve",
   "Publisher": "Valve",
   "Artwork": {
     "Background": [
       {
-        "FileName": "eeb33ac0-b599-4430-9b3d-0db534287242.png",
-        "Type": "Fanart - Background",
-        "CRC32": "2620478326",
-        "URL": "http://images.launchbox-app.com/eeb33ac0-b599-4430-9b3d-0db534287242.png"
-      },
-      {
         "FileName": "8f0a7be6-60f6-4b56-b1f2-4a004011cbac.jpg",
         "Type": "Fanart - Background",
         "CRC32": "1359449159",
         "URL": "http://images.launchbox-app.com/8f0a7be6-60f6-4b56-b1f2-4a004011cbac.jpg"
+      },
+      {
+        "FileName": "eeb33ac0-b599-4430-9b3d-0db534287242.png",
+        "Type": "Fanart - Background",
+        "CRC32": "2620478326",
+        "URL": "http://images.launchbox-app.com/eeb33ac0-b599-4430-9b3d-0db534287242.png"
       }
     ],
     "Box": {
@@ -65,6 +65,12 @@
     ],
     "Screenshots": [
       {
+        "FileName": "c389c0e1-8db0-4ca3-b709-3d27f8f46e4e.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1858809871",
+        "URL": "http://images.launchbox-app.com/c389c0e1-8db0-4ca3-b709-3d27f8f46e4e.jpg"
+      },
+      {
         "FileName": "773b18c5-ade8-447e-8dcc-8970c0d2539b.jpg",
         "Type": "Screenshot - Game Select",
         "CRC32": "3380237410",
@@ -75,12 +81,6 @@
         "Type": "Screenshot - Game Title",
         "CRC32": "4063158679",
         "URL": "http://images.launchbox-app.com/b1ceaaff-03d8-429a-9932-d17726134751.jpg"
-      },
-      {
-        "FileName": "c389c0e1-8db0-4ca3-b709-3d27f8f46e4e.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1858809871",
-        "URL": "http://images.launchbox-app.com/c389c0e1-8db0-4ca3-b709-3d27f8f46e4e.jpg"
       }
     ],
     "Other": [

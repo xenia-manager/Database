@@ -1,11 +1,11 @@
 {
   "Name": "Battle vs Chess",
   "DatabaseID": "203828",
-  "ReleaseDate": "2011-05-17T00:00:00-07:00",
+  "ReleaseDate": "2011-05-17T00:00:00+00:00",
   "Overview": "Employing the framework of ChessBase's world renowned Fritz! chess algorithm software, widely regarded as one of the most sophisticated chess engines in the world, even the most experienced chess experts will be presented with a daunting challenge. All these features paired with an atmospheric soundtrack, several distinct game board environments, special game modes, and a plethora of unlockable bonuses guarantee players long lasting fun with the timeless game of kings!",
   "CommunityRating": "5",
   "ESRB": "T - Teen",
-  "Genres": " Board Game",
+  "Genres": "Board Game",
   "Developer": "Targem Games",
   "Publisher": "TopWare Interactive",
   "Artwork": {
@@ -71,10 +71,10 @@
         "URL": "http://images.launchbox-app.com/b530fc4e-6630-414f-b55f-db1d0a7802d9.jpg"
       },
       {
-        "FileName": "70dd880a-a7dd-41fe-9e55-3bc42a37dccd.jpg",
+        "FileName": "acf7c922-8b9f-4ba5-b67a-3a6dd81124f2.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "1890029507",
-        "URL": "http://images.launchbox-app.com/70dd880a-a7dd-41fe-9e55-3bc42a37dccd.jpg"
+        "CRC32": "1245254153",
+        "URL": "http://images.launchbox-app.com/acf7c922-8b9f-4ba5-b67a-3a6dd81124f2.jpg"
       },
       {
         "FileName": "eaf74b10-5d51-471e-9901-3d6ff48cccfa.jpg",
@@ -83,10 +83,10 @@
         "URL": "http://images.launchbox-app.com/eaf74b10-5d51-471e-9901-3d6ff48cccfa.jpg"
       },
       {
-        "FileName": "acf7c922-8b9f-4ba5-b67a-3a6dd81124f2.jpg",
+        "FileName": "70dd880a-a7dd-41fe-9e55-3bc42a37dccd.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "1245254153",
-        "URL": "http://images.launchbox-app.com/acf7c922-8b9f-4ba5-b67a-3a6dd81124f2.jpg"
+        "CRC32": "1890029507",
+        "URL": "http://images.launchbox-app.com/70dd880a-a7dd-41fe-9e55-3bc42a37dccd.jpg"
       }
     ]
   }

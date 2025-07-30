@@ -1,13 +1,13 @@
 {
   "Name": "TEKKEN 6",
   "DatabaseID": "13474",
-  "ReleaseDate": "2009-10-27T00:00:00-07:00",
+  "ReleaseDate": "2009-10-27T00:00:00+00:00",
   "Overview": "The storied fighting franchise returns for another bout in Tekken 6. Select from an impressive roster of fighters, each with a signature set of deadly techniques, and unleash your most powerful and lightning-fast moves and combos to overcome your opponent. Customize your character to achieve unique advantages, and battle mano a mano as the King of Iron Fist Tournament comes to life around you in stunning high definition.\n\nFollowing his victory in the previous tournament, Jin Kazama has taken charge of the Mishima Zaibatsu and now possesses tyrannical ambitions. Using his resources within the organization to become a global superpower, he severs the Mishima Zaibatsu's national ties and openly declares war against all nations. This action plunges the world into a chaotic spiral, with war erupting around the globe and even amidst the space colonies orbiting the planet. Kazuya Mishima, is aware of this and finds Jin's interference in his own plans for global domination to be a nuisance. Now in charge of G Corporation (which was put under his command following a violent fury against the company's heads), Kazuya is seen as the only force who could oppose Jin and places a bounty on Jin's head for anyone who can capture him. Jin's response is to announce The King of Iron Fist Tournament 6 in order to battle Kazuya and crush G Corporation.",
   "VideoURL": "https://www.youtube.com/watch?v=r1_7lDCQF2I",
-  "CommunityRating": "3.8620689655172415",
+  "CommunityRating": "3.86206896551724",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Tekken_6",
   "ESRB": "T - Teen",
-  "Genres": " Fighting",
+  "Genres": "Fighting",
   "Developer": "Namco Bandai Games",
   "Publisher": "Namco Bandai Games America",
   "Artwork": {
@@ -25,30 +25,30 @@
         "URL": "http://images.launchbox-app.com/e9c4276d-0145-4825-ab14-56af4a1cb59c.jpg"
       },
       {
-        "FileName": "259a5c61-a9b6-4fa0-8a16-facfcbe9d49e.jpg",
-        "Type": "Banner",
-        "CRC32": "1739372639",
-        "URL": "http://images.launchbox-app.com/259a5c61-a9b6-4fa0-8a16-facfcbe9d49e.jpg"
-      },
-      {
         "FileName": "58397625-3fa4-489e-a669-568afcfaddab.jpg",
         "Type": "Banner",
         "CRC32": "1247702310",
         "URL": "http://images.launchbox-app.com/58397625-3fa4-489e-a669-568afcfaddab.jpg"
+      },
+      {
+        "FileName": "259a5c61-a9b6-4fa0-8a16-facfcbe9d49e.jpg",
+        "Type": "Banner",
+        "CRC32": "1739372639",
+        "URL": "http://images.launchbox-app.com/259a5c61-a9b6-4fa0-8a16-facfcbe9d49e.jpg"
       }
     ],
     "Background": [
+      {
+        "FileName": "c45ea85c-d705-4d15-a057-de882c624d47.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "270301504",
+        "URL": "http://images.launchbox-app.com/c45ea85c-d705-4d15-a057-de882c624d47.jpg"
+      },
       {
         "FileName": "705230c7-2738-42b2-9297-a5d990f1d4f1.jpg",
         "Type": "Fanart - Background",
         "CRC32": "212676689",
         "URL": "http://images.launchbox-app.com/705230c7-2738-42b2-9297-a5d990f1d4f1.jpg"
-      },
-      {
-        "FileName": "fd30a1d6-73d0-445c-a99d-d75808798463.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "1943988240",
-        "URL": "http://images.launchbox-app.com/fd30a1d6-73d0-445c-a99d-d75808798463.jpg"
       },
       {
         "FileName": "f8ec7c6e-9c9c-497a-92d0-2b3a15609d55.jpg",
@@ -57,10 +57,10 @@
         "URL": "http://images.launchbox-app.com/f8ec7c6e-9c9c-497a-92d0-2b3a15609d55.jpg"
       },
       {
-        "FileName": "c45ea85c-d705-4d15-a057-de882c624d47.jpg",
+        "FileName": "fd30a1d6-73d0-445c-a99d-d75808798463.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "270301504",
-        "URL": "http://images.launchbox-app.com/c45ea85c-d705-4d15-a057-de882c624d47.jpg"
+        "CRC32": "1943988240",
+        "URL": "http://images.launchbox-app.com/fd30a1d6-73d0-445c-a99d-d75808798463.jpg"
       }
     ],
     "Box": {
@@ -75,35 +75,21 @@
       ],
       "Back": [
         {
-          "FileName": "6a2e7a75-b267-417d-bad5-1cc6f59485df.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
-          "CRC32": "662831407",
-          "URL": "http://images.launchbox-app.com/6a2e7a75-b267-417d-bad5-1cc6f59485df.jpg"
-        },
-        {
           "FileName": "65af3aa6-772e-47a4-9a61-09b1988fbf68.png",
           "Type": "Box - Back",
           "Region": "Germany",
           "CRC32": "1508660227",
           "URL": "http://images.launchbox-app.com/65af3aa6-772e-47a4-9a61-09b1988fbf68.png"
+        },
+        {
+          "FileName": "6a2e7a75-b267-417d-bad5-1cc6f59485df.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "662831407",
+          "URL": "http://images.launchbox-app.com/6a2e7a75-b267-417d-bad5-1cc6f59485df.jpg"
         }
       ],
       "Front": [
-        {
-          "FileName": "e26ae1f7-4b6f-4410-9b08-0e2ff2d2421b.png",
-          "Type": "Box - Front",
-          "Region": "Germany",
-          "CRC32": "2123149058",
-          "URL": "http://images.launchbox-app.com/e26ae1f7-4b6f-4410-9b08-0e2ff2d2421b.png"
-        },
-        {
-          "FileName": "c572bb46-d132-48b8-a5db-7481675a9826.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "2643130402",
-          "URL": "http://images.launchbox-app.com/c572bb46-d132-48b8-a5db-7481675a9826.jpg"
-        },
         {
           "FileName": "a0fd5c4c-3897-4b10-b9a4-a611b3d5821f.jpg",
           "Type": "Box - Front",
@@ -117,6 +103,20 @@
           "Region": "Europe",
           "CRC32": "1853204442",
           "URL": "http://images.launchbox-app.com/2854409a-6415-46ee-bc55-473cc6de5985.jpg"
+        },
+        {
+          "FileName": "e26ae1f7-4b6f-4410-9b08-0e2ff2d2421b.png",
+          "Type": "Box - Front",
+          "Region": "Germany",
+          "CRC32": "2123149058",
+          "URL": "http://images.launchbox-app.com/e26ae1f7-4b6f-4410-9b08-0e2ff2d2421b.png"
+        },
+        {
+          "FileName": "c572bb46-d132-48b8-a5db-7481675a9826.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2643130402",
+          "URL": "http://images.launchbox-app.com/c572bb46-d132-48b8-a5db-7481675a9826.jpg"
         },
         {
           "FileName": "84754266-be0f-4026-bd4c-928e6aea20ca.png",

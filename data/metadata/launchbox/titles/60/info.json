@@ -1,13 +1,13 @@
 {
   "Name": "Rumble Roses XX",
   "DatabaseID": "60",
-  "ReleaseDate": "2006-03-28T00:00:00-08:00",
+  "ReleaseDate": "2006-03-28T00:00:00+00:00",
   "Overview": "Rumble Roses XX is a wrestling game for the Xbox 360 featuring all-female fighters. Gameplay allows you to perform various types of moves, including holds, throws, reversals and finishing moves. There are several modes of play, including handicap and tag-team matches, elimination matches, and more. Online play is available through Xbox Live for 2-4 players at a time. As you progress through the game, you can unlock different items to customize your character, along with entrance animations, penalty games, and other surprises.",
   "VideoURL": "https://www.youtube.com/watch?v=ys8XnKxykUw",
-  "CommunityRating": "3.8333333333333335",
+  "CommunityRating": "3.83333333333333",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Rumble_Roses_XX",
   "ESRB": "M - Mature",
-  "Genres": " Fighting; Sports",
+  "Genres": "Fighting; Sports",
   "Developer": "Yuke's",
   "Publisher": "Konami Digital Entertainment",
   "Artwork": {
@@ -96,10 +96,10 @@
     ],
     "Screenshots": [
       {
-        "FileName": "3f06d322-3c39-4268-a8a7-676c92ddbad3.png",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "1687445731",
-        "URL": "http://images.launchbox-app.com/3f06d322-3c39-4268-a8a7-676c92ddbad3.png"
+        "FileName": "3c226484-74b7-45c9-8d58-c9a59db5a263.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2884500309",
+        "URL": "http://images.launchbox-app.com/3c226484-74b7-45c9-8d58-c9a59db5a263.jpg"
       },
       {
         "FileName": "c38e6828-adb7-44ab-a0e8-72c79e90a40e.jpg",
@@ -108,10 +108,10 @@
         "URL": "http://images.launchbox-app.com/c38e6828-adb7-44ab-a0e8-72c79e90a40e.jpg"
       },
       {
-        "FileName": "3c226484-74b7-45c9-8d58-c9a59db5a263.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2884500309",
-        "URL": "http://images.launchbox-app.com/3c226484-74b7-45c9-8d58-c9a59db5a263.jpg"
+        "FileName": "3f06d322-3c39-4268-a8a7-676c92ddbad3.png",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "1687445731",
+        "URL": "http://images.launchbox-app.com/3f06d322-3c39-4268-a8a7-676c92ddbad3.png"
       }
     ],
     "Other": [

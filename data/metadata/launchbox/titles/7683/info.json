@@ -1,34 +1,34 @@
 {
   "Name": "Robert Ludlum's The Bourne Conspiracy",
   "DatabaseID": "7683",
-  "ReleaseDate": "2008-06-03T00:00:00-07:00",
+  "ReleaseDate": "2008-06-03T00:00:00+00:00",
   "Overview": "You are the perfect weapon. You are Jason Bourne. Robert Ludlum's best-selling spy novels and blockbuster film adaptations have thrilled millions. Now become Ludlum's most famous spy Jason Bourne, going deeper than ever into his world of espionage and conspiracy. A signature Jason Bourne video game experience is born in an original title fusing the viscous tension and depth of the novels with the aggressive style and frenetic action of the films. \n\nBecome Jason Bourne, a 30 million dollar weapon on the loose, in action-packed original missions and sequences inspired by The Bourne Identity. Go deeper into the Bourne mythos than ever before, experiencing Bourne as both ruthless agent and wanted assassin on the run from his own agency. Move from firefights to fistfights in sequences that seamlessly blend shooting with hand-to-hand combat. Employ signature Bourne techniques to weaponize, improvise, and always survive. Pull off heart-pounding escapes, memorable fight moves, acrobatic gun play, and devastating takedowns.",
   "VideoURL": "https://www.youtube.com/watch?v=3oR3j7k03zg",
   "CommunityRating": "3.875",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Robert_Ludlum's_The_Bourne_Conspiracy",
   "ESRB": "T - Teen",
-  "Genres": " Action; Stealth",
+  "Genres": "Action; Stealth",
   "Developer": "High Moon Studios",
   "Publisher": "Sierra Entertainment",
   "Artwork": {
     "Background": [
       {
+        "FileName": "ed7f2a3f-5d2c-4ae1-9836-b1db1d8500f7.png",
+        "Type": "Fanart - Background",
+        "CRC32": "3533904727",
+        "URL": "http://images.launchbox-app.com/ed7f2a3f-5d2c-4ae1-9836-b1db1d8500f7.png"
+      },
+      {
+        "FileName": "b8e8e528-5adc-4759-b568-d6101c1d6ecc.png",
+        "Type": "Fanart - Background",
+        "CRC32": "2087553937",
+        "URL": "http://images.launchbox-app.com/b8e8e528-5adc-4759-b568-d6101c1d6ecc.png"
+      },
+      {
         "FileName": "b2ac4f3f-622e-4fb5-aeec-dd99ff2da9d9.jpg",
         "Type": "Fanart - Background",
         "CRC32": "4158622498",
         "URL": "http://images.launchbox-app.com/b2ac4f3f-622e-4fb5-aeec-dd99ff2da9d9.jpg"
-      },
-      {
-        "FileName": "b8e8e528-5adc-4759-b568-d6101c1d6ecc.PNG",
-        "Type": "Fanart - Background",
-        "CRC32": "2087553937",
-        "URL": "http://images.launchbox-app.com/b8e8e528-5adc-4759-b568-d6101c1d6ecc.PNG"
-      },
-      {
-        "FileName": "ed7f2a3f-5d2c-4ae1-9836-b1db1d8500f7.PNG",
-        "Type": "Fanart - Background",
-        "CRC32": "3533904727",
-        "URL": "http://images.launchbox-app.com/ed7f2a3f-5d2c-4ae1-9836-b1db1d8500f7.PNG"
       }
     ],
     "Box": {

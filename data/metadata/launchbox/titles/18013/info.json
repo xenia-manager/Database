@@ -1,28 +1,28 @@
 {
   "Name": "Deus Ex: Human Revolution Director's Cut",
   "DatabaseID": "18013",
-  "ReleaseDate": "2013-10-22T00:00:00-07:00",
+  "ReleaseDate": "2013-10-22T00:00:00+00:00",
   "Overview": "You play Adam Jensen, an ex-SWAT specialist who's been handpicked to oversee the defensive needs of one of America's most experimental biotechnology firms. Your job is to safeguard company secrets, but when a black ops team breaks in and kills the very scientists you were hired to protect, everything you thought you knew about your job changes. \n\nA divided near-future: discover a time of great technological advancement, but also a time of chaos and conspiracy. Mechanical augmentations of the human body have divided society between those who can afford them, and those who can’t. Opposing forces conspire from the shadow to control the destiny of mankind: a human revolution is coming. \n\nA perfect mix of action and role-playing: the game uniquely combines action-packed close-quarters takedowns with intense shooting, offering a vast array of character augmentations and upgrades for the many weapons at your disposal. Unlock new abilities and increase your stealth, social, hacking or combat skills: the game rewards all styles of play and approaches. Determine how you want your character to evolve, based on how you want to play the game. \n\nChoices and consequences: shoot your way through the enemies, sneak up behind them without being traced, hack systems to retrieve crucial information, or use your social skills to extract information from key characters – there are always choices, multiple approaches, multiple paths and multiple tools at your disposal. Choose your playing style and face the consequences of your actions: you decide how the story unfolds in this enhanced storyline featuring the full integration of \"The Missing Link\" and \"Tongs Mission\". Find more ways to defeat the new and improved Boss Fights, use the New Game+ feature to replay the story with your previously acquired augmentations. and learn more about the game with the developers commentaries in  \"Making of\" video.",
   "VideoURL": "https://www.youtube.com/watch?v=cpbiI4kyUOw",
-  "CommunityRating": "4.1428571428571432",
+  "CommunityRating": "4.14285714285714",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Deus_Ex%3A_Human_Revolution#Director.27s_Cut",
   "ESRB": "M - Mature",
-  "Genres": " Action; Role-Playing; Shooter; Stealth",
+  "Genres": "Action; Role-Playing; Shooter; Stealth",
   "Developer": "Eidos Montreal",
   "Publisher": "Square Enix",
   "Artwork": {
     "Background": [
       {
-        "FileName": "fe3d77be-a92d-40cc-9102-897055eb7b76.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "1852085313",
-        "URL": "http://images.launchbox-app.com/fe3d77be-a92d-40cc-9102-897055eb7b76.jpg"
-      },
-      {
         "FileName": "aa56a812-2621-4a2a-8a91-1d151f92be38.jpg",
         "Type": "Fanart - Background",
         "CRC32": "3299690138",
         "URL": "http://images.launchbox-app.com/aa56a812-2621-4a2a-8a91-1d151f92be38.jpg"
+      },
+      {
+        "FileName": "fe3d77be-a92d-40cc-9102-897055eb7b76.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1852085313",
+        "URL": "http://images.launchbox-app.com/fe3d77be-a92d-40cc-9102-897055eb7b76.jpg"
       }
     ],
     "Box": {

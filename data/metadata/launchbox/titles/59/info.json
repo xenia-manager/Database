@@ -1,13 +1,13 @@
 {
   "Name": "Ridge Racer 6",
   "DatabaseID": "59",
-  "ReleaseDate": "2005-11-22T00:00:00-08:00",
+  "ReleaseDate": "2005-11-22T00:00:00+00:00",
   "Overview": "Big drift racing is back in Ridge Racer 6. There are 130 cars, loads of prizes and other unlockables in World Xplorer mode. World Xplorer sees you going through a hexagonal based \"universe\" from easy to difficult races. Nitro is gained by drifting and jumping through the races and allows you to build up three nitro boost cells to use one at a time or one after the other for a bigger boost.\n\nFor the first time in the series, Ridge Racer goes online with Online Battle Mode allowing up to 14 players to drift against each other. Also, if you don't want to race you can watch other players racing on Spectator mode. Global Time Attack mode challenges you to get the best times and upload them to the scoreboards, to see if you are best in the world or not.",
   "VideoURL": "https://www.youtube.com/watch?v=g38xo7TEFPI",
   "CommunityRating": "3.875",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Ridge_Racer_6",
   "ESRB": "E - Everyone",
-  "Genres": " Racing",
+  "Genres": "Racing",
   "Developer": "Namco",
   "Publisher": "Electronic Arts",
   "Artwork": {
@@ -49,18 +49,18 @@
       ],
       "Back": [
         {
-          "FileName": "08dd35d2-107b-4c01-a22b-933d9dae7c21.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
-          "CRC32": "939920670",
-          "URL": "http://images.launchbox-app.com/08dd35d2-107b-4c01-a22b-933d9dae7c21.jpg"
-        },
-        {
           "FileName": "7d660cd5-d4fe-42c0-8249-2a0a668b410f.jpg",
           "Type": "Box - Back",
           "Region": "Europe",
           "CRC32": "842735296",
           "URL": "http://images.launchbox-app.com/7d660cd5-d4fe-42c0-8249-2a0a668b410f.jpg"
+        },
+        {
+          "FileName": "08dd35d2-107b-4c01-a22b-933d9dae7c21.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "939920670",
+          "URL": "http://images.launchbox-app.com/08dd35d2-107b-4c01-a22b-933d9dae7c21.jpg"
         }
       ],
       "Front": [
@@ -107,6 +107,18 @@
     ],
     "Screenshots": [
       {
+        "FileName": "5951bc07-8a34-48fd-aaa7-9a219a9dd049.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "4049081085",
+        "URL": "http://images.launchbox-app.com/5951bc07-8a34-48fd-aaa7-9a219a9dd049.jpg"
+      },
+      {
+        "FileName": "9ee519de-f26e-464f-9414-eb3c34d0d6db.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "4071453266",
+        "URL": "http://images.launchbox-app.com/9ee519de-f26e-464f-9414-eb3c34d0d6db.jpg"
+      },
+      {
         "FileName": "a012b10e-58fb-4530-8d7a-0e52f8af3045.jpg",
         "Type": "Screenshot - Game Select",
         "CRC32": "1196208116",
@@ -117,18 +129,6 @@
         "Type": "Screenshot - Game Title",
         "CRC32": "1809912569",
         "URL": "http://images.launchbox-app.com/9ddd6aed-dace-44cd-8e81-d634d0359e52.jpg"
-      },
-      {
-        "FileName": "9ee519de-f26e-464f-9414-eb3c34d0d6db.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "4071453266",
-        "URL": "http://images.launchbox-app.com/9ee519de-f26e-464f-9414-eb3c34d0d6db.jpg"
-      },
-      {
-        "FileName": "5951bc07-8a34-48fd-aaa7-9a219a9dd049.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "4049081085",
-        "URL": "http://images.launchbox-app.com/5951bc07-8a34-48fd-aaa7-9a219a9dd049.jpg"
       }
     ],
     "Other": [

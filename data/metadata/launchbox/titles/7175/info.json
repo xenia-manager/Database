@@ -1,12 +1,12 @@
 {
   "Name": "Def Jam: Icon",
   "DatabaseID": "7175",
-  "ReleaseDate": "2007-02-06T00:00:00-08:00",
+  "ReleaseDate": "2007-02-06T00:00:00+00:00",
   "Overview": "Infusing hip-hop music, culture and lifestyle into the gameplay, EA Chicago and Def Jam Interactive push the boundaries of game development bringing unique and innovative content to the next generation of gaming. Music is the cornerstone of hip-hop culture so EA wanted to incorporate music and rhythm into the actual gameplay mechanics. EA Chicago delivers star-stunning action and bone breaking beats as players live out the life of a hip hop mogul, going from rags to riches. Incorporating hip-hop culture into every aspect of the game, DEF JAM: ICON delivers the intensity of a no-holds-barred street fight but with style and rhythm. Music affects how players fight in each venue and environmental interactions and hazards become a key strategy to staying alive. The game's unique fighting gameplay controls introduce a new way for gamers to fight as they assume the role of top celebrity characters such as Ludacris, T.I. and Big Boi. Innovative controls give better feedback to players so they feel like they're actually throwing the combat moves. Gamers can now fight with the style and flash of the superstar personalities.",
   "CommunityRating": "3.125",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Def_Jam:_Icon",
   "ESRB": "T - Teen",
-  "Genres": " Fighting",
+  "Genres": "Fighting",
   "Developer": "Electronic Arts Chicago",
   "Publisher": "Electronic Arts",
   "Artwork": {
@@ -54,18 +54,18 @@
       ],
       "Spine": [
         {
-          "FileName": "1fa7c9aa-dac8-45a0-90c3-72d923267d91.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
-          "CRC32": "2886916615",
-          "URL": "http://images.launchbox-app.com/1fa7c9aa-dac8-45a0-90c3-72d923267d91.jpg"
-        },
-        {
           "FileName": "8901f72c-6994-43c4-bcaf-731d96fd70d2.jpg",
           "Type": "Box - Spine",
           "Region": "North America",
           "CRC32": "886056647",
           "URL": "http://images.launchbox-app.com/8901f72c-6994-43c4-bcaf-731d96fd70d2.jpg"
+        },
+        {
+          "FileName": "1fa7c9aa-dac8-45a0-90c3-72d923267d91.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "2886916615",
+          "URL": "http://images.launchbox-app.com/1fa7c9aa-dac8-45a0-90c3-72d923267d91.jpg"
         }
       ]
     },

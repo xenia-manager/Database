@@ -1,10 +1,10 @@
 {
   "Name": "Hidden in Plain Sight",
   "DatabaseID": "419101",
-  "ReleaseDate": "2011-11-18T00:00:00-08:00",
+  "ReleaseDate": "2011-11-18T00:00:00+00:00",
   "Overview": "Hidden in Plain Sight is a local-multiplayer stealth party game. Blend into the crowd of AI characters and eliminate the other players before they eliminate you!",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Adam Spragg",
   "Publisher": "Adam Spragg",
   "Artwork": {

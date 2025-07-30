@@ -1,15 +1,21 @@
 {
   "Name": "Plants vs. Zombies: Garden Warfare",
   "DatabaseID": "20657",
-  "ReleaseDate": "2014-02-25T00:00:00-08:00",
+  "ReleaseDate": "2014-02-25T00:00:00+00:00",
   "Overview": "Plants vs. Zombies: Garden Warfare is a third-person shooter using characters from the Plants vs Zombies universe. It uses a class-based system for gameplay, similar to the Battlefield franchise -- another series from EA. In fact, the teaser trailer for this game used a similar intro to Battlefield 4.",
   "VideoURL": "http://www.youtube.com/watch?v=0c6Qd4Rck1o",
-  "CommunityRating": "4.416666666666667",
-  "Genres": " Shooter",
+  "CommunityRating": "4.41666666666667",
+  "Genres": "Shooter",
   "Developer": "PopCap Games",
   "Publisher": "Electronic Arts",
   "Artwork": {
     "Background": [
+      {
+        "FileName": "e1fb2fa1-c07a-43a9-99ba-aa2183650996.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2302385142",
+        "URL": "http://images.launchbox-app.com/e1fb2fa1-c07a-43a9-99ba-aa2183650996.jpg"
+      },
       {
         "FileName": "798f1ff0-d4b4-40d9-ae88-8fcd1dff7b7d.jpg",
         "Type": "Fanart - Background",
@@ -21,12 +27,6 @@
         "Type": "Fanart - Background",
         "CRC32": "725650359",
         "URL": "http://images.launchbox-app.com/9560950b-7c22-44c9-86f5-b073f8a1c326.jpg"
-      },
-      {
-        "FileName": "e1fb2fa1-c07a-43a9-99ba-aa2183650996.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2302385142",
-        "URL": "http://images.launchbox-app.com/e1fb2fa1-c07a-43a9-99ba-aa2183650996.jpg"
       },
       {
         "FileName": "3fbdae19-24a9-491e-a49b-0368493a15e5.jpg",

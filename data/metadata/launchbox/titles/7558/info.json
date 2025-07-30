@@ -1,13 +1,13 @@
 {
   "Name": "Open Season",
   "DatabaseID": "7558",
-  "ReleaseDate": "2006-09-18T00:00:00-07:00",
+  "ReleaseDate": "2006-09-18T00:00:00+00:00",
   "Overview": "Open Season is a video game, based on the movie of the same name. It was released for Wii, PlayStation 2, PlayStation Portable, Microsoft Windows, Game Boy Advance, Xbox 360, Xbox, Nintendo DS, and Nintendo GameCube. The Nintendo DS version supports the Nintendo Wi-Fi Connection.\n\nWhile Patrick Warburton, Matthew W. Taylor, Nika Futterman and Danny Mann reprise their roles from the movie, most of the original people were replaced (for example, Chris Williams and Matthew W. Taylor are the voices of Boog and Elliot in this game).",
   "VideoURL": "https://www.youtube.com/watch?v=a_e9IVDZeUk",
   "CommunityRating": "5",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Open_Season_(video_game)",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Ubisoft",
   "Publisher": "Ubisoft",
   "Artwork": {
@@ -67,17 +67,17 @@
     ],
     "Other": [
       {
+        "FileName": "ff52914f-93d5-45a6-b39e-6ed1d192b41e.png",
+        "Type": "Clear Logo",
+        "CRC32": "2678161896",
+        "URL": "http://images.launchbox-app.com/ff52914f-93d5-45a6-b39e-6ed1d192b41e.png"
+      },
+      {
         "FileName": "4a979262-382d-42d3-b28e-9c13f80700f3.png",
         "Type": "Clear Logo",
         "Region": "Spain",
         "CRC32": "2358038012",
         "URL": "http://images.launchbox-app.com/4a979262-382d-42d3-b28e-9c13f80700f3.png"
-      },
-      {
-        "FileName": "ff52914f-93d5-45a6-b39e-6ed1d192b41e.png",
-        "Type": "Clear Logo",
-        "CRC32": "2678161896",
-        "URL": "http://images.launchbox-app.com/ff52914f-93d5-45a6-b39e-6ed1d192b41e.png"
       }
     ]
   }

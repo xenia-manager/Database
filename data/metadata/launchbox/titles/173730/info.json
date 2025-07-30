@@ -1,13 +1,13 @@
 {
   "Name": "L.A. Noire: The Complete Edition",
   "DatabaseID": "173730",
-  "ReleaseDate": "2011-11-15T00:00:00-08:00",
+  "ReleaseDate": "2011-11-15T00:00:00+00:00",
   "Overview": "L.A. Noire is set in Los Angeles in 1947 and challenges the player, assuming the role of a Los Angeles Police Department (LAPD) detective, to solve a range of cases across five departments. Players must investigate crime scenes for clues, follow up leads, and interrogate suspects, and the players' success at these activities will impact how much of the cases' stories are revealed.\n\nL.A. Noire: The Complete Edition is a compilation of L.A. Noire and all of its DLCs (downloadable add-ons):\n\nL.A. Noire: Nicholson Electroplating (Arson case)\nL.A. Noire: Reefer Madness (Vice case)\nL.A. Noire: The Naked City (Vice case)\nL.A. Noire: A Slip of the Tongue (Traffic case)\nL.A. Noire: The Consul's Car (Traffic case)\nL.A. Noire: The Badge Pursuit (Challenge)\nL.A. Noire: The Broderick (Suit)\nL.A. Noire: The Sharpshooter (Suit)\nL.A. Noire: Chicago Piano (Machine gun)",
   "VideoURL": "https://youtube.com/watch?v=06YWcBJ9dt4",
   "CommunityRating": "4.25",
   "WikipediaURL": "https://en.wikipedia.org/wiki/L.A._Noire",
   "ESRB": "M - Mature",
-  "Genres": " Action; Adventure",
+  "Genres": "Action; Adventure",
   "Developer": "Team Bondi",
   "Publisher": "Rockstar Games",
   "Artwork": {
@@ -23,34 +23,34 @@
     "Box": {
       "Back": [
         {
-          "FileName": "0aab62e8-5c70-43b8-8768-d2d65db0165f.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
-          "CRC32": "1331420527",
-          "URL": "http://images.launchbox-app.com/0aab62e8-5c70-43b8-8768-d2d65db0165f.jpg"
-        },
-        {
           "FileName": "eec7cf13-8a30-44aa-b310-d6b3c6d60aed.jpg",
           "Type": "Box - Back",
           "Region": "Australia",
           "CRC32": "247794010",
           "URL": "http://images.launchbox-app.com/eec7cf13-8a30-44aa-b310-d6b3c6d60aed.jpg"
+        },
+        {
+          "FileName": "0aab62e8-5c70-43b8-8768-d2d65db0165f.jpg",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "1331420527",
+          "URL": "http://images.launchbox-app.com/0aab62e8-5c70-43b8-8768-d2d65db0165f.jpg"
         }
       ],
       "Front": [
-        {
-          "FileName": "e4747668-4ae0-42a5-9fe8-0d71682e2532.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "697149690",
-          "URL": "http://images.launchbox-app.com/e4747668-4ae0-42a5-9fe8-0d71682e2532.jpg"
-        },
         {
           "FileName": "095ecc81-508c-4a7d-9091-fbbb93136e17.jpg",
           "Type": "Box - Front",
           "Region": "Australia",
           "CRC32": "79961494",
           "URL": "http://images.launchbox-app.com/095ecc81-508c-4a7d-9091-fbbb93136e17.jpg"
+        },
+        {
+          "FileName": "e4747668-4ae0-42a5-9fe8-0d71682e2532.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "697149690",
+          "URL": "http://images.launchbox-app.com/e4747668-4ae0-42a5-9fe8-0d71682e2532.jpg"
         },
         {
           "FileName": "161678e0-2db0-4a17-839a-64dd1073bd6b.jpg",

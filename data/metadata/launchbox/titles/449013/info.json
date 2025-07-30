@@ -1,11 +1,11 @@
 {
   "Name": "AirMech Arena",
   "DatabaseID": "449013",
-  "ReleaseDate": "2014-07-30T00:00:00-07:00",
+  "ReleaseDate": "2014-07-30T00:00:00+00:00",
   "Overview": "AirMech Arena is a highly competitive fast-paced real-time strategy game, where players team up AirMechs to amass unrelenting combat forces and destroy the enemy team’s fortress. In the future, the last survivors of the Great War continue their fight with the ultimate war machine: the AirMech. Created using lost technology, Pilots have found, salvaged, or stolen AirMechs that they use to protect the weak, or to pillage. Which side do you fight for?",
   "WikipediaURL": "https://en.wikipedia.org/wiki/AirMech",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Action; Adventure",
+  "Genres": "Action; Adventure",
   "Developer": "Carbon Games",
   "Publisher": "Ubisoft Entertainment"
 }

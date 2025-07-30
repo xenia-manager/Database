@@ -1,10 +1,10 @@
 {
   "Name": "The iDOLM@STER",
   "DatabaseID": "216501",
-  "ReleaseDate": "2007-01-25T00:00:00-08:00",
+  "ReleaseDate": "2007-01-25T00:00:00+00:00",
   "CommunityRating": "2.5",
   "WikipediaURL": "https://en.wikipedia.org/wiki/The_Idolmaster_(video_game)",
-  "Genres": " Music",
+  "Genres": "Music",
   "Developer": "Metro",
   "Publisher": "Namco",
   "Artwork": {

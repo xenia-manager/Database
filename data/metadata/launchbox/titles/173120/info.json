@@ -1,11 +1,11 @@
 {
   "Name": "Armored Core: Verdict Day",
   "DatabaseID": "173120",
-  "ReleaseDate": "2013-09-24T00:00:00-07:00",
+  "ReleaseDate": "2013-09-24T00:00:00+00:00",
   "Overview": "To Secure Peace You Must Prepare for War.\nCommand a squadron of fully customized Armored Core Units in a dystopian future ravaged by war and stripped of its natural resources The last remaining resources needed for the survival of your faction are scavenged and bitterly fought for in the No Man’s Land, a bleak landscape that offers little hope for survival. Enlist into one of the various in-game factions and strategically adapt your weapon systems to wrestle control of territories away from other players and establish a much needed peace. A heavy trigger finger, innovative customization and tactical teamwork will be all that stand between survival and total annihilation in ARMORED CORE™: VERDICT DAY™.",
-  "CommunityRating": "3.3333333333333335",
+  "CommunityRating": "3.33333333333333",
   "ESRB": "T - Teen",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "FromSoftware",
   "Publisher": "Namco Bandai Games America",
   "Artwork": {
@@ -25,16 +25,16 @@
     ],
     "Background": [
       {
-        "FileName": "f31df767-9843-4eee-9f15-af3cfa32707b.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2974475847",
-        "URL": "http://images.launchbox-app.com/f31df767-9843-4eee-9f15-af3cfa32707b.jpg"
-      },
-      {
         "FileName": "cd9fb846-9956-43fe-b8da-3a45089aeb4f.jpg",
         "Type": "Fanart - Background",
         "CRC32": "1154536078",
         "URL": "http://images.launchbox-app.com/cd9fb846-9956-43fe-b8da-3a45089aeb4f.jpg"
+      },
+      {
+        "FileName": "f31df767-9843-4eee-9f15-af3cfa32707b.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2974475847",
+        "URL": "http://images.launchbox-app.com/f31df767-9843-4eee-9f15-af3cfa32707b.jpg"
       }
     ],
     "Box": {
@@ -49,18 +49,18 @@
       ],
       "Front": [
         {
-          "FileName": "e8a160be-bce3-4c12-9488-19fb0f72be12.png",
-          "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "381311762",
-          "URL": "http://images.launchbox-app.com/e8a160be-bce3-4c12-9488-19fb0f72be12.png"
-        },
-        {
           "FileName": "c8eb3ce6-b1ce-4930-a9d4-4bea9a69eb19.jpg",
           "Type": "Box - Front",
           "Region": "North America",
           "CRC32": "3390645930",
           "URL": "http://images.launchbox-app.com/c8eb3ce6-b1ce-4930-a9d4-4bea9a69eb19.jpg"
+        },
+        {
+          "FileName": "e8a160be-bce3-4c12-9488-19fb0f72be12.png",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "381311762",
+          "URL": "http://images.launchbox-app.com/e8a160be-bce3-4c12-9488-19fb0f72be12.png"
         }
       ],
       "Spine": [

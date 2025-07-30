@@ -1,10 +1,10 @@
 {
   "Name": "Takedown: Red Sabre",
   "DatabaseID": "209963",
-  "ReleaseDate": "2013-09-20T00:00:00-07:00",
+  "ReleaseDate": "2013-09-20T00:00:00+00:00",
   "Overview": "Fight smart in lethal close-quarter tactical combat. Non-linear environments mean engagements change every time you play. Tactics and realism rule the day.",
   "ESRB": "M - Mature",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "Serellan",
   "Publisher": "505 Games",
   "Artwork": {

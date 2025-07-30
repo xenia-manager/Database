@@ -1,11 +1,11 @@
 {
   "Name": "Destroy All Humans! Path of the Furon",
   "DatabaseID": "14415",
-  "ReleaseDate": "2008-12-01T00:00:00-08:00",
+  "ReleaseDate": "2008-12-01T00:00:00+00:00",
   "Overview": "Destroy All Humans! Path of the Furon is an action-adventure game developed by Sandblast Games and published by THQ. The game is set in the 1970s and is the fourth game in the Destroy All Humans! series, released December 1, 2008 in North America for the Xbox 360.[3][5] The game was developed by THQ's Sandblast Games studio for the Xbox 360 and PlayStation 3 consoles.[6] Path of the Furon expands on the open world format of the previous Destroy All Humans! games, with five new open worlds on the ground and in the air to obliterate with new weapons and new alien powers.\n\nOn November 26, 2008, the North American PlayStation 3 version was canceled citing \"development issues\".[7] However, the PlayStation 3 version was still released in Australia on February 12, 2009 and Europe on February 13, 2009 alongside the Xbox 360 release.[8]",
-  "CommunityRating": "3.6666666666666665",
+  "CommunityRating": "3.66666666666667",
   "ESRB": "T - Teen",
-  "Genres": " Sandbox; Shooter",
+  "Genres": "Sandbox; Shooter",
   "Developer": "Sandblast Games",
   "Publisher": "THQ",
   "Artwork": {
@@ -19,16 +19,16 @@
     ],
     "Background": [
       {
-        "FileName": "ca4f0f0e-59c9-4017-8627-a8e7351c1af6.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2433947020",
-        "URL": "http://images.launchbox-app.com/ca4f0f0e-59c9-4017-8627-a8e7351c1af6.jpg"
-      },
-      {
         "FileName": "54f85ad1-badf-4f58-a587-ffb44046889a.jpg",
         "Type": "Fanart - Background",
         "CRC32": "2563635242",
         "URL": "http://images.launchbox-app.com/54f85ad1-badf-4f58-a587-ffb44046889a.jpg"
+      },
+      {
+        "FileName": "ca4f0f0e-59c9-4017-8627-a8e7351c1af6.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2433947020",
+        "URL": "http://images.launchbox-app.com/ca4f0f0e-59c9-4017-8627-a8e7351c1af6.jpg"
       },
       {
         "FileName": "27de26a7-5ccb-439e-8136-d80ebbc5216c.png",

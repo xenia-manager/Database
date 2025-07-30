@@ -1,12 +1,12 @@
 {
   "Name": "Hour of Victory",
   "DatabaseID": "14830",
-  "ReleaseDate": "2007-06-25T00:00:00-07:00",
+  "ReleaseDate": "2007-06-25T00:00:00+00:00",
   "Overview": "Hour of Victory allows you to play a key role in the pivotal and cinematic battles from the European and North African theaters of World War II, using the skills and gameplay style you choose. Sneak into enemy territory as a covert operative, storm the gates as a British Commando, or snipe from afar as an Army Ranger - each character's unique attributes will be needed for the fulfillment of the overall objective. Only with all these skills working closely together will you be able to say that you helped define the Hour of Victory.",
   "VideoURL": "http://www.youtube.com/watch?v=Srea10Xmui0",
-  "CommunityRating": "2.1666666666666665",
+  "CommunityRating": "2.16666666666667",
   "ESRB": "T - Teen",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "nFusion Interactive",
   "Publisher": "Midway Home Entertainment",
   "Artwork": {
@@ -73,16 +73,16 @@
     ],
     "Screenshots": [
       {
-        "FileName": "a37b6939-b2ea-4ba9-b318-6235c4db8a54.png",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "849540862",
-        "URL": "http://images.launchbox-app.com/a37b6939-b2ea-4ba9-b318-6235c4db8a54.png"
-      },
-      {
         "FileName": "05843e57-6cf0-410f-a27f-413e69e75e0b.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "2891892098",
         "URL": "http://images.launchbox-app.com/05843e57-6cf0-410f-a27f-413e69e75e0b.jpg"
+      },
+      {
+        "FileName": "a37b6939-b2ea-4ba9-b318-6235c4db8a54.png",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "849540862",
+        "URL": "http://images.launchbox-app.com/a37b6939-b2ea-4ba9-b318-6235c4db8a54.png"
       }
     ],
     "Other": [

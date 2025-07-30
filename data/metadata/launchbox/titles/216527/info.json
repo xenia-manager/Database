@@ -1,10 +1,10 @@
 {
   "Name": "Dream C Club Zero",
   "DatabaseID": "216527",
-  "ReleaseDate": "2011-01-27T00:00:00-08:00",
+  "ReleaseDate": "2011-01-27T00:00:00+00:00",
   "Overview": "Dream C Club Zero is an Action game, developed by Tamsoft and published by D3Publisher, which was released in Japan in 2011.",
   "CommunityRating": "5",
-  "Genres": " Music",
+  "Genres": "Music",
   "Developer": "Tamsoft",
   "Publisher": "D3Publisher",
   "Artwork": {
@@ -56,18 +56,18 @@
     },
     "Screenshots": [
       {
-        "FileName": "6cd0e2ca-912a-4434-a147-357e7abce3f1.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "Japan",
-        "CRC32": "3197697686",
-        "URL": "http://images.launchbox-app.com/6cd0e2ca-912a-4434-a147-357e7abce3f1.jpg"
-      },
-      {
         "FileName": "c005aa56-2b72-465d-8534-3e53751069fe.jpg",
         "Type": "Screenshot - Gameplay",
         "Region": "Japan",
         "CRC32": "521169866",
         "URL": "http://images.launchbox-app.com/c005aa56-2b72-465d-8534-3e53751069fe.jpg"
+      },
+      {
+        "FileName": "6cd0e2ca-912a-4434-a147-357e7abce3f1.jpg",
+        "Type": "Screenshot - Gameplay",
+        "Region": "Japan",
+        "CRC32": "3197697686",
+        "URL": "http://images.launchbox-app.com/6cd0e2ca-912a-4434-a147-357e7abce3f1.jpg"
       },
       {
         "FileName": "db1373e1-bd3c-4b5c-9be4-aea2fdfe64c1.jpg",

@@ -1,13 +1,13 @@
 {
   "Name": "Halo 4",
   "DatabaseID": "3597",
-  "ReleaseDate": "2012-11-06T00:00:00-08:00",
+  "ReleaseDate": "2012-11-06T00:00:00+00:00",
   "Overview": "Halo 4 is the start of a new saga in the Master Chief's story. This saga is known as the Reclaimer Saga. At the end of the legendary mode of Halo 3 we see Master Chief Petty Officer John-117 orbiting a planet and hear him say to Cortana \"Wake me when you need me\". Well now is the time to be needed. The game starts where you last left off in a torn in half ship orbiting a planet around four years after the events of Halo 3. John wakes up to Cortana screaming \"John I need you!\" This creates the beginning of a new saga. In Halo 4 we see a new breed of enemies called the Prometheans. The Prometheans are AIs created by the Forerunners to protect a planet. Unfortunately you're seen as a threat. However despite being made by the Forerunners the Prometheans have a much darker and more sinister plot. Also aside from the Prometheans, Cortana is turning rampant and has begun to turn on the Master Chief. As a new twist, the Master Chief will be working together with the Spartan IV's the replacements to the Master Chief.",
   "VideoURL": "https://www.youtube.com/watch?v=3A785RkGfl0",
-  "CommunityRating": "3.9671052631578947",
+  "CommunityRating": "3.96710526315789",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Halo_4",
   "ESRB": "M - Mature",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "343 Industries",
   "Publisher": "Microsoft Studios",
   "Artwork": {
@@ -39,12 +39,6 @@
         "URL": "http://images.launchbox-app.com/473288a6-29c4-498e-a677-75b17b5c1540.jpg"
       },
       {
-        "FileName": "aa5a5626-0f5c-46df-a72a-fb600fcebbe4.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "1605932067",
-        "URL": "http://images.launchbox-app.com/aa5a5626-0f5c-46df-a72a-fb600fcebbe4.jpg"
-      },
-      {
         "FileName": "df5d08b4-a83d-403d-96f9-33a9c262ed23.jpg",
         "Type": "Fanart - Background",
         "CRC32": "2778864153",
@@ -61,6 +55,12 @@
         "Type": "Fanart - Background",
         "CRC32": "227814980",
         "URL": "http://images.launchbox-app.com/a360ec7b-e2b3-4c40-8de3-8a8b366a2360.jpg"
+      },
+      {
+        "FileName": "aa5a5626-0f5c-46df-a72a-fb600fcebbe4.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1605932067",
+        "URL": "http://images.launchbox-app.com/aa5a5626-0f5c-46df-a72a-fb600fcebbe4.jpg"
       }
     ],
     "Box": {
@@ -109,33 +109,21 @@
     },
     "Disc": [
       {
-        "FileName": "bd40a0ea-0e1a-437e-a6d5-343605ecae0d.png",
-        "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "2808279390",
-        "URL": "http://images.launchbox-app.com/bd40a0ea-0e1a-437e-a6d5-343605ecae0d.png"
-      },
-      {
         "FileName": "dd4d47e6-bab3-41c7-8c4b-68986b55fcec.png",
         "Type": "Disc",
         "Region": "North America",
         "CRC32": "3495495599",
         "URL": "http://images.launchbox-app.com/dd4d47e6-bab3-41c7-8c4b-68986b55fcec.png"
+      },
+      {
+        "FileName": "bd40a0ea-0e1a-437e-a6d5-343605ecae0d.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2808279390",
+        "URL": "http://images.launchbox-app.com/bd40a0ea-0e1a-437e-a6d5-343605ecae0d.png"
       }
     ],
     "Screenshots": [
-      {
-        "FileName": "77239f92-19ab-4a7f-92dc-cf08b4ed6420.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "4086597545",
-        "URL": "http://images.launchbox-app.com/77239f92-19ab-4a7f-92dc-cf08b4ed6420.jpg"
-      },
-      {
-        "FileName": "186972a4-b52a-4fc6-babf-c7c1ba6b83aa.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "196249221",
-        "URL": "http://images.launchbox-app.com/186972a4-b52a-4fc6-babf-c7c1ba6b83aa.jpg"
-      },
       {
         "FileName": "05053cad-db67-4749-a83c-9bdaacf7b66a.jpg",
         "Type": "Screenshot - Gameplay",
@@ -149,6 +137,12 @@
         "URL": "http://images.launchbox-app.com/b733c463-3d01-4797-bb68-c9f3762249b8.jpg"
       },
       {
+        "FileName": "186972a4-b52a-4fc6-babf-c7c1ba6b83aa.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "196249221",
+        "URL": "http://images.launchbox-app.com/186972a4-b52a-4fc6-babf-c7c1ba6b83aa.jpg"
+      },
+      {
         "FileName": "618e2938-df86-45a7-b70f-b1534b77bf67.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "3203730453",
@@ -159,6 +153,12 @@
         "Type": "Screenshot - Gameplay",
         "CRC32": "2513656316",
         "URL": "http://images.launchbox-app.com/d74eee4f-94ec-4494-849a-f52c7caa7bb2.jpg"
+      },
+      {
+        "FileName": "77239f92-19ab-4a7f-92dc-cf08b4ed6420.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "4086597545",
+        "URL": "http://images.launchbox-app.com/77239f92-19ab-4a7f-92dc-cf08b4ed6420.jpg"
       }
     ],
     "Other": [

@@ -1,11 +1,11 @@
 {
   "Name": "Band of Bugs",
   "DatabaseID": "209144",
-  "ReleaseDate": "2010-05-31T00:00:00-07:00",
+  "ReleaseDate": "2010-05-31T00:00:00+00:00",
   "Overview": "Play as your Avatar and fight against bugs, spiders, even up to seven of your friends in Spider Hunter mode. Band of Bugs is a fast playing, accessible, tactics strategy game that puts YOU in the game! Gameplay is deep enough for established fans of the tactics genre, but friendly enough to appeal to casual gamers as well.",
   "CommunityRating": "2.75",
   "ESRB": "E - Everyone",
-  "Genres": " Strategy",
+  "Genres": "Strategy",
   "Developer": "NinjaBee",
   "Publisher": "Microsoft Studios",
   "Artwork": {
@@ -38,22 +38,10 @@
     },
     "Screenshots": [
       {
-        "FileName": "5578c891-dd15-4a62-acdc-161fb7685c75.jpg",
-        "Type": "Screenshot - Game Select",
-        "CRC32": "987502244",
-        "URL": "http://images.launchbox-app.com/5578c891-dd15-4a62-acdc-161fb7685c75.jpg"
-      },
-      {
-        "FileName": "db369008-9822-4881-ac7f-f3c57ba59bb9.jpg",
+        "FileName": "54a27067-8723-4727-88a1-57b0642f10c5.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "2955636488",
-        "URL": "http://images.launchbox-app.com/db369008-9822-4881-ac7f-f3c57ba59bb9.jpg"
-      },
-      {
-        "FileName": "3030e127-5f29-4912-893f-f245f51472fb.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3535973940",
-        "URL": "http://images.launchbox-app.com/3030e127-5f29-4912-893f-f245f51472fb.jpg"
+        "CRC32": "3139683490",
+        "URL": "http://images.launchbox-app.com/54a27067-8723-4727-88a1-57b0642f10c5.jpg"
       },
       {
         "FileName": "6473a4d1-8e3e-45c6-aec4-168f63d157fa.jpg",
@@ -62,16 +50,28 @@
         "URL": "http://images.launchbox-app.com/6473a4d1-8e3e-45c6-aec4-168f63d157fa.jpg"
       },
       {
+        "FileName": "3030e127-5f29-4912-893f-f245f51472fb.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3535973940",
+        "URL": "http://images.launchbox-app.com/3030e127-5f29-4912-893f-f245f51472fb.jpg"
+      },
+      {
         "FileName": "f44a79e2-d650-4843-89d2-20a1a5efe27e.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "397874003",
         "URL": "http://images.launchbox-app.com/f44a79e2-d650-4843-89d2-20a1a5efe27e.jpg"
       },
       {
-        "FileName": "54a27067-8723-4727-88a1-57b0642f10c5.jpg",
+        "FileName": "db369008-9822-4881-ac7f-f3c57ba59bb9.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "3139683490",
-        "URL": "http://images.launchbox-app.com/54a27067-8723-4727-88a1-57b0642f10c5.jpg"
+        "CRC32": "2955636488",
+        "URL": "http://images.launchbox-app.com/db369008-9822-4881-ac7f-f3c57ba59bb9.jpg"
+      },
+      {
+        "FileName": "5578c891-dd15-4a62-acdc-161fb7685c75.jpg",
+        "Type": "Screenshot - Game Select",
+        "CRC32": "987502244",
+        "URL": "http://images.launchbox-app.com/5578c891-dd15-4a62-acdc-161fb7685c75.jpg"
       }
     ],
     "Other": [

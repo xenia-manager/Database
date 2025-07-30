@@ -1,54 +1,54 @@
 {
   "Name": "Sonic's Ultimate Genesis Collection",
   "DatabaseID": "13620",
-  "ReleaseDate": "2009-02-10T00:00:00-08:00",
+  "ReleaseDate": "2009-02-10T00:00:00+00:00",
   "Overview": "Take a trip back in time to the heyday of the SEGA Genesis console by way of your Xbox 360 with Sonic's Ultimate Genesis Collection. Led by six classic Sonic The Hedgehog favorites, this collection is packed with games from iconic franchises you know and love, like Ecco the Dolphin, Streets of Rage, Golden Axe and Phantasy Star, but also contains many others you may have missed. The largest collection of classic SEGA titles available to date, these 40+ games bring classic single player and multiplayer action to life like never before as the best of the SEGA Genesis catalog is reborn on the Next-Gen stage of Xbox 360.",
-  "CommunityRating": "3.5333333333333332",
+  "CommunityRating": "3.53333333333333",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Compilation",
+  "Genres": "Compilation",
   "Developer": "Backbone Entertainment",
   "Publisher": "Sega of America",
   "Artwork": {
     "Background": [
-      {
-        "FileName": "79472c25-c6cc-4dea-bdb8-ad3138f8b54c.jpg",
-        "Type": "Fanart - Background",
-        "Region": "Europe",
-        "CRC32": "3036692793",
-        "URL": "http://images.launchbox-app.com/79472c25-c6cc-4dea-bdb8-ad3138f8b54c.jpg"
-      },
       {
         "FileName": "4c356f74-55ef-47de-8071-3982faed8c09.jpg",
         "Type": "Fanart - Background",
         "Region": "North America",
         "CRC32": "801564296",
         "URL": "http://images.launchbox-app.com/4c356f74-55ef-47de-8071-3982faed8c09.jpg"
+      },
+      {
+        "FileName": "79472c25-c6cc-4dea-bdb8-ad3138f8b54c.jpg",
+        "Type": "Fanart - Background",
+        "Region": "Europe",
+        "CRC32": "3036692793",
+        "URL": "http://images.launchbox-app.com/79472c25-c6cc-4dea-bdb8-ad3138f8b54c.jpg"
       }
     ],
     "Box": {
       "3D": [
-        {
-          "FileName": "f1b3b316-405f-4a0d-a9ab-21662cc88e3b.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
-          "CRC32": "3258521576",
-          "URL": "http://images.launchbox-app.com/f1b3b316-405f-4a0d-a9ab-21662cc88e3b.png"
-        },
         {
           "FileName": "f37e419c-9833-4dc9-af3f-47243288b69a.png",
           "Type": "Box - 3D",
           "Region": "Europe",
           "CRC32": "1062067921",
           "URL": "http://images.launchbox-app.com/f37e419c-9833-4dc9-af3f-47243288b69a.png"
+        },
+        {
+          "FileName": "f1b3b316-405f-4a0d-a9ab-21662cc88e3b.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "3258521576",
+          "URL": "http://images.launchbox-app.com/f1b3b316-405f-4a0d-a9ab-21662cc88e3b.png"
         }
       ],
       "Back": [
         {
-          "FileName": "dbf77e77-88c7-4cbc-a5fa-f7a0b6c28cf3.jpg",
+          "FileName": "3a485dd5-1dfa-4fcb-a933-75f27a7fbf28.jpg",
           "Type": "Box - Back",
-          "Region": "Oceania",
-          "CRC32": "778111558",
-          "URL": "http://images.launchbox-app.com/dbf77e77-88c7-4cbc-a5fa-f7a0b6c28cf3.jpg"
+          "Region": "North America",
+          "CRC32": "113586651",
+          "URL": "http://images.launchbox-app.com/3a485dd5-1dfa-4fcb-a933-75f27a7fbf28.jpg"
         },
         {
           "FileName": "288c7e9a-1081-4125-9cc4-cab509d2e10d.jpg",
@@ -58,11 +58,11 @@
           "URL": "http://images.launchbox-app.com/288c7e9a-1081-4125-9cc4-cab509d2e10d.jpg"
         },
         {
-          "FileName": "3a485dd5-1dfa-4fcb-a933-75f27a7fbf28.jpg",
+          "FileName": "dbf77e77-88c7-4cbc-a5fa-f7a0b6c28cf3.jpg",
           "Type": "Box - Back",
-          "Region": "North America",
-          "CRC32": "113586651",
-          "URL": "http://images.launchbox-app.com/3a485dd5-1dfa-4fcb-a933-75f27a7fbf28.jpg"
+          "Region": "Oceania",
+          "CRC32": "778111558",
+          "URL": "http://images.launchbox-app.com/dbf77e77-88c7-4cbc-a5fa-f7a0b6c28cf3.jpg"
         }
       ],
       "Front": [
@@ -81,18 +81,18 @@
           "URL": "http://images.launchbox-app.com/a1ec7623-7790-4127-bd4f-d1d3dc33ea41.jpg"
         },
         {
-          "FileName": "9c7fba66-db2f-4b6e-b20f-9d40ec795aa7.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "3588021001",
-          "URL": "http://images.launchbox-app.com/9c7fba66-db2f-4b6e-b20f-9d40ec795aa7.jpg"
-        },
-        {
           "FileName": "f98e3efa-b4b8-4138-aad7-3f8e4498f36f.jpg",
           "Type": "Box - Front",
           "Region": "North America",
           "CRC32": "2631626983",
           "URL": "http://images.launchbox-app.com/f98e3efa-b4b8-4138-aad7-3f8e4498f36f.jpg"
+        },
+        {
+          "FileName": "9c7fba66-db2f-4b6e-b20f-9d40ec795aa7.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "3588021001",
+          "URL": "http://images.launchbox-app.com/9c7fba66-db2f-4b6e-b20f-9d40ec795aa7.jpg"
         }
       ],
       "Spine": [
@@ -123,18 +123,18 @@
     ],
     "Other": [
       {
-        "FileName": "ec0d8de0-bd3c-4ab5-9c58-48bd48205ff9.png",
-        "Type": "Clear Logo",
-        "Region": "North America",
-        "CRC32": "3658841182",
-        "URL": "http://images.launchbox-app.com/ec0d8de0-bd3c-4ab5-9c58-48bd48205ff9.png"
-      },
-      {
         "FileName": "4b8293d2-f470-4c19-aa7e-194e5deb65e2.png",
         "Type": "Clear Logo",
         "Region": "Europe",
         "CRC32": "3981317029",
         "URL": "http://images.launchbox-app.com/4b8293d2-f470-4c19-aa7e-194e5deb65e2.png"
+      },
+      {
+        "FileName": "ec0d8de0-bd3c-4ab5-9c58-48bd48205ff9.png",
+        "Type": "Clear Logo",
+        "Region": "North America",
+        "CRC32": "3658841182",
+        "URL": "http://images.launchbox-app.com/ec0d8de0-bd3c-4ab5-9c58-48bd48205ff9.png"
       }
     ]
   }

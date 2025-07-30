@@ -1,13 +1,13 @@
 {
   "Name": "AC/DC Live: Rock Band Track Pack",
   "DatabaseID": "10613",
-  "ReleaseDate": "2008-11-02T00:00:00-07:00",
+  "ReleaseDate": "2008-11-02T00:00:00+00:00",
   "Overview": "AC/DC comes exclusively to Rock Band for the worldwide release of AC/DC LIVE: Rock Band Track Pack. This exclusive deal marks the first time ever the band has included an entire album for video game play, with 18 live tracks from their prolific live performances becoming available in one electrifying, standalone game. The AC/DC LIVE: Rock Band Track Pack allows players to experience this amazing set list with Rock Band, Rock Band 2, or other compatible music game peripherals. AC/DC LIVE: Rock Band Track Pack features the master recordings from the best of the band's live performances. The live recording was specially remixed for Rock Band by Mike Fraser. The game features 18 tracks, with more than 99 minutes of game play for each instrument. All tracks from the AC/DC LIVE: Rock Band Track Pack are also available for play in Rock Band and Rock Band 2 by entering a special export authentication code for the Xbox 360.",
   "VideoURL": "https://www.youtube.com/watch?v=HxTdZe41Qzs",
-  "CommunityRating": "3.3181818181818183",
+  "CommunityRating": "3.31818181818182",
   "WikipediaURL": "https://en.wikipedia.org/wiki/List_of_Rock_Band_track_packs#AC/DC_Live:_Rock_Band_Track_Pack",
   "ESRB": "T - Teen",
-  "Genres": " Music",
+  "Genres": "Music",
   "Developer": "Harmonix",
   "Publisher": "MTV Games",
   "Artwork": {
@@ -82,12 +82,6 @@
     ],
     "Screenshots": [
       {
-        "FileName": "67d1e8b8-ff9c-4cd9-a91b-023edab4107b.png",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "3312288758",
-        "URL": "http://images.launchbox-app.com/67d1e8b8-ff9c-4cd9-a91b-023edab4107b.png"
-      },
-      {
         "FileName": "ddcea0f5-ed58-41a9-8684-083922081a83.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "609669634",
@@ -98,6 +92,12 @@
         "Type": "Screenshot - Gameplay",
         "CRC32": "1526008406",
         "URL": "http://images.launchbox-app.com/9eaef9ce-bdd8-4e92-9185-2e6ec39896a8.jpg"
+      },
+      {
+        "FileName": "67d1e8b8-ff9c-4cd9-a91b-023edab4107b.png",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "3312288758",
+        "URL": "http://images.launchbox-app.com/67d1e8b8-ff9c-4cd9-a91b-023edab4107b.png"
       }
     ],
     "Other": [

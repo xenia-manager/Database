@@ -1,13 +1,13 @@
 {
   "Name": "Magna Carta 2",
   "DatabaseID": "11997",
-  "ReleaseDate": "2009-10-13T00:00:00-07:00",
+  "ReleaseDate": "2009-10-13T00:00:00+00:00",
   "Overview": "MagnaCarta 2 is a role-playing game that mixes real-time elements during exploration with turn-based combat. The game stars Juto as the main character. He seems to be a normal guy but suffered from amnesia and is hiding a secret power deep within him. After the Northern Forces swoop down a highwind island where he lives, his friend Melissa and islanders are killed. Juto sets out to take a revenge and joins up with the Southern Forces' Counter Sentinel Unit to find the man who is responsible for Melissa's death.\n\nCombat sequences are initiated seamlessly in the environment and rely on a stamina and combo system. The player can create combos and change characters to chain together larger, more powerful attacks. During attacks a stamina meter is filled. Stamina is a base statistic that allows for a certain number of attacks before putting the character into an overheat state, although it is also possible to simply hold off attacking and let the stamina recharge to allow for more attacks. When in Overheat, players should initiate a chain by switching to another character. By timing the character switches carefully, this effect can be negated and much longer combos can be chained, resulting in larger amounts of damage on enemies and the ability to use a number of special attacks.\n\nDefeating monsters is rewarded with Kamonds. These are used to power up weapons and create new items when a new recipe has been bought or discovered.",
   "VideoURL": "https://youtu.be/vni5GtiQV0k?t=4",
-  "CommunityRating": "3.5555555555555554",
+  "CommunityRating": "3.55555555555556",
   "WikipediaURL": "https://en.wikipedia.org/wiki/MagnaCarta_2",
   "ESRB": "T - Teen",
-  "Genres": " Role-Playing",
+  "Genres": "Role-Playing",
   "Developer": "Softmax",
   "Publisher": "Namco Bandai Games",
   "Artwork": {
@@ -73,6 +73,12 @@
       ],
       "Front": [
         {
+          "FileName": "72ae0ef3-e97c-4783-8428-30e82f23028d.jpg",
+          "Type": "Box - Front",
+          "CRC32": "2544652876",
+          "URL": "http://images.launchbox-app.com/72ae0ef3-e97c-4783-8428-30e82f23028d.jpg"
+        },
+        {
           "FileName": "1cefe990-16ea-4eae-9459-dd4b789e8c7a.png",
           "Type": "Box - Front",
           "Region": "Korea",
@@ -85,22 +91,9 @@
           "Region": "Europe",
           "CRC32": "2594555570",
           "URL": "http://images.launchbox-app.com/cc46b87b-9b9f-4839-805f-1cea5cf21d2d.png"
-        },
-        {
-          "FileName": "72ae0ef3-e97c-4783-8428-30e82f23028d.jpg",
-          "Type": "Box - Front",
-          "CRC32": "2544652876",
-          "URL": "http://images.launchbox-app.com/72ae0ef3-e97c-4783-8428-30e82f23028d.jpg"
         }
       ],
       "Spine": [
-        {
-          "FileName": "8bf14763-3b73-4a23-ad9e-7e46f551c7c0.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
-          "CRC32": "855507095",
-          "URL": "http://images.launchbox-app.com/8bf14763-3b73-4a23-ad9e-7e46f551c7c0.jpg"
-        },
         {
           "FileName": "131ea79f-9a63-41c8-a003-994e0612bdf8.png",
           "Type": "Box - Spine",
@@ -114,17 +107,17 @@
           "Region": "Korea",
           "CRC32": "3679886834",
           "URL": "http://images.launchbox-app.com/bee40922-827a-4634-8550-dbebbdae37d8.png"
+        },
+        {
+          "FileName": "8bf14763-3b73-4a23-ad9e-7e46f551c7c0.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "855507095",
+          "URL": "http://images.launchbox-app.com/8bf14763-3b73-4a23-ad9e-7e46f551c7c0.jpg"
         }
       ]
     },
     "Disc": [
-      {
-        "FileName": "3726be47-e764-4818-81bb-aff8d6a6a9be.png",
-        "Type": "Disc",
-        "Region": "Germany",
-        "CRC32": "1627456049",
-        "URL": "http://images.launchbox-app.com/3726be47-e764-4818-81bb-aff8d6a6a9be.png"
-      },
       {
         "FileName": "13693555-82d3-4b6c-b62e-065831274a7d.png",
         "Type": "Disc",
@@ -133,11 +126,11 @@
         "URL": "http://images.launchbox-app.com/13693555-82d3-4b6c-b62e-065831274a7d.png"
       },
       {
-        "FileName": "dbfd7014-a910-466b-80c6-25db9c06f226.png",
+        "FileName": "3726be47-e764-4818-81bb-aff8d6a6a9be.png",
         "Type": "Disc",
-        "Region": "Korea",
-        "CRC32": "1621396375",
-        "URL": "http://images.launchbox-app.com/dbfd7014-a910-466b-80c6-25db9c06f226.png"
+        "Region": "Germany",
+        "CRC32": "1627456049",
+        "URL": "http://images.launchbox-app.com/3726be47-e764-4818-81bb-aff8d6a6a9be.png"
       },
       {
         "FileName": "6d9d767a-9da4-4b90-96b0-6777e23866d3.png",
@@ -145,20 +138,27 @@
         "Region": "Korea",
         "CRC32": "3766400276",
         "URL": "http://images.launchbox-app.com/6d9d767a-9da4-4b90-96b0-6777e23866d3.png"
+      },
+      {
+        "FileName": "dbfd7014-a910-466b-80c6-25db9c06f226.png",
+        "Type": "Disc",
+        "Region": "Korea",
+        "CRC32": "1621396375",
+        "URL": "http://images.launchbox-app.com/dbfd7014-a910-466b-80c6-25db9c06f226.png"
       }
     ],
     "Screenshots": [
-      {
-        "FileName": "1bedfccb-2cdc-4f19-b858-767b346f2534.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1742126631",
-        "URL": "http://images.launchbox-app.com/1bedfccb-2cdc-4f19-b858-767b346f2534.jpg"
-      },
       {
         "FileName": "0440173d-d568-4983-b654-2490c70a5915.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "3616650250",
         "URL": "http://images.launchbox-app.com/0440173d-d568-4983-b654-2490c70a5915.jpg"
+      },
+      {
+        "FileName": "1bedfccb-2cdc-4f19-b858-767b346f2534.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1742126631",
+        "URL": "http://images.launchbox-app.com/1bedfccb-2cdc-4f19-b858-767b346f2534.jpg"
       }
     ],
     "Other": [

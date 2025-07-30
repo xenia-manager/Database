@@ -1,11 +1,11 @@
 {
   "Name": "Truck Racer",
   "DatabaseID": "203880",
-  "ReleaseDate": "2014-02-04T00:00:00-08:00",
+  "ReleaseDate": "2014-02-04T00:00:00+00:00",
   "Overview": "Take the wheel of a truck hurtling along at top speed, blow away your opponents and claim victory! Drive on 48 tracks in vehicles that can be completely destroyed. Customize every aspect of your truck, from engine to paint. Rise to all the challenges in Championship mode and upgrade your truck.",
   "CommunityRating": "4.5",
   "ESRB": "T - Teen",
-  "Genres": " Racing",
+  "Genres": "Racing",
   "Developer": "Kylotonn",
   "Artwork": {
     "Box": {

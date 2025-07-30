@@ -1,13 +1,13 @@
 {
   "Name": "Warhammer 40,000: Kill Team",
   "DatabaseID": "209416",
-  "ReleaseDate": "2011-07-27T00:00:00-07:00",
+  "ReleaseDate": "2011-07-27T00:00:00+00:00",
   "Overview": "Jump into the rich world of Warhammer 40,000 in this fast paced 3rd person action shooter. As one of the Emperor's Elite Space Marines you have been sent on a vital mission to assault a gigantic Ork Kroozer headed for an Imperial Forge World. Choose your Space Marine Chapter and weapons class and commence the purging of brutal Orks and vicious Tyranids on board. Team up to form a 2-man Kill Team in same screen co-op mode and benefit from multiple team pickups to help survive the onslaught. Reap the rewards on completing your missions by unlocking an exclusive Power Sword weapon to use in Warhammer 40,000: Space Marine!",
   "VideoURL": "https://www.youtube.com/watch?v=9dWwPHyBknk",
   "CommunityRating": "3.625",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Warhammer_40,000:_Kill_Team",
   "ESRB": "T - Teen",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "Relic Entertainment",
   "Publisher": "THQ",
   "Artwork": {
@@ -40,6 +40,20 @@
     },
     "Screenshots": [
       {
+        "FileName": "835736d7-8520-49e6-9d1f-c812b959c9af.png",
+        "Type": "Screenshot - Gameplay",
+        "Region": "World",
+        "CRC32": "834515821",
+        "URL": "http://images.launchbox-app.com/835736d7-8520-49e6-9d1f-c812b959c9af.png"
+      },
+      {
+        "FileName": "651c926a-4727-4958-967f-fb3d8df03f02.png",
+        "Type": "Screenshot - Gameplay",
+        "Region": "World",
+        "CRC32": "3163610837",
+        "URL": "http://images.launchbox-app.com/651c926a-4727-4958-967f-fb3d8df03f02.png"
+      },
+      {
         "FileName": "77ec32fa-9ab8-4081-8a5d-bebab6d5a90c.png",
         "Type": "Screenshot - Game Select",
         "Region": "World",
@@ -52,20 +66,6 @@
         "Region": "World",
         "CRC32": "1157960348",
         "URL": "http://images.launchbox-app.com/0a8140b6-1200-4932-94a2-b15d01f78a6d.png"
-      },
-      {
-        "FileName": "651c926a-4727-4958-967f-fb3d8df03f02.png",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "3163610837",
-        "URL": "http://images.launchbox-app.com/651c926a-4727-4958-967f-fb3d8df03f02.png"
-      },
-      {
-        "FileName": "835736d7-8520-49e6-9d1f-c812b959c9af.png",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "834515821",
-        "URL": "http://images.launchbox-app.com/835736d7-8520-49e6-9d1f-c812b959c9af.png"
       }
     ]
   }

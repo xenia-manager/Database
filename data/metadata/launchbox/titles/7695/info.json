@@ -1,11 +1,11 @@
 {
   "Name": "Top Spin 2",
   "DatabaseID": "7695",
-  "ReleaseDate": "2006-03-29T00:00:00-08:00",
+  "ReleaseDate": "2006-03-29T00:00:00+00:00",
   "Overview": "Everything you loved about Top Spin is back and made even better. The peerless player-creator is reborn with the powerful Digital Identity that truly puts you in the game. Experience the pro tour in venues that are alive and dynamic with environmental elements that react to your play. Characters are even more stunning with the addition of HD technology and the inclusion of the top players in the world like Maria Sharapova, Venus Williams, Andy Roddick, Lleyton Hewitt and Roger Federer. Create realistic player models and customize them with the highest level of details. Hairstyles, sweatbands, shirts, shorts, shoes, and more allow you to create a player with your look and your style. Silky smooth animations, vibrant colors, and hi-definition technology delivers illustrious depictions of players, stadiums, and crowds bringing tennis to life on the Xbox 360.",
   "CommunityRating": "5",
   "ESRB": "E - Everyone",
-  "Genres": " Sports",
+  "Genres": "Sports",
   "Developer": "Pam Development",
   "Publisher": "2K Games",
   "Artwork": {
@@ -30,18 +30,18 @@
       ],
       "Front": [
         {
-          "FileName": "d573abdd-138e-4ae7-a782-b8454e2e9163.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "2393706149",
-          "URL": "http://images.launchbox-app.com/d573abdd-138e-4ae7-a782-b8454e2e9163.jpg"
-        },
-        {
           "FileName": "c99f4def-d60c-4207-9fd9-3f9a9d05ddc6.jpg",
           "Type": "Box - Front",
           "Region": "North America",
           "CRC32": "327395586",
           "URL": "http://images.launchbox-app.com/c99f4def-d60c-4207-9fd9-3f9a9d05ddc6.jpg"
+        },
+        {
+          "FileName": "d573abdd-138e-4ae7-a782-b8454e2e9163.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2393706149",
+          "URL": "http://images.launchbox-app.com/d573abdd-138e-4ae7-a782-b8454e2e9163.jpg"
         }
       ],
       "Spine": [

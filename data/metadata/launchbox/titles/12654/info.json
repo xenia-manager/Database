@@ -1,13 +1,13 @@
 {
   "Name": "Tales of Vesperia",
   "DatabaseID": "12654",
-  "ReleaseDate": "2008-08-26T00:00:00-07:00",
+  "ReleaseDate": "2008-08-26T00:00:00+00:00",
   "Overview": "Vesperia takes place on the planet Terca Lumireis. The people of Terca Lumireis have come to rely on \"blastia\", an ancient civilization's technology with a wide array of capabilities, such as providing water, powering ships, or creating barriers around major cities and towns to protect them from monsters. The Imperial Knights and Guild members also use \"bodhi blastia\" to enhance their abilities in combat. The blastia, created by the elf-like Krityans, are fueled by a substance called \"aer\" that lends its power to the blastia's ability, but can be fatal to humans in large concentrations.",
   "VideoURL": "http://www.youtube.com/watch?v=orrUciCJrhE",
   "CommunityRating": "4.40625",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Tales_of_Vesperia",
   "ESRB": "T - Teen",
-  "Genres": " Role-Playing",
+  "Genres": "Role-Playing",
   "Developer": "Namco Tales Studio",
   "Publisher": "Namco Bandai Games",
   "Artwork": {
@@ -33,18 +33,18 @@
     },
     "Disc": [
       {
-        "FileName": "f9095982-b042-4a1f-bb9a-6b16434d24eb.png",
-        "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "2488608546",
-        "URL": "http://images.launchbox-app.com/f9095982-b042-4a1f-bb9a-6b16434d24eb.png"
-      },
-      {
         "FileName": "e4fc6ffc-f233-4feb-a6f2-68cfc5c35ff0.png",
         "Type": "Disc",
         "Region": "Europe",
         "CRC32": "3606627865",
         "URL": "http://images.launchbox-app.com/e4fc6ffc-f233-4feb-a6f2-68cfc5c35ff0.png"
+      },
+      {
+        "FileName": "f9095982-b042-4a1f-bb9a-6b16434d24eb.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2488608546",
+        "URL": "http://images.launchbox-app.com/f9095982-b042-4a1f-bb9a-6b16434d24eb.png"
       }
     ],
     "Other": [

@@ -4,25 +4,25 @@
   "ReleaseYear": "2011",
   "Overview": "Leela is a ground-breaking journey of mind and body.\n\nDeepak Chopra's Leela combines traditional relaxation and meditation with Wii motion technology to instill a sense of balance and harmony to every day life.\n\nFeatures:\n\n• Rebalance and Revitalize. Flow with your natural rhythms and full-body gestures to unwind and relax\n• Ambient Oasis. Immerse yourself in Leela's restorative environments filled with rich visuals and healing sound\n• Personal Creativity. Create a personal mandala - an artistic expression of your essence",
   "ESRB": "E - Everyone",
-  "Genres": " Music; Education",
+  "Genres": "Education; Music",
   "Developer": "Curious Pictures",
   "Publisher": "THQ",
   "Artwork": {
     "Box": {
       "Back": [
         {
-          "FileName": "3c6ad568-5475-41ab-ae7b-82d08d03ad49.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
-          "CRC32": "641013207",
-          "URL": "http://images.launchbox-app.com/3c6ad568-5475-41ab-ae7b-82d08d03ad49.jpg"
-        },
-        {
           "FileName": "8392924f-0c60-4557-a7b6-b146b180b975.jpg",
           "Type": "Box - Back",
           "Region": "Europe",
           "CRC32": "1487039712",
           "URL": "http://images.launchbox-app.com/8392924f-0c60-4557-a7b6-b146b180b975.jpg"
+        },
+        {
+          "FileName": "3c6ad568-5475-41ab-ae7b-82d08d03ad49.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "641013207",
+          "URL": "http://images.launchbox-app.com/3c6ad568-5475-41ab-ae7b-82d08d03ad49.jpg"
         }
       ],
       "Front": [

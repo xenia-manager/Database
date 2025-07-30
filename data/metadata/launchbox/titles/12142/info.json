@@ -1,13 +1,13 @@
 {
   "Name": "The Saboteur",
   "DatabaseID": "12142",
-  "ReleaseDate": "2009-12-09T00:00:00-08:00",
+  "ReleaseDate": "2009-12-09T00:00:00+00:00",
   "Overview": "The Saboteur is a 2009 open world action-adventure video game set during World War II in German-occupied France. It was published by Electronic Arts and was the final game developed by Pandemic Studios. The player is able to explore WWII era Nazi-occupied Paris, including some of the French countryside and parts of Germany. Areas which are heavily controlled by the Nazis are represented in black and white, while the irises of characters' eyes, city lights, symbols of the French Resistance and various German symbols remain colorful. Players must infiltrate and weaken the German forces occupying the black and white areas through various missions, regaining the hope of that district's citizens and making the areas vibrant and full of color again.",
   "VideoURL": "http://www.youtube.com/watch?v=l6ORCmYN4oM",
   "CommunityRating": "4",
   "WikipediaURL": "https://en.wikipedia.org/wiki/The_Saboteur",
   "ESRB": "M - Mature",
-  "Genres": " Action; Adventure",
+  "Genres": "Action; Adventure",
   "Developer": "Pandemic Studios",
   "Publisher": "Electronic Arts",
   "Artwork": {

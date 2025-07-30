@@ -1,11 +1,11 @@
 {
   "Name": "Alan Wake: The Writer",
   "DatabaseID": "17269",
-  "ReleaseDate": "2010-10-12T00:00:00-07:00",
+  "ReleaseDate": "2010-10-12T00:00:00+00:00",
   "Overview": "The Writer is the final episodic chapter of DLC for Alan Wake, Remedy and Microsoft's harrowing horror action game. The game features the song \"The Darkest Star\" by Depeche Mode.",
   "CommunityRating": "3.7",
   "ESRB": "T - Teen",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Remedy",
   "Publisher": "Microsoft Game Studios",
   "Artwork": {

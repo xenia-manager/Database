@@ -1,11 +1,11 @@
 {
   "Name": "Mortal Kombat Arcade Kollection",
   "DatabaseID": "209688",
-  "ReleaseDate": "2011-08-31T00:00:00-07:00",
+  "ReleaseDate": "2011-08-31T00:00:00+00:00",
   "Overview": "The Original Arcade Trilogy together for the first time in a single package, just the way you remember it. Mortal Kombat, Mortal Kombat II and Ultimate Mortal Kombat 3 enhanced with online play, leaderboards, and achievements. Maybe you were king of the arcade, but how do you stack up against the whole world?",
-  "CommunityRating": "3.4615384615384617",
+  "CommunityRating": "3.46153846153846",
   "ESRB": "M - Mature",
-  "Genres": " Fighting",
+  "Genres": "Fighting",
   "Developer": "Other Ocean Interactive",
   "Publisher": "Warner Bros. Interactive Entertainment",
   "Artwork": {
@@ -45,10 +45,35 @@
     },
     "Screenshots": [
       {
-        "FileName": "90bd7e08-8142-404c-bb19-820fb938a5dd.jpg",
+        "FileName": "1a47d20f-5c1e-4c80-a05b-4633929da714.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1289572767",
+        "URL": "http://images.launchbox-app.com/1a47d20f-5c1e-4c80-a05b-4633929da714.jpg"
+      },
+      {
+        "FileName": "d19ebeb9-acfe-491d-b468-33984556eb5c.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "4221946461",
+        "URL": "http://images.launchbox-app.com/d19ebeb9-acfe-491d-b468-33984556eb5c.jpg"
+      },
+      {
+        "FileName": "b84582d4-150e-4ed7-9aed-7eba28a697c4.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3025138786",
+        "URL": "http://images.launchbox-app.com/b84582d4-150e-4ed7-9aed-7eba28a697c4.jpg"
+      },
+      {
+        "FileName": "282e42e0-08c9-4d76-a702-f0357fb9550b.jpg",
+        "Type": "Screenshot - Gameplay",
+        "Region": "World",
+        "CRC32": "2378018419",
+        "URL": "http://images.launchbox-app.com/282e42e0-08c9-4d76-a702-f0357fb9550b.jpg"
+      },
+      {
+        "FileName": "f8a46981-995c-4503-bbf3-177ab5e14801.jpg",
         "Type": "Screenshot - Game Select",
-        "CRC32": "3286264955",
-        "URL": "http://images.launchbox-app.com/90bd7e08-8142-404c-bb19-820fb938a5dd.jpg"
+        "CRC32": "1264303720",
+        "URL": "http://images.launchbox-app.com/f8a46981-995c-4503-bbf3-177ab5e14801.jpg"
       },
       {
         "FileName": "43249c95-b01d-4212-bcda-511af164b5be.jpg",
@@ -57,10 +82,10 @@
         "URL": "http://images.launchbox-app.com/43249c95-b01d-4212-bcda-511af164b5be.jpg"
       },
       {
-        "FileName": "f8a46981-995c-4503-bbf3-177ab5e14801.jpg",
+        "FileName": "90bd7e08-8142-404c-bb19-820fb938a5dd.jpg",
         "Type": "Screenshot - Game Select",
-        "CRC32": "1264303720",
-        "URL": "http://images.launchbox-app.com/f8a46981-995c-4503-bbf3-177ab5e14801.jpg"
+        "CRC32": "3286264955",
+        "URL": "http://images.launchbox-app.com/90bd7e08-8142-404c-bb19-820fb938a5dd.jpg"
       },
       {
         "FileName": "6ab696a9-5474-46c6-8462-d0d62d43fedf.jpg",
@@ -73,31 +98,6 @@
         "Type": "Screenshot - Game Title",
         "CRC32": "1361382247",
         "URL": "http://images.launchbox-app.com/359b9a15-74d3-4569-b0fb-0578081a6278.jpg"
-      },
-      {
-        "FileName": "b84582d4-150e-4ed7-9aed-7eba28a697c4.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3025138786",
-        "URL": "http://images.launchbox-app.com/b84582d4-150e-4ed7-9aed-7eba28a697c4.jpg"
-      },
-      {
-        "FileName": "d19ebeb9-acfe-491d-b468-33984556eb5c.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "4221946461",
-        "URL": "http://images.launchbox-app.com/d19ebeb9-acfe-491d-b468-33984556eb5c.jpg"
-      },
-      {
-        "FileName": "1a47d20f-5c1e-4c80-a05b-4633929da714.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1289572767",
-        "URL": "http://images.launchbox-app.com/1a47d20f-5c1e-4c80-a05b-4633929da714.jpg"
-      },
-      {
-        "FileName": "282e42e0-08c9-4d76-a702-f0357fb9550b.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "World",
-        "CRC32": "2378018419",
-        "URL": "http://images.launchbox-app.com/282e42e0-08c9-4d76-a702-f0357fb9550b.jpg"
       }
     ],
     "Other": [

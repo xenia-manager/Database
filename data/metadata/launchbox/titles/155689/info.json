@@ -1,13 +1,13 @@
 {
   "Name": "Galaga Legions",
   "DatabaseID": "155689",
-  "ReleaseDate": "2008-08-20T00:00:00-07:00",
+  "ReleaseDate": "2008-08-20T00:00:00+00:00",
   "Overview": "The alien Galaga army is once again attacking Earth. Taking the same design philosophy as Pac-Man: Championship Edition, Galaga Legions is a complete overhaul of the 1981 original. Waves of various types of enemy ships invade the screen from all directions, their appearance marked by an orange line tracing their path. In addition to standard firing, the player's ship is also equipped with two invulnerable satellites that can detach from the main ship, fire in any of the four cardinal directions, and be easily recalled to the main ship.\n\nThe game features five stages and two different modes: Adventure, where each stage is tackled in order; and Championship, where each stage is attacked on its own for high score. As the game is played, bonus skins for the player and enemies are unlocked.",
   "VideoURL": "https://www.youtube.com/watch?v=r7oOzhvHYVk",
   "CommunityRating": "3.4375",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Galaga_Legions",
   "ESRB": "E - Everyone",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "Namco Bandai Games",
   "Publisher": "Namco Bandai Games",
   "Artwork": {
@@ -40,18 +40,6 @@
     },
     "Screenshots": [
       {
-        "FileName": "89f3397b-d1a4-498f-91af-85d5c6746271.jpg",
-        "Type": "Screenshot - Game Select",
-        "CRC32": "643580618",
-        "URL": "http://images.launchbox-app.com/89f3397b-d1a4-498f-91af-85d5c6746271.jpg"
-      },
-      {
-        "FileName": "565071db-9854-40e6-b152-6cb3b3c17edc.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "3919721084",
-        "URL": "http://images.launchbox-app.com/565071db-9854-40e6-b152-6cb3b3c17edc.jpg"
-      },
-      {
         "FileName": "ee97ff30-0668-4ff5-a2d4-b2b413e10c34.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "2491756642",
@@ -62,6 +50,18 @@
         "Type": "Screenshot - Gameplay",
         "CRC32": "2353333931",
         "URL": "http://images.launchbox-app.com/a7db401c-7ae0-465b-ad7c-449919dac4a7.jpg"
+      },
+      {
+        "FileName": "89f3397b-d1a4-498f-91af-85d5c6746271.jpg",
+        "Type": "Screenshot - Game Select",
+        "CRC32": "643580618",
+        "URL": "http://images.launchbox-app.com/89f3397b-d1a4-498f-91af-85d5c6746271.jpg"
+      },
+      {
+        "FileName": "565071db-9854-40e6-b152-6cb3b3c17edc.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "3919721084",
+        "URL": "http://images.launchbox-app.com/565071db-9854-40e6-b152-6cb3b3c17edc.jpg"
       }
     ]
   }

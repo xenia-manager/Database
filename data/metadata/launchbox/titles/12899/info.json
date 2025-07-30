@@ -1,13 +1,13 @@
 {
   "Name": "Tomb Raider: Underworld",
   "DatabaseID": "12899",
-  "ReleaseDate": "2008-11-18T00:00:00-08:00",
+  "ReleaseDate": "2008-11-18T00:00:00+00:00",
   "Overview": "Following the franchise's legendary return to success under the direction of Crystal Dynamics, Underworld, the studio's sophomore production with Lara Croft, aims to maintain the high level of solid, free-flowing action that reinvigorated the series, while bringing back more of the spooky exploration and challenging jumping puzzles that helped define the classic Tomb Raider games of the late '90s.\n\nDevelopers strove to create a smooth-moving, contextually integrated character. Motion-capture technology is used for the first time in the series, with the 3D recordings of a world-class gymnast bringing Lara's jumps, flips, and kicks to life. In all, Lara's movement throughout the game incorporates over 2,000 animations. \n\nIt takes a god's weapon to kill a god. Lara is set on a quest to obtain the power of Mjöllnir, the hammer of the invincible Thor. Lara's acrobatics and cunning are pushed to their limits in elaborate, sprawling platform puzzles set among ancient tombs and ruins in the jungles of Mexico, the coast of Thailand, beneath the frigid arctic seas, and in other forbidden places of mystic power around the world.",
   "VideoURL": "https://www.youtube.com/watch?v=q-Jn3BFa5qU",
-  "CommunityRating": "3.8571428571428572",
+  "CommunityRating": "3.85714285714286",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Tomb_Raider:_Underworld",
   "ESRB": "T - Teen",
-  "Genres": " Action; Adventure",
+  "Genres": "Action; Adventure",
   "Developer": "Crystal Dynamics",
   "Publisher": "Eidos Interactive",
   "Artwork": {
@@ -47,18 +47,18 @@
       ],
       "Front": [
         {
-          "FileName": "3114b8ff-3ab2-46fb-86ee-4418cce201e5.png",
-          "Type": "Box - Front",
-          "Region": "Korea",
-          "CRC32": "3202839528",
-          "URL": "http://images.launchbox-app.com/3114b8ff-3ab2-46fb-86ee-4418cce201e5.png"
-        },
-        {
           "FileName": "12f0d9ab-7bae-4715-82a6-9e4ea756dc18.jpg",
           "Type": "Box - Front",
           "Region": "North America",
           "CRC32": "3162697503",
           "URL": "http://images.launchbox-app.com/12f0d9ab-7bae-4715-82a6-9e4ea756dc18.jpg"
+        },
+        {
+          "FileName": "3114b8ff-3ab2-46fb-86ee-4418cce201e5.png",
+          "Type": "Box - Front",
+          "Region": "Korea",
+          "CRC32": "3202839528",
+          "URL": "http://images.launchbox-app.com/3114b8ff-3ab2-46fb-86ee-4418cce201e5.png"
         },
         {
           "FileName": "e5daa18f-176c-43df-99f9-1047f2825fd4.png",
@@ -80,13 +80,6 @@
     },
     "Disc": [
       {
-        "FileName": "19fffd89-6d28-4a3d-82a3-fddc308f02ee.png",
-        "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "2138143864",
-        "URL": "http://images.launchbox-app.com/19fffd89-6d28-4a3d-82a3-fddc308f02ee.png"
-      },
-      {
         "FileName": "6f5cea1d-0b69-4ed9-826d-1edd480ba592.png",
         "Type": "Disc",
         "Region": "Korea",
@@ -99,6 +92,13 @@
         "Region": "United States",
         "CRC32": "2260187202",
         "URL": "http://images.launchbox-app.com/97c0955c-0a94-495c-bf87-33d4b54b3bb2.jpg"
+      },
+      {
+        "FileName": "19fffd89-6d28-4a3d-82a3-fddc308f02ee.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2138143864",
+        "URL": "http://images.launchbox-app.com/19fffd89-6d28-4a3d-82a3-fddc308f02ee.png"
       }
     ],
     "Other": [

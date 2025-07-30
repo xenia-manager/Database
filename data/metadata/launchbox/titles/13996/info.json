@@ -1,13 +1,13 @@
 {
   "Name": "MorphX",
   "DatabaseID": "13996",
-  "ReleaseDate": "2010-09-28T00:00:00-07:00",
+  "ReleaseDate": "2010-09-28T00:00:00+00:00",
   "Overview": "Aliens have attacked Earth, killing millions in mere seconds. In a desperate attempt to retaliate, world leaders defended themselves with nuclear weapons. Now the aliens populate the planet, the world is a wasteland and the few remaining human survivors are relegated to dwelling in sewers, subways and basements to plot their revenge.\n\nAn action-packed third-person shooter, MorphX drops players into the middle of the fallout in Moscow, Russia. As part of the new resistance, players awaken in an alien laboratory with the option to enhance their stamina and health with Alien DNA, but at the cost of gradually turning into a monster. In an effort to fight the aliens and find an antidote to the mutation, players can choose to either use the Alien DNA to their advantage, or reject it and focus solely on collecting a variety of weapons to take down their enemies.",
   "VideoURL": "https://www.youtube.com/watch?v=0m3g3r85edA&ab_channel=IGN",
   "CommunityRating": "3",
   "WikipediaURL": "https://en.wikipedia.org/wiki/MorphX_(video_game)",
   "ESRB": "M - Mature",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Targem Games",
   "Publisher": "505 Games",
   "Artwork": {
@@ -39,13 +39,6 @@
       ],
       "Back": [
         {
-          "FileName": "30f64e38-9998-45bf-97f3-a95b23afdc21.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
-          "CRC32": "3555843567",
-          "URL": "http://images.launchbox-app.com/30f64e38-9998-45bf-97f3-a95b23afdc21.jpg"
-        },
-        {
           "FileName": "8da5ce10-8851-4906-bf44-8b26173ae139.jpg",
           "Type": "Box - Back",
           "Region": "United States",
@@ -58,16 +51,16 @@
           "Region": "North America",
           "CRC32": "4284018937",
           "URL": "http://images.launchbox-app.com/5e9c7e62-0813-4347-a821-cdd973e2d27b.jpg"
+        },
+        {
+          "FileName": "30f64e38-9998-45bf-97f3-a95b23afdc21.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "3555843567",
+          "URL": "http://images.launchbox-app.com/30f64e38-9998-45bf-97f3-a95b23afdc21.jpg"
         }
       ],
       "Front": [
-        {
-          "FileName": "f6ec572d-9804-412a-9c59-c29e3b35ba5c.jpg",
-          "Type": "Box - Front",
-          "Region": "United States",
-          "CRC32": "4197495902",
-          "URL": "http://images.launchbox-app.com/f6ec572d-9804-412a-9c59-c29e3b35ba5c.jpg"
-        },
         {
           "FileName": "6e9e7b3d-267a-4baf-a0d4-f2af598d07ee.jpg",
           "Type": "Box - Front",
@@ -81,6 +74,13 @@
           "Region": "North America",
           "CRC32": "3432172154",
           "URL": "http://images.launchbox-app.com/ef398278-8088-487c-9522-27903deaf2f0.jpg"
+        },
+        {
+          "FileName": "f6ec572d-9804-412a-9c59-c29e3b35ba5c.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "4197495902",
+          "URL": "http://images.launchbox-app.com/f6ec572d-9804-412a-9c59-c29e3b35ba5c.jpg"
         },
         {
           "FileName": "1976a1cc-a380-4c33-9a30-ffbbd4758e6f.png",
@@ -125,16 +125,16 @@
     ],
     "Screenshots": [
       {
-        "FileName": "f68cf197-87d2-4e13-a038-c32fef15bfc2.png",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2879937499",
-        "URL": "http://images.launchbox-app.com/f68cf197-87d2-4e13-a038-c32fef15bfc2.png"
-      },
-      {
         "FileName": "fc38105c-7b87-4b40-8d81-ecc81508f168.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "3163278246",
         "URL": "http://images.launchbox-app.com/fc38105c-7b87-4b40-8d81-ecc81508f168.jpg"
+      },
+      {
+        "FileName": "f68cf197-87d2-4e13-a038-c32fef15bfc2.png",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2879937499",
+        "URL": "http://images.launchbox-app.com/f68cf197-87d2-4e13-a038-c32fef15bfc2.png"
       }
     ],
     "Other": [

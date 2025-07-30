@@ -1,12 +1,12 @@
 {
   "Name": "Steins;Gate: Linear Bounded Phenogram",
   "DatabaseID": "457698",
-  "ReleaseDate": "2013-04-25T00:00:00-07:00",
+  "ReleaseDate": "2013-04-25T00:00:00+00:00",
   "Overview": "Linear Bounded Phenogram is a visual novel[1] in which the player advances through text and dialogue to read through several short stories; unlike previous entries in the Steins;Gate series, which let the player affect the flow of the story by sending specific messages from the protagonist's phone, the plot of the individual chapters in Steins;Gate: Linear Bounded Phenogram is not influenced by player input, barring the exchange of different e-mail messages with other characters. In the iPhone version of the game, the player picks up and puts down the in-game phone by holding the phone they are playing on vertically or horizontally, respectively.",
   "VideoURL": "http://cdn.akamai.steamstatic.com/steam/apps/256730488/movie_max.webm?t=1544778605",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Steins;Gate:_Linear_Bounded_Phenogram",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Visual Novel",
+  "Genres": "Visual Novel",
   "Developer": "5pb.",
   "Publisher": "5pb.",
   "Artwork": {

@@ -1,30 +1,30 @@
 {
   "Name": "Borderlands 2: Add-On Content Pack",
   "DatabaseID": "15549",
-  "ReleaseDate": "2013-02-26T00:00:00-08:00",
+  "ReleaseDate": "2013-02-26T00:00:00+00:00",
   "Overview": "The Double Game Add-on Pack includes the following two downloadable contents (DLCs) for Borderlands:\nBorderlands: The Zombie Island of Dr. Ned\nBorderlands: Madd Moxxi's Underdome Riot",
-  "CommunityRating": "3.1666666666666665",
+  "CommunityRating": "3.16666666666667",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Borderlands_2",
   "ESRB": "M - Mature",
-  "Genres": " Role-Playing; Shooter",
+  "Genres": "Role-Playing; Shooter",
   "Developer": "Gearbox Software",
   "Publisher": "2K Games",
   "Artwork": {
     "Box": {
       "Front": [
         {
-          "FileName": "a2b1702f-e1e8-4dde-9745-43b904da2624.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "1613764312",
-          "URL": "http://images.launchbox-app.com/a2b1702f-e1e8-4dde-9745-43b904da2624.jpg"
-        },
-        {
           "FileName": "0cb43ab9-78cc-4512-95c0-9948cae962f2.jpg",
           "Type": "Box - Front",
           "Region": "North America",
           "CRC32": "3875631202",
           "URL": "http://images.launchbox-app.com/0cb43ab9-78cc-4512-95c0-9948cae962f2.jpg"
+        },
+        {
+          "FileName": "a2b1702f-e1e8-4dde-9745-43b904da2624.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "1613764312",
+          "URL": "http://images.launchbox-app.com/a2b1702f-e1e8-4dde-9745-43b904da2624.jpg"
         }
       ]
     }

@@ -1,13 +1,13 @@
 {
   "Name": "Kung Fu Panda 2",
   "DatabaseID": "12754",
-  "ReleaseDate": "2011-05-24T00:00:00-07:00",
+  "ReleaseDate": "2011-05-24T00:00:00+00:00",
   "Overview": "Kung Fu Panda 2: The Video Game begins where the movie leaves off, as Po and the Furious Five venture out to save Kung Fu from a new evil threat. In an original story, players are plunged into the video game at the climatic end-of-movie battle between Master Shen and Po. Players must help Po, and the furious five journey to save Gongman City, restore balance and save Kung Fu. Players will also get assistance from the councel of respected masters, Shifu, Croc, and Ox to help defeat looting wolves, powerful gorillas and clans of barbaric komodo dragons lead by Xaio Dan. There will be effective defensive combo sequences for players to learn as you defeat your enemies alongside the Furious Five. Use strategy and problem solving to master Kung Fu. Players will get to play through an all new story adventure with epic battles and new barbaric enemies. Engage with physical combat and combos or use strategy and problem solving skills to get through your battles.",
   "VideoURL": "https://www.youtube.com/watch?v=9_BFKJBgHzM",
   "CommunityRating": "2",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Kung_Fu_Panda_2_(video_game)",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Griptonite Games",
   "Publisher": "THQ",
   "Artwork": {
@@ -22,17 +22,17 @@
       ],
       "Front": [
         {
-          "FileName": "cc274ecc-953a-4b30-be43-983a99888afb.jpg",
-          "Type": "Box - Front",
-          "CRC32": "564908488",
-          "URL": "http://images.launchbox-app.com/cc274ecc-953a-4b30-be43-983a99888afb.jpg"
-        },
-        {
           "FileName": "db6d9789-99a8-479b-bb39-b1e98eac9dcc.jpg",
           "Type": "Box - Front",
           "Region": "Germany",
           "CRC32": "3233304921",
           "URL": "http://images.launchbox-app.com/db6d9789-99a8-479b-bb39-b1e98eac9dcc.jpg"
+        },
+        {
+          "FileName": "cc274ecc-953a-4b30-be43-983a99888afb.jpg",
+          "Type": "Box - Front",
+          "CRC32": "564908488",
+          "URL": "http://images.launchbox-app.com/cc274ecc-953a-4b30-be43-983a99888afb.jpg"
         }
       ]
     },

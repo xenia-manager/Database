@@ -1,13 +1,13 @@
 {
   "Name": "Fable II",
   "DatabaseID": "807",
-  "ReleaseDate": "2008-10-21T00:00:00-07:00",
+  "ReleaseDate": "2008-10-21T00:00:00+00:00",
   "Overview": "Fable II is the true sequel to the wildly successful original that sold more than 3 million copies, offering even more choices and building on the core gameplay theme of \"Fable,\" where a player’s every decision continually defines whom they become. \"Fable II\" is an action role-playing game (RPG) that truly allows players to live the life they choose in an unimaginably open world environment. Set 500 years after the original, \"Fable II\" will provide gamers with an epic story and innovative real-time gameplay, including a massive amount of freedom and choice to explore a vast collection of dungeons, catacombs and caves in the world of Albion.",
   "VideoURL": "https://www.youtube.com/watch?v=5pouqKKjh_M",
-  "CommunityRating": "4.0972222222222223",
+  "CommunityRating": "4.09722222222222",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Fable_II",
   "ESRB": "M - Mature",
-  "Genres": " Action; Adventure; Role-Playing",
+  "Genres": "Action; Adventure; Role-Playing",
   "Developer": "Lionhead Studios",
   "Publisher": "Microsoft Game Studios",
   "Artwork": {
@@ -52,20 +52,6 @@
       ],
       "Front": [
         {
-          "FileName": "8888c2cd-7f39-46b6-b26f-1ca0c2ede59d.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "1330733367",
-          "URL": "http://images.launchbox-app.com/8888c2cd-7f39-46b6-b26f-1ca0c2ede59d.jpg"
-        },
-        {
-          "FileName": "0edc6661-ef42-4a72-856c-26a1a1a38f10.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "105658706",
-          "URL": "http://images.launchbox-app.com/0edc6661-ef42-4a72-856c-26a1a1a38f10.jpg"
-        },
-        {
           "FileName": "6db5b409-acfa-47ac-b56c-0b7ff8988cfd.jpg",
           "Type": "Box - Front",
           "Region": "Europe",
@@ -78,6 +64,20 @@
           "Region": "Sweden",
           "CRC32": "4103579387",
           "URL": "http://images.launchbox-app.com/486c44fd-08a9-4c2e-9a9c-5f242749ba13.jpg"
+        },
+        {
+          "FileName": "0edc6661-ef42-4a72-856c-26a1a1a38f10.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "105658706",
+          "URL": "http://images.launchbox-app.com/0edc6661-ef42-4a72-856c-26a1a1a38f10.jpg"
+        },
+        {
+          "FileName": "8888c2cd-7f39-46b6-b26f-1ca0c2ede59d.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1330733367",
+          "URL": "http://images.launchbox-app.com/8888c2cd-7f39-46b6-b26f-1ca0c2ede59d.jpg"
         },
         {
           "FileName": "0d12da61-16ec-4bbd-bd28-3751394627ea.jpg",
@@ -107,17 +107,17 @@
     ],
     "Screenshots": [
       {
-        "FileName": "8356fd6e-d1a8-4bb4-842e-5170d8b979d4.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "76323255",
-        "URL": "http://images.launchbox-app.com/8356fd6e-d1a8-4bb4-842e-5170d8b979d4.jpg"
-      },
-      {
         "FileName": "3fbcd11d-bbfa-465a-b243-d8ea242af762.jpg",
         "Type": "Screenshot - Gameplay",
         "Region": "North America",
         "CRC32": "267924012",
         "URL": "http://images.launchbox-app.com/3fbcd11d-bbfa-465a-b243-d8ea242af762.jpg"
+      },
+      {
+        "FileName": "8356fd6e-d1a8-4bb4-842e-5170d8b979d4.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "76323255",
+        "URL": "http://images.launchbox-app.com/8356fd6e-d1a8-4bb4-842e-5170d8b979d4.jpg"
       }
     ],
     "Other": [

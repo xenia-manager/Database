@@ -1,13 +1,13 @@
 {
   "Name": "Overlord",
   "DatabaseID": "7559",
-  "ReleaseDate": "2007-06-26T00:00:00-07:00",
+  "ReleaseDate": "2007-06-26T00:00:00+00:00",
   "Overview": "Controlling a mysterious figure that has inherited the legacy of the evil, long-dead Overlord, the player emerges, near death, from the ruins of the old Overlord's Dark Tower. Only the player's actions determine if they will rise to become the new all-powerful Overlord; it's all down to how much of a bad ass they want to be in order to succeed...evil or really evil! Played out with plenty of black humour and dark irony, the game immerses players in twisted parodies of classic fantasy scenarios and characters. Overlord's key innovation is the introduction of an array of impish creatures – the Minions. They believe you are the old Overlord reborn and will use their unique skills to fetch, fight and die for you. Throughout the game players actively control a horde of these gremlin-like critters and they follow your every instruction no matter how despotic or, for the Minions, life threatening it is.",
   "VideoURL": "http://www.youtube.com/watch?v=b3qYHrPTPM8",
-  "CommunityRating": "3.6666666666666665",
+  "CommunityRating": "3.66666666666667",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Overlord_(2007_video_game)",
   "ESRB": "T - Teen",
-  "Genres": " Action; Role-Playing; Strategy",
+  "Genres": "Action; Role-Playing; Strategy",
   "Developer": "Triumph Studios",
   "Publisher": "Codemasters",
   "Artwork": {
@@ -23,18 +23,18 @@
     "Box": {
       "Back": [
         {
-          "FileName": "cf172f3f-3570-4cce-9b73-e71104572487.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
-          "CRC32": "3358249619",
-          "URL": "http://images.launchbox-app.com/cf172f3f-3570-4cce-9b73-e71104572487.jpg"
-        },
-        {
           "FileName": "0c581dbe-53a6-4c24-b959-b00de4e9f3c7.jpg",
           "Type": "Box - Back",
           "Region": "North America",
           "CRC32": "753552671",
           "URL": "http://images.launchbox-app.com/0c581dbe-53a6-4c24-b959-b00de4e9f3c7.jpg"
+        },
+        {
+          "FileName": "cf172f3f-3570-4cce-9b73-e71104572487.jpg",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "3358249619",
+          "URL": "http://images.launchbox-app.com/cf172f3f-3570-4cce-9b73-e71104572487.jpg"
         }
       ],
       "Front": [

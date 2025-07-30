@@ -1,13 +1,13 @@
 {
   "Name": "Crackdown 2",
   "DatabaseID": "12062",
-  "ReleaseDate": "2010-07-06T00:00:00-07:00",
+  "ReleaseDate": "2010-07-06T00:00:00+00:00",
   "Overview": "You're the judge, jury, and executioner in this sequel to the award-winning vertical-world adventure Crackdown, available only on Xbox 360. Your armor will make you stronger and faster than the criminals you pursue, enabling you to jump from rooftop to rooftop or to pick up whatever happens to be lying around, like a car or a bus stop, and hurl it toward your suspect, perhaps giving you enough time to shout out his Miranda Rights before it hits him. Your dispensation of justice won't be limited to the streets because Crackdown 2 continues the tradition of a vertical approach in a vast city laden with skyscrapers just begging to be explored. This environment provides the perfect backdrop for meeting your buddies online for co-op or competitive multiplayer action, depending on how you feel about your buddies. Either way, you're in for an over-the-top experience.",
   "VideoURL": "https://www.youtube.com/watch?v=J4wgVlpG1Ig",
   "CommunityRating": "3.075",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Crackdown_2",
   "ESRB": "M - Mature",
-  "Genres": " Sandbox; Shooter",
+  "Genres": "Sandbox; Shooter",
   "Developer": "Ruffian Games",
   "Publisher": "Microsoft Game Studios",
   "Artwork": {
@@ -45,21 +45,28 @@
           "URL": "http://images.launchbox-app.com/5744df32-23a4-422f-84ce-cccd3b7b2a03.jpg"
         },
         {
-          "FileName": "4936451c-432e-4f29-ba05-5d32d0b0b126.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
-          "CRC32": "557919240",
-          "URL": "http://images.launchbox-app.com/4936451c-432e-4f29-ba05-5d32d0b0b126.jpg"
-        },
-        {
           "FileName": "ee6398e0-bd11-4322-b81d-b3bf1e72c9a6.jpg",
           "Type": "Box - Back",
           "Region": "United Kingdom",
           "CRC32": "2968288779",
           "URL": "http://images.launchbox-app.com/ee6398e0-bd11-4322-b81d-b3bf1e72c9a6.jpg"
+        },
+        {
+          "FileName": "4936451c-432e-4f29-ba05-5d32d0b0b126.jpg",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "557919240",
+          "URL": "http://images.launchbox-app.com/4936451c-432e-4f29-ba05-5d32d0b0b126.jpg"
         }
       ],
       "Front": [
+        {
+          "FileName": "d2834bd8-c7dc-4586-b26c-948cbe7c76fa.jpg",
+          "Type": "Box - Front",
+          "Region": "Asia",
+          "CRC32": "1127189256",
+          "URL": "http://images.launchbox-app.com/d2834bd8-c7dc-4586-b26c-948cbe7c76fa.jpg"
+        },
         {
           "FileName": "d7c5b524-36c6-4a52-a340-491e0f16ced7.jpg",
           "Type": "Box - Front",
@@ -73,13 +80,6 @@
           "Region": "United Kingdom",
           "CRC32": "1606458178",
           "URL": "http://images.launchbox-app.com/53ea6a33-813d-4a57-9ea5-205823a74d5b.jpg"
-        },
-        {
-          "FileName": "d2834bd8-c7dc-4586-b26c-948cbe7c76fa.jpg",
-          "Type": "Box - Front",
-          "Region": "Asia",
-          "CRC32": "1127189256",
-          "URL": "http://images.launchbox-app.com/d2834bd8-c7dc-4586-b26c-948cbe7c76fa.jpg"
         },
         {
           "FileName": "1989a5f3-609b-4676-86b4-9277212c8ec2.jpg",
@@ -108,18 +108,18 @@
     },
     "Disc": [
       {
+        "FileName": "a37c593d-6c8c-42aa-99af-9d1a809d8852.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2947478793",
+        "URL": "http://images.launchbox-app.com/a37c593d-6c8c-42aa-99af-9d1a809d8852.png"
+      },
+      {
         "FileName": "585bd0a7-212f-4eec-9bcd-a964f53a2484.png",
         "Type": "Disc",
         "Region": "United Kingdom",
         "CRC32": "3961691650",
         "URL": "http://images.launchbox-app.com/585bd0a7-212f-4eec-9bcd-a964f53a2484.png"
-      },
-      {
-        "FileName": "5da018fc-ecba-41e1-820a-e9272905de3b.png",
-        "Type": "Disc",
-        "Region": "Asia",
-        "CRC32": "254839828",
-        "URL": "http://images.launchbox-app.com/5da018fc-ecba-41e1-820a-e9272905de3b.png"
       },
       {
         "FileName": "59e8c110-9032-48a3-ba25-24e7c7fadbc0.png",
@@ -129,11 +129,11 @@
         "URL": "http://images.launchbox-app.com/59e8c110-9032-48a3-ba25-24e7c7fadbc0.png"
       },
       {
-        "FileName": "a37c593d-6c8c-42aa-99af-9d1a809d8852.png",
+        "FileName": "5da018fc-ecba-41e1-820a-e9272905de3b.png",
         "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "2947478793",
-        "URL": "http://images.launchbox-app.com/a37c593d-6c8c-42aa-99af-9d1a809d8852.png"
+        "Region": "Asia",
+        "CRC32": "254839828",
+        "URL": "http://images.launchbox-app.com/5da018fc-ecba-41e1-820a-e9272905de3b.png"
       }
     ],
     "Other": [

@@ -1,11 +1,11 @@
 {
   "Name": "Trivial Pursuit",
   "DatabaseID": "13097",
-  "ReleaseDate": "2009-03-13T00:00:00-07:00",
+  "ReleaseDate": "2009-03-13T00:00:00+00:00",
   "Overview": "Trivial Pursuit is based on the general knowledge board game of the same name.\n\nThe object of the game is to move around the board answering questions based on what colour tile you land on. The six colours correspond with a subject which are: blue for geography, green for science and nature, yellow for history, orange for sports & leisure, pink for entertainment and brown for Literature. This electronic version features a new game mode called 'facts and friends' that can be played online which allows players to guess whether their opponents will answers questions correctly.",
   "CommunityRating": "5",
   "ESRB": "E - Everyone",
-  "Genres": " Quiz; Board Game; Party",
+  "Genres": "Board Game; Party; Quiz",
   "Developer": "Electronic Arts Bright Light",
   "Publisher": "Electronic Arts",
   "Artwork": {
@@ -37,18 +37,18 @@
       ],
       "Front": [
         {
-          "FileName": "32d7f8ee-18c5-4d87-8d00-945e7cc92eb9.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
-          "CRC32": "109781044",
-          "URL": "http://images.launchbox-app.com/32d7f8ee-18c5-4d87-8d00-945e7cc92eb9.jpg"
-        },
-        {
           "FileName": "df134d56-7dc9-44d0-8026-ef62fe1504be.jpg",
           "Type": "Box - Front",
           "Region": "North America",
           "CRC32": "1412424563",
           "URL": "http://images.launchbox-app.com/df134d56-7dc9-44d0-8026-ef62fe1504be.jpg"
+        },
+        {
+          "FileName": "32d7f8ee-18c5-4d87-8d00-945e7cc92eb9.jpg",
+          "Type": "Box - Front",
+          "Region": "Germany",
+          "CRC32": "109781044",
+          "URL": "http://images.launchbox-app.com/32d7f8ee-18c5-4d87-8d00-945e7cc92eb9.jpg"
         }
       ],
       "Spine": [
@@ -72,18 +72,18 @@
     ],
     "Screenshots": [
       {
-        "FileName": "80abb869-2ca6-4230-af3f-496d915f30dd.png",
-        "Type": "Screenshot - Game Select",
-        "Region": "Germany",
-        "CRC32": "3374074573",
-        "URL": "http://images.launchbox-app.com/80abb869-2ca6-4230-af3f-496d915f30dd.png"
-      },
-      {
         "FileName": "10628b8c-c965-4c28-8eee-f64dd3fac158.png",
         "Type": "Screenshot - Gameplay",
         "Region": "World",
         "CRC32": "4291111665",
         "URL": "http://images.launchbox-app.com/10628b8c-c965-4c28-8eee-f64dd3fac158.png"
+      },
+      {
+        "FileName": "80abb869-2ca6-4230-af3f-496d915f30dd.png",
+        "Type": "Screenshot - Game Select",
+        "Region": "Germany",
+        "CRC32": "3374074573",
+        "URL": "http://images.launchbox-app.com/80abb869-2ca6-4230-af3f-496d915f30dd.png"
       }
     ],
     "Other": [

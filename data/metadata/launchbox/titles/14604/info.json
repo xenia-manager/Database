@@ -1,13 +1,13 @@
 {
   "Name": "Kingdom Under Fire: Circle of Doom",
   "DatabaseID": "14604",
-  "ReleaseDate": "2008-01-08T00:00:00-08:00",
+  "ReleaseDate": "2008-01-08T00:00:00+00:00",
   "Overview": "Kingdom Under Fire: Circle of Doom is an action roleplaying video game developed by Blueside and published by Microsoft Game Studios exclusively for the Xbox 360. It is the fourth installment in the Kingdom Under Fire series and the first released for the seventh generation of consoles. Chronologically the game's story follows Kingdom Under Fire: The Crusaders released in 2004.\n\nIt was first released in Australia on December 5, 2007, followed by Japan on December 13, 2007 then later in North America on January 8, 2008 and in Europe on February 1, 2008.\n\nUnlike the previous Kingdom Under Fire games in the series, Circle of Doom's lacks the real-time strategy elements, with much of the gameplay focus being on hack and slash combat.",
   "VideoURL": "https://youtu.be/pgQvOv9K45U?t=657",
-  "CommunityRating": "2.1666666666666665",
+  "CommunityRating": "2.16666666666667",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Kingdom_Under_Fire:_Circle_of_Doom",
   "ESRB": "M - Mature",
-  "Genres": " Action; Role-Playing",
+  "Genres": "Action; Role-Playing",
   "Developer": "Blueside",
   "Publisher": "Microsoft Game Studios",
   "Artwork": {
@@ -72,18 +72,6 @@
     ],
     "Screenshots": [
       {
-        "FileName": "0a67f7c4-4343-4c0e-bb0c-50a038ad78c0.jpg",
-        "Type": "Screenshot - Game Select",
-        "CRC32": "2210078644",
-        "URL": "http://images.launchbox-app.com/0a67f7c4-4343-4c0e-bb0c-50a038ad78c0.jpg"
-      },
-      {
-        "FileName": "db1f3463-368b-4d76-ad67-407d36c1de2c.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "1957028093",
-        "URL": "http://images.launchbox-app.com/db1f3463-368b-4d76-ad67-407d36c1de2c.jpg"
-      },
-      {
         "FileName": "d1f3a225-acfb-4288-a85a-d630d0d7f2e4.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "282075825",
@@ -94,6 +82,18 @@
         "Type": "Screenshot - Gameplay",
         "CRC32": "2791004848",
         "URL": "http://images.launchbox-app.com/28fbafc1-712b-4dd4-8807-633dcb770ed0.jpg"
+      },
+      {
+        "FileName": "0a67f7c4-4343-4c0e-bb0c-50a038ad78c0.jpg",
+        "Type": "Screenshot - Game Select",
+        "CRC32": "2210078644",
+        "URL": "http://images.launchbox-app.com/0a67f7c4-4343-4c0e-bb0c-50a038ad78c0.jpg"
+      },
+      {
+        "FileName": "db1f3463-368b-4d76-ad67-407d36c1de2c.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "1957028093",
+        "URL": "http://images.launchbox-app.com/db1f3463-368b-4d76-ad67-407d36c1de2c.jpg"
       }
     ],
     "Other": [

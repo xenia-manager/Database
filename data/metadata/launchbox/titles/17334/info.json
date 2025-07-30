@@ -1,29 +1,29 @@
 {
   "Name": "Dark",
   "DatabaseID": "17334",
-  "ReleaseDate": "2013-07-09T00:00:00-07:00",
+  "ReleaseDate": "2013-07-09T00:00:00+00:00",
   "Overview": "Summary: DARK is a stealth action game with RPG elements that lets you slip into the role of the ultimate killer... a vampire. Stalk you enemies from the shadows then use powerful vampire abilities to attack and silently dispatch them! The exciting story of DARK immerses you in a world full of blood and darkness in which the hunter can become the hunted at any time. As you unravel the mystery behind the global conglomerate that seems omnipresent and all-powerful, continually improve your character by developing powerful skills to aid you in remaining unobserved, or make quick process of those unfortunate to take too keen an interest in you.",
-  "CommunityRating": "3.8333333333333335",
+  "CommunityRating": "3.83333333333333",
   "ESRB": "M - Mature",
-  "Genres": " Role-Playing; Stealth",
+  "Genres": "Role-Playing; Stealth",
   "Developer": "Realmforge Studios",
   "Publisher": "Kalypso Media",
   "Artwork": {
     "Box": {
       "Back": [
         {
-          "FileName": "fe6d31e9-2508-4dc5-bd7c-e49db32cf1e0.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
-          "CRC32": "3728647595",
-          "URL": "http://images.launchbox-app.com/fe6d31e9-2508-4dc5-bd7c-e49db32cf1e0.jpg"
-        },
-        {
           "FileName": "de7e6bd4-2a81-47ff-adc1-9017e58b00c1.jpg",
           "Type": "Box - Back",
           "Region": "North America",
           "CRC32": "2139875991",
           "URL": "http://images.launchbox-app.com/de7e6bd4-2a81-47ff-adc1-9017e58b00c1.jpg"
+        },
+        {
+          "FileName": "fe6d31e9-2508-4dc5-bd7c-e49db32cf1e0.jpg",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "3728647595",
+          "URL": "http://images.launchbox-app.com/fe6d31e9-2508-4dc5-bd7c-e49db32cf1e0.jpg"
         }
       ],
       "Front": [
@@ -35,18 +35,18 @@
           "URL": "http://images.launchbox-app.com/3552fb6c-aea2-44d7-aee5-2d02c10f014a.jpg"
         },
         {
-          "FileName": "1eb88d01-43e8-4451-9138-ad8b22d15b76.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "4221724998",
-          "URL": "http://images.launchbox-app.com/1eb88d01-43e8-4451-9138-ad8b22d15b76.jpg"
-        },
-        {
           "FileName": "4a06321c-1e2d-487a-87ed-02d8702b374d.jpg",
           "Type": "Box - Front",
           "Region": "North America",
           "CRC32": "2165160186",
           "URL": "http://images.launchbox-app.com/4a06321c-1e2d-487a-87ed-02d8702b374d.jpg"
+        },
+        {
+          "FileName": "1eb88d01-43e8-4451-9138-ad8b22d15b76.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "4221724998",
+          "URL": "http://images.launchbox-app.com/1eb88d01-43e8-4451-9138-ad8b22d15b76.jpg"
         }
       ],
       "Spine": [

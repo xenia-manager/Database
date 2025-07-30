@@ -1,13 +1,13 @@
 {
   "Name": "Guitar Hero: Warriors of Rock",
   "DatabaseID": "15042",
-  "ReleaseDate": "2010-09-28T00:00:00-07:00",
+  "ReleaseDate": "2010-09-28T00:00:00+00:00",
   "Overview": "Guitar Hero: Warriors of Rock features more than 90 tracks that include guitar shredding hits from bands such as Black Sabbath, Megadeth and Slipknot and larger than life anthems from Queen, Muse and KISS.\n\nThe sixth full title in the original play-along rock & roll series, Warriors of Rock takes Guitar Hero virtual virtuosos on a journey of metal-inspired fantasy. In the game's Quest mode, players lead eight individual characters to transform into heroic warriors, in a realm of studded black leather and dark gothic undertones. Characters use their individual special abilities to complete rock performance challenges and move the story forward, toward an ultimate battle that will determine the fate of the Demigod of Rock, and indeed, rock & roll itself.\n\nWarriors of Rock hits retail shelves with the largest out-of-the-box playlist yet in the Guitar Hero series, boasting a total of more than 90 tracks from artists including Black Sabbath, Kiss, Megadeth, Anthrax, Def Leppard, and Soundgarden. Hits by artists such as Dire Straits, The Cure, Queen, and The Rolling Stones are also featured. A Quickplay option allows players instant access to the Rock Warrior characters' special powers, outside of the Quest campaign, and players can perform any combination of guitar, bass, drums, and vocals, in Party Play and other familiar Guitar Hero modes.\n\nThe initial retail release of the PS3 version of the game is also available in an edition bundled with a hard-rock themed guitar controller, or in a \"Complete\" edition that includes a microphone and guitar, bass, and drum controllers.",
   "VideoURL": "https://www.youtube.com/watch?v=YT45eh21ns0",
   "CommunityRating": "4.25",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Guitar_Hero:_Warriors_of_Rock",
   "ESRB": "T - Teen",
-  "Genres": " Music",
+  "Genres": "Music",
   "Developer": "Neversoft Entertainment",
   "Publisher": "Activision",
   "Artwork": {
@@ -62,35 +62,35 @@
       ],
       "Spine": [
         {
-          "FileName": "1bb2450d-a2b3-48cb-934c-9607b376dad2.jpg",
-          "Type": "Box - Spine",
-          "Region": "Europe",
-          "CRC32": "3214258035",
-          "URL": "http://images.launchbox-app.com/1bb2450d-a2b3-48cb-934c-9607b376dad2.jpg"
-        },
-        {
           "FileName": "b2486509-c908-4ede-9103-f34bb9edad3f.jpg",
           "Type": "Box - Spine",
           "Region": "Australia",
           "CRC32": "4126096371",
           "URL": "http://images.launchbox-app.com/b2486509-c908-4ede-9103-f34bb9edad3f.jpg"
+        },
+        {
+          "FileName": "1bb2450d-a2b3-48cb-934c-9607b376dad2.jpg",
+          "Type": "Box - Spine",
+          "Region": "Europe",
+          "CRC32": "3214258035",
+          "URL": "http://images.launchbox-app.com/1bb2450d-a2b3-48cb-934c-9607b376dad2.jpg"
         }
       ]
     },
     "Disc": [
-      {
-        "FileName": "76d3360e-08c5-4ef8-81f8-5e0e0fca688f.png",
-        "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "534151180",
-        "URL": "http://images.launchbox-app.com/76d3360e-08c5-4ef8-81f8-5e0e0fca688f.png"
-      },
       {
         "FileName": "3749a8ae-0204-4e31-92a7-06a9c29f2f4a.png",
         "Type": "Disc",
         "Region": "Australia",
         "CRC32": "2646538016",
         "URL": "http://images.launchbox-app.com/3749a8ae-0204-4e31-92a7-06a9c29f2f4a.png"
+      },
+      {
+        "FileName": "76d3360e-08c5-4ef8-81f8-5e0e0fca688f.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "534151180",
+        "URL": "http://images.launchbox-app.com/76d3360e-08c5-4ef8-81f8-5e0e0fca688f.png"
       }
     ],
     "Other": [

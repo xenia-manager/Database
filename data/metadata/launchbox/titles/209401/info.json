@@ -1,11 +1,11 @@
 {
   "Name": "Inferno Pool",
   "DatabaseID": "209401",
-  "ReleaseDate": "2009-10-28T00:00:00-07:00",
+  "ReleaseDate": "2009-10-28T00:00:00+00:00",
   "Overview": "Inferno Pool is a revolutionary, simultaneous multi-player Pool action game.",
-  "CommunityRating": "3.6666666666666665",
+  "CommunityRating": "3.66666666666667",
   "ESRB": "E - Everyone",
-  "Genres": " Sports",
+  "Genres": "Sports",
   "Developer": "Dark Energy Digital",
   "Publisher": "koch Media",
   "Artwork": {

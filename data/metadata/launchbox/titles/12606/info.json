@@ -1,28 +1,28 @@
 {
   "Name": "Child of Eden",
   "DatabaseID": "12606",
-  "ReleaseDate": "2011-06-14T00:00:00-07:00",
+  "ReleaseDate": "2011-06-14T00:00:00+00:00",
   "Overview": "Child of Eden is the \"multi-sensory shooter\" that will send players diving into a kaleidoscopic matrix of synchronized music and mind-blowing visuals that will usher forth yet another landmark game experience from the mind of renowned game designer Tetsuya Mizuguchi, its creator. Child of Eden thrusts you in the center of a battle to save Project Lumi, a mission to reproduce a human personality inside Eden, the archive of all human memories. As the project nears completion, the archive is invaded by an unknown virus. The Player's mission is to save Eden from the virus to restore hope and peace.",
   "VideoURL": "https://www.youtube.com/watch?v=SrY4iETraik",
-  "CommunityRating": "3.9285714285714284",
+  "CommunityRating": "3.92857142857143",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Child_of_Eden",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Music; Shooter",
+  "Genres": "Music; Shooter",
   "Developer": "Q Entertainment",
   "Publisher": "Ubisoft",
   "Artwork": {
     "Background": [
       {
-        "FileName": "abbe8b70-87c2-47d2-817e-bea02157df26.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "4049595655",
-        "URL": "http://images.launchbox-app.com/abbe8b70-87c2-47d2-817e-bea02157df26.jpg"
-      },
-      {
         "FileName": "cd296c0e-ddc2-464e-9d47-20baf46a7779.jpg",
         "Type": "Fanart - Background",
         "CRC32": "519458762",
         "URL": "http://images.launchbox-app.com/cd296c0e-ddc2-464e-9d47-20baf46a7779.jpg"
+      },
+      {
+        "FileName": "abbe8b70-87c2-47d2-817e-bea02157df26.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "4049595655",
+        "URL": "http://images.launchbox-app.com/abbe8b70-87c2-47d2-817e-bea02157df26.jpg"
       }
     ],
     "Box": {
@@ -37,60 +37,60 @@
       ],
       "Back": [
         {
-          "FileName": "66f1cb29-a22b-4a4b-89e2-afa6ab50dfcd.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
-          "CRC32": "2947931366",
-          "URL": "http://images.launchbox-app.com/66f1cb29-a22b-4a4b-89e2-afa6ab50dfcd.jpg"
-        },
-        {
           "FileName": "7d469ea9-b351-4484-bc6b-64a68d058cc9.jpg",
           "Type": "Box - Back",
           "Region": "Europe",
           "CRC32": "2845126789",
           "URL": "http://images.launchbox-app.com/7d469ea9-b351-4484-bc6b-64a68d058cc9.jpg"
+        },
+        {
+          "FileName": "66f1cb29-a22b-4a4b-89e2-afa6ab50dfcd.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "2947931366",
+          "URL": "http://images.launchbox-app.com/66f1cb29-a22b-4a4b-89e2-afa6ab50dfcd.jpg"
         }
       ],
       "Front": [
-        {
-          "FileName": "1775230e-40c5-401f-9a19-7fef520a0e3d.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "4103089529",
-          "URL": "http://images.launchbox-app.com/1775230e-40c5-401f-9a19-7fef520a0e3d.jpg"
-        },
         {
           "FileName": "7959d6b3-3229-402e-a9e3-429bcb832c17.jpg",
           "Type": "Box - Front",
           "Region": "North America",
           "CRC32": "3515413884",
           "URL": "http://images.launchbox-app.com/7959d6b3-3229-402e-a9e3-429bcb832c17.jpg"
+        },
+        {
+          "FileName": "1775230e-40c5-401f-9a19-7fef520a0e3d.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "4103089529",
+          "URL": "http://images.launchbox-app.com/1775230e-40c5-401f-9a19-7fef520a0e3d.jpg"
         }
       ],
       "Spine": [
-        {
-          "FileName": "67087ca2-68ab-4125-ac44-558427464f7d.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
-          "CRC32": "345420594",
-          "URL": "http://images.launchbox-app.com/67087ca2-68ab-4125-ac44-558427464f7d.jpg"
-        },
         {
           "FileName": "d2938861-686f-47b7-99b0-e110f3689fb0.jpg",
           "Type": "Box - Spine",
           "Region": "Europe",
           "CRC32": "1412570010",
           "URL": "http://images.launchbox-app.com/d2938861-686f-47b7-99b0-e110f3689fb0.jpg"
+        },
+        {
+          "FileName": "67087ca2-68ab-4125-ac44-558427464f7d.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "345420594",
+          "URL": "http://images.launchbox-app.com/67087ca2-68ab-4125-ac44-558427464f7d.jpg"
         }
       ]
     },
     "Disc": [
       {
-        "FileName": "1883aa91-6362-4993-bf0c-08ec1fa75ee4.png",
+        "FileName": "1c133090-0416-43ea-9306-51e80f482bec.png",
         "Type": "Disc",
-        "Region": "Japan",
-        "CRC32": "2791259302",
-        "URL": "http://images.launchbox-app.com/1883aa91-6362-4993-bf0c-08ec1fa75ee4.png"
+        "Region": "North America",
+        "CRC32": "1055328126",
+        "URL": "http://images.launchbox-app.com/1c133090-0416-43ea-9306-51e80f482bec.png"
       },
       {
         "FileName": "35782362-4286-4a23-a570-11a86777e08a.png",
@@ -100,11 +100,11 @@
         "URL": "http://images.launchbox-app.com/35782362-4286-4a23-a570-11a86777e08a.png"
       },
       {
-        "FileName": "1c133090-0416-43ea-9306-51e80f482bec.png",
+        "FileName": "1883aa91-6362-4993-bf0c-08ec1fa75ee4.png",
         "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "1055328126",
-        "URL": "http://images.launchbox-app.com/1c133090-0416-43ea-9306-51e80f482bec.png"
+        "Region": "Japan",
+        "CRC32": "2791259302",
+        "URL": "http://images.launchbox-app.com/1883aa91-6362-4993-bf0c-08ec1fa75ee4.png"
       }
     ],
     "Other": [

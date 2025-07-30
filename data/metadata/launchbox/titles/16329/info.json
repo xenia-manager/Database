@@ -1,13 +1,13 @@
 {
   "Name": "Resident Evil: Code: Veronica X HD",
   "DatabaseID": "16329",
-  "ReleaseDate": "2011-09-27T00:00:00-07:00",
+  "ReleaseDate": "2011-09-27T00:00:00+00:00",
   "Overview": "After narrowly surviving the horrific onslaught in Raccoon City, Claire Redfield now seeks clues in search of her missing brother, Chris. To her horror, she discovers Umbrella Corporation's insidious activities are not isolated to the remote, mid-western city. No. Something much larger is going on here. Flesh-eating zombies and horrific beasts haunt Claire's every move. Just how far does this twisted conspiracy extend? What is Umbrella Corporation really up to? And who is behind this biotech terror? The answer lies within.\n\nThe HD version of Resident Evil -- CODE: Veronica X comes to Xbox 360, featuring improved visuals to enhance the player's gaming experience.",
   "VideoURL": "https://www.youtube.com/watch?v=UgM3q1IJA0c",
-  "CommunityRating": "4.333333333333333",
+  "CommunityRating": "4.33333333333333",
   "WikipediaURL": "https://www.wikipedia.org/wiki/Resident_Evil_-_Code:_Veronica_X",
   "ESRB": "M - Mature",
-  "Genres": " Horror",
+  "Genres": "Horror",
   "Developer": "Capcom",
   "Publisher": "Capcom",
   "Artwork": {
@@ -25,6 +25,12 @@
         "URL": "http://images.launchbox-app.com/4bdd3d47-cb55-478e-bda5-2069a5a21f98.jpg"
       },
       {
+        "FileName": "1b6c1746-d8c7-4699-8bf0-58a39aa7960c.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2829420926",
+        "URL": "http://images.launchbox-app.com/1b6c1746-d8c7-4699-8bf0-58a39aa7960c.jpg"
+      },
+      {
         "FileName": "7ead9547-2ba5-4230-948a-981fda4f2d9d.jpg",
         "Type": "Fanart - Background",
         "CRC32": "1923459891",
@@ -35,12 +41,6 @@
         "Type": "Fanart - Background",
         "CRC32": "935023394",
         "URL": "http://images.launchbox-app.com/48af12e9-ff2c-4524-9b8d-1bc1eb16abc6.jpg"
-      },
-      {
-        "FileName": "1b6c1746-d8c7-4699-8bf0-58a39aa7960c.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2829420926",
-        "URL": "http://images.launchbox-app.com/1b6c1746-d8c7-4699-8bf0-58a39aa7960c.jpg"
       }
     ],
     "Box": {
@@ -55,18 +55,18 @@
       ],
       "Front": [
         {
-          "FileName": "dcd6b908-cdc7-4137-98ee-4022349e0420.jpg",
-          "Type": "Box - Front",
-          "Region": "World",
-          "CRC32": "927700586",
-          "URL": "http://images.launchbox-app.com/dcd6b908-cdc7-4137-98ee-4022349e0420.jpg"
-        },
-        {
           "FileName": "eab9e506-6ff8-4886-9359-058ea95b7cab.jpg",
           "Type": "Box - Front",
           "Region": "Europe",
           "CRC32": "602300636",
           "URL": "http://images.launchbox-app.com/eab9e506-6ff8-4886-9359-058ea95b7cab.jpg"
+        },
+        {
+          "FileName": "dcd6b908-cdc7-4137-98ee-4022349e0420.jpg",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "927700586",
+          "URL": "http://images.launchbox-app.com/dcd6b908-cdc7-4137-98ee-4022349e0420.jpg"
         },
         {
           "FileName": "b2129f13-cd5d-4bfe-9062-7441e68d6b09.jpg",
@@ -93,34 +93,10 @@
     ],
     "Screenshots": [
       {
-        "FileName": "f965a7f3-367d-4978-b6fe-ed766236d7f4.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "2906211097",
-        "URL": "http://images.launchbox-app.com/f965a7f3-367d-4978-b6fe-ed766236d7f4.jpg"
-      },
-      {
-        "FileName": "1dc3db1f-6d41-4f0c-929c-0cb12e1d1c01.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3563911025",
-        "URL": "http://images.launchbox-app.com/1dc3db1f-6d41-4f0c-929c-0cb12e1d1c01.jpg"
-      },
-      {
-        "FileName": "c3c53363-eb15-4582-b397-8247f283a5ec.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1365021070",
-        "URL": "http://images.launchbox-app.com/c3c53363-eb15-4582-b397-8247f283a5ec.jpg"
-      },
-      {
         "FileName": "01f6cdad-9b39-457c-9a04-40ca209ea98b.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "4061221755",
         "URL": "http://images.launchbox-app.com/01f6cdad-9b39-457c-9a04-40ca209ea98b.jpg"
-      },
-      {
-        "FileName": "3f10bab3-3e40-40c9-b220-ff62ca30a5b7.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "992597451",
-        "URL": "http://images.launchbox-app.com/3f10bab3-3e40-40c9-b220-ff62ca30a5b7.jpg"
       },
       {
         "FileName": "698b75a7-8c8a-40eb-a0cc-f31dcea5d1a6.jpg",
@@ -141,10 +117,34 @@
         "URL": "http://images.launchbox-app.com/c5187f0b-cdef-4638-94b9-2e09ff34df69.jpg"
       },
       {
+        "FileName": "c3c53363-eb15-4582-b397-8247f283a5ec.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1365021070",
+        "URL": "http://images.launchbox-app.com/c3c53363-eb15-4582-b397-8247f283a5ec.jpg"
+      },
+      {
+        "FileName": "1dc3db1f-6d41-4f0c-929c-0cb12e1d1c01.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3563911025",
+        "URL": "http://images.launchbox-app.com/1dc3db1f-6d41-4f0c-929c-0cb12e1d1c01.jpg"
+      },
+      {
+        "FileName": "3f10bab3-3e40-40c9-b220-ff62ca30a5b7.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "992597451",
+        "URL": "http://images.launchbox-app.com/3f10bab3-3e40-40c9-b220-ff62ca30a5b7.jpg"
+      },
+      {
         "FileName": "76ccf27e-4398-4eae-b779-41d3cf8a8b9b.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "3118105533",
         "URL": "http://images.launchbox-app.com/76ccf27e-4398-4eae-b779-41d3cf8a8b9b.jpg"
+      },
+      {
+        "FileName": "f965a7f3-367d-4978-b6fe-ed766236d7f4.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "2906211097",
+        "URL": "http://images.launchbox-app.com/f965a7f3-367d-4978-b6fe-ed766236d7f4.jpg"
       }
     ],
     "Other": [

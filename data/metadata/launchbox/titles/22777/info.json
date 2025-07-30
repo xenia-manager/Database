@@ -1,12 +1,12 @@
 {
   "Name": "Madden NFL 15",
   "DatabaseID": "22777",
-  "ReleaseDate": "2014-08-26T00:00:00-07:00",
+  "ReleaseDate": "2014-08-26T00:00:00+00:00",
   "Overview": "Madden NFL 15 transforms you into your rival's worst nightmare with a new breed of defense built to challenge the best offenses in the NFL. An all-new intuitive tackling system and improved coverage logic make defense exciting and fun to play. Learn and hone your skills in the Gauntlet, an all-new mode in Skills Trainer that will take your new abilities through the ultimate test in intense conditions and challenges. Whether building your legacy in Connected Franchise or a dynasty in Ultimate Team, it's not just football, it's Madden Season!",
   "VideoURL": "http://www.youtube.com/watch?v=-DL0W9AUCuY",
   "CommunityRating": "4.25",
   "ESRB": "E - Everyone",
-  "Genres": " Sports",
+  "Genres": "Sports",
   "Developer": "Electronic Arts",
   "Publisher": "Electronic Arts",
   "Artwork": {
@@ -40,6 +40,12 @@
     ],
     "Screenshots": [
       {
+        "FileName": "72390f84-ec26-4881-aac1-ef7c66a68c10.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "807487313",
+        "URL": "http://images.launchbox-app.com/72390f84-ec26-4881-aac1-ef7c66a68c10.jpg"
+      },
+      {
         "FileName": "d4a65a22-4743-49bf-af33-efd67a767485.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "1601484766",
@@ -50,12 +56,6 @@
         "Type": "Screenshot - Gameplay",
         "CRC32": "1716907370",
         "URL": "http://images.launchbox-app.com/7f0439b3-7481-4e7f-a880-9d537ae3d836.jpg"
-      },
-      {
-        "FileName": "72390f84-ec26-4881-aac1-ef7c66a68c10.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "807487313",
-        "URL": "http://images.launchbox-app.com/72390f84-ec26-4881-aac1-ef7c66a68c10.jpg"
       }
     ],
     "Other": [

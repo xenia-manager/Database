@@ -1,21 +1,14 @@
 {
   "Name": "Zumba Fitness: World Party",
   "DatabaseID": "203893",
-  "ReleaseDate": "2013-11-05T00:00:00-08:00",
+  "ReleaseDate": "2013-11-05T00:00:00+00:00",
   "Overview": "Zumba Fitness World Party is a home workout game that helps players burn up to 1,000 calories per hour as you immerse yourself in the movement and music of exotic global destinations.",
   "ESRB": "E - Everyone",
-  "Genres": " Sports",
+  "Genres": "Sports",
   "Developer": "Zoë Mode",
   "Artwork": {
     "Box": {
       "Back": [
-        {
-          "FileName": "0acb92e0-4645-44fc-be26-ccf9fc74ea3e.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
-          "CRC32": "72541703",
-          "URL": "http://images.launchbox-app.com/0acb92e0-4645-44fc-be26-ccf9fc74ea3e.jpg"
-        },
         {
           "FileName": "83e1fc40-7d6e-4487-bdb4-73421bebe16b.jpg",
           "Type": "Box - Back",
@@ -29,16 +22,16 @@
           "Region": "North America",
           "CRC32": "1872600078",
           "URL": "http://images.launchbox-app.com/c1e437ba-d76d-40b7-95d2-eac6fbb2cde0.jpg"
+        },
+        {
+          "FileName": "0acb92e0-4645-44fc-be26-ccf9fc74ea3e.jpg",
+          "Type": "Box - Back",
+          "Region": "Germany",
+          "CRC32": "72541703",
+          "URL": "http://images.launchbox-app.com/0acb92e0-4645-44fc-be26-ccf9fc74ea3e.jpg"
         }
       ],
       "Front": [
-        {
-          "FileName": "2b5c7027-3055-4045-9ed5-d8dd1b4a7d83.jpg",
-          "Type": "Box - Front",
-          "Region": "United Kingdom",
-          "CRC32": "3827645269",
-          "URL": "http://images.launchbox-app.com/2b5c7027-3055-4045-9ed5-d8dd1b4a7d83.jpg"
-        },
         {
           "FileName": "e710fb9a-61d8-403e-934f-9c8ee32fb8b1.jpg",
           "Type": "Box - Front",
@@ -52,6 +45,13 @@
           "Region": "Germany",
           "CRC32": "4187538303",
           "URL": "http://images.launchbox-app.com/74ecd60f-9ffa-4d85-8e16-c9eea8b23373.jpg"
+        },
+        {
+          "FileName": "2b5c7027-3055-4045-9ed5-d8dd1b4a7d83.jpg",
+          "Type": "Box - Front",
+          "Region": "United Kingdom",
+          "CRC32": "3827645269",
+          "URL": "http://images.launchbox-app.com/2b5c7027-3055-4045-9ed5-d8dd1b4a7d83.jpg"
         },
         {
           "FileName": "1a3fc9f7-c9ed-4110-8c98-50b4f21376b2.png",

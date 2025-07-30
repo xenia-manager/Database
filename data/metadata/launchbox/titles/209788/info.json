@@ -1,11 +1,11 @@
 {
   "Name": "Ping Pong",
   "DatabaseID": "209788",
-  "ReleaseDate": "2013-03-12T00:00:00-07:00",
+  "ReleaseDate": "2013-03-12T00:00:00+00:00",
   "Overview": "Jump into a fantastic new way to enjoy your favourite sports! Fast-track the fun in solo or multiplayer, tackle micro goals and win badges in the all-new mission structure, grin for the camera and stamp your pics on the high score wall.",
   "CommunityRating": "4",
   "ESRB": "E - Everyone",
-  "Genres": " Sports",
+  "Genres": "Sports",
   "Developer": "Rare",
   "Publisher": "Microsoft Studios",
   "Artwork": {

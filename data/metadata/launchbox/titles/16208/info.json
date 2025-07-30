@@ -1,24 +1,24 @@
 {
   "Name": "PES 2008: Pro Evolution Soccer",
   "DatabaseID": "16208",
-  "ReleaseDate": "2007-10-26T00:00:00-07:00",
+  "ReleaseDate": "2007-10-26T00:00:00+00:00",
   "Overview": "Pro Evolution Soccer 2008 (officially abbreviated as PES 2008 and known as World Soccer: Winning Eleven 2008 in Korea and Japan, sometimes called World Soccer: Winning Eleven 11 in PS2) is an association football video game in the Pro Evolution Soccer series by Konami. The game was officially announced on 18 June 2007. Its title is different from the other Pro Evolution Soccer games in that it's of a year and not a version; this was due to EA Sports' FIFA series naming their titles with two digit numbers (i.e. 07, 08) and in conclusion would seem that PES was a year behind FIFA (to non-fans which had no knowledge of the previous games of the franchise).\n\nIt was released for Windows, Wii, Nintendo DS, PlayStation 3, PlayStation 2, PlayStation Portable, Xbox 360 and mobile phone.\n\nA PS3 demo is available for download from the PlayStation Store,[3] a Xbox 360 demo has been released on the Xbox Live Marketplace, and a PC demo has been released",
   "VideoURL": "https://www.youtube.com/watch?v=ogzr-k-yXPQ",
-  "CommunityRating": "3.6666666666666665",
+  "CommunityRating": "3.66666666666667",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Pro_Evolution_Soccer_2008",
   "ESRB": "E - Everyone",
-  "Genres": " Sports",
+  "Genres": "Sports",
   "Developer": "Konami",
   "Publisher": "Konami",
   "Artwork": {
     "Box": {
       "Back": [
         {
-          "FileName": "7b330681-0d8c-4875-a9d7-b1fb2ec55078.jpg",
+          "FileName": "e772c190-8bfa-4327-8513-32226cdfcf3b.jpg",
           "Type": "Box - Back",
-          "Region": "North America",
-          "CRC32": "289821343",
-          "URL": "http://images.launchbox-app.com/7b330681-0d8c-4875-a9d7-b1fb2ec55078.jpg"
+          "Region": "Australia",
+          "CRC32": "1359386370",
+          "URL": "http://images.launchbox-app.com/e772c190-8bfa-4327-8513-32226cdfcf3b.jpg"
         },
         {
           "FileName": "1f8850db-302d-49bb-9b2d-a721fbdd0c62.jpg",
@@ -28,11 +28,11 @@
           "URL": "http://images.launchbox-app.com/1f8850db-302d-49bb-9b2d-a721fbdd0c62.jpg"
         },
         {
-          "FileName": "e772c190-8bfa-4327-8513-32226cdfcf3b.jpg",
+          "FileName": "7b330681-0d8c-4875-a9d7-b1fb2ec55078.jpg",
           "Type": "Box - Back",
-          "Region": "Australia",
-          "CRC32": "1359386370",
-          "URL": "http://images.launchbox-app.com/e772c190-8bfa-4327-8513-32226cdfcf3b.jpg"
+          "Region": "North America",
+          "CRC32": "289821343",
+          "URL": "http://images.launchbox-app.com/7b330681-0d8c-4875-a9d7-b1fb2ec55078.jpg"
         },
         {
           "FileName": "890c3ebb-83e6-46a2-af38-1859b607b4fe.jpg",
@@ -44,18 +44,18 @@
       ],
       "Front": [
         {
-          "FileName": "42e266cf-a9eb-45fd-995b-0c485bbf1449.jpg",
-          "Type": "Box - Front",
-          "Region": "Italy",
-          "CRC32": "1905879644",
-          "URL": "http://images.launchbox-app.com/42e266cf-a9eb-45fd-995b-0c485bbf1449.jpg"
-        },
-        {
           "FileName": "2972bdde-f68c-4b4a-b97f-d57878a698db.jpg",
           "Type": "Box - Front",
           "Region": "Australia",
           "CRC32": "2196174697",
           "URL": "http://images.launchbox-app.com/2972bdde-f68c-4b4a-b97f-d57878a698db.jpg"
+        },
+        {
+          "FileName": "42e266cf-a9eb-45fd-995b-0c485bbf1449.jpg",
+          "Type": "Box - Front",
+          "Region": "Italy",
+          "CRC32": "1905879644",
+          "URL": "http://images.launchbox-app.com/42e266cf-a9eb-45fd-995b-0c485bbf1449.jpg"
         },
         {
           "FileName": "0f865cec-70cc-47d7-9a2c-da294a093fa5.jpg",

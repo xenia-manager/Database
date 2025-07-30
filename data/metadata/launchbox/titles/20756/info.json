@@ -1,13 +1,13 @@
 {
   "Name": "Forza Horizon 2",
   "DatabaseID": "20756",
-  "ReleaseDate": "2014-09-30T00:00:00-07:00",
+  "ReleaseDate": "2014-09-30T00:00:00+00:00",
   "Overview": "Race through a massive wide-open world with friends in the ultimate celebration of speed, style, and action-packed driving. Explore beautiful and exotic locations in more than 200 of the world’s greatest cars, all created with precise detail. A world of beauty and freedom awaits.",
   "VideoURL": "https://www.youtube.com/watch?v=KSgyJqecz-4",
-  "CommunityRating": "4.0543478260869561",
+  "CommunityRating": "4.05434782608696",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Forza_Horizon_2",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Racing",
+  "Genres": "Racing",
   "Developer": "Sumo Digital",
   "Publisher": "Microsoft Studios",
   "Artwork": {
@@ -37,18 +37,18 @@
           "URL": "http://images.launchbox-app.com/8b44b28b-43c0-4986-8ebe-26fbe26cafbe.jpg"
         },
         {
-          "FileName": "74d6f97a-6e6e-4b56-9cc0-d5ce8ba412e0.jpg",
-          "Type": "Box - Back",
-          "Region": "Germany",
-          "CRC32": "4108013238",
-          "URL": "http://images.launchbox-app.com/74d6f97a-6e6e-4b56-9cc0-d5ce8ba412e0.jpg"
-        },
-        {
           "FileName": "4053176d-76bf-49c7-8a50-019005487259.jpg",
           "Type": "Box - Back",
           "Region": "France",
           "CRC32": "4117690989",
           "URL": "http://images.launchbox-app.com/4053176d-76bf-49c7-8a50-019005487259.jpg"
+        },
+        {
+          "FileName": "d4cc6c19-bb64-48c1-940b-50b40a5c04b2.jpg",
+          "Type": "Box - Back",
+          "Region": "Brazil",
+          "CRC32": "3233027420",
+          "URL": "http://images.launchbox-app.com/d4cc6c19-bb64-48c1-940b-50b40a5c04b2.jpg"
         },
         {
           "FileName": "e10a6c5c-2487-4858-80a8-b500e43164b5.jpg",
@@ -58,18 +58,18 @@
           "URL": "http://images.launchbox-app.com/e10a6c5c-2487-4858-80a8-b500e43164b5.jpg"
         },
         {
+          "FileName": "74d6f97a-6e6e-4b56-9cc0-d5ce8ba412e0.jpg",
+          "Type": "Box - Back",
+          "Region": "Germany",
+          "CRC32": "4108013238",
+          "URL": "http://images.launchbox-app.com/74d6f97a-6e6e-4b56-9cc0-d5ce8ba412e0.jpg"
+        },
+        {
           "FileName": "6dfffc2e-9315-4fc8-8fa1-c9e54d9a77a7.jpg",
           "Type": "Box - Back",
           "Region": "Italy",
           "CRC32": "3058935604",
           "URL": "http://images.launchbox-app.com/6dfffc2e-9315-4fc8-8fa1-c9e54d9a77a7.jpg"
-        },
-        {
-          "FileName": "d4cc6c19-bb64-48c1-940b-50b40a5c04b2.jpg",
-          "Type": "Box - Back",
-          "Region": "Brazil",
-          "CRC32": "3233027420",
-          "URL": "http://images.launchbox-app.com/d4cc6c19-bb64-48c1-940b-50b40a5c04b2.jpg"
         },
         {
           "FileName": "7de0157c-50fc-4dd7-8caf-d50e8525a89a.jpg",
@@ -81,25 +81,11 @@
       ],
       "Front": [
         {
-          "FileName": "69ca47b7-0f16-4850-97a3-1612e2568a43.jpg",
+          "FileName": "c6c789bc-138c-4fb2-be79-f671f314c924.jpg",
           "Type": "Box - Front",
-          "Region": "Germany",
-          "CRC32": "2751370334",
-          "URL": "http://images.launchbox-app.com/69ca47b7-0f16-4850-97a3-1612e2568a43.jpg"
-        },
-        {
-          "FileName": "a313f5bd-f34f-45e4-ab38-636c9dfc157a.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
-          "CRC32": "3949655916",
-          "URL": "http://images.launchbox-app.com/a313f5bd-f34f-45e4-ab38-636c9dfc157a.jpg"
-        },
-        {
-          "FileName": "637fed17-5cb3-49d3-8193-0b8882bf9266.jpg",
-          "Type": "Box - Front",
-          "Region": "Brazil",
-          "CRC32": "2581609216",
-          "URL": "http://images.launchbox-app.com/637fed17-5cb3-49d3-8193-0b8882bf9266.jpg"
+          "Region": "Europe",
+          "CRC32": "1379223499",
+          "URL": "http://images.launchbox-app.com/c6c789bc-138c-4fb2-be79-f671f314c924.jpg"
         },
         {
           "FileName": "51d41b29-0d9d-477a-bb31-e18378a98c6e.jpg",
@@ -109,11 +95,25 @@
           "URL": "http://images.launchbox-app.com/51d41b29-0d9d-477a-bb31-e18378a98c6e.jpg"
         },
         {
-          "FileName": "c6c789bc-138c-4fb2-be79-f671f314c924.jpg",
+          "FileName": "69ca47b7-0f16-4850-97a3-1612e2568a43.jpg",
           "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "1379223499",
-          "URL": "http://images.launchbox-app.com/c6c789bc-138c-4fb2-be79-f671f314c924.jpg"
+          "Region": "Germany",
+          "CRC32": "2751370334",
+          "URL": "http://images.launchbox-app.com/69ca47b7-0f16-4850-97a3-1612e2568a43.jpg"
+        },
+        {
+          "FileName": "637fed17-5cb3-49d3-8193-0b8882bf9266.jpg",
+          "Type": "Box - Front",
+          "Region": "Brazil",
+          "CRC32": "2581609216",
+          "URL": "http://images.launchbox-app.com/637fed17-5cb3-49d3-8193-0b8882bf9266.jpg"
+        },
+        {
+          "FileName": "a313f5bd-f34f-45e4-ab38-636c9dfc157a.jpg",
+          "Type": "Box - Front",
+          "Region": "Japan",
+          "CRC32": "3949655916",
+          "URL": "http://images.launchbox-app.com/a313f5bd-f34f-45e4-ab38-636c9dfc157a.jpg"
         },
         {
           "FileName": "0e6e1ea8-ec74-44c4-9394-7c933c72f8a9.png",
@@ -130,18 +130,18 @@
           "URL": "http://images.launchbox-app.com/773854d0-42b7-4771-bed1-511a613f7948.png"
         },
         {
-          "FileName": "f8c79ef2-dc64-4b53-9ba4-0298cd59291d.jpg",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "North America",
-          "CRC32": "3357856987",
-          "URL": "http://images.launchbox-app.com/f8c79ef2-dc64-4b53-9ba4-0298cd59291d.jpg"
-        },
-        {
           "FileName": "99561460-6fd7-461a-82ae-feb69716a432.png",
           "Type": "Box - Front - Reconstructed",
           "Region": "Europe",
           "CRC32": "1490204137",
           "URL": "http://images.launchbox-app.com/99561460-6fd7-461a-82ae-feb69716a432.png"
+        },
+        {
+          "FileName": "f8c79ef2-dc64-4b53-9ba4-0298cd59291d.jpg",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "North America",
+          "CRC32": "3357856987",
+          "URL": "http://images.launchbox-app.com/f8c79ef2-dc64-4b53-9ba4-0298cd59291d.jpg"
         }
       ],
       "Spine": [
@@ -156,18 +156,18 @@
     },
     "Disc": [
       {
-        "FileName": "f050ddf1-0fd3-4f54-b9d2-cc9372e8c906.png",
-        "Type": "Disc",
-        "Region": "Europe",
-        "CRC32": "56929433",
-        "URL": "http://images.launchbox-app.com/f050ddf1-0fd3-4f54-b9d2-cc9372e8c906.png"
-      },
-      {
         "FileName": "1b4ae839-c68e-4d0a-ac34-7061470c1e1d.png",
         "Type": "Disc",
         "Region": "North America",
         "CRC32": "3341113864",
         "URL": "http://images.launchbox-app.com/1b4ae839-c68e-4d0a-ac34-7061470c1e1d.png"
+      },
+      {
+        "FileName": "f050ddf1-0fd3-4f54-b9d2-cc9372e8c906.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "56929433",
+        "URL": "http://images.launchbox-app.com/f050ddf1-0fd3-4f54-b9d2-cc9372e8c906.png"
       },
       {
         "FileName": "c53f1cd1-a301-49fb-80f6-9053e3603ddf.png",
@@ -179,16 +179,16 @@
     ],
     "Screenshots": [
       {
-        "FileName": "1c010f10-103f-42b1-a354-3ecf51f60cfb.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "1072723727",
-        "URL": "http://images.launchbox-app.com/1c010f10-103f-42b1-a354-3ecf51f60cfb.jpg"
-      },
-      {
         "FileName": "e24f2465-c3e8-4374-9133-df4c3abda1f8.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "2009324788",
         "URL": "http://images.launchbox-app.com/e24f2465-c3e8-4374-9133-df4c3abda1f8.jpg"
+      },
+      {
+        "FileName": "1c010f10-103f-42b1-a354-3ecf51f60cfb.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "1072723727",
+        "URL": "http://images.launchbox-app.com/1c010f10-103f-42b1-a354-3ecf51f60cfb.jpg"
       }
     ],
     "Other": [

@@ -1,12 +1,12 @@
 {
   "Name": "Jetpac Refuelled",
   "DatabaseID": "95749",
-  "ReleaseDate": "2007-03-28T00:00:00-07:00",
+  "ReleaseDate": "2007-03-28T00:00:00+00:00",
   "Overview": "Jetpac Refuelled is a shooter video game developed by Rare and published by Microsoft Studios. It was first released worldwide on the Xbox Live Arcade service on 28 March 2007. The game is the fourth and final instalment of the Jetman series and a remake of Ultimate Play the Game's 1983 ZX Spectrum game, Jetpac. The game follows Jetman as he attempts to rebuild his rocket in order to explore different planets, whilst simultaneously defending himself from hostile aliens.",
-  "CommunityRating": "2.0714285714285716",
+  "CommunityRating": "2.07142857142857",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Jetpac_Refuelled",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Action; Platform; Shooter",
+  "Genres": "Action; Platform; Shooter",
   "Developer": "Rare",
   "Publisher": "Microsoft Game Studios",
   "Artwork": {
@@ -27,18 +27,18 @@
     "Box": {
       "Front": [
         {
-          "FileName": "d8ba3596-a0ce-4799-a6a2-204616f888ba.png",
-          "Type": "Box - Front",
-          "Region": "World",
-          "CRC32": "3366366013",
-          "URL": "http://images.launchbox-app.com/d8ba3596-a0ce-4799-a6a2-204616f888ba.png"
-        },
-        {
           "FileName": "385d3cf8-9bb9-4975-b2aa-3e5413de45b6.png",
           "Type": "Box - Front",
           "Region": "World",
           "CRC32": "1374317728",
           "URL": "http://images.launchbox-app.com/385d3cf8-9bb9-4975-b2aa-3e5413de45b6.png"
+        },
+        {
+          "FileName": "d8ba3596-a0ce-4799-a6a2-204616f888ba.png",
+          "Type": "Box - Front",
+          "Region": "World",
+          "CRC32": "3366366013",
+          "URL": "http://images.launchbox-app.com/d8ba3596-a0ce-4799-a6a2-204616f888ba.png"
         }
       ]
     },

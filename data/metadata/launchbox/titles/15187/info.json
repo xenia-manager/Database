@@ -1,22 +1,22 @@
 {
   "Name": "Resident Evil: Revelations",
   "DatabaseID": "15187",
-  "ReleaseDate": "2013-03-25T00:00:00-07:00",
+  "ReleaseDate": "2013-03-25T00:00:00+00:00",
   "Overview": "Taking place in 2005, between the events of Resident Evil 4 and Resident Evil 5, the action centers on BSAA (Bioterrorism Security Assessment Alliance) member Jill Valentine and introduces her new partner, Parker Luciani. The story is set principally on board a supposedly abandoned cruise ship in the Mediterranean, where Jill and Parker have been sent to search for Chris Redfield, based on his last known GPS coordinates. Far from being empty, the ship hides danger around every corner as Jill and Parker explore the confined space of the ship and must face a menacing new horror that emerges from the darkness.",
   "VideoURL": "https://www.youtube.com/watch?v=pgSF2aY9MtM",
   "CommunityRating": "4.1875",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Resident_Evil:_Revelations",
   "ESRB": "M - Mature",
-  "Genres": " Horror; Shooter",
+  "Genres": "Horror; Shooter",
   "Developer": "Capcom",
   "Publisher": "Capcom",
   "Artwork": {
     "Background": [
       {
-        "FileName": "fa0f1cd3-6e21-478c-bfc9-ccc4e715c196.jpg",
+        "FileName": "000a68db-6f49-41ac-bb03-504e34cc5858.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2407897245",
-        "URL": "http://images.launchbox-app.com/fa0f1cd3-6e21-478c-bfc9-ccc4e715c196.jpg"
+        "CRC32": "119386300",
+        "URL": "http://images.launchbox-app.com/000a68db-6f49-41ac-bb03-504e34cc5858.jpg"
       },
       {
         "FileName": "e508a1f0-76ef-4ce5-a5d2-0a1a0299d244.jpg",
@@ -31,10 +31,10 @@
         "URL": "http://images.launchbox-app.com/a4ccf3d9-35fa-4e28-935c-8ca088136c8c.jpg"
       },
       {
-        "FileName": "000a68db-6f49-41ac-bb03-504e34cc5858.jpg",
+        "FileName": "fa0f1cd3-6e21-478c-bfc9-ccc4e715c196.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "119386300",
-        "URL": "http://images.launchbox-app.com/000a68db-6f49-41ac-bb03-504e34cc5858.jpg"
+        "CRC32": "2407897245",
+        "URL": "http://images.launchbox-app.com/fa0f1cd3-6e21-478c-bfc9-ccc4e715c196.jpg"
       }
     ],
     "Box": {
@@ -48,11 +48,11 @@
       ],
       "Back": [
         {
-          "FileName": "dde4e54d-2695-4043-a7ff-ab71a4376eb1.jpg",
+          "FileName": "127ceae8-b47d-4386-ba54-2e1ae38775d2.jpg",
           "Type": "Box - Back",
-          "Region": "North America",
-          "CRC32": "3749690376",
-          "URL": "http://images.launchbox-app.com/dde4e54d-2695-4043-a7ff-ab71a4376eb1.jpg"
+          "Region": "Japan",
+          "CRC32": "2256960290",
+          "URL": "http://images.launchbox-app.com/127ceae8-b47d-4386-ba54-2e1ae38775d2.jpg"
         },
         {
           "FileName": "412d3a79-7eca-475a-97dd-df8bc719fd24.jpg",
@@ -62,20 +62,20 @@
           "URL": "http://images.launchbox-app.com/412d3a79-7eca-475a-97dd-df8bc719fd24.jpg"
         },
         {
-          "FileName": "127ceae8-b47d-4386-ba54-2e1ae38775d2.jpg",
+          "FileName": "dde4e54d-2695-4043-a7ff-ab71a4376eb1.jpg",
           "Type": "Box - Back",
-          "Region": "Japan",
-          "CRC32": "2256960290",
-          "URL": "http://images.launchbox-app.com/127ceae8-b47d-4386-ba54-2e1ae38775d2.jpg"
+          "Region": "North America",
+          "CRC32": "3749690376",
+          "URL": "http://images.launchbox-app.com/dde4e54d-2695-4043-a7ff-ab71a4376eb1.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "8238673d-5df2-44f9-aa6b-ff27cd3b7eb0.jpg",
+          "FileName": "678706a8-7ccf-48cf-a35b-4268ebc5bc7d.jpg",
           "Type": "Box - Front",
-          "Region": "Japan",
-          "CRC32": "149467776",
-          "URL": "http://images.launchbox-app.com/8238673d-5df2-44f9-aa6b-ff27cd3b7eb0.jpg"
+          "Region": "North America",
+          "CRC32": "131930814",
+          "URL": "http://images.launchbox-app.com/678706a8-7ccf-48cf-a35b-4268ebc5bc7d.jpg"
         },
         {
           "FileName": "b2c4880b-c6e5-4518-bc1f-fd4f27bc3406.jpg",
@@ -85,22 +85,15 @@
           "URL": "http://images.launchbox-app.com/b2c4880b-c6e5-4518-bc1f-fd4f27bc3406.jpg"
         },
         {
-          "FileName": "678706a8-7ccf-48cf-a35b-4268ebc5bc7d.jpg",
+          "FileName": "8238673d-5df2-44f9-aa6b-ff27cd3b7eb0.jpg",
           "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "131930814",
-          "URL": "http://images.launchbox-app.com/678706a8-7ccf-48cf-a35b-4268ebc5bc7d.jpg"
+          "Region": "Japan",
+          "CRC32": "149467776",
+          "URL": "http://images.launchbox-app.com/8238673d-5df2-44f9-aa6b-ff27cd3b7eb0.jpg"
         }
       ]
     },
     "Disc": [
-      {
-        "FileName": "6c330711-166b-49c9-93fa-2505321b77e0.png",
-        "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "4247042613",
-        "URL": "http://images.launchbox-app.com/6c330711-166b-49c9-93fa-2505321b77e0.png"
-      },
       {
         "FileName": "f159dca9-f35c-4f05-b617-2e4fb725af40.png",
         "Type": "Disc",
@@ -114,6 +107,13 @@
         "Region": "Japan",
         "CRC32": "1080408268",
         "URL": "http://images.launchbox-app.com/784858d1-eee8-43c5-9fb3-1cf885ec487c.png"
+      },
+      {
+        "FileName": "6c330711-166b-49c9-93fa-2505321b77e0.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "4247042613",
+        "URL": "http://images.launchbox-app.com/6c330711-166b-49c9-93fa-2505321b77e0.png"
       }
     ],
     "Other": [

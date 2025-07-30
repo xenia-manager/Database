@@ -1,11 +1,11 @@
 {
   "Name": "Scramble",
   "DatabaseID": "209937",
-  "ReleaseDate": "2009-12-22T00:00:00-08:00",
+  "ReleaseDate": "2009-12-22T00:00:00+00:00",
   "Overview": "Take on 6 levels of enemy defenses and destroy the base to save the world in this arcade classic. Buy the full version to gain access to all levels, Versus and Co-op multiplayer modes, a range of challenging achievements and the ability to see how your high score and wins rank against other players!",
   "CommunityRating": "2",
   "ESRB": "E - Everyone",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "Digital Eclipse",
   "Publisher": "Konami",
   "Artwork": {

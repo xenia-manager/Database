@@ -1,11 +1,11 @@
 {
   "Name": "Mad Riders",
   "DatabaseID": "209669",
-  "ReleaseDate": "2012-05-30T00:00:00-07:00",
+  "ReleaseDate": "2012-05-30T00:00:00+00:00",
   "Overview": "Mad Riders is an adrenaline-fueled off-road arcade racing game, that will let you perform amazing aerial stunts and race on over 45 stunning tracks from all over the world, at breathtaking speeds.",
   "CommunityRating": "2.6",
   "ESRB": "E - Everyone",
-  "Genres": " Racing",
+  "Genres": "Racing",
   "Developer": "Techland",
   "Publisher": "Ubisoft",
   "Artwork": {

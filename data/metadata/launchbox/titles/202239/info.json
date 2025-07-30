@@ -1,9 +1,9 @@
 {
   "Name": "Fighting Vipers",
   "DatabaseID": "202239",
-  "ReleaseDate": "2012-11-28T00:00:00-08:00",
+  "ReleaseDate": "2012-11-28T00:00:00+00:00",
   "CommunityRating": "3.75",
-  "Genres": " Fighting",
+  "Genres": "Fighting",
   "Developer": "Sega",
   "Publisher": "Sega",
   "Artwork": {
@@ -50,6 +50,12 @@
     },
     "Screenshots": [
       {
+        "FileName": "26150551-ebb0-4668-8fde-b63313479a9f.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1463652067",
+        "URL": "http://images.launchbox-app.com/26150551-ebb0-4668-8fde-b63313479a9f.jpg"
+      },
+      {
         "FileName": "a21eebce-bdb1-4210-98cf-26a3837d2f36.jpg",
         "Type": "Screenshot - Game Select",
         "CRC32": "3738890769",
@@ -60,12 +66,6 @@
         "Type": "Screenshot - Game Title",
         "CRC32": "29145534",
         "URL": "http://images.launchbox-app.com/3ffba92d-df09-4a9a-bfeb-14be7fed5c4d.jpg"
-      },
-      {
-        "FileName": "26150551-ebb0-4668-8fde-b63313479a9f.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1463652067",
-        "URL": "http://images.launchbox-app.com/26150551-ebb0-4668-8fde-b63313479a9f.jpg"
       }
     ],
     "Other": [

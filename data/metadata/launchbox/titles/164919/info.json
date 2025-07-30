@@ -1,12 +1,12 @@
 {
   "Name": "Arkanoid Live!",
   "DatabaseID": "164919",
-  "ReleaseDate": "2010-05-06T00:00:00-07:00",
+  "ReleaseDate": "2010-05-06T00:00:00+00:00",
   "Overview": "Arkanoid Live! is a modern update of the classic ball bouncing game from the eighties. Player steer a paddle (called the Vaus) left and right at the bottom of the screen to bounce back a ball (there are six bouncing directions). A round is completed by busting all blocks on the screen and the player has to avoid having the ball disappear at the bottom.\n\nThe game offers different modes of play and the main single player mode is divided into four episodes. There is a lives system where the number of lives is reduced when the ball touches the bottom of the screen and a barrier system where the ball can touch a barrier at the bottom of the screen a number of times before it disappears, along with different difficulty levels. Both systems can also be played as multiplayer co-op. In that mode the second player is however more of a helper, as the paddle floats below the one of the first player and it can only catch balls that are missed by the first. There are different types of blocks where each colour holds a different amount of points, blocks that need to be hit multiple times, moving blocks, and blocks that are impenetrable. Optionally enemies can be activated (Obobo, Konerd, Triphere, Pyradok, Klacker, Valion). They float through the screen and need to be hit. There is also a boss level at the end of the game. Certain blocks release bonuses for the Vaus:* Laser: fire a laser at the blocks, acquiring another one provides a power laser,",
   "VideoURL": "https://www.youtube.com/watch?v=CaVxLVQW1vU",
-  "CommunityRating": "3.8888888888888888",
+  "CommunityRating": "3.88888888888889",
   "ESRB": "E - Everyone",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Taito",
   "Publisher": "Taito",
   "Artwork": {
@@ -55,11 +55,11 @@
     },
     "Disc": [
       {
-        "FileName": "9cf65524-8eab-4748-8799-33d235a06bf1.png",
+        "FileName": "8fd27cbf-eabf-4eba-a8ed-3d985880a69c.png",
         "Type": "Fanart - Disc",
         "Region": "North America",
-        "CRC32": "4272981043",
-        "URL": "http://images.launchbox-app.com/9cf65524-8eab-4748-8799-33d235a06bf1.png"
+        "CRC32": "4001852262",
+        "URL": "http://images.launchbox-app.com/8fd27cbf-eabf-4eba-a8ed-3d985880a69c.png"
       },
       {
         "FileName": "1114ca84-70de-464a-b3d4-11fcfe964358.png",
@@ -69,11 +69,11 @@
         "URL": "http://images.launchbox-app.com/1114ca84-70de-464a-b3d4-11fcfe964358.png"
       },
       {
-        "FileName": "8fd27cbf-eabf-4eba-a8ed-3d985880a69c.png",
+        "FileName": "9cf65524-8eab-4748-8799-33d235a06bf1.png",
         "Type": "Fanart - Disc",
         "Region": "North America",
-        "CRC32": "4001852262",
-        "URL": "http://images.launchbox-app.com/8fd27cbf-eabf-4eba-a8ed-3d985880a69c.png"
+        "CRC32": "4272981043",
+        "URL": "http://images.launchbox-app.com/9cf65524-8eab-4748-8799-33d235a06bf1.png"
       },
       {
         "FileName": "c5ea68c1-02d1-4607-9202-e9a1ed6cf6dd.png",
@@ -85,6 +85,25 @@
     ],
     "Screenshots": [
       {
+        "FileName": "c67d4556-198f-4162-8427-ce3782c44f68.jpg",
+        "Type": "Screenshot - Gameplay",
+        "Region": "North America",
+        "CRC32": "3515575192",
+        "URL": "http://images.launchbox-app.com/c67d4556-198f-4162-8427-ce3782c44f68.jpg"
+      },
+      {
+        "FileName": "627a5b60-5f14-49bb-bfad-7bd4d8c158c0.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "88226598",
+        "URL": "http://images.launchbox-app.com/627a5b60-5f14-49bb-bfad-7bd4d8c158c0.jpg"
+      },
+      {
+        "FileName": "3fa39aab-e2b2-4643-9b6f-ffd393e87df9.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1475583259",
+        "URL": "http://images.launchbox-app.com/3fa39aab-e2b2-4643-9b6f-ffd393e87df9.jpg"
+      },
+      {
         "FileName": "79d43ae6-c42d-4b0e-88d5-599dea386d2e.png",
         "Type": "Screenshot - Game Select",
         "CRC32": "236148689",
@@ -95,25 +114,6 @@
         "Type": "Screenshot - Game Title",
         "CRC32": "752726043",
         "URL": "http://images.launchbox-app.com/415a5bd5-b1a7-4bfc-8f9a-1f99e5e54f1b.jpg"
-      },
-      {
-        "FileName": "3fa39aab-e2b2-4643-9b6f-ffd393e87df9.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1475583259",
-        "URL": "http://images.launchbox-app.com/3fa39aab-e2b2-4643-9b6f-ffd393e87df9.jpg"
-      },
-      {
-        "FileName": "627a5b60-5f14-49bb-bfad-7bd4d8c158c0.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "88226598",
-        "URL": "http://images.launchbox-app.com/627a5b60-5f14-49bb-bfad-7bd4d8c158c0.jpg"
-      },
-      {
-        "FileName": "c67d4556-198f-4162-8427-ce3782c44f68.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "North America",
-        "CRC32": "3515575192",
-        "URL": "http://images.launchbox-app.com/c67d4556-198f-4162-8427-ce3782c44f68.jpg"
       }
     ],
     "Other": [

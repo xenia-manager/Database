@@ -1,12 +1,12 @@
 {
   "Name": "1 vs 100",
   "DatabaseID": "210406",
-  "ReleaseDate": "2009-05-08T00:00:00-07:00",
+  "ReleaseDate": "2009-05-08T00:00:00+00:00",
   "Overview": "1 vs. 100 was a massively multiplayer online game show video game developed and published by Microsoft Game Studios for Xbox 360, and an adaptation of the trivia game show of the same name.",
   "CommunityRating": "3.375",
   "WikipediaURL": "https://en.wikipedia.org/wiki/1_vs._100_(2009_video_game)",
   "ESRB": "E - Everyone",
-  "Genres": " Strategy; Quiz",
+  "Genres": "Quiz; Strategy",
   "Developer": "Microsoft Game Studios",
   "Publisher": "Microsoft Game Studios",
   "Artwork": {

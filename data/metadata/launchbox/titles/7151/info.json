@@ -1,11 +1,11 @@
 {
   "Name": "Bomberman: Act Zero",
   "DatabaseID": "7151",
-  "ReleaseDate": "2006-08-29T00:00:00-07:00",
+  "ReleaseDate": "2006-08-29T00:00:00+00:00",
   "Overview": "Bomberman: Act Zero is an action video game developed by Hudson Soft and published by Konami for the Xbox 360 in 2006. It is noteworthy for its departure from standard titles in the Bomberman series; it features more realistic graphics and a dark, dystopian future setting.",
   "CommunityRating": "1.3125",
   "ESRB": "T - Teen",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Hudson Soft",
   "Publisher": "Konami",
   "Artwork": {
@@ -19,12 +19,6 @@
     ],
     "Background": [
       {
-        "FileName": "54fe1be0-94be-486e-b1c0-f5ec3030d6d6.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "3204757314",
-        "URL": "http://images.launchbox-app.com/54fe1be0-94be-486e-b1c0-f5ec3030d6d6.jpg"
-      },
-      {
         "FileName": "8c173a53-4f27-4bb0-9130-af51d2840469.jpg",
         "Type": "Fanart - Background",
         "CRC32": "955131185",
@@ -35,6 +29,12 @@
         "Type": "Fanart - Background",
         "CRC32": "1496199094",
         "URL": "http://images.launchbox-app.com/87285803-30df-4385-b516-2cde7d942040.jpg"
+      },
+      {
+        "FileName": "54fe1be0-94be-486e-b1c0-f5ec3030d6d6.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3204757314",
+        "URL": "http://images.launchbox-app.com/54fe1be0-94be-486e-b1c0-f5ec3030d6d6.jpg"
       }
     ],
     "Box": {
@@ -72,18 +72,18 @@
           "URL": "http://images.launchbox-app.com/9e6244b7-e8f4-4911-9791-83a5b97444d0.jpg"
         },
         {
-          "FileName": "2bf2281f-64da-4f66-9f54-7a9880a229da.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
-          "CRC32": "932130179",
-          "URL": "http://images.launchbox-app.com/2bf2281f-64da-4f66-9f54-7a9880a229da.jpg"
-        },
-        {
           "FileName": "4a7bfb24-f7d7-40e0-9b35-224f0988ba6b.jpg",
           "Type": "Box - Front",
           "Region": "Europe",
           "CRC32": "2884310418",
           "URL": "http://images.launchbox-app.com/4a7bfb24-f7d7-40e0-9b35-224f0988ba6b.jpg"
+        },
+        {
+          "FileName": "2bf2281f-64da-4f66-9f54-7a9880a229da.jpg",
+          "Type": "Box - Front",
+          "Region": "Japan",
+          "CRC32": "932130179",
+          "URL": "http://images.launchbox-app.com/2bf2281f-64da-4f66-9f54-7a9880a229da.jpg"
         }
       ],
       "Spine": [
@@ -98,33 +98,21 @@
     },
     "Disc": [
       {
-        "FileName": "d8c72992-89a0-4737-8929-4a6e81411c02.png",
-        "Type": "Disc",
-        "Region": "Europe",
-        "CRC32": "2720491136",
-        "URL": "http://images.launchbox-app.com/d8c72992-89a0-4737-8929-4a6e81411c02.png"
-      },
-      {
         "FileName": "22ac092e-30d8-4293-b163-656641b21665.png",
         "Type": "Disc",
         "Region": "North America",
         "CRC32": "1262790248",
         "URL": "http://images.launchbox-app.com/22ac092e-30d8-4293-b163-656641b21665.png"
+      },
+      {
+        "FileName": "d8c72992-89a0-4737-8929-4a6e81411c02.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "2720491136",
+        "URL": "http://images.launchbox-app.com/d8c72992-89a0-4737-8929-4a6e81411c02.png"
       }
     ],
     "Screenshots": [
-      {
-        "FileName": "23b18f4b-7444-4356-9fc6-e2cedb474a20.jpg",
-        "Type": "Screenshot - Game Select",
-        "CRC32": "2472374063",
-        "URL": "http://images.launchbox-app.com/23b18f4b-7444-4356-9fc6-e2cedb474a20.jpg"
-      },
-      {
-        "FileName": "327fce87-3c2c-4859-b5e3-396942ac036a.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "2174199457",
-        "URL": "http://images.launchbox-app.com/327fce87-3c2c-4859-b5e3-396942ac036a.jpg"
-      },
       {
         "FileName": "d8b9b0de-689c-444f-9eb4-fdc21ebabd32.jpg",
         "Type": "Screenshot - Gameplay",
@@ -142,6 +130,18 @@
         "Type": "Screenshot - Gameplay",
         "CRC32": "4139515036",
         "URL": "http://images.launchbox-app.com/2af2d5e0-d538-47c2-a200-1aacee31b654.jpg"
+      },
+      {
+        "FileName": "23b18f4b-7444-4356-9fc6-e2cedb474a20.jpg",
+        "Type": "Screenshot - Game Select",
+        "CRC32": "2472374063",
+        "URL": "http://images.launchbox-app.com/23b18f4b-7444-4356-9fc6-e2cedb474a20.jpg"
+      },
+      {
+        "FileName": "327fce87-3c2c-4859-b5e3-396942ac036a.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "2174199457",
+        "URL": "http://images.launchbox-app.com/327fce87-3c2c-4859-b5e3-396942ac036a.jpg"
       }
     ],
     "Other": [

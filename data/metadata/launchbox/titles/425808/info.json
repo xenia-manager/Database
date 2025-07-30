@@ -1,9 +1,9 @@
 {
   "Name": "Air Rise",
   "DatabaseID": "425808",
-  "ReleaseDate": "2012-10-16T00:00:00-07:00",
+  "ReleaseDate": "2012-10-16T00:00:00+00:00",
   "Overview": "As one of the most elite pilots you've been invited to test a technologically advanced jet prototype with self-healing capabilities. Try to kill as many enemy drones as possible in this fast-paced air fight simulation. Show them what you've got!",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "KaapeDev",
   "Publisher": "KaapeDev",
   "Artwork": {

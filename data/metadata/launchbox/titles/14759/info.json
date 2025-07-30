@@ -1,11 +1,11 @@
 {
   "Name": "Raiden Fighters Aces",
   "DatabaseID": "14759",
-  "ReleaseDate": "2009-05-12T00:00:00-07:00",
+  "ReleaseDate": "2009-05-12T00:00:00+00:00",
   "Overview": "A compilation of games in the Raiden Fighters franchise. All three arcade classics have been faithfully recreated in this ultimate collection. A new Training mode lets you modify every aspect your ships and wingmen, skip to any level, or play in slow-motion. Comprehensive screen and control settings let you play each game full-screen as a side-scroller, or even vertically on a rotated 4:3 display! Play 2-player co-op games offline, or play Arcade Mode as a lone-wolf, posting high-scores and gameclips to Xbox Live.",
-  "CommunityRating": "4.3888888888888893",
+  "CommunityRating": "4.38888888888889",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "Gulti",
   "Publisher": "Valcon Games",
   "Artwork": {
@@ -52,18 +52,18 @@
       ],
       "Front": [
         {
-          "FileName": "01dfb2f2-3fcd-4dd4-b8da-146b3f29767e.jpg",
-          "Type": "Box - Front",
-          "Region": "United States",
-          "CRC32": "3391763287",
-          "URL": "http://images.launchbox-app.com/01dfb2f2-3fcd-4dd4-b8da-146b3f29767e.jpg"
-        },
-        {
           "FileName": "06fcf246-e59c-492c-b6ee-b530b2f449d1.png",
           "Type": "Box - Front",
           "Region": "North America",
           "CRC32": "2712785020",
           "URL": "http://images.launchbox-app.com/06fcf246-e59c-492c-b6ee-b530b2f449d1.png"
+        },
+        {
+          "FileName": "01dfb2f2-3fcd-4dd4-b8da-146b3f29767e.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "3391763287",
+          "URL": "http://images.launchbox-app.com/01dfb2f2-3fcd-4dd4-b8da-146b3f29767e.jpg"
         }
       ],
       "Spine": [

@@ -1,13 +1,13 @@
 {
   "Name": "The Legend of Spyro: Dawn of the Dragon",
   "DatabaseID": "14448",
-  "ReleaseDate": "2008-10-22T00:00:00-07:00",
+  "ReleaseDate": "2008-10-22T00:00:00+00:00",
   "Overview": "Three long years have passed since Spyro and Cynder were trapped in the crystal, since then Malefor has unleashed his evil onto the world. In this third chapter of the epic Legend of Spyro trilogy, Spyro must fulfill his destiny and face the Dark Master. As evil spreads over the world, Spyro and Cynder must discover new abilities and unlock their true powers to defeat Malefor and stop him from destroying the world.",
   "VideoURL": "http://www.youtube.com/watch?v=RiX4zzGiN6g",
-  "CommunityRating": "3.1666666666666665",
+  "CommunityRating": "3.16666666666667",
   "WikipediaURL": "https://en.wikipedia.org/wiki/The_Legend_of_Spyro:_Dawn_of_the_Dragon",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Étranges Libellules",
   "Publisher": "Activision",
   "Artwork": {
@@ -74,17 +74,17 @@
     ],
     "Other": [
       {
-        "FileName": "790e31b2-908a-4a3b-9b71-b4d983d12c1b.png",
-        "Type": "Clear Logo",
-        "CRC32": "1705062932",
-        "URL": "http://images.launchbox-app.com/790e31b2-908a-4a3b-9b71-b4d983d12c1b.png"
-      },
-      {
         "FileName": "28d4cb41-3754-4524-b670-ab9d83808823.png",
         "Type": "Clear Logo",
         "Region": "Spain",
         "CRC32": "403880643",
         "URL": "http://images.launchbox-app.com/28d4cb41-3754-4524-b670-ab9d83808823.png"
+      },
+      {
+        "FileName": "790e31b2-908a-4a3b-9b71-b4d983d12c1b.png",
+        "Type": "Clear Logo",
+        "CRC32": "1705062932",
+        "URL": "http://images.launchbox-app.com/790e31b2-908a-4a3b-9b71-b4d983d12c1b.png"
       }
     ]
   }

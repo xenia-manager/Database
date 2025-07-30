@@ -1,13 +1,13 @@
 {
   "Name": "Dynasty Warriors: Gundam",
   "DatabaseID": "13888",
-  "ReleaseDate": "2007-08-28T00:00:00-07:00",
+  "ReleaseDate": "2007-08-28T00:00:00+00:00",
   "Overview": "Dynasty Warriors:GUNDAM takes gamers through an intergalactic conflict where the only hope for survival is to annihilate the encroaching opposing forces. It's a one-versus-many as gamers fight at lightning speed aboard their favorite Mobile Suit, the ultimate weapon of war. Gamers can explore the rich and detailed setting of the Gundam multi-verse from a myriad of perspectives. Assume the role of legendary heroes and villains while strategically enhancing their power, skills, and abilities.",
   "VideoURL": "http://www.youtube.com/watch?v=1SgAWzVny8E",
   "CommunityRating": "3.25",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Dynasty_Warriors:_Gundam",
   "ESRB": "T - Teen",
-  "Genres": " Action; Fighting; Role-Playing",
+  "Genres": "Action; Fighting; Role-Playing",
   "Developer": "Omega Force Koei",
   "Publisher": "Namco Bandai",
   "Artwork": {
@@ -67,28 +67,10 @@
     },
     "Screenshots": [
       {
-        "FileName": "c611e815-88dc-4d4c-866a-4c4dac4c727b.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1017283060",
-        "URL": "http://images.launchbox-app.com/c611e815-88dc-4d4c-866a-4c4dac4c727b.jpg"
-      },
-      {
-        "FileName": "bd418c5a-4728-4165-8c59-9db5d2f171d4.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1260851389",
-        "URL": "http://images.launchbox-app.com/bd418c5a-4728-4165-8c59-9db5d2f171d4.jpg"
-      },
-      {
         "FileName": "8b0be7e6-cb20-42de-bf40-fde70f12f07c.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "3030201140",
         "URL": "http://images.launchbox-app.com/8b0be7e6-cb20-42de-bf40-fde70f12f07c.jpg"
-      },
-      {
-        "FileName": "0ca1587d-78a2-484a-b543-4dbb871f476e.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3551727843",
-        "URL": "http://images.launchbox-app.com/0ca1587d-78a2-484a-b543-4dbb871f476e.jpg"
       },
       {
         "FileName": "80d8f075-44fb-4c5a-a0b2-1375c768b6f1.jpg",
@@ -103,10 +85,22 @@
         "URL": "http://images.launchbox-app.com/0129c7af-d453-4efc-9072-9ed1db37e633.jpg"
       },
       {
+        "FileName": "bd418c5a-4728-4165-8c59-9db5d2f171d4.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1260851389",
+        "URL": "http://images.launchbox-app.com/bd418c5a-4728-4165-8c59-9db5d2f171d4.jpg"
+      },
+      {
         "FileName": "98884042-769f-4841-b0cf-6751efffaa07.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "623276143",
         "URL": "http://images.launchbox-app.com/98884042-769f-4841-b0cf-6751efffaa07.jpg"
+      },
+      {
+        "FileName": "0ca1587d-78a2-484a-b543-4dbb871f476e.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3551727843",
+        "URL": "http://images.launchbox-app.com/0ca1587d-78a2-484a-b543-4dbb871f476e.jpg"
       },
       {
         "FileName": "f86ecbfa-9bb4-4171-84ef-841e7554c592.jpg",
@@ -119,6 +113,12 @@
         "Type": "Screenshot - Gameplay",
         "CRC32": "4255426226",
         "URL": "http://images.launchbox-app.com/8bab4ba2-9d45-46ad-8367-3057a45cece2.jpg"
+      },
+      {
+        "FileName": "c611e815-88dc-4d4c-866a-4c4dac4c727b.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1017283060",
+        "URL": "http://images.launchbox-app.com/c611e815-88dc-4d4c-866a-4c4dac4c727b.jpg"
       }
     ],
     "Other": [

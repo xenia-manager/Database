@@ -1,7 +1,7 @@
 {
   "Name": "MySims SkyHeroes",
   "DatabaseID": "15942",
-  "ReleaseDate": "2010-09-28T00:00:00-07:00",
+  "ReleaseDate": "2010-09-28T00:00:00+00:00",
   "Overview": "MySims SkyHeroes is a video game developed by Behaviour Interactive and published by Electronic Arts, the sixth in the MySims series. The game was released on September 28, 2010 for the Wii, Nintendo DS, Xbox 360, and PlayStation 3, making it the first game in the MySims video game series on the PlayStation 3 and Xbox 360.[1] It is also the first MySims game to be rated E10+ by the ESRB.",
   "VideoURL": "http://www.youtube.com/watch?v=88Gg-5tmDUM",
   "CommunityRating": "4",
@@ -64,6 +64,12 @@
     ],
     "Screenshots": [
       {
+        "FileName": "81987a5d-9470-47d4-a599-7ab9c735adde.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1758289910",
+        "URL": "http://images.launchbox-app.com/81987a5d-9470-47d4-a599-7ab9c735adde.jpg"
+      },
+      {
         "FileName": "99958a5c-8946-4f1d-b4f1-771056e69393.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "1150997382",
@@ -74,12 +80,6 @@
         "Type": "Screenshot - Gameplay",
         "CRC32": "3208670467",
         "URL": "http://images.launchbox-app.com/e4bc6f81-2453-41e4-90f4-666358224f85.jpg"
-      },
-      {
-        "FileName": "81987a5d-9470-47d4-a599-7ab9c735adde.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1758289910",
-        "URL": "http://images.launchbox-app.com/81987a5d-9470-47d4-a599-7ab9c735adde.jpg"
       },
       {
         "FileName": "4dec16a3-3d75-4fb8-8e8f-e88df0b03a67.jpg",

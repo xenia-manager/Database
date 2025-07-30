@@ -1,12 +1,12 @@
 {
   "Name": "Qubed",
   "DatabaseID": "15121",
-  "ReleaseDate": "2009-09-15T00:00:00-07:00",
+  "ReleaseDate": "2009-09-15T00:00:00+00:00",
   "Overview": "Now, you can get three award-winning game masterpieces in an exclusive single package for a unique audiovisual experience. Qubed consists of three amazing games: the legendary fast-paced action-shooter Rez HD, the frenetic blockbuster puzzler Lumines Live!, and the trippy, trancey, and gorgeous E4 (Every Extend Extra Extreme). Get all three great games for Xbox 360 in one package, in Qubed.",
   "VideoURL": "https://www.youtube.com/watch?v=LVgXC2slvSg",
-  "CommunityRating": "2.3333333333333335",
+  "CommunityRating": "2.33333333333333",
   "ESRB": "E - Everyone",
-  "Genres": " Music; Puzzle; Shooter",
+  "Genres": "Music; Puzzle; Shooter",
   "Developer": "Q Entertainment",
   "Publisher": "Atari",
   "Artwork": {
@@ -30,18 +30,18 @@
       ],
       "Front": [
         {
-          "FileName": "8c01bc10-63db-4866-adc4-f487973d6a38.jpg",
-          "Type": "Box - Front",
-          "Region": "United States",
-          "CRC32": "2661446665",
-          "URL": "http://images.launchbox-app.com/8c01bc10-63db-4866-adc4-f487973d6a38.jpg"
-        },
-        {
           "FileName": "206b3988-21f5-4937-8f99-a6c46f115ada.jpg",
           "Type": "Box - Front",
           "Region": "North America",
           "CRC32": "3645586917",
           "URL": "http://images.launchbox-app.com/206b3988-21f5-4937-8f99-a6c46f115ada.jpg"
+        },
+        {
+          "FileName": "8c01bc10-63db-4866-adc4-f487973d6a38.jpg",
+          "Type": "Box - Front",
+          "Region": "United States",
+          "CRC32": "2661446665",
+          "URL": "http://images.launchbox-app.com/8c01bc10-63db-4866-adc4-f487973d6a38.jpg"
         }
       ],
       "Spine": [

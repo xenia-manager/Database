@@ -1,11 +1,11 @@
 {
   "Name": "Rocket Riot",
   "DatabaseID": "199973",
-  "ReleaseDate": "2009-06-17T00:00:00-07:00",
+  "ReleaseDate": "2009-06-17T00:00:00+00:00",
   "Overview": "Rocket Riot is an action-packed side-view shooter featuring a bazooka-wielding jetpack soldier. Players blast their way through the environment against computer-controlled enemies in an effort to defeat the nasty pirate Blockbeard.",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Rocket_Riot",
   "ESRB": "E - Everyone",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Codeglue",
   "Publisher": "THQ",
   "Artwork": {

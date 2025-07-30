@@ -1,13 +1,13 @@
 {
   "Name": "Mirror's Edge",
   "DatabaseID": "10614",
-  "ReleaseDate": "2008-11-12T00:00:00-08:00",
+  "ReleaseDate": "2008-11-12T00:00:00+00:00",
   "Overview": "Mirror's Edge introduces players to Faith, a \"runner\" in a world where communication channels are highly monitored and the movement of human traffic is closely watched. When Faith's sister gets framed for a murder she did not commit, Faith finds herself on the edge of the city, on the wrong side of the law. Mirror's Edge delivers players straight into the shoes of this modern day heroine as she traverses the vertigo-inducing cityscape, engaging in intense combat, fast-paced chases and challenging puzzles. With a never-before-seen sense of movement and perspective, players are drawn into Faith's world.",
   "VideoURL": "http://www.youtube.com/watch?v=2N1TJP1cxmo",
-  "CommunityRating": "4.3235294117647056",
+  "CommunityRating": "4.32352941176471",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Mirror%27s_Edge",
   "ESRB": "T - Teen",
-  "Genres": " Platform",
+  "Genres": "Platform",
   "Developer": "DiCE",
   "Publisher": "Electronic Arts",
   "Artwork": {
@@ -28,18 +28,6 @@
     ],
     "Background": [
       {
-        "FileName": "94beab3b-2d56-4ab2-9955-a8eaf5339a70.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "280149755",
-        "URL": "http://images.launchbox-app.com/94beab3b-2d56-4ab2-9955-a8eaf5339a70.jpg"
-      },
-      {
-        "FileName": "e112062c-b116-4a1e-8b4e-157ad7b20865.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "1706682159",
-        "URL": "http://images.launchbox-app.com/e112062c-b116-4a1e-8b4e-157ad7b20865.jpg"
-      },
-      {
         "FileName": "eb11bec4-323c-4669-9b4e-8a632423de2b.jpg",
         "Type": "Fanart - Background",
         "CRC32": "3661390127",
@@ -50,6 +38,18 @@
         "Type": "Fanart - Background",
         "CRC32": "1193283802",
         "URL": "http://images.launchbox-app.com/bc7fb1f1-8655-461e-9598-edc83ed2ac00.jpg"
+      },
+      {
+        "FileName": "e112062c-b116-4a1e-8b4e-157ad7b20865.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1706682159",
+        "URL": "http://images.launchbox-app.com/e112062c-b116-4a1e-8b4e-157ad7b20865.jpg"
+      },
+      {
+        "FileName": "94beab3b-2d56-4ab2-9955-a8eaf5339a70.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "280149755",
+        "URL": "http://images.launchbox-app.com/94beab3b-2d56-4ab2-9955-a8eaf5339a70.jpg"
       }
     ],
     "Box": {
@@ -78,18 +78,18 @@
           "URL": "http://images.launchbox-app.com/a478727f-52e0-4fb9-9c5f-20d9cecba6e4.jpg"
         },
         {
-          "FileName": "dfd93635-3039-40d1-ba85-e338e3ae7385.jpg",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "Europe",
-          "CRC32": "4035656236",
-          "URL": "http://images.launchbox-app.com/dfd93635-3039-40d1-ba85-e338e3ae7385.jpg"
-        },
-        {
           "FileName": "e23a3ff6-7b50-49e0-812d-8f10f60854aa.jpg",
           "Type": "Box - Front - Reconstructed",
           "Region": "United States",
           "CRC32": "1220098670",
           "URL": "http://images.launchbox-app.com/e23a3ff6-7b50-49e0-812d-8f10f60854aa.jpg"
+        },
+        {
+          "FileName": "dfd93635-3039-40d1-ba85-e338e3ae7385.jpg",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "Europe",
+          "CRC32": "4035656236",
+          "URL": "http://images.launchbox-app.com/dfd93635-3039-40d1-ba85-e338e3ae7385.jpg"
         }
       ]
     },

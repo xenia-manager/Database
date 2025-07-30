@@ -1,42 +1,42 @@
 {
   "Name": "Chromehounds",
   "DatabaseID": "7161",
-  "ReleaseDate": "2006-06-29T00:00:00-07:00",
+  "ReleaseDate": "2006-06-29T00:00:00+00:00",
   "Overview": "In an alternate future, the cold war ends differently resulting in a 3rd world war. With the world in a continued war mentality - new walking tanks called 'Hounds' are created. Three countries face off in a new way each trying to maintain their own sovereignty. The game puts you in control of six different role type hounds (Soldier, Sniper, Defender, Scout, Heavy Gunner, and Tactics Commander). Play through missions where you use each different role type and gain parts to build your own hounds. Then take the battle online where you can make your own squads and join the online campaign to see which of the three countries will reign supreme.",
-  "CommunityRating": "2.4090909090909092",
+  "CommunityRating": "2.40909090909091",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Chromehounds",
   "ESRB": "T - Teen",
-  "Genres": " Action; Strategy; Vehicle Simulation",
+  "Genres": "Action; Strategy; Vehicle Simulation",
   "Developer": "FromSoftware",
   "Publisher": "Sega",
   "Artwork": {
     "Banner": [
+      {
+        "FileName": "ca6e8c9a-4be3-476d-9a3d-261fa1078768.png",
+        "Type": "Banner",
+        "CRC32": "3045837393",
+        "URL": "http://images.launchbox-app.com/ca6e8c9a-4be3-476d-9a3d-261fa1078768.png"
+      },
       {
         "FileName": "022a7763-1618-46eb-b59a-42078055abbf.jpg",
         "Type": "Banner",
         "Region": "Europe",
         "CRC32": "3358342111",
         "URL": "http://images.launchbox-app.com/022a7763-1618-46eb-b59a-42078055abbf.jpg"
-      },
-      {
-        "FileName": "ca6e8c9a-4be3-476d-9a3d-261fa1078768.png",
-        "Type": "Banner",
-        "CRC32": "3045837393",
-        "URL": "http://images.launchbox-app.com/ca6e8c9a-4be3-476d-9a3d-261fa1078768.png"
       }
     ],
     "Background": [
-      {
-        "FileName": "cb00419f-7192-44c6-81f7-ce74faa3de8b.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "1331311028",
-        "URL": "http://images.launchbox-app.com/cb00419f-7192-44c6-81f7-ce74faa3de8b.jpg"
-      },
       {
         "FileName": "1f5dbe10-419e-413d-8d9d-3a302a17234d.jpg",
         "Type": "Fanart - Background",
         "CRC32": "1449863669",
         "URL": "http://images.launchbox-app.com/1f5dbe10-419e-413d-8d9d-3a302a17234d.jpg"
+      },
+      {
+        "FileName": "cb00419f-7192-44c6-81f7-ce74faa3de8b.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1331311028",
+        "URL": "http://images.launchbox-app.com/cb00419f-7192-44c6-81f7-ce74faa3de8b.jpg"
       }
     ],
     "Box": {
@@ -51,28 +51,21 @@
       ],
       "Back": [
         {
-          "FileName": "88151386-fe26-4d96-9dff-4692a09560d0.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
-          "CRC32": "935411641",
-          "URL": "http://images.launchbox-app.com/88151386-fe26-4d96-9dff-4692a09560d0.jpg"
-        },
-        {
           "FileName": "89e2d219-ecfd-4bbb-bbdc-de916e1cb190.jpg",
           "Type": "Box - Back",
           "Region": "Europe",
           "CRC32": "3989844430",
           "URL": "http://images.launchbox-app.com/89e2d219-ecfd-4bbb-bbdc-de916e1cb190.jpg"
+        },
+        {
+          "FileName": "88151386-fe26-4d96-9dff-4692a09560d0.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "935411641",
+          "URL": "http://images.launchbox-app.com/88151386-fe26-4d96-9dff-4692a09560d0.jpg"
         }
       ],
       "Front": [
-        {
-          "FileName": "d2dad6da-034e-4490-8be0-af59e7977081.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
-          "CRC32": "707416171",
-          "URL": "http://images.launchbox-app.com/d2dad6da-034e-4490-8be0-af59e7977081.jpg"
-        },
         {
           "FileName": "1347b12f-2fbb-4c17-9bac-8b4af8b70c15.jpg",
           "Type": "Box - Front",
@@ -86,6 +79,13 @@
           "Region": "Europe",
           "CRC32": "1649934534",
           "URL": "http://images.launchbox-app.com/a2b84fa8-7bbd-495f-bf2b-eb727c4c9f44.jpg"
+        },
+        {
+          "FileName": "d2dad6da-034e-4490-8be0-af59e7977081.jpg",
+          "Type": "Box - Front",
+          "Region": "Japan",
+          "CRC32": "707416171",
+          "URL": "http://images.launchbox-app.com/d2dad6da-034e-4490-8be0-af59e7977081.jpg"
         }
       ],
       "Spine": [
@@ -123,12 +123,6 @@
     ],
     "Screenshots": [
       {
-        "FileName": "7dc2bf32-203e-4cb0-a722-674510bd3df6.png",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "3162253426",
-        "URL": "http://images.launchbox-app.com/7dc2bf32-203e-4cb0-a722-674510bd3df6.png"
-      },
-      {
         "FileName": "6293e214-913c-4364-9ebe-f743308f1398.png",
         "Type": "Screenshot - Gameplay",
         "CRC32": "185626939",
@@ -139,6 +133,12 @@
         "Type": "Screenshot - Gameplay",
         "CRC32": "659936156",
         "URL": "http://images.launchbox-app.com/7e6b2b06-d418-4d23-a250-df33ca2da85e.png"
+      },
+      {
+        "FileName": "7dc2bf32-203e-4cb0-a722-674510bd3df6.png",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "3162253426",
+        "URL": "http://images.launchbox-app.com/7dc2bf32-203e-4cb0-a722-674510bd3df6.png"
       }
     ],
     "Other": [

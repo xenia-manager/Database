@@ -1,11 +1,11 @@
 {
   "Name": "Jane's Advanced Strike Fighters",
   "DatabaseID": "15705",
-  "ReleaseDate": "2011-10-18T00:00:00-07:00",
+  "ReleaseDate": "2011-10-18T00:00:00+00:00",
   "Overview": "JASF: Jane's Advanced Strike Fighters is an arcade styled flight simulator developed by Trickstar Games and published by Maximum Family Games.[1] Released in October 2011,[1] it was the first game to have the Jane's title in over a decade.[citation needed] Unlike the previous games in the Jane's Combat Simulations line, JASF does not feature realistic gameplay and instead focuses more on arcade-style action.[2]",
   "CommunityRating": "4",
   "ESRB": "T - Teen",
-  "Genres": " Flight Simulator",
+  "Genres": "Flight Simulator",
   "Artwork": {
     "Box": {
       "Back": [

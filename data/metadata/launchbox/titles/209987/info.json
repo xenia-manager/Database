@@ -1,11 +1,11 @@
 {
   "Name": "Voodoo Dice",
   "DatabaseID": "209987",
-  "ReleaseDate": "2010-05-26T00:00:00-07:00",
+  "ReleaseDate": "2010-05-26T00:00:00+00:00",
   "Overview": "Mixing action based and puzzle mechanics in a 3D world, Voodoo Dice is an innovative, challenging puzzler that plays with your mind to lead you to solve puzzles in unique and interesting ways.",
   "CommunityRating": "3.75",
   "ESRB": "E - Everyone",
-  "Genres": " Puzzle",
+  "Genres": "Puzzle",
   "Developer": "Exkee",
   "Publisher": "Ubisoft",
   "Artwork": {

@@ -1,10 +1,10 @@
 {
   "Name": "Snipers",
   "DatabaseID": "162245",
-  "ReleaseDate": "2015-03-12T00:00:00-07:00",
+  "ReleaseDate": "2015-03-12T00:00:00+00:00",
   "Overview": "Snipers is an online multiplayer first-person shooter with up to 12 players competing across 10 different maps and six gaming modes.",
   "ESRB": "Not Rated",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "Bigben Interactive",
   "Publisher": "BigBen Interactive",
   "Artwork": {

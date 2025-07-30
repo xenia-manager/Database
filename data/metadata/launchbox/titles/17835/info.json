@@ -3,7 +3,7 @@
   "DatabaseID": "17835",
   "Overview": "Do you have what it takes to be the World's Best Driver? \n\nGear up for the most intense challenges only Hot Wheels can deliver! Pick your team, choose your ride and go for it! Get behind the wheel of thrilling Hot Wheels vehicles while joining the elite ranks of Team Hot Wheels. Compete in dozens of unique, fast-paced, re-playable challenges all highlighting the different driving styles of Team Hot Wheels: the speed record-breaking Green Team, the show-stopping stunts of the Red Team, the high-tech precision of the Blue Team and the world record-breaking jumps of the Yellow Team. Do you have what it takes to be the World's Best Driver?",
   "CommunityRating": "4.25",
-  "Genres": " Racing",
+  "Genres": "Racing",
   "Artwork": {
     "Box": {
       "3D": [
@@ -27,16 +27,16 @@
     },
     "Screenshots": [
       {
-        "FileName": "e3f1aca1-0575-4a6a-8a4a-312d57ffb1db.png",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "1761026694",
-        "URL": "http://images.launchbox-app.com/e3f1aca1-0575-4a6a-8a4a-312d57ffb1db.png"
-      },
-      {
         "FileName": "f48ca68f-74a0-45c4-9ae8-2906b606dad9.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "2607803846",
         "URL": "http://images.launchbox-app.com/f48ca68f-74a0-45c4-9ae8-2906b606dad9.jpg"
+      },
+      {
+        "FileName": "e3f1aca1-0575-4a6a-8a4a-312d57ffb1db.png",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "1761026694",
+        "URL": "http://images.launchbox-app.com/e3f1aca1-0575-4a6a-8a4a-312d57ffb1db.png"
       }
     ],
     "Other": [

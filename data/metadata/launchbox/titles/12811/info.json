@@ -1,13 +1,13 @@
 {
   "Name": "Legendary",
   "DatabaseID": "12811",
-  "ReleaseDate": "2008-11-04T00:00:00-08:00",
+  "ReleaseDate": "2008-11-04T00:00:00+00:00",
   "Overview": "From the same Spark Unlimited development team that brought gamers the alternate history FPS Turning Point: Fall of Liberty, comes Legendary, a game that once again begins with New York City coming under attack. However, instead of a technically superior Nazi army swarming into Gotham, mythological creatures have been unleashed onto the landscape by small time art thief Charles Deckard, who decided to take a peek inside his latest target: Pandora's box. The resulting pandemonium finds players controlling Deckard through the midst of a three-sided conflict between rival secret societies and beasts such as werewolves, minotaurs, gryphons, and golems. The Council of 98 and the Black Order both seek the power of Pandora's box for different reasons, while the monsters attack everyone and wreak havoc on the destructible environments.\n\nHaving been marked with The Signet, denoting that only he can re-seal Pandora's box, Deckard must travel from New York to London, and on to Durham, England, to restore peace to the world. The Signet allows him to draw health from fallen creatures and perform an attack that repels all nearby foes, but he must rely on grabbing ammunition from dead soldiers, and his weapons are standard pistols, shotguns, and rifles. Multiplayer modes include a standard four-on-four deathmatch, with players controlling the Black Order or the Council of 98 while the creatures lurk hungrily in the background, and a hunting mode that lets gamers try to kill as many creatures as possible within a given time limit.",
   "VideoURL": "https://www.youtube.com/watch?v=CSKtyz8QvcE",
-  "CommunityRating": "3.5714285714285716",
+  "CommunityRating": "3.57142857142857",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Legendary_(video_game)",
   "ESRB": "M - Mature",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "Spark Unlimited",
   "Publisher": "Gamecock Media Group",
   "Artwork": {
@@ -23,18 +23,18 @@
       ],
       "Back": [
         {
-          "FileName": "a586a577-b120-43b5-8564-3d36d0224f11.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
-          "CRC32": "2288304010",
-          "URL": "http://images.launchbox-app.com/a586a577-b120-43b5-8564-3d36d0224f11.jpg"
-        },
-        {
           "FileName": "56e068b1-a854-47ac-98be-1782f616539e.jpg",
           "Type": "Box - Back",
           "Region": "United Kingdom",
           "CRC32": "4183650342",
           "URL": "http://images.launchbox-app.com/56e068b1-a854-47ac-98be-1782f616539e.jpg"
+        },
+        {
+          "FileName": "a586a577-b120-43b5-8564-3d36d0224f11.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "2288304010",
+          "URL": "http://images.launchbox-app.com/a586a577-b120-43b5-8564-3d36d0224f11.jpg"
         }
       ],
       "Front": [
@@ -56,18 +56,18 @@
     },
     "Disc": [
       {
-        "FileName": "acda8a6e-4177-4376-8a97-63e27c7a5fa4.png",
-        "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "3032938161",
-        "URL": "http://images.launchbox-app.com/acda8a6e-4177-4376-8a97-63e27c7a5fa4.png"
-      },
-      {
         "FileName": "ad0c0182-a062-48fa-8c27-384dd3c8fd1b.png",
         "Type": "Disc",
         "Region": "United Kingdom",
         "CRC32": "514535224",
         "URL": "http://images.launchbox-app.com/ad0c0182-a062-48fa-8c27-384dd3c8fd1b.png"
+      },
+      {
+        "FileName": "acda8a6e-4177-4376-8a97-63e27c7a5fa4.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "3032938161",
+        "URL": "http://images.launchbox-app.com/acda8a6e-4177-4376-8a97-63e27c7a5fa4.png"
       }
     ],
     "Other": [

@@ -1,22 +1,22 @@
 {
   "Name": "The Incredible Hulk",
   "DatabaseID": "13419",
-  "ReleaseDate": "2008-06-05T00:00:00-07:00",
+  "ReleaseDate": "2008-06-05T00:00:00+00:00",
   "Overview": "Fast-paced and action-packed, the blockbuster franchise and comic book saga unfolds for the first time on next-generation platforms, as Banner scours the planet trying to find anything to help him fight his involuntary rage. Take the role of one of Marvel's most powerful Super Heroes in The Incredible Hulk, a third-person action video game. Gamers can demolish anything in their path, including lampposts, passing cars and even buildings. The fury-fueled game also features key moments from the film, as well as additional plotlines and characters from The Incredible Hulk universe. Players crash through New York City, battling gigantic enemies amidst soaring skyscrapers in a massive open world.",
   "VideoURL": "https://www.youtube.com/watch?v=7hY-noxnJtQ",
-  "CommunityRating": "3.3333333333333335",
+  "CommunityRating": "3.33333333333333",
   "WikipediaURL": "https://en.wikipedia.org/wiki/The_Incredible_Hulk_(2008_video_game)",
   "ESRB": "T - Teen",
-  "Genres": " Action; Adventure",
+  "Genres": "Action; Adventure",
   "Developer": "Edge Of Reality",
   "Publisher": "Sega",
   "Artwork": {
     "Background": [
       {
-        "FileName": "2f892f92-75af-4a9c-aa56-f1d1037f5839.jpg",
+        "FileName": "4f3d693e-bb40-4386-9f24-10005d2fb061.png",
         "Type": "Fanart - Background",
-        "CRC32": "249418511",
-        "URL": "http://images.launchbox-app.com/2f892f92-75af-4a9c-aa56-f1d1037f5839.jpg"
+        "CRC32": "951684612",
+        "URL": "http://images.launchbox-app.com/4f3d693e-bb40-4386-9f24-10005d2fb061.png"
       },
       {
         "FileName": "2be69ba4-df1a-4750-9b4d-b0db47aa3fb2.jpg",
@@ -25,10 +25,10 @@
         "URL": "http://images.launchbox-app.com/2be69ba4-df1a-4750-9b4d-b0db47aa3fb2.jpg"
       },
       {
-        "FileName": "4f3d693e-bb40-4386-9f24-10005d2fb061.png",
+        "FileName": "2f892f92-75af-4a9c-aa56-f1d1037f5839.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "951684612",
-        "URL": "http://images.launchbox-app.com/4f3d693e-bb40-4386-9f24-10005d2fb061.png"
+        "CRC32": "249418511",
+        "URL": "http://images.launchbox-app.com/2f892f92-75af-4a9c-aa56-f1d1037f5839.jpg"
       }
     ],
     "Box": {

@@ -1,13 +1,13 @@
 {
   "Name": "Tomb Raider: Anniversary",
   "DatabaseID": "13268",
-  "ReleaseDate": "2007-10-23T00:00:00-07:00",
+  "ReleaseDate": "2007-10-23T00:00:00+00:00",
   "Overview": "Tomb Raider: Anniversary retraces Lara Croft's original genre-defining adventure — globe-trotting 3rd person action-adventure in pursuit of the legendary Scion artifact. Using an enhanced 'Tomb Raider: Legend' game engine, the graphics, technology and physics bring Lara's adventure and pursuit of a mystical artifact known only as the Scion right up to today's technology standards and offers gamers a completely new gameplay experience. Re-imagined, Anniversary delivers a dynamic fluidly and fast Lara Croft, massive environments of stunning visuals, intense combat and game pacing, and an enhanced and clarified original story.",
   "VideoURL": "http://www.youtube.com/watch?v=pkLD9-HlfPU",
   "CommunityRating": "3.65625",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Tomb_Raider:_Anniversary",
   "ESRB": "T - Teen",
-  "Genres": " Action; Adventure",
+  "Genres": "Action; Adventure",
   "Developer": "Crystal Dynamics",
   "Publisher": "Eidos Interactive",
   "Artwork": {
@@ -47,18 +47,18 @@
       ],
       "Front": [
         {
-          "FileName": "fcd5e57e-f7b4-47a9-a92d-4ebed6ad41f1.png",
-          "Type": "Box - Front",
-          "Region": "Korea",
-          "CRC32": "949127298",
-          "URL": "http://images.launchbox-app.com/fcd5e57e-f7b4-47a9-a92d-4ebed6ad41f1.png"
-        },
-        {
           "FileName": "4082e1a8-0118-48c0-99d8-c232c8ee2859.jpg",
           "Type": "Box - Front",
           "Region": "North America",
           "CRC32": "251525504",
           "URL": "http://images.launchbox-app.com/4082e1a8-0118-48c0-99d8-c232c8ee2859.jpg"
+        },
+        {
+          "FileName": "fcd5e57e-f7b4-47a9-a92d-4ebed6ad41f1.png",
+          "Type": "Box - Front",
+          "Region": "Korea",
+          "CRC32": "949127298",
+          "URL": "http://images.launchbox-app.com/fcd5e57e-f7b4-47a9-a92d-4ebed6ad41f1.png"
         },
         {
           "FileName": "9f1535e1-2e50-48d3-8df8-978374ff253e.png",
@@ -87,18 +87,18 @@
     },
     "Disc": [
       {
-        "FileName": "82869a64-f86c-4b3a-bad8-27a439dbdb78.png",
-        "Type": "Disc",
-        "Region": "Korea",
-        "CRC32": "2629571948",
-        "URL": "http://images.launchbox-app.com/82869a64-f86c-4b3a-bad8-27a439dbdb78.png"
-      },
-      {
         "FileName": "67cd3f40-1de9-4f69-8430-be0648c90e91.jpg",
         "Type": "Disc",
         "Region": "United States",
         "CRC32": "2935086146",
         "URL": "http://images.launchbox-app.com/67cd3f40-1de9-4f69-8430-be0648c90e91.jpg"
+      },
+      {
+        "FileName": "82869a64-f86c-4b3a-bad8-27a439dbdb78.png",
+        "Type": "Disc",
+        "Region": "Korea",
+        "CRC32": "2629571948",
+        "URL": "http://images.launchbox-app.com/82869a64-f86c-4b3a-bad8-27a439dbdb78.png"
       }
     ],
     "Screenshots": [

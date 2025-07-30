@@ -1,10 +1,10 @@
 {
   "Name": "Puzzle Arcade",
   "DatabaseID": "209804",
-  "ReleaseDate": "2009-12-23T00:00:00-08:00",
+  "ReleaseDate": "2009-12-23T00:00:00+00:00",
   "Overview": "Puzzle Arcade - the online jigsaw game with a twist! Multiple ways to play, loads of cool features and endless possibilities. Download the full version to experience Xbox LIVE Vision Camera support, multiplayer modes and access to downloadable content.",
   "ESRB": "E - Everyone",
-  "Genres": " Puzzle",
+  "Genres": "Puzzle",
   "Developer": "CTXM",
   "Publisher": "Square Enix",
   "Artwork": {

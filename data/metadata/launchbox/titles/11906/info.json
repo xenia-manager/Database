@@ -1,13 +1,13 @@
 {
   "Name": "Need for Speed: Undercover",
   "DatabaseID": "11906",
-  "ReleaseDate": "2008-11-18T00:00:00-08:00",
+  "ReleaseDate": "2008-11-18T00:00:00+00:00",
   "Overview": "Need for Speed Undercover has players racing through speedways, dodging cops and chasing rivals as they go deep undercover to take down an International crime syndicate. The game heralds the return of high-intensity police chases and introduces the all-new 'Heroic Driving Engine' -- a unique technology that generates incredible high-performance moves at 180 miles per hour during breathtaking highway battles. A mix of computer graphics and live-action movies immerses gamers in the rich world of the Tri-City Bay Area. The city's open-world environment features over 80 miles of roads, including an enormous highway system that sets the stage for highway battles. These high-speed, high-stake chase sequences push players to the limit as they fight off cops and opponents while whipping through traffic at 180 miles per hour. An intelligent new A.I. mechanic delivers a realistic and high-energy action driving experience. Going back to the franchise's roots, Need for Speed Undercover features more aggressive and intelligent cops whose sole purpose is to take down the player quickly and by any means necessary. Need for Speed Undercover also features the series' signature car customization, real-world damage and realistic driving physics. The game includes some of the hottest licensed cars such as the Audi R8, BMW M6 and Lexus IS-F.",
   "VideoURL": "http://www.youtube.com/watch?v=gCkRSVChEfE",
-  "CommunityRating": "3.8461538461538463",
+  "CommunityRating": "3.84615384615385",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Need_for_Speed:_Undercover",
   "ESRB": "E - Everyone",
-  "Genres": " Racing",
+  "Genres": "Racing",
   "Developer": "Electronic Arts Black Box",
   "Publisher": "Electronic Arts",
   "Artwork": {
@@ -31,11 +31,11 @@
       ],
       "Back": [
         {
-          "FileName": "469271c4-d941-4e73-9199-c8ee1dc66eab.jpg",
+          "FileName": "dbbe55ec-a910-40c8-a25f-50fe956123e1.jpg",
           "Type": "Box - Back",
-          "Region": "North America",
-          "CRC32": "3224333760",
-          "URL": "http://images.launchbox-app.com/469271c4-d941-4e73-9199-c8ee1dc66eab.jpg"
+          "Region": "Europe",
+          "CRC32": "1948040187",
+          "URL": "http://images.launchbox-app.com/dbbe55ec-a910-40c8-a25f-50fe956123e1.jpg"
         },
         {
           "FileName": "66723966-1b21-496d-afc3-291e6fe44a92.jpg",
@@ -52,34 +52,20 @@
           "URL": "http://images.launchbox-app.com/8416bf1b-888b-4a3d-bdef-54076528b486.jpg"
         },
         {
-          "FileName": "dbbe55ec-a910-40c8-a25f-50fe956123e1.jpg",
+          "FileName": "469271c4-d941-4e73-9199-c8ee1dc66eab.jpg",
           "Type": "Box - Back",
-          "Region": "Europe",
-          "CRC32": "1948040187",
-          "URL": "http://images.launchbox-app.com/dbbe55ec-a910-40c8-a25f-50fe956123e1.jpg"
+          "Region": "North America",
+          "CRC32": "3224333760",
+          "URL": "http://images.launchbox-app.com/469271c4-d941-4e73-9199-c8ee1dc66eab.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "fde4af19-0bd5-4fd6-839f-379cf251a350.jpg",
+          "FileName": "8f9f346a-db8f-4421-99e2-23a94a767e26.jpg",
           "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "2838007522",
-          "URL": "http://images.launchbox-app.com/fde4af19-0bd5-4fd6-839f-379cf251a350.jpg"
-        },
-        {
-          "FileName": "88038ccd-9fc5-451a-a710-54a3c5b09e27.png",
-          "Type": "Box - Front",
-          "Region": "Australia",
-          "CRC32": "3367229153",
-          "URL": "http://images.launchbox-app.com/88038ccd-9fc5-451a-a710-54a3c5b09e27.png"
-        },
-        {
-          "FileName": "dee26549-26c2-47df-8c36-f302801defbd.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
-          "CRC32": "2816980318",
-          "URL": "http://images.launchbox-app.com/dee26549-26c2-47df-8c36-f302801defbd.jpg"
+          "Region": "North America",
+          "CRC32": "1018417752",
+          "URL": "http://images.launchbox-app.com/8f9f346a-db8f-4421-99e2-23a94a767e26.jpg"
         },
         {
           "FileName": "8e8ac02a-094e-4e49-83d5-9a476b66072f.jpg",
@@ -89,11 +75,25 @@
           "URL": "http://images.launchbox-app.com/8e8ac02a-094e-4e49-83d5-9a476b66072f.jpg"
         },
         {
-          "FileName": "8f9f346a-db8f-4421-99e2-23a94a767e26.jpg",
+          "FileName": "88038ccd-9fc5-451a-a710-54a3c5b09e27.png",
           "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "1018417752",
-          "URL": "http://images.launchbox-app.com/8f9f346a-db8f-4421-99e2-23a94a767e26.jpg"
+          "Region": "Australia",
+          "CRC32": "3367229153",
+          "URL": "http://images.launchbox-app.com/88038ccd-9fc5-451a-a710-54a3c5b09e27.png"
+        },
+        {
+          "FileName": "fde4af19-0bd5-4fd6-839f-379cf251a350.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "2838007522",
+          "URL": "http://images.launchbox-app.com/fde4af19-0bd5-4fd6-839f-379cf251a350.jpg"
+        },
+        {
+          "FileName": "dee26549-26c2-47df-8c36-f302801defbd.jpg",
+          "Type": "Box - Front",
+          "Region": "Japan",
+          "CRC32": "2816980318",
+          "URL": "http://images.launchbox-app.com/dee26549-26c2-47df-8c36-f302801defbd.jpg"
         },
         {
           "FileName": "114473bf-b5ba-41c0-ba1a-8766b7a1a353.png",
@@ -122,46 +122,46 @@
     },
     "Disc": [
       {
-        "FileName": "370f1942-02e6-40cf-83fc-63af6c80cd45.png",
-        "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "2451514971",
-        "URL": "http://images.launchbox-app.com/370f1942-02e6-40cf-83fc-63af6c80cd45.png"
-      },
-      {
         "FileName": "23f63d5d-c53f-48a5-903b-5692c5ac5a00.png",
         "Type": "Disc",
         "Region": "Europe",
         "CRC32": "4183973855",
         "URL": "http://images.launchbox-app.com/23f63d5d-c53f-48a5-903b-5692c5ac5a00.png"
+      },
+      {
+        "FileName": "370f1942-02e6-40cf-83fc-63af6c80cd45.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2451514971",
+        "URL": "http://images.launchbox-app.com/370f1942-02e6-40cf-83fc-63af6c80cd45.png"
       }
     ],
     "Screenshots": [
-      {
-        "FileName": "ebafe930-741a-4aa8-96f9-5b447785a79d.png",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "3247292903",
-        "URL": "http://images.launchbox-app.com/ebafe930-741a-4aa8-96f9-5b447785a79d.png"
-      },
       {
         "FileName": "827128e1-afa0-43a7-ae64-42f2609e4739.png",
         "Type": "Screenshot - Gameplay",
         "CRC32": "2143864929",
         "URL": "http://images.launchbox-app.com/827128e1-afa0-43a7-ae64-42f2609e4739.png"
+      },
+      {
+        "FileName": "ebafe930-741a-4aa8-96f9-5b447785a79d.png",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "3247292903",
+        "URL": "http://images.launchbox-app.com/ebafe930-741a-4aa8-96f9-5b447785a79d.png"
       }
     ],
     "Other": [
-      {
-        "FileName": "e775ef34-f528-4575-bf4f-6dc5ef827e98.png",
-        "Type": "Clear Logo",
-        "CRC32": "111937691",
-        "URL": "http://images.launchbox-app.com/e775ef34-f528-4575-bf4f-6dc5ef827e98.png"
-      },
       {
         "FileName": "e92dba40-d726-41a2-b57f-7fabf46c9264.png",
         "Type": "Clear Logo",
         "CRC32": "614768685",
         "URL": "http://images.launchbox-app.com/e92dba40-d726-41a2-b57f-7fabf46c9264.png"
+      },
+      {
+        "FileName": "e775ef34-f528-4575-bf4f-6dc5ef827e98.png",
+        "Type": "Clear Logo",
+        "CRC32": "111937691",
+        "URL": "http://images.launchbox-app.com/e775ef34-f528-4575-bf4f-6dc5ef827e98.png"
       }
     ]
   }

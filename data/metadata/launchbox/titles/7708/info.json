@@ -1,11 +1,11 @@
 {
   "Name": "X-Blades",
   "DatabaseID": "7708",
-  "ReleaseDate": "2009-02-06T00:00:00-08:00",
+  "ReleaseDate": "2009-02-06T00:00:00+00:00",
   "Overview": "Journey through ancient temples and ruins with Ayumi, an alluring treasure-hunter determined to unlock the secrets of a powerful orb and acquire untold riches.  However, every treasure has its price - Ayumi has been struck by a mysterious curse upon finding her greatly desired artifact.  Can you help Ayumi free herself from the curse?\n\nIn this Thrilling anime-style action-fest, you will encounter fierce battles as you help Ayumi confront her ultimate fate - whatever it may be.",
   "CommunityRating": "2.25",
   "ESRB": "M - Mature",
-  "Genres": " Adventure; Platform; Beat 'em Up",
+  "Genres": "Adventure; Beat 'em Up; Platform",
   "Developer": "Gaijin Entertainment",
   "Publisher": "Southpeak Interactive",
   "Artwork": {
@@ -66,12 +66,6 @@
     ],
     "Screenshots": [
       {
-        "FileName": "18756188-2478-4ba5-87a9-37c09ebce5e2.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3893208389",
-        "URL": "http://images.launchbox-app.com/18756188-2478-4ba5-87a9-37c09ebce5e2.jpg"
-      },
-      {
         "FileName": "c99c6ae4-ea77-45b4-a1cb-21bff045da24.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "1660587873",
@@ -82,6 +76,12 @@
         "Type": "Screenshot - Gameplay",
         "CRC32": "1597817467",
         "URL": "http://images.launchbox-app.com/e7e4053e-d862-41be-a605-373e66b121cf.jpg"
+      },
+      {
+        "FileName": "18756188-2478-4ba5-87a9-37c09ebce5e2.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3893208389",
+        "URL": "http://images.launchbox-app.com/18756188-2478-4ba5-87a9-37c09ebce5e2.jpg"
       }
     ],
     "Other": [

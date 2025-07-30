@@ -1,11 +1,11 @@
 {
   "Name": "Ascend: New Gods",
   "DatabaseID": "10672",
-  "ReleaseDate": "2013-04-01T00:00:00-07:00",
+  "ReleaseDate": "2013-04-01T00:00:00+00:00",
   "Overview": "Ascend: Hand of Kul (formerly Ascend: New Gods) is a 2013 free-to-play game for the Xbox 360 and Microsoft Windows.[1] It was unveiled at the Electronic Entertainment Expo 2012 during Microsoft's press conference. It was available in the Xbox Live Arcade for free if you are a Gold member. On August 18, 2014 the game was delisted from the Xbox marketplace. On August 21, 2014 it was announced the game's server will be closing November 18, 2014. The PC version remains online.[2][3]",
-  "CommunityRating": "3.1666666666666665",
+  "CommunityRating": "3.16666666666667",
   "ESRB": "M - Mature",
-  "Genres": " Strategy",
+  "Genres": "Strategy",
   "Developer": "Signal Studios",
   "Publisher": "Microsoft",
   "Artwork": {
@@ -40,16 +40,16 @@
           "URL": "http://images.launchbox-app.com/06f7e512-9064-45c0-a165-be730d200eac.jpg"
         },
         {
-          "FileName": "2665435a-5bc1-4876-94a0-3dc709f6ef2d.png",
-          "Type": "Fanart - Box - Front",
-          "CRC32": "375993372",
-          "URL": "http://images.launchbox-app.com/2665435a-5bc1-4876-94a0-3dc709f6ef2d.png"
-        },
-        {
           "FileName": "b3299558-0ca5-44ec-9047-6c9bef41b8bb.png",
           "Type": "Fanart - Box - Front",
           "CRC32": "2080200872",
           "URL": "http://images.launchbox-app.com/b3299558-0ca5-44ec-9047-6c9bef41b8bb.png"
+        },
+        {
+          "FileName": "2665435a-5bc1-4876-94a0-3dc709f6ef2d.png",
+          "Type": "Fanart - Box - Front",
+          "CRC32": "375993372",
+          "URL": "http://images.launchbox-app.com/2665435a-5bc1-4876-94a0-3dc709f6ef2d.png"
         }
       ]
     },

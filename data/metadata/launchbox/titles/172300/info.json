@@ -1,13 +1,13 @@
 {
   "Name": "Dark Souls: Prepare to Die Edition",
   "DatabaseID": "172300",
-  "ReleaseDate": "2012-10-26T00:00:00-07:00",
+  "ReleaseDate": "2012-10-26T00:00:00+00:00",
   "Overview": "Dark Souls: Prepare to Die is an expanded version of the console game Dark Souls. Next to the original gameplay it adds in additional content slip-streamed into the main game:\n\n- General gameplay tweaks\n- Multiplayer arena as a training ground for online PvP battles: duels (one versus one), team battles (two versus two) and four-player FFA matches\n- New bosses (Black Dragon, Sanctuary Guardian, Artorias of the Abyss)\n- New enemies (Wooden scarecrows, Chained Prisoner, Stone Knight)\n- New NPCs (Hawkeye Gough, Elizabeth)\n- New weapons and armor\n- Oolacile as a new area, split up into four smaller sections",
   "VideoURL": "https://www.youtube.com/watch?v=KibniXLqcf8",
   "CommunityRating": "5",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Dark_Souls",
   "ESRB": "M - Mature",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "FromSoftware",
   "Publisher": "Namco Bandai Games",
   "Artwork": {
@@ -58,16 +58,16 @@
     ],
     "Screenshots": [
       {
-        "FileName": "35bafc1a-97f7-4fac-9df8-033e16cf3b33.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "4292427439",
-        "URL": "http://images.launchbox-app.com/35bafc1a-97f7-4fac-9df8-033e16cf3b33.jpg"
-      },
-      {
         "FileName": "16e0768e-51c8-4e88-bebc-8322855b432e.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "1292778131",
         "URL": "http://images.launchbox-app.com/16e0768e-51c8-4e88-bebc-8322855b432e.jpg"
+      },
+      {
+        "FileName": "35bafc1a-97f7-4fac-9df8-033e16cf3b33.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "4292427439",
+        "URL": "http://images.launchbox-app.com/35bafc1a-97f7-4fac-9df8-033e16cf3b33.jpg"
       }
     ],
     "Other": [

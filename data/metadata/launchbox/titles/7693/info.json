@@ -1,13 +1,13 @@
 {
   "Name": "Tony Hawk's Project 8",
   "DatabaseID": "7693",
-  "ReleaseDate": "2006-11-07T00:00:00-08:00",
+  "ReleaseDate": "2006-11-07T00:00:00+00:00",
   "Overview": "Tony Hawk's Project 8, officially abbreviated as THP8, is a skateboarding video game, the eighth installment in the Tony Hawk's series. It was released on PlayStation 2, PlayStation 3, Xbox and Xbox 360.",
   "VideoURL": "http://www.youtube.com/watch?v=GT50G4R2KIY",
   "CommunityRating": "3.625",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Tony_Hawk%27s_Project_8",
   "ESRB": "T - Teen",
-  "Genres": " Racing; Sports",
+  "Genres": "Racing; Sports",
   "Developer": "Neversoft Entertainment",
   "Publisher": "Activision",
   "Artwork": {

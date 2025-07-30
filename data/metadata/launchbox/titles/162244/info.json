@@ -1,12 +1,12 @@
 {
   "Name": "SpongeBob SquarePants: Plankton's Robotic Revenge",
   "DatabaseID": "162244",
-  "ReleaseDate": "2013-10-22T00:00:00-07:00",
+  "ReleaseDate": "2013-10-22T00:00:00+00:00",
   "Overview": "SpongeBob SquarePants: Plankton's Robotic Revenge is a 3D action-adventure game based on the SpongeBob SquarePants Nickelodeon cartoon series. Plankton finds a bunch of batteries dropped in the ocean by a cargo ship and sees an opportunity to use these batteries to steel the Krabby Patty secret formula. Soon after this he shows up at the Krusty Krab in his giant robot and takes the safe with the formula. It is up to you to stop him and slam and shoot your way through his robot army and find three keys to retrieve the formula. The game offers several upgradeable weapons. The playable characters are: SpongeBob, Patrick, Squidward, Sandy, and Mr. Krabs. Locations shown in the game are Bikini Bottom, Rock Bottom and Dutchman's Triangle.\n\nThe DS versions are single-player games and the console versions offers cooperative gameplay for up to four players. For the Wii U version up to five players are supported, one using the Game Pad and the other players regular controllers.",
-  "CommunityRating": "2.4285714285714284",
+  "CommunityRating": "2.42857142857143",
   "WikipediaURL": "https://en.wikipedia.org/wiki/SpongeBob_SquarePants:_Plankton%27s_Robotic_Revenge",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Action; Adventure",
+  "Genres": "Action; Adventure",
   "Developer": "Behaviour Interactive",
   "Publisher": "Activision",
   "Artwork": {
@@ -63,17 +63,17 @@
     ],
     "Other": [
       {
-        "FileName": "cd7362a3-3928-4948-9b3b-9feec11b5e31.png",
-        "Type": "Clear Logo",
-        "CRC32": "1519907475",
-        "URL": "http://images.launchbox-app.com/cd7362a3-3928-4948-9b3b-9feec11b5e31.png"
-      },
-      {
         "FileName": "b24d33ea-c50a-4126-a1d5-5c266c29da4b.png",
         "Type": "Clear Logo",
         "Region": "Spain",
         "CRC32": "1964136456",
         "URL": "http://images.launchbox-app.com/b24d33ea-c50a-4126-a1d5-5c266c29da4b.png"
+      },
+      {
+        "FileName": "cd7362a3-3928-4948-9b3b-9feec11b5e31.png",
+        "Type": "Clear Logo",
+        "CRC32": "1519907475",
+        "URL": "http://images.launchbox-app.com/cd7362a3-3928-4948-9b3b-9feec11b5e31.png"
       }
     ]
   }

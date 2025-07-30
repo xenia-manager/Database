@@ -1,28 +1,28 @@
 {
   "Name": "Assassin's Creed II",
   "DatabaseID": "2762",
-  "ReleaseDate": "2009-11-17T00:00:00-08:00",
+  "ReleaseDate": "2009-11-17T00:00:00+00:00",
   "Overview": "Get ready to plunge into the lush and deadly world of the Italian Renaissance, an era of arts, riches, and murderous conspiracy. Assassin's Creed II introduces you to Ezio, a new assassin carrying on the deadly lineage of his forebears. Confront an epic tale of power and corruption as you hone your assassin's art, wielding weapons and instruments designed by the legendary Leonardo Da Vinci himself in this gripping and deadly sequel. \n\nIn Assassin's Creed II, you \"relive\" the life of an assassin during the Italian Renaissance in this open-world action adventure game. The goal is to exact revenge upon conspirators who have framed and executed loved ones; the goal is to be accomplished through assassination. \n\nAs players roam the crowded streets of Florence, Italy, they can creep through catacombs and corridors, undertake diverse side-missions, and tail-and-assassinate all manner of human targets - politicians, Templar soldiers, and conspirators. Players can also brawl with family rivals or engage in sword fights with Templar soldiers, but in most cases, they use stealth techniques to complete the mission; for example, players can sneak up on enemies from behind and kill them with hidden daggers, poisoned daggers, spring-activated blades, and swords.",
   "VideoURL": "https://www.youtube.com/watch?v=R20-MOOZPpY",
   "CommunityRating": "4.625",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_II",
   "ESRB": "M - Mature",
-  "Genres": " Action; Adventure; Sandbox; Stealth",
+  "Genres": "Action; Adventure; Sandbox; Stealth",
   "Developer": "Ubisoft Montreal",
   "Publisher": "Ubisoft",
   "Artwork": {
     "Banner": [
       {
-        "FileName": "2dedca37-7050-491f-97a7-60f39a082144.png",
-        "Type": "Banner",
-        "CRC32": "2741087457",
-        "URL": "http://images.launchbox-app.com/2dedca37-7050-491f-97a7-60f39a082144.png"
-      },
-      {
         "FileName": "729a62b6-f91f-4a07-bd39-9fbbd20c0645.png",
         "Type": "Banner",
         "CRC32": "2192628700",
         "URL": "http://images.launchbox-app.com/729a62b6-f91f-4a07-bd39-9fbbd20c0645.png"
+      },
+      {
+        "FileName": "2dedca37-7050-491f-97a7-60f39a082144.png",
+        "Type": "Banner",
+        "CRC32": "2741087457",
+        "URL": "http://images.launchbox-app.com/2dedca37-7050-491f-97a7-60f39a082144.png"
       }
     ],
     "Background": [
@@ -33,16 +33,16 @@
         "URL": "http://images.launchbox-app.com/68e4d858-2ad7-4307-bf6f-c05b55be1c0a.jpg"
       },
       {
-        "FileName": "0e8171a9-8080-49a5-9df5-0cbade31f80b.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "4156195846",
-        "URL": "http://images.launchbox-app.com/0e8171a9-8080-49a5-9df5-0cbade31f80b.jpg"
-      },
-      {
         "FileName": "69401f12-1746-467b-a466-8a35daf3941e.jpg",
         "Type": "Fanart - Background",
         "CRC32": "866773237",
         "URL": "http://images.launchbox-app.com/69401f12-1746-467b-a466-8a35daf3941e.jpg"
+      },
+      {
+        "FileName": "0e8171a9-8080-49a5-9df5-0cbade31f80b.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "4156195846",
+        "URL": "http://images.launchbox-app.com/0e8171a9-8080-49a5-9df5-0cbade31f80b.jpg"
       }
     ],
     "Box": {
@@ -64,6 +64,34 @@
           "URL": "http://images.launchbox-app.com/cdd62e25-7945-4a73-b870-37827b31d36c.jpg"
         },
         {
+          "FileName": "13877af5-0064-4b4e-890b-c939393a6689.jpg",
+          "Type": "Box - Back",
+          "Region": "Russia",
+          "CRC32": "310943110",
+          "URL": "http://images.launchbox-app.com/13877af5-0064-4b4e-890b-c939393a6689.jpg"
+        },
+        {
+          "FileName": "d8f6f320-693b-4da6-9fb0-54a0aa01fc54.jpg",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "972913110",
+          "URL": "http://images.launchbox-app.com/d8f6f320-693b-4da6-9fb0-54a0aa01fc54.jpg"
+        },
+        {
+          "FileName": "3c62e4a8-2fb5-4498-bf7f-7e182a55b6a3.jpg",
+          "Type": "Box - Back",
+          "Region": "Australia",
+          "CRC32": "3367706981",
+          "URL": "http://images.launchbox-app.com/3c62e4a8-2fb5-4498-bf7f-7e182a55b6a3.jpg"
+        },
+        {
+          "FileName": "r2_16e0d14e-e891-4cfa-81af-99e1034d2140.png",
+          "Type": "Box - Back",
+          "Region": "Korea",
+          "CRC32": "3255838172",
+          "URL": "http://images.launchbox-app.com/r2_16e0d14e-e891-4cfa-81af-99e1034d2140.png"
+        },
+        {
           "FileName": "46d0bc90-af64-4156-a63a-d6e4b28dd7af.jpg",
           "Type": "Box - Back",
           "Region": "United Kingdom",
@@ -76,30 +104,23 @@
           "Region": "Germany",
           "CRC32": "3879825399",
           "URL": "http://images.launchbox-app.com/b758f116-dad8-4267-8154-7474813cf4bc.jpg"
-        },
-        {
-          "FileName": "3c62e4a8-2fb5-4498-bf7f-7e182a55b6a3.jpg",
-          "Type": "Box - Back",
-          "Region": "Australia",
-          "CRC32": "3367706981",
-          "URL": "http://images.launchbox-app.com/3c62e4a8-2fb5-4498-bf7f-7e182a55b6a3.jpg"
-        },
-        {
-          "FileName": "d8f6f320-693b-4da6-9fb0-54a0aa01fc54.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
-          "CRC32": "972913110",
-          "URL": "http://images.launchbox-app.com/d8f6f320-693b-4da6-9fb0-54a0aa01fc54.jpg"
-        },
-        {
-          "FileName": "13877af5-0064-4b4e-890b-c939393a6689.jpg",
-          "Type": "Box - Back",
-          "Region": "Russia",
-          "CRC32": "310943110",
-          "URL": "http://images.launchbox-app.com/13877af5-0064-4b4e-890b-c939393a6689.jpg"
         }
       ],
       "Front": [
+        {
+          "FileName": "f99bc26d-9d2e-4bb1-82f3-f968896cb14f.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "323245079",
+          "URL": "http://images.launchbox-app.com/f99bc26d-9d2e-4bb1-82f3-f968896cb14f.jpg"
+        },
+        {
+          "FileName": "363532c9-4352-4073-8050-ed099b41bdbd.jpg",
+          "Type": "Box - Front",
+          "Region": "Russia",
+          "CRC32": "1730621566",
+          "URL": "http://images.launchbox-app.com/363532c9-4352-4073-8050-ed099b41bdbd.jpg"
+        },
         {
           "FileName": "925908df-ecab-45a8-aa5e-4b53c9427704.jpg",
           "Type": "Box - Front",
@@ -122,18 +143,11 @@
           "URL": "http://images.launchbox-app.com/3ad7e4d0-93f7-4169-9e15-fcec8d628c4e.jpg"
         },
         {
-          "FileName": "363532c9-4352-4073-8050-ed099b41bdbd.jpg",
+          "FileName": "r2_1f3d2044-ea29-4ce2-b3ca-e54d389cc18f.png",
           "Type": "Box - Front",
-          "Region": "Russia",
-          "CRC32": "1730621566",
-          "URL": "http://images.launchbox-app.com/363532c9-4352-4073-8050-ed099b41bdbd.jpg"
-        },
-        {
-          "FileName": "f99bc26d-9d2e-4bb1-82f3-f968896cb14f.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "323245079",
-          "URL": "http://images.launchbox-app.com/f99bc26d-9d2e-4bb1-82f3-f968896cb14f.jpg"
+          "Region": "Korea",
+          "CRC32": "416453152",
+          "URL": "http://images.launchbox-app.com/r2_1f3d2044-ea29-4ce2-b3ca-e54d389cc18f.png"
         },
         {
           "FileName": "844fb96d-9129-4d01-b0df-b72bd869787f.jpg",
@@ -157,6 +171,13 @@
           "Region": "North America",
           "CRC32": "611014082",
           "URL": "http://images.launchbox-app.com/28ed4f64-5bc4-4e28-b7e3-0f0d809521c4.jpg"
+        },
+        {
+          "FileName": "r2_2dba0396-caea-4045-9c16-a699d6c79b6b.png",
+          "Type": "Box - Spine",
+          "Region": "Korea",
+          "CRC32": "58710093",
+          "URL": "http://images.launchbox-app.com/r2_2dba0396-caea-4045-9c16-a699d6c79b6b.png"
         }
       ]
     },
@@ -167,6 +188,13 @@
         "Region": "North America",
         "CRC32": "2030589236",
         "URL": "http://images.launchbox-app.com/00a9b121-e907-407b-9f75-691fe28a305f.png"
+      },
+      {
+        "FileName": "r2_7102cf72-2cf7-4eb4-b393-cf868190d997.png",
+        "Type": "Disc",
+        "Region": "Korea",
+        "CRC32": "1822294480",
+        "URL": "http://images.launchbox-app.com/r2_7102cf72-2cf7-4eb4-b393-cf868190d997.png"
       }
     ],
     "Other": [

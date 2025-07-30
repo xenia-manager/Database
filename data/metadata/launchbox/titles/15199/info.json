@@ -1,34 +1,16 @@
 {
   "Name": "Resident Evil 5: Gold Edition",
   "DatabaseID": "15199",
-  "ReleaseDate": "2010-03-12T00:00:00-08:00",
+  "ReleaseDate": "2010-03-12T00:00:00+00:00",
   "Overview": "Experience the thrill and terror of the infamous Resident Evil franchise like never before with the Resident Evil 5 Gold Edition. Featuring Chris Redfield of the original Resident Evil and new partner Sheva Alomar, a West African agent of the Bioterrorism Security Assessment Alliance (BSAA), this sci-fi action/survival game is packed with hordes of fast-moving, quick-thinking enemies that represent a whole new breed of unimaginable undead evil. The Gold Edition features every exciting play option found in the initial releases of the game, including two-player co-op, powerful new weapons and real-time inventory management between players, but also includes all RE5 console version download content released to date. This includes new episodes and costumes, an improved Mercenaries Mode, and online versus mode.",
   "VideoURL": "http://www.youtube.com/watch?v=2lm2a4cJuqI",
   "CommunityRating": "4.25",
   "ESRB": "M - Mature",
-  "Genres": " Action; Adventure; Role-Playing; Shooter; Strategy",
+  "Genres": "Action; Adventure; Role-Playing; Shooter; Strategy",
   "Developer": "Capcom",
   "Publisher": "Capcom",
   "Artwork": {
     "Background": [
-      {
-        "FileName": "571c85ce-eb2f-4a2b-9df3-4239e71a6512.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "1257088164",
-        "URL": "http://images.launchbox-app.com/571c85ce-eb2f-4a2b-9df3-4239e71a6512.jpg"
-      },
-      {
-        "FileName": "d58e65b8-a1f5-483b-b99a-969b91971c80.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "976421969",
-        "URL": "http://images.launchbox-app.com/d58e65b8-a1f5-483b-b99a-969b91971c80.jpg"
-      },
-      {
-        "FileName": "97b3e8ea-27c0-4dc3-874a-f0458c65e82a.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "1108159865",
-        "URL": "http://images.launchbox-app.com/97b3e8ea-27c0-4dc3-874a-f0458c65e82a.jpg"
-      },
       {
         "FileName": "332e73f0-9534-4533-aba5-3374de8f47d2.jpg",
         "Type": "Fanart - Background",
@@ -40,6 +22,24 @@
         "Type": "Fanart - Background",
         "CRC32": "802434432",
         "URL": "http://images.launchbox-app.com/a5d34a7f-890d-4429-b797-473c17bc3bbd.jpg"
+      },
+      {
+        "FileName": "97b3e8ea-27c0-4dc3-874a-f0458c65e82a.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1108159865",
+        "URL": "http://images.launchbox-app.com/97b3e8ea-27c0-4dc3-874a-f0458c65e82a.jpg"
+      },
+      {
+        "FileName": "571c85ce-eb2f-4a2b-9df3-4239e71a6512.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1257088164",
+        "URL": "http://images.launchbox-app.com/571c85ce-eb2f-4a2b-9df3-4239e71a6512.jpg"
+      },
+      {
+        "FileName": "d58e65b8-a1f5-483b-b99a-969b91971c80.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "976421969",
+        "URL": "http://images.launchbox-app.com/d58e65b8-a1f5-483b-b99a-969b91971c80.jpg"
       }
     ],
     "Box": {

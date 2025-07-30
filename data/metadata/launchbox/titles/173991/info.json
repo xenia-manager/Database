@@ -1,11 +1,11 @@
 {
   "Name": "Tetris The Grand Master Ace",
   "DatabaseID": "173991",
-  "ReleaseDate": "2005-12-10T00:00:00-08:00",
+  "ReleaseDate": "2005-12-10T00:00:00+00:00",
   "Overview": "Tetris The Grand Master ACE was the fourth game in the Tetris The Grand Master series, the game was developed by ARIKA and published by AQ Interactive released in December 10th 2005.",
   "VideoURL": "https://www.youtube.com/watch?v=QXW7T7fXStA",
   "CommunityRating": "4",
-  "Genres": " Puzzle",
+  "Genres": "Puzzle",
   "Developer": "Arika",
   "Publisher": "AQ Interactive",
   "Artwork": {
@@ -55,6 +55,20 @@
         "URL": "http://images.launchbox-app.com/fef4b22b-8467-4be6-b0b8-9e8f3c32ec80.jpg"
       },
       {
+        "FileName": "6104eb45-4c8e-4196-a4d7-c493865e9d5c.jpg",
+        "Type": "Screenshot - Gameplay",
+        "Region": "Japan",
+        "CRC32": "2733442106",
+        "URL": "http://images.launchbox-app.com/6104eb45-4c8e-4196-a4d7-c493865e9d5c.jpg"
+      },
+      {
+        "FileName": "fba6e096-0115-4cba-8745-1b5cef3a202e.jpg",
+        "Type": "Screenshot - Gameplay",
+        "Region": "Japan",
+        "CRC32": "181299667",
+        "URL": "http://images.launchbox-app.com/fba6e096-0115-4cba-8745-1b5cef3a202e.jpg"
+      },
+      {
         "FileName": "679b83bc-0c24-494b-98d8-1230ea8a4836.jpg",
         "Type": "Screenshot - Game Select",
         "Region": "Japan",
@@ -67,20 +81,6 @@
         "Region": "Japan",
         "CRC32": "1998227494",
         "URL": "http://images.launchbox-app.com/8d216240-31dc-4769-89e9-59c2aa98db54.jpg"
-      },
-      {
-        "FileName": "fba6e096-0115-4cba-8745-1b5cef3a202e.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "Japan",
-        "CRC32": "181299667",
-        "URL": "http://images.launchbox-app.com/fba6e096-0115-4cba-8745-1b5cef3a202e.jpg"
-      },
-      {
-        "FileName": "6104eb45-4c8e-4196-a4d7-c493865e9d5c.jpg",
-        "Type": "Screenshot - Gameplay",
-        "Region": "Japan",
-        "CRC32": "2733442106",
-        "URL": "http://images.launchbox-app.com/6104eb45-4c8e-4196-a4d7-c493865e9d5c.jpg"
       }
     ],
     "Other": [

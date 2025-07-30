@@ -1,13 +1,13 @@
 {
   "Name": "Quake 4",
   "DatabaseID": "7568",
-  "ReleaseDate": "2005-11-18T00:00:00-08:00",
+  "ReleaseDate": "2005-11-18T00:00:00+00:00",
   "Overview": "In the mid-21st century, a barbaric alien race called the Strogg launched a massive invasion on Earth. Originally believed to be an attempt to strip the planet of its natural resources, humans soon discover that the Strogg are simply after only the human remains of those they kill. Through a horrific process, the limbs and flesh of the fallen are fused with metal and machinery to create the monstrosities that are the alien Strogg. \n\nThe Strogg and humans battle for years on Earth, but as resources become depleted, Earth mounts a counter-assault on the Strogg homeworld. The first assault force is launched from the fleet and encounters overwhelming resistance. Most of the drop-ships are destroyed by the Strogg homeworld's massive defense weapon known as \"The Big Gun.\" However, one surviving Marine breaks through and is able to destroy the big gun and ultimately defeat the Strogg leader, the Makron. But the war did not end there. \n\nYou are Matthew Kane, a member of the elite Rhino Squad and part of the next massive invasion that spans across the entire Stroggos planet. Equipped with hi-tech weapons, vehicles and teamed with Earth's top marine squadron you soon realize that this war is far from over. In fact, your worst nightmare is soon realized when you discover that the only way to defeat the Strogg is to become one of them.",
   "VideoURL": "https://www.youtube.com/watch?v=6YUkbrKg04w",
-  "CommunityRating": "3.9166666666666665",
+  "CommunityRating": "3.91666666666667",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Quake_4",
   "ESRB": "M - Mature",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "id Software",
   "Publisher": "Activision",
   "Artwork": {
@@ -27,16 +27,16 @@
         "URL": "http://images.launchbox-app.com/b5bcea9d-0d1c-4d37-a9b5-f1a48c2523ea.jpg"
       },
       {
-        "FileName": "777f3d12-df4c-4f3e-b9cb-54b326bd4c40.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2224140550",
-        "URL": "http://images.launchbox-app.com/777f3d12-df4c-4f3e-b9cb-54b326bd4c40.jpg"
-      },
-      {
         "FileName": "1faa2a3f-ba00-482a-a3a6-cba876db38ca.jpg",
         "Type": "Fanart - Background",
         "CRC32": "466758616",
         "URL": "http://images.launchbox-app.com/1faa2a3f-ba00-482a-a3a6-cba876db38ca.jpg"
+      },
+      {
+        "FileName": "777f3d12-df4c-4f3e-b9cb-54b326bd4c40.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2224140550",
+        "URL": "http://images.launchbox-app.com/777f3d12-df4c-4f3e-b9cb-54b326bd4c40.jpg"
       }
     ],
     "Box": {
@@ -79,6 +79,13 @@
     },
     "Disc": [
       {
+        "FileName": "e88fdd4f-a873-4906-8210-3b4c0fa64c30.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "819955026",
+        "URL": "http://images.launchbox-app.com/e88fdd4f-a873-4906-8210-3b4c0fa64c30.png"
+      },
+      {
         "FileName": "0fcd22ed-04ce-4595-af9a-1390e53b032b.png",
         "Type": "Disc",
         "Region": "North America",
@@ -91,13 +98,6 @@
         "Region": "North America",
         "CRC32": "2342729356",
         "URL": "http://images.launchbox-app.com/1eab4d37-684b-4335-9fc1-25b22323619d.png"
-      },
-      {
-        "FileName": "e88fdd4f-a873-4906-8210-3b4c0fa64c30.png",
-        "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "819955026",
-        "URL": "http://images.launchbox-app.com/e88fdd4f-a873-4906-8210-3b4c0fa64c30.png"
       }
     ],
     "Other": [

@@ -1,12 +1,12 @@
 {
   "Name": "Crash of the Titans",
   "DatabaseID": "7168",
-  "ReleaseDate": "2007-10-02T00:00:00-07:00",
+  "ReleaseDate": "2007-10-02T00:00:00+00:00",
   "Overview": "Crash of the Titans is a platform game published by Sierra Entertainment and developed by Vancouver-based Radical Entertainment for the PlayStation 2, PlayStation Portable (ported by SuperVillain Studios), Wii and Xbox 360. The Game Boy Advance and Nintendo DS versions of the game were developed by Amaze Entertainment. The game was first released in North America on October 3, 2007,[1] in Europe on October 12, 2007[2] and in Australia on October 25, 2007.[2] It is the first game in the Crash Bandicoot series not to have a Japanese release.\n\nCrash of the Titans is the fourteenth installment in the Crash Bandicoot video game series and the sixth game in the main franchise, but it is the first in the Mutant series. The game's story centers on the discovery of a substance known as \"Mojo\", which the antagonist of the series, Doctor Neo Cortex, plans to use to turn the inhabitants of the Wumpa Islands into an army of loyal mutants known as \"Titans\". The protagonist of the series, Crash Bandicoot, must stop Cortex by using the technique of \"jacking\" to take control of and destroy Cortex's Titans while collecting the mojo.\n\nThe game received mixed reviews upon its release; critics disparaged the game's short length, and although the game's variety was generally seen positively, reviewers noted little outstanding in the game. Despite this mediocre reception, the game was nominated for two awards.",
-  "CommunityRating": "3.2115384615384617",
+  "CommunityRating": "3.21153846153846",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Crash_of_the_Titans",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Action; Platform",
+  "Genres": "Action; Platform",
   "Developer": "Radical Entertainment",
   "Publisher": "Sierra Entertainment",
   "Artwork": {
@@ -74,10 +74,10 @@
     ],
     "Screenshots": [
       {
-        "FileName": "b23e135c-77d0-422f-8538-4f1edfcd6815.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "1626836370",
-        "URL": "http://images.launchbox-app.com/b23e135c-77d0-422f-8538-4f1edfcd6815.jpg"
+        "FileName": "c35e8e46-836d-4e12-97bd-780b7f77103c.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1418869597",
+        "URL": "http://images.launchbox-app.com/c35e8e46-836d-4e12-97bd-780b7f77103c.jpg"
       },
       {
         "FileName": "0b6471a0-fd9f-48db-8bfa-886f1d9e1cda.jpg",
@@ -86,10 +86,10 @@
         "URL": "http://images.launchbox-app.com/0b6471a0-fd9f-48db-8bfa-886f1d9e1cda.jpg"
       },
       {
-        "FileName": "c35e8e46-836d-4e12-97bd-780b7f77103c.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1418869597",
-        "URL": "http://images.launchbox-app.com/c35e8e46-836d-4e12-97bd-780b7f77103c.jpg"
+        "FileName": "b23e135c-77d0-422f-8538-4f1edfcd6815.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "1626836370",
+        "URL": "http://images.launchbox-app.com/b23e135c-77d0-422f-8538-4f1edfcd6815.jpg"
       }
     ],
     "Other": [

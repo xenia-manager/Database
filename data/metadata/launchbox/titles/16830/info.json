@@ -1,22 +1,22 @@
 {
   "Name": "Far Cry 3: Blood Dragon",
   "DatabaseID": "16830",
-  "ReleaseDate": "2013-05-01T00:00:00-07:00",
+  "ReleaseDate": "2013-05-01T00:00:00+00:00",
   "Overview": "Far Cry 3: Blood Dragon is THE Kick-Ass Cyber Shooter. \n\nWelcome to an 80’s vision of the future. The year is 2007 and you are Sargent Rex Colt, a Mark IV Cyber Commando. Your mission: get the girl, kill the baddies, and save the world. \n\nExperience every cliché of a VHS era vision of a nuclear future, where cyborgs, blood dragons, mutants, and Michael Biehn (Terminator, Aliens, Navy Seals) collide.",
   "VideoURL": "http://www.youtube.com/watch?v=8zh94nidjpM",
   "CommunityRating": "4",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Far_Cry_3:_Blood_Dragon",
   "ESRB": "M - Mature",
-  "Genres": " Sandbox; Shooter",
+  "Genres": "Sandbox; Shooter",
   "Developer": "Ubisoft Montreal",
   "Publisher": "Ubisoft",
   "Artwork": {
     "Background": [
       {
-        "FileName": "14e53998-01f0-4613-a8a5-2407de8ed6a4.jpg",
+        "FileName": "6dfda8ab-3d84-4eba-aff1-932df9cb88ec.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "121720003",
-        "URL": "http://images.launchbox-app.com/14e53998-01f0-4613-a8a5-2407de8ed6a4.jpg"
+        "CRC32": "3375591116",
+        "URL": "http://images.launchbox-app.com/6dfda8ab-3d84-4eba-aff1-932df9cb88ec.jpg"
       },
       {
         "FileName": "4cba5933-a0e3-46b9-b025-20e3c90f215c.jpg",
@@ -25,10 +25,10 @@
         "URL": "http://images.launchbox-app.com/4cba5933-a0e3-46b9-b025-20e3c90f215c.jpg"
       },
       {
-        "FileName": "6dfda8ab-3d84-4eba-aff1-932df9cb88ec.jpg",
+        "FileName": "14e53998-01f0-4613-a8a5-2407de8ed6a4.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3375591116",
-        "URL": "http://images.launchbox-app.com/6dfda8ab-3d84-4eba-aff1-932df9cb88ec.jpg"
+        "CRC32": "121720003",
+        "URL": "http://images.launchbox-app.com/14e53998-01f0-4613-a8a5-2407de8ed6a4.jpg"
       }
     ],
     "Box": {

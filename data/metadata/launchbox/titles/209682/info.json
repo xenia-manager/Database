@@ -1,11 +1,11 @@
 {
   "Name": "Meteos Wars",
   "DatabaseID": "209682",
-  "ReleaseDate": "2010-01-04T00:00:00-08:00",
+  "ReleaseDate": "2010-01-04T00:00:00+00:00",
   "Overview": "Take a ride through this intergalactic journey where you slide, stack and ignite your blocks to blast away the world-ending Meteos!",
   "CommunityRating": "2.75",
   "ESRB": "E - Everyone",
-  "Genres": " Puzzle",
+  "Genres": "Puzzle",
   "Developer": "Q Entertainment",
   "Publisher": "Q Entertainment",
   "Artwork": {

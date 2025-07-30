@@ -1,12 +1,12 @@
 {
   "Name": "Carrier Command: Gaea Mission",
   "DatabaseID": "22575",
-  "ReleaseDate": "2012-12-28T00:00:00-08:00",
+  "ReleaseDate": "2012-12-28T00:00:00+00:00",
   "Overview": "Carrier Command is a real-time action/strategy game, where the overarching objective is to conquer and control islands. It features a 33-island archipelago on the moon Taurus.\n\nThe player's fundamental unit is the Carrier, from which they may deploy and dock up to four aerial units and four amphibious units. Other defensive and offensive systems are present, such as drones which protect the Carrier when under attack.\n\nBattles take place in the air, on land, and in the sea. The player can control any deployed vehicle at any time.\n\nTraveling between islands is real-time and seamless. Islands are composed of 6 distinct climatic zones, including Wastelands, Arctic, Marshlands, Volcanic, Mountains and Temperate. The game features real-time weather changes and day/night cycles.",
-  "CommunityRating": "3.6666666666666665",
+  "CommunityRating": "3.66666666666667",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Carrier_Command:_Gaea_Mission",
   "ESRB": "M - Mature",
-  "Genres": " Strategy",
+  "Genres": "Strategy",
   "Developer": "Bohemia Interactive Studio",
   "Publisher": "Rising Star Games",
   "Artwork": {
@@ -94,18 +94,6 @@
     ],
     "Screenshots": [
       {
-        "FileName": "6de51730-79ca-4554-b557-6b40a88bf463.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3154549154",
-        "URL": "http://images.launchbox-app.com/6de51730-79ca-4554-b557-6b40a88bf463.jpg"
-      },
-      {
-        "FileName": "507a71dd-8682-4aeb-918d-73e15aedc324.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3725418535",
-        "URL": "http://images.launchbox-app.com/507a71dd-8682-4aeb-918d-73e15aedc324.jpg"
-      },
-      {
         "FileName": "eb4221ce-d047-4d6c-980e-f4a6e391ca8f.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "452605507",
@@ -116,6 +104,18 @@
         "Type": "Screenshot - Gameplay",
         "CRC32": "1368733683",
         "URL": "http://images.launchbox-app.com/8e9ea0d4-d1a8-47bd-979c-70bbcda66fab.jpg"
+      },
+      {
+        "FileName": "6de51730-79ca-4554-b557-6b40a88bf463.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3154549154",
+        "URL": "http://images.launchbox-app.com/6de51730-79ca-4554-b557-6b40a88bf463.jpg"
+      },
+      {
+        "FileName": "507a71dd-8682-4aeb-918d-73e15aedc324.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3725418535",
+        "URL": "http://images.launchbox-app.com/507a71dd-8682-4aeb-918d-73e15aedc324.jpg"
       },
       {
         "FileName": "209f2bf8-b43c-4c90-aaaf-7f2883602977.jpg",

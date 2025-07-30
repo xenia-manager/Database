@@ -1,12 +1,12 @@
 {
   "Name": "WWE Legends of Wrestlemania",
   "DatabaseID": "13867",
-  "ReleaseDate": "2009-03-24T00:00:00-07:00",
+  "ReleaseDate": "2009-03-24T00:00:00+00:00",
   "Overview": "WWE Legends of WrestleMania embraces the leading sports entertainment organization's rich history to relive, rewrite or recreate the definitive elements of WWE from the Eighties and Nineties. Players relive the entertaining lives of more than 40 larger-than-life Legends and have control over Legendary Managers, each of whom play crucial roles in match outcomes. The game's new grapple-based fighting system captures the high-energy action and drama seen in vintage WWE matches, while a historically accurate representation of past WWE telecasts sets the stage, including dynamic visual treatments, signature ring entrances, renowned commentators and notable venues. WWE Legends of WrestleMania also includes a WrestleMania Tour Mode that allows players to participate in key matches from multiple WrestleMania events, a Create-A-Legend system to develop the Legends of tomorrow, as well as online functionality for players to compete on the biggest stages in WWE history.",
   "CommunityRating": "3.55",
   "WikipediaURL": "https://en.wikipedia.org/wiki/WWE_Legends_of_WrestleMania",
   "ESRB": "T - Teen",
-  "Genres": " Fighting; Sports",
+  "Genres": "Fighting; Sports",
   "Developer": "Yuke's",
   "Publisher": "THQ",
   "Artwork": {
@@ -22,18 +22,18 @@
       ],
       "Back": [
         {
-          "FileName": "a0ab53ce-2292-47d1-b1fd-71ecb00ebd94.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
-          "CRC32": "3205507888",
-          "URL": "http://images.launchbox-app.com/a0ab53ce-2292-47d1-b1fd-71ecb00ebd94.jpg"
-        },
-        {
           "FileName": "1529429f-d831-49f3-91f2-07105afb57a7.jpg",
           "Type": "Box - Back",
           "Region": "United Kingdom",
           "CRC32": "240682310",
           "URL": "http://images.launchbox-app.com/1529429f-d831-49f3-91f2-07105afb57a7.jpg"
+        },
+        {
+          "FileName": "a0ab53ce-2292-47d1-b1fd-71ecb00ebd94.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "3205507888",
+          "URL": "http://images.launchbox-app.com/a0ab53ce-2292-47d1-b1fd-71ecb00ebd94.jpg"
         }
       ],
       "Front": [

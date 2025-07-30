@@ -1,13 +1,13 @@
 {
   "Name": "Rango",
   "DatabaseID": "12231",
-  "ReleaseDate": "2011-03-01T00:00:00-08:00",
+  "ReleaseDate": "2011-03-01T00:00:00+00:00",
   "Overview": "Tall tales come to life in Rango The Video Game, the exciting game based on the new film, Rango. Become the daring lizard and continue the adventure from the movie by shooting, riding, and flying your way through his many adventures.\n\nAs Rango, \"the coolest sheriff this side of Dirt\", you will have your hands full as you explore the town and keep its citizens safe from evil villains like Bad Bill and Rattlesnake Jake. But things will take an even wilder turn when outer space aliens visit Rango's home turf! There sure are some mighty strange things going on in town, and it's gonna take a real hero to sort out the mess.",
   "VideoURL": "https://www.youtube.com/watch?v=nR83uil4VSo",
   "CommunityRating": "4.25",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Rango_(video_game)",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Action; Adventure",
+  "Genres": "Action; Adventure",
   "Developer": "Behaviour Interactive",
   "Publisher": "Electronic Arts",
   "Artwork": {
@@ -27,12 +27,6 @@
         "URL": "http://images.launchbox-app.com/690f9e79-0a05-4d87-8c5b-a80421709c2e.jpg"
       },
       {
-        "FileName": "b2511074-d0bd-4389-9320-b1db893458bf.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2867879711",
-        "URL": "http://images.launchbox-app.com/b2511074-d0bd-4389-9320-b1db893458bf.jpg"
-      },
-      {
         "FileName": "25095f11-746e-4820-a812-11f33be87a76.jpg",
         "Type": "Fanart - Background",
         "CRC32": "223353965",
@@ -43,6 +37,12 @@
         "Type": "Fanart - Background",
         "CRC32": "2292433776",
         "URL": "http://images.launchbox-app.com/34519efd-5ff2-4340-b903-39c2ffef3394.jpg"
+      },
+      {
+        "FileName": "b2511074-d0bd-4389-9320-b1db893458bf.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2867879711",
+        "URL": "http://images.launchbox-app.com/b2511074-d0bd-4389-9320-b1db893458bf.jpg"
       }
     ],
     "Box": {
@@ -107,16 +107,10 @@
         "URL": "http://images.launchbox-app.com/868ff68f-6d7c-4191-9cd1-ad754e6d3cac.jpg"
       },
       {
-        "FileName": "86315a7d-eaaf-410a-84f6-58d1bbe9b480.jpg",
+        "FileName": "2c69387c-c8b6-4499-9d5c-e2e01a8efc69.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "791333569",
-        "URL": "http://images.launchbox-app.com/86315a7d-eaaf-410a-84f6-58d1bbe9b480.jpg"
-      },
-      {
-        "FileName": "e9d7270c-d0aa-46ac-8990-c8795cf4500c.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "4083249384",
-        "URL": "http://images.launchbox-app.com/e9d7270c-d0aa-46ac-8990-c8795cf4500c.jpg"
+        "CRC32": "3573668466",
+        "URL": "http://images.launchbox-app.com/2c69387c-c8b6-4499-9d5c-e2e01a8efc69.jpg"
       },
       {
         "FileName": "1f771ea8-97bf-4909-ac68-c8617612de82.jpg",
@@ -125,10 +119,16 @@
         "URL": "http://images.launchbox-app.com/1f771ea8-97bf-4909-ac68-c8617612de82.jpg"
       },
       {
-        "FileName": "2c69387c-c8b6-4499-9d5c-e2e01a8efc69.jpg",
+        "FileName": "e9d7270c-d0aa-46ac-8990-c8795cf4500c.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "3573668466",
-        "URL": "http://images.launchbox-app.com/2c69387c-c8b6-4499-9d5c-e2e01a8efc69.jpg"
+        "CRC32": "4083249384",
+        "URL": "http://images.launchbox-app.com/e9d7270c-d0aa-46ac-8990-c8795cf4500c.jpg"
+      },
+      {
+        "FileName": "86315a7d-eaaf-410a-84f6-58d1bbe9b480.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "791333569",
+        "URL": "http://images.launchbox-app.com/86315a7d-eaaf-410a-84f6-58d1bbe9b480.jpg"
       }
     ],
     "Other": [

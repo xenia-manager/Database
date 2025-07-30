@@ -1,11 +1,11 @@
 {
   "Name": "Autobahn Polizei",
   "DatabaseID": "8855",
-  "ReleaseDate": "2010-05-04T00:00:00-07:00",
+  "ReleaseDate": "2010-05-04T00:00:00+00:00",
   "Overview": "Featuring daring stunts, spectacular crashes, and thrilling criminal cases, you will participate in over 20 unsolved crimes and dozens of hair-raising missions. An all-new open world design allows you to choose objectives while patrolling the Autobahn, surrounding cities and rolling countryside.",
   "CommunityRating": "3",
   "ESRB": "T - Teen",
-  "Genres": " Racing; Sports",
+  "Genres": "Racing; Sports",
   "Artwork": {
     "Banner": [
       {
@@ -56,16 +56,16 @@
     ],
     "Screenshots": [
       {
-        "FileName": "d4867d30-3fa0-4832-b490-d67f10ef30e8.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "1052202044",
-        "URL": "http://images.launchbox-app.com/d4867d30-3fa0-4832-b490-d67f10ef30e8.jpg"
-      },
-      {
         "FileName": "f30ccd8a-255c-451e-aaa6-b8e1bafe356b.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "989631179",
         "URL": "http://images.launchbox-app.com/f30ccd8a-255c-451e-aaa6-b8e1bafe356b.jpg"
+      },
+      {
+        "FileName": "d4867d30-3fa0-4832-b490-d67f10ef30e8.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "1052202044",
+        "URL": "http://images.launchbox-app.com/d4867d30-3fa0-4832-b490-d67f10ef30e8.jpg"
       }
     ]
   }

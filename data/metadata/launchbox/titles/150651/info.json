@@ -1,13 +1,13 @@
 {
   "Name": "Blade Kitten",
   "DatabaseID": "150651",
-  "ReleaseDate": "2012-09-22T00:00:00-07:00",
+  "ReleaseDate": "2012-09-22T00:00:00+00:00",
   "Overview": "Welcome to Hollow Wish... On the surface, it’s your typical lawless frontier. Yet this mysterious shell planetoid is filled with dark secrets and cloaked figures. It’s here Kit Ballard works as one of the best bounty hunters in the business. Don’t let her pink hair fool you, Kit is part cat, part girl, and wholly lethal. She is one of the last of her species, having fled her homeland after the genocide of her people at the hands of the ancient and mystical race known as the Darques. \n\nKit has since made a name for herself rounding up some of the most deadly scum in the galaxy. With her unique Darque Blade hovering at her side and obeying her every command, Kit can cut through even the toughest rogue drone while hunting down soft targets. Also along for the ride is Skiffy, Kit’s laid back little sidekick who, when needed, serves as her protector. Join Kit, Skiffy and the Darque Blade in the all new action adventure game... “Blade Kitten”.",
   "VideoURL": "https://www.youtube.com/watch?v=Ucku4TwHjPk",
   "CommunityRating": "3",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Blade_Kitten",
   "ESRB": "T - Teen",
-  "Genres": " Action; Platform",
+  "Genres": "Action; Platform",
   "Developer": "Krome Studios",
   "Publisher": "Atari",
   "Artwork": {
@@ -53,10 +53,10 @@
     },
     "Screenshots": [
       {
-        "FileName": "55f37758-3530-4768-a84d-5c089fb98953.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "3254865697",
-        "URL": "http://images.launchbox-app.com/55f37758-3530-4768-a84d-5c089fb98953.jpg"
+        "FileName": "3d71f457-491d-4384-91a6-2b924e76cea5.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3344744202",
+        "URL": "http://images.launchbox-app.com/3d71f457-491d-4384-91a6-2b924e76cea5.jpg"
       },
       {
         "FileName": "102eb407-4fd4-4554-bdd0-7e526dd6fe98.jpg",
@@ -65,10 +65,10 @@
         "URL": "http://images.launchbox-app.com/102eb407-4fd4-4554-bdd0-7e526dd6fe98.jpg"
       },
       {
-        "FileName": "3d71f457-491d-4384-91a6-2b924e76cea5.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3344744202",
-        "URL": "http://images.launchbox-app.com/3d71f457-491d-4384-91a6-2b924e76cea5.jpg"
+        "FileName": "55f37758-3530-4768-a84d-5c089fb98953.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "3254865697",
+        "URL": "http://images.launchbox-app.com/55f37758-3530-4768-a84d-5c089fb98953.jpg"
       }
     ],
     "Other": [

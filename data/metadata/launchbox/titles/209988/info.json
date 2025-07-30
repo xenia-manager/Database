@@ -1,11 +1,11 @@
 {
   "Name": "War World",
   "DatabaseID": "209988",
-  "ReleaseDate": "2009-12-02T00:00:00-08:00",
+  "ReleaseDate": "2009-12-02T00:00:00+00:00",
   "Overview": "War World is a fast moving fist/third person shooter where you control a heavily armed assault mech and fight for the supremacy against powerful opponents on the faraway planet called \"War World\".",
   "CommunityRating": "3.5",
   "ESRB": "T - Teen",
-  "Genres": " Action; Adventure",
+  "Genres": "Action; Adventure",
   "Developer": "Third Wave Games",
   "Publisher": "Ubisoft",
   "Artwork": {

@@ -1,13 +1,13 @@
 {
   "Name": "Velvet Assassin",
   "DatabaseID": "868",
-  "ReleaseDate": "2009-04-30T00:00:00-07:00",
+  "ReleaseDate": "2009-04-30T00:00:00+00:00",
   "Overview": "Violette Summer managed to carry out several missions successfully before being gravely wounded by a sniper on a mission to kill Kamm, a Nazi military intelligence officer. Comatose in a hospital in France, Violette relives key moments in a series of flashbacks. \nHence the bulk of gameplay will take place during these flashbacks. The missions include blowing up a fuel depot on the Maginot Line, assassination of a colonel in a cathedral in Paris, stealing documents and marking a sub pen for bombers in Hamburg during Operation Gomorrah, and finding three secret agents in Warsaw.",
   "VideoURL": "https://www.youtube.com/watch?v=7mQlh-bbJXQ",
   "CommunityRating": "2",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Velvet_Assassin",
   "ESRB": "M - Mature",
-  "Genres": " Action; Shooter",
+  "Genres": "Action; Shooter",
   "Developer": "Replay Studios",
   "Publisher": "SouthPeak Games",
   "Artwork": {
@@ -64,17 +64,17 @@
     },
     "Disc": [
       {
+        "FileName": "38d64c05-2519-425e-893c-8aac5c83e05f.png",
+        "Type": "Disc",
+        "CRC32": "2193735193",
+        "URL": "http://images.launchbox-app.com/38d64c05-2519-425e-893c-8aac5c83e05f.png"
+      },
+      {
         "FileName": "b11f5ee1-185d-4c0b-93ff-fe1d84ec9f02.png",
         "Type": "Disc",
         "Region": "North America",
         "CRC32": "3199924380",
         "URL": "http://images.launchbox-app.com/b11f5ee1-185d-4c0b-93ff-fe1d84ec9f02.png"
-      },
-      {
-        "FileName": "38d64c05-2519-425e-893c-8aac5c83e05f.png",
-        "Type": "Disc",
-        "CRC32": "2193735193",
-        "URL": "http://images.launchbox-app.com/38d64c05-2519-425e-893c-8aac5c83e05f.png"
       }
     ],
     "Other": [

@@ -1,13 +1,13 @@
 {
   "Name": "El Shaddai: Ascension of the Metatron",
   "DatabaseID": "12472",
-  "ReleaseDate": "2011-08-16T00:00:00-07:00",
+  "ReleaseDate": "2011-08-16T00:00:00+00:00",
   "Overview": "Developed by a hugely-talented, Tokyo-based team headed by the legendary Sawaki Takeyasu (Devil May Cry) and Masato Kimura (Okami, Viewtiful Joe) El Shaddai: Ascension of the Metatron, draws players into a rich storyline inspired by events in the Old Testament's apocryphal 'Book of Enoch.' In the game, players take on the role of Enoch and must harness his natural combat skills to master a range of powerful and Heavenly weapons under the guidance of the watchful Archangels. Only then will he be able to deliver the souls of the Fallen Angels and spare the world from a great flood ordered by Heaven.",
   "VideoURL": "https://www.youtube.com/watch?v=ETzhxzeKokA",
-  "CommunityRating": "3.5714285714285716",
+  "CommunityRating": "3.57142857142857",
   "WikipediaURL": "https://en.wikipedia.org/wiki/El_Shaddai:_Ascension_of_the_Metatron",
   "ESRB": "T - Teen",
-  "Genres": " Action; Platform",
+  "Genres": "Action; Platform",
   "Developer": "UTV Ignition Entertainment",
   "Publisher": "UTV Ignition Entertainment",
   "Artwork": {
@@ -21,10 +21,10 @@
     ],
     "Background": [
       {
-        "FileName": "58fc9ba3-9857-4cd5-a2a3-e634d263b50a.jpg",
+        "FileName": "d977d766-6383-43d7-8c5e-5c2a09a247e8.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1235209308",
-        "URL": "http://images.launchbox-app.com/58fc9ba3-9857-4cd5-a2a3-e634d263b50a.jpg"
+        "CRC32": "4100699735",
+        "URL": "http://images.launchbox-app.com/d977d766-6383-43d7-8c5e-5c2a09a247e8.jpg"
       },
       {
         "FileName": "8c876506-a425-4516-ab0d-cde6e9ec549b.jpg",
@@ -33,16 +33,16 @@
         "URL": "http://images.launchbox-app.com/8c876506-a425-4516-ab0d-cde6e9ec549b.jpg"
       },
       {
+        "FileName": "58fc9ba3-9857-4cd5-a2a3-e634d263b50a.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1235209308",
+        "URL": "http://images.launchbox-app.com/58fc9ba3-9857-4cd5-a2a3-e634d263b50a.jpg"
+      },
+      {
         "FileName": "8b468466-6f4b-40d6-bc70-a1760dd68bc2.jpg",
         "Type": "Fanart - Background",
         "CRC32": "502759098",
         "URL": "http://images.launchbox-app.com/8b468466-6f4b-40d6-bc70-a1760dd68bc2.jpg"
-      },
-      {
-        "FileName": "d977d766-6383-43d7-8c5e-5c2a09a247e8.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "4100699735",
-        "URL": "http://images.launchbox-app.com/d977d766-6383-43d7-8c5e-5c2a09a247e8.jpg"
       },
       {
         "FileName": "e9bf355d-61a6-4096-a93e-b3ef9ea70825.jpg",
@@ -63,13 +63,6 @@
       ],
       "Back": [
         {
-          "FileName": "62f1866a-240f-45c6-952b-0a8a6697dc87.PNG",
-          "Type": "Box - Back",
-          "Region": "Europe",
-          "CRC32": "1329200098",
-          "URL": "http://images.launchbox-app.com/62f1866a-240f-45c6-952b-0a8a6697dc87.PNG"
-        },
-        {
           "FileName": "90f5877c-a760-4084-b95b-b15c51b31f19.jpg",
           "Type": "Box - Back",
           "Region": "North America",
@@ -77,27 +70,34 @@
           "URL": "http://images.launchbox-app.com/90f5877c-a760-4084-b95b-b15c51b31f19.jpg"
         },
         {
-          "FileName": "5f27d280-4ede-4bf3-8ba4-f15d174f4c81.PNG",
+          "FileName": "62f1866a-240f-45c6-952b-0a8a6697dc87.png",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "1329200098",
+          "URL": "http://images.launchbox-app.com/62f1866a-240f-45c6-952b-0a8a6697dc87.png"
+        },
+        {
+          "FileName": "5f27d280-4ede-4bf3-8ba4-f15d174f4c81.png",
           "Type": "Box - Back",
           "Region": "Japan",
           "CRC32": "3467608166",
-          "URL": "http://images.launchbox-app.com/5f27d280-4ede-4bf3-8ba4-f15d174f4c81.PNG"
+          "URL": "http://images.launchbox-app.com/5f27d280-4ede-4bf3-8ba4-f15d174f4c81.png"
         }
       ],
       "Front": [
+        {
+          "FileName": "1b9d7303-e5a7-45cd-a398-7a7f23bef50b.png",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "2181165872",
+          "URL": "http://images.launchbox-app.com/1b9d7303-e5a7-45cd-a398-7a7f23bef50b.png"
+        },
         {
           "FileName": "52735bb1-073f-4b1c-a673-d12b2e5f2d89.jpg",
           "Type": "Box - Front",
           "Region": "Japan",
           "CRC32": "3478265779",
           "URL": "http://images.launchbox-app.com/52735bb1-073f-4b1c-a673-d12b2e5f2d89.jpg"
-        },
-        {
-          "FileName": "1b9d7303-e5a7-45cd-a398-7a7f23bef50b.PNG",
-          "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "2181165872",
-          "URL": "http://images.launchbox-app.com/1b9d7303-e5a7-45cd-a398-7a7f23bef50b.PNG"
         },
         {
           "FileName": "294fa59d-69d1-49cb-825d-ffeb679bc5ff.jpg",
@@ -119,27 +119,21 @@
     },
     "Disc": [
       {
-        "FileName": "ce22791b-782e-4787-90d6-2e6ccfd43861.png",
-        "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "1345952751",
-        "URL": "http://images.launchbox-app.com/ce22791b-782e-4787-90d6-2e6ccfd43861.png"
-      },
-      {
         "FileName": "68af00ae-3108-4537-869a-d37355b538e0.png",
         "Type": "Disc",
         "Region": "Europe",
         "CRC32": "1899555156",
         "URL": "http://images.launchbox-app.com/68af00ae-3108-4537-869a-d37355b538e0.png"
+      },
+      {
+        "FileName": "ce22791b-782e-4787-90d6-2e6ccfd43861.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1345952751",
+        "URL": "http://images.launchbox-app.com/ce22791b-782e-4787-90d6-2e6ccfd43861.png"
       }
     ],
     "Screenshots": [
-      {
-        "FileName": "00c635a2-8fc1-4456-895c-7793119fea7a.PNG",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "2713138939",
-        "URL": "http://images.launchbox-app.com/00c635a2-8fc1-4456-895c-7793119fea7a.PNG"
-      },
       {
         "FileName": "f1ae443d-5c9a-4028-af9f-66c0eff7e7df.png",
         "Type": "Screenshot - Gameplay",
@@ -157,6 +151,12 @@
         "Type": "Screenshot - Gameplay",
         "CRC32": "359402574",
         "URL": "http://images.launchbox-app.com/dc3b90ab-79ca-425e-a5ec-f28790bf08d5.jpg"
+      },
+      {
+        "FileName": "00c635a2-8fc1-4456-895c-7793119fea7a.png",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "2713138939",
+        "URL": "http://images.launchbox-app.com/00c635a2-8fc1-4456-895c-7793119fea7a.png"
       }
     ],
     "Other": [

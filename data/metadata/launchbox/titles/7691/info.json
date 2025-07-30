@@ -1,13 +1,13 @@
 {
   "Name": "TimeShift",
   "DatabaseID": "7691",
-  "ReleaseDate": "2007-08-30T00:00:00-07:00",
+  "ReleaseDate": "2007-08-30T00:00:00+00:00",
   "Overview": "TimeShift is a 2007 first-person shooter developed by Saber Interactive and published by Sierra Entertainment for Microsoft Windows, Xbox 360, and PlayStation 3. It was developed using the Saber 3D engine, v.S-3 and Havok.[2] On August 31, 2007 a demo of TimeShift was released on Xbox Live Marketplace. A PlayStation 3 demo was then released onto the PlayStation Store on November 1, 2007. The game was released on Xbox 360 and Windows on October 30, 2007 in North America; November 1, 2007 in Australia; and November 2, 2007 in Europe.",
   "VideoURL": "https://www.youtube.com/watch?v=V0edtfhajq0",
   "CommunityRating": "3.125",
   "WikipediaURL": "https://en.wikipedia.org/wiki/TimeShift",
   "ESRB": "M - Mature",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "Saber Interactive",
   "Publisher": "Sierra Entertainment",
   "Artwork": {
@@ -45,13 +45,6 @@
       ],
       "Back": [
         {
-          "FileName": "0ccb59b2-6b17-4eea-b2c1-a5b895b216be.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
-          "CRC32": "2060938905",
-          "URL": "http://images.launchbox-app.com/0ccb59b2-6b17-4eea-b2c1-a5b895b216be.jpg"
-        },
-        {
           "FileName": "2eaf0630-4ca9-4ae7-8903-78048df97d6f.jpg",
           "Type": "Box - Back",
           "Region": "Australia",
@@ -64,9 +57,23 @@
           "Region": "United Kingdom",
           "CRC32": "4181315847",
           "URL": "http://images.launchbox-app.com/544901cb-3945-43bd-b8c0-6bc81281a46c.jpg"
+        },
+        {
+          "FileName": "0ccb59b2-6b17-4eea-b2c1-a5b895b216be.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "2060938905",
+          "URL": "http://images.launchbox-app.com/0ccb59b2-6b17-4eea-b2c1-a5b895b216be.jpg"
         }
       ],
       "Front": [
+        {
+          "FileName": "dd584baa-72e5-4679-ac76-edd5287771cb.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "582455592",
+          "URL": "http://images.launchbox-app.com/dd584baa-72e5-4679-ac76-edd5287771cb.jpg"
+        },
         {
           "FileName": "a6a25633-3ead-4b0f-9470-6cba31cdc218.jpg",
           "Type": "Box - Front",
@@ -80,13 +87,6 @@
           "Region": "Australia",
           "CRC32": "3750007712",
           "URL": "http://images.launchbox-app.com/3946ce93-cd06-433a-aecf-1eb2854b090d.jpg"
-        },
-        {
-          "FileName": "dd584baa-72e5-4679-ac76-edd5287771cb.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "582455592",
-          "URL": "http://images.launchbox-app.com/dd584baa-72e5-4679-ac76-edd5287771cb.jpg"
         }
       ],
       "Spine": [

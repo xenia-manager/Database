@@ -1,13 +1,13 @@
 {
   "Name": "Harry Potter and the Half-Blood Prince",
   "DatabaseID": "12810",
-  "ReleaseDate": "2009-06-30T00:00:00-07:00",
+  "ReleaseDate": "2009-06-30T00:00:00+00:00",
   "Overview": "Magic-minded gamers have a chance to play through the penultimate Potter picture, in the interactive interpretation of Harry Potter and the Half-Blood Prince. Based on the film and featuring characters modeled on the likenesses of its stars, the game presents missions and side-quests that lead players through the story of the sixth novel in J.K. Rowling's extraordinarily popular book series. In terms of play style, Half-Blood Prince is similar to its immediate predecessor, Order of the Phoenix. Players are free to explore Hogwarts, the sprawling arcane academy, where they will find discovery points, in key locations, that activate quests and challenges which can reveal plot information and move the story forward. \n\nPlayers can enter into wizard duels and play Quidditch in the game, and as in the book, the powerful effects of both custom-brewed potions and teenage romance can have heavy influence over the way events unfold. Half-Blood Prince features a day-night cycle, allowing players to sneak out after sundown and complete missions that might raise suspicion in the light of day. In addition to duels with students from other Hogwarts houses, players will face off against dangerous opponents such as Death Eaters and Inferi. As Gryffindor's star seeker, players will also compete for the Hogwarts Quidditch Cup. Following the story of the book, mini-games allow players to try their hand at mixing potions, using recipes from the old, annotated textbook of the mysterious Half Blood Prince.",
   "VideoURL": "https://www.youtube.com/watch?v=R_eJpQ9ROmw",
   "CommunityRating": "3.75",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Half-Blood_Prince_(video_game)",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Electronic Arts Bright Light",
   "Publisher": "Electronic Arts",
   "Artwork": {
@@ -48,17 +48,17 @@
     ],
     "Other": [
       {
+        "FileName": "3c56b6ac-4cb1-40e9-bee2-facdfbf7c6ee.png",
+        "Type": "Clear Logo",
+        "Region": "Spain",
+        "CRC32": "125309690",
+        "URL": "http://images.launchbox-app.com/3c56b6ac-4cb1-40e9-bee2-facdfbf7c6ee.png"
+      },
+      {
         "FileName": "95dfa8e9-aa07-4e42-8b95-1c99cca3371d.png",
         "Type": "Clear Logo",
         "CRC32": "3267699813",
         "URL": "http://images.launchbox-app.com/95dfa8e9-aa07-4e42-8b95-1c99cca3371d.png"
-      },
-      {
-        "FileName": "3c56b6ac-4cb1-40e9-bee2-facdfbf7c6ee.PNG",
-        "Type": "Clear Logo",
-        "Region": "Spain",
-        "CRC32": "125309690",
-        "URL": "http://images.launchbox-app.com/3c56b6ac-4cb1-40e9-bee2-facdfbf7c6ee.PNG"
       }
     ]
   }

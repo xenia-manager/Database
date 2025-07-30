@@ -1,7 +1,7 @@
 {
   "Name": "Wanted: Weapons of Fate",
   "DatabaseID": "12005",
-  "ReleaseDate": "2009-03-24T00:00:00-07:00",
+  "ReleaseDate": "2009-03-24T00:00:00+00:00",
   "Overview": "Wanted: Weapons of Fate is a video game based off the 2008 film Wanted. The game starts right where the movie left off with Wesley Gibson trying to finish up becoming an assassin. He is in search of someone known as The Immortal, and is also looking to find out more about his family.\n\nAs an assassin, the playing character (Wesley Gibson or his father, depending on the level) is given abilities that nobody else has, like \"adrenaline\" when the related bar is filled (the more kills ranked up, the higher the \"adrenaline bar\" goes). Just like in the movie, Wesley Gibson is able to curve bullets, a skill that only a handful of people have. The game includes a cover system, which is needed in order to enter Bullet Time. In Bullet Time, time around Wesley will slow down, giving him the opportunity to use his weapon skills to hunt down enemies or to find another place to hide. Next to dual-wield pistols, there are also other weapons such as a knives.\n\nAdditional playable characters and new costumes can be unlocked through codes and completing the game.",
   "CommunityRating": "4",
   "ESRB": "M - Mature",
@@ -23,16 +23,16 @@
     ],
     "Background": [
       {
-        "FileName": "a2d535b5-0b62-41cf-a91d-fefbbf1b5b59.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "608586644",
-        "URL": "http://images.launchbox-app.com/a2d535b5-0b62-41cf-a91d-fefbbf1b5b59.jpg"
-      },
-      {
         "FileName": "a0d964f9-4170-45fe-84a8-8b63eb9bad1a.jpg",
         "Type": "Fanart - Background",
         "CRC32": "795730340",
         "URL": "http://images.launchbox-app.com/a0d964f9-4170-45fe-84a8-8b63eb9bad1a.jpg"
+      },
+      {
+        "FileName": "a2d535b5-0b62-41cf-a91d-fefbbf1b5b59.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "608586644",
+        "URL": "http://images.launchbox-app.com/a2d535b5-0b62-41cf-a91d-fefbbf1b5b59.jpg"
       },
       {
         "FileName": "265742af-8001-4420-8720-889f1157704d.jpg",

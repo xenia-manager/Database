@@ -1,13 +1,13 @@
 {
   "Name": "Command & Conquer 3: Kane's Wrath",
   "DatabaseID": "21469",
-  "ReleaseDate": "2008-06-23T00:00:00-07:00",
+  "ReleaseDate": "2008-06-23T00:00:00+00:00",
   "Overview": "Command & Conquer 3: Kane's Wrath is an expansion pack for the 2007 real-time strategy video game Command & Conquer 3: Tiberium Wars. Developed by Electronic Arts Los Angeles and BreakAway Games studios, it was released on March 24, 2008 in the United States and on March 28, 2008 in Europe by publisher Electronic Arts, and was also released on June 24 for the Xbox 360.\n\nThe storyline campaign is set between the end of Tiberian Sun and the beginning of Tiberium Wars. It revolves around the seemingly immortal leader of the Brotherhood of Nod, Kane, and recounts his ascent to power after nearly escaping death in the year 2031, ending with Kane's taking over of Nod by 2047.",
   "VideoURL": "https://www.youtube.com/watch?v=zWGLxKobJsQ",
   "CommunityRating": "3.5",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Command_%26_Conquer_3:_Kane%27s_Wrath",
   "ESRB": "T - Teen",
-  "Genres": " Strategy",
+  "Genres": "Strategy",
   "Developer": "Electronic Arts",
   "Publisher": "BreakAway Games",
   "Artwork": {
@@ -30,18 +30,18 @@
     "Box": {
       "Back": [
         {
-          "FileName": "57ddb5c1-93c1-4113-ac6d-8bf0321d8a49.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
-          "CRC32": "3416575507",
-          "URL": "http://images.launchbox-app.com/57ddb5c1-93c1-4113-ac6d-8bf0321d8a49.jpg"
-        },
-        {
           "FileName": "5269fe89-5640-48f2-aa0b-660742e5ff99.jpg",
           "Type": "Box - Back",
           "Region": "North America",
           "CRC32": "3760543149",
           "URL": "http://images.launchbox-app.com/5269fe89-5640-48f2-aa0b-660742e5ff99.jpg"
+        },
+        {
+          "FileName": "57ddb5c1-93c1-4113-ac6d-8bf0321d8a49.jpg",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "3416575507",
+          "URL": "http://images.launchbox-app.com/57ddb5c1-93c1-4113-ac6d-8bf0321d8a49.jpg"
         },
         {
           "FileName": "r2_7d94b14c-73dd-45d3-a0d2-683348273157.png",
@@ -60,51 +60,51 @@
           "URL": "http://images.launchbox-app.com/r2_3ce11083-1c38-40b4-895d-2b11e7137be9.png"
         },
         {
-          "FileName": "883a8650-94da-4034-8512-6f1c09db044a.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "385099146",
-          "URL": "http://images.launchbox-app.com/883a8650-94da-4034-8512-6f1c09db044a.jpg"
-        },
-        {
           "FileName": "c4d7a286-a3d1-467e-9e8d-c45cd85ccd3a.jpg",
           "Type": "Box - Front",
           "Region": "Europe",
           "CRC32": "1607289062",
           "URL": "http://images.launchbox-app.com/c4d7a286-a3d1-467e-9e8d-c45cd85ccd3a.jpg"
+        },
+        {
+          "FileName": "883a8650-94da-4034-8512-6f1c09db044a.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "385099146",
+          "URL": "http://images.launchbox-app.com/883a8650-94da-4034-8512-6f1c09db044a.jpg"
         }
       ],
       "Spine": [
-        {
-          "FileName": "17ff683f-9402-4d1b-9f4b-0f1116fbae50.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
-          "CRC32": "1460505469",
-          "URL": "http://images.launchbox-app.com/17ff683f-9402-4d1b-9f4b-0f1116fbae50.jpg"
-        },
         {
           "FileName": "r2_af0d5284-5b38-4684-8b1e-75e4b9fda480.png",
           "Type": "Box - Spine",
           "Region": "Korea",
           "CRC32": "2121531067",
           "URL": "http://images.launchbox-app.com/r2_af0d5284-5b38-4684-8b1e-75e4b9fda480.png"
+        },
+        {
+          "FileName": "17ff683f-9402-4d1b-9f4b-0f1116fbae50.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "1460505469",
+          "URL": "http://images.launchbox-app.com/17ff683f-9402-4d1b-9f4b-0f1116fbae50.jpg"
         }
       ]
     },
     "Disc": [
-      {
-        "FileName": "ac9c1688-a01b-422e-ac39-0d2db3c0d30e.png",
-        "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "3280028763",
-        "URL": "http://images.launchbox-app.com/ac9c1688-a01b-422e-ac39-0d2db3c0d30e.png"
-      },
       {
         "FileName": "r2_816a3c67-4115-4b49-8bd5-fb34b946ac28.png",
         "Type": "Disc",
         "Region": "Korea",
         "CRC32": "4280776785",
         "URL": "http://images.launchbox-app.com/r2_816a3c67-4115-4b49-8bd5-fb34b946ac28.png"
+      },
+      {
+        "FileName": "ac9c1688-a01b-422e-ac39-0d2db3c0d30e.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "3280028763",
+        "URL": "http://images.launchbox-app.com/ac9c1688-a01b-422e-ac39-0d2db3c0d30e.png"
       }
     ],
     "Other": [

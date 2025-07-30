@@ -1,10 +1,10 @@
 {
   "Name": "The Bluecoats: North vs South",
   "DatabaseID": "187334",
-  "ReleaseDate": "2016-09-13T00:00:00-07:00",
+  "ReleaseDate": "2016-09-13T00:00:00+00:00",
   "Overview": "The Bluecoats: North vs South is a remake of the classic North & South. In this turn-based strategy game, the player takes control of the Union or the Confederacy. Move your troops in turns around a map of the USA to seize forts, harbours or railway lines. Controlling forts and railways will grant you supplies. If you attack an area where enemy troops are stationed, a tactical fight will start. Move around infantry, cavalry and artillery and win control over the area. Also included are the mini games from the original game.",
   "CommunityRating": "4.5",
-  "Genres": " Strategy",
+  "Genres": "Strategy",
   "Developer": "Little Worlds Studio",
   "Publisher": "Microïds",
   "Artwork": {
@@ -29,16 +29,10 @@
     },
     "Screenshots": [
       {
-        "FileName": "7427b694-346f-4393-8e6b-0888bb39975b.jpg",
-        "Type": "Screenshot - Game Select",
-        "CRC32": "510368371",
-        "URL": "http://images.launchbox-app.com/7427b694-346f-4393-8e6b-0888bb39975b.jpg"
-      },
-      {
-        "FileName": "fc0c833c-1d01-4955-aacd-b4b477265027.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "1608579947",
-        "URL": "http://images.launchbox-app.com/fc0c833c-1d01-4955-aacd-b4b477265027.jpg"
+        "FileName": "78958b53-994c-4215-8ba5-849ff594eeee.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "495503159",
+        "URL": "http://images.launchbox-app.com/78958b53-994c-4215-8ba5-849ff594eeee.jpg"
       },
       {
         "FileName": "029aa9fe-7ad5-4aa0-8aa1-8e76438a103d.jpg",
@@ -59,10 +53,16 @@
         "URL": "http://images.launchbox-app.com/e4aa6d3c-e655-4d8c-8ff8-e3636167cc70.jpg"
       },
       {
-        "FileName": "78958b53-994c-4215-8ba5-849ff594eeee.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "495503159",
-        "URL": "http://images.launchbox-app.com/78958b53-994c-4215-8ba5-849ff594eeee.jpg"
+        "FileName": "7427b694-346f-4393-8e6b-0888bb39975b.jpg",
+        "Type": "Screenshot - Game Select",
+        "CRC32": "510368371",
+        "URL": "http://images.launchbox-app.com/7427b694-346f-4393-8e6b-0888bb39975b.jpg"
+      },
+      {
+        "FileName": "fc0c833c-1d01-4955-aacd-b4b477265027.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "1608579947",
+        "URL": "http://images.launchbox-app.com/fc0c833c-1d01-4955-aacd-b4b477265027.jpg"
       }
     ],
     "Other": [

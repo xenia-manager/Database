@@ -1,10 +1,10 @@
 {
   "Name": "Up",
   "DatabaseID": "15143",
-  "ReleaseDate": "2009-05-26T00:00:00-07:00",
+  "ReleaseDate": "2009-05-26T00:00:00+00:00",
   "Overview": "The Up video game will take players on an exotic adventure with Carl Fredricksen and his young sidekick, Wilderness Explorer Russell, as they set off on a wild journey through the undiscovered jungles of South America. Players will be able to experience all four main characters from the movie -- Carl, Russell, Dug the lovable dog or Kevin the prehistoric bird -- while playing as a single-player or with a friend cooperatively throughout the entire game. Players will encounter exciting, new environments as they navigate through treacherous jungle terrains, battle dangerous creatures and trek the slippery slopes of the Amazonian Tepuis. In addition, the game also features multi-player game modes, including an epic level that will allow up to four players to compete in aerial combat.",
   "ESRB": "E - Everyone",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Heavy Iron Studios",
   "Publisher": "THQ",
   "Artwork": {
@@ -18,6 +18,12 @@
     ],
     "Background": [
       {
+        "FileName": "875cdf67-e3dd-4fed-93ca-b6754048d169.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2553963327",
+        "URL": "http://images.launchbox-app.com/875cdf67-e3dd-4fed-93ca-b6754048d169.jpg"
+      },
+      {
         "FileName": "51fb9f12-1441-4d77-a5f2-75a13874e263.jpg",
         "Type": "Fanart - Background",
         "CRC32": "733392029",
@@ -28,12 +34,6 @@
         "Type": "Fanart - Background",
         "CRC32": "1168369785",
         "URL": "http://images.launchbox-app.com/b68c82b9-1657-4320-922e-aefa007d6b88.jpg"
-      },
-      {
-        "FileName": "875cdf67-e3dd-4fed-93ca-b6754048d169.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2553963327",
-        "URL": "http://images.launchbox-app.com/875cdf67-e3dd-4fed-93ca-b6754048d169.jpg"
       }
     ],
     "Box": {

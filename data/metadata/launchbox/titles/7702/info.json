@@ -1,13 +1,13 @@
 {
   "Name": "Warriors Orochi 2",
   "DatabaseID": "7702",
-  "ReleaseDate": "2008-09-18T00:00:00-07:00",
+  "ReleaseDate": "2008-09-18T00:00:00+00:00",
   "Overview": "Warriors Orochi 2[4] (無双OROCHI魔王再臨 Musō Orochi Maō Sairin?, lit. Unmatched Orochi: Rebirth of the Demon Lord) is a 2008 video game developed by Koei (now Tecmo Koei) and Omega Force for the PlayStation 2. It is the sequel to Warriors Orochi, a crossover video game of the Dynasty Warriors and Samurai Warriors series. The game was released on September 23 in North America and September 19 in Europe. A version for the Xbox 360 was released on September 4, 2008 in Japan, and alongside the PS2 releases in North America and Europe. A PlayStation Portable version has been released in Japan, North America and Europe.",
   "VideoURL": "https://youtu.be/dCBKDrYSYjk?t=24",
   "CommunityRating": "3.25",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Warriors_Orochi_2",
   "ESRB": "T - Teen",
-  "Genres": " Beat 'em Up",
+  "Genres": "Beat 'em Up",
   "Developer": "Omega Force",
   "Publisher": "Koei",
   "Artwork": {
@@ -58,16 +58,16 @@
     ],
     "Screenshots": [
       {
-        "FileName": "a11cbd2f-e48f-4ce4-ae69-1828bb579c7c.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2000073265",
-        "URL": "http://images.launchbox-app.com/a11cbd2f-e48f-4ce4-ae69-1828bb579c7c.jpg"
-      },
-      {
         "FileName": "a250dcf2-7e9b-40ca-a0b5-b0cb463c7768.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "1708832308",
         "URL": "http://images.launchbox-app.com/a250dcf2-7e9b-40ca-a0b5-b0cb463c7768.jpg"
+      },
+      {
+        "FileName": "a11cbd2f-e48f-4ce4-ae69-1828bb579c7c.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2000073265",
+        "URL": "http://images.launchbox-app.com/a11cbd2f-e48f-4ce4-ae69-1828bb579c7c.jpg"
       }
     ],
     "Other": [

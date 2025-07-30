@@ -1,13 +1,13 @@
 {
   "Name": "Doom 3: BFG Edition",
   "DatabaseID": "12515",
-  "ReleaseDate": "2012-10-16T00:00:00-07:00",
+  "ReleaseDate": "2012-10-16T00:00:00+00:00",
   "Overview": "Welcome Back to Hell. The ruins of an ancient Martian civilization have unlocked the secrets to teleportation, and the UAC (Union Aerospace Corporation) will stop at nothing to harness this world-altering technology. As part of a marine detachment sent to protect the facility, your duty seemed simple enough... until the invasion. Now, in an epic clash against pure evil you must fight to understand who is with you, who is against you, and what must be done to stop this nightmare from reaching earth.\n\nDOOM 3: BFG Edition is the ultimate collection of groundbreaking games that defined the First-Person Shooter (FPS) game genre. The collection includes DOOM, DOOM 2, DOOM 3, and DOOM 3: Resurrection of Evil, as well as the 'Lost Mission.' All DOOM 3 content has been re-mastered for Xbox 360 for an even more terrifying FPS experience, and as the subtext to the edition's name suggests, all the content included feature guns and other weapons of substantial power and size.",
   "VideoURL": "https://www.youtube.com/watch?v=h8TnP-mgDoI",
-  "CommunityRating": "4.1538461538461542",
+  "CommunityRating": "4.15384615384615",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Doom_3:_BFG_Edition",
   "ESRB": "M - Mature",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "id Software",
   "Publisher": "Bethesda Softworks",
   "Artwork": {
@@ -22,18 +22,18 @@
     "Box": {
       "Front": [
         {
-          "FileName": "6833d2aa-f011-4ec8-a9c5-7c5cf9a2fec3.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "2082637838",
-          "URL": "http://images.launchbox-app.com/6833d2aa-f011-4ec8-a9c5-7c5cf9a2fec3.jpg"
-        },
-        {
           "FileName": "5a4e4acd-0c43-4e1e-80c2-b18568ce7082.jpg",
           "Type": "Box - Front",
           "Region": "Europe",
           "CRC32": "49551619",
           "URL": "http://images.launchbox-app.com/5a4e4acd-0c43-4e1e-80c2-b18568ce7082.jpg"
+        },
+        {
+          "FileName": "6833d2aa-f011-4ec8-a9c5-7c5cf9a2fec3.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2082637838",
+          "URL": "http://images.launchbox-app.com/6833d2aa-f011-4ec8-a9c5-7c5cf9a2fec3.jpg"
         }
       ]
     },

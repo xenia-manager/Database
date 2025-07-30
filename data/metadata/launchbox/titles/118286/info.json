@@ -1,13 +1,13 @@
 {
   "Name": "Guilty Gear 2: Overture",
   "DatabaseID": "118286",
-  "ReleaseDate": "2008-10-07T00:00:00-07:00",
+  "ReleaseDate": "2008-10-07T00:00:00+00:00",
   "Overview": "Pushing gameplay and entertainment to the extremes, with a splash of competitiveness - that's GUILTY GEAR 2 for you. \n\nReal Time Strategy X 3D Battle Action! Two completely different game systems carried out in a fast paced real-time environment. Be the commander of your troops, and also be the frontline hero of your army, battling enemy forces head-on while giving out commands! A whole new experience with the \"Battle X Command\"! Combine your own blend of Action and Strategy and seize victory into your hands! \n\nPlayer-controlled \"Master\" comes equipped with an arsenal of actions available! Dash across the battlefield with the Blast Drive! Chain up attack combos with the myriad attack patterns! Steps, Aerial Dashes, Special Attacks - Use them to their greatest potential to score victory! Charge your tension gauge to MAX and unleash devastating Overdrives upon your foes!",
   "VideoURL": "https://www.youtube.com/watch?v=MiJ0gZdovEM",
-  "CommunityRating": "3.4166666666666665",
+  "CommunityRating": "3.41666666666667",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Guilty_Gear_2:_Overture",
   "ESRB": "T - Teen",
-  "Genres": " Action; Adventure; Strategy",
+  "Genres": "Action; Adventure; Strategy",
   "Developer": "Arc System Works",
   "Publisher": "Arc System Works",
   "Artwork": {
@@ -65,16 +65,16 @@
     ],
     "Screenshots": [
       {
-        "FileName": "9f957331-7f86-4370-85e1-be76fe7972c9.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "1965943282",
-        "URL": "http://images.launchbox-app.com/9f957331-7f86-4370-85e1-be76fe7972c9.jpg"
-      },
-      {
         "FileName": "5122681c-dc44-4c30-b334-140d4e48922d.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "3046240458",
         "URL": "http://images.launchbox-app.com/5122681c-dc44-4c30-b334-140d4e48922d.jpg"
+      },
+      {
+        "FileName": "9f957331-7f86-4370-85e1-be76fe7972c9.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "1965943282",
+        "URL": "http://images.launchbox-app.com/9f957331-7f86-4370-85e1-be76fe7972c9.jpg"
       }
     ]
   }

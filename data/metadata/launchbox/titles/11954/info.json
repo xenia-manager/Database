@@ -1,29 +1,29 @@
 {
   "Name": "Assassin's Creed III",
   "DatabaseID": "11954",
-  "ReleaseDate": "2012-10-30T00:00:00-07:00",
+  "ReleaseDate": "2012-10-30T00:00:00+00:00",
   "Overview": "Ignite the revolution as a master assassin born of the beauty and the brutality of 18th century America. \n\nThe year is 1775. The American colonies are about to revolt. You are Connor, an assassin who has sworn to secure liberty for his people and his nation. To do so, you will hunt your enemies across a staggeringly large, open, and realistic world. You will unleash your lethal skills in a violent quest that will take you from chaotic city streets to blood-soaked battlefields in the hostile American wilderness and beyond. You will meet legendary heroes of American history, and together you will conspire to annihilate those who threaten Liberty itself. \n\nIn Assassin’s Creed III you are the warrior son of a Native American mother and British father. As a bloody revolution draws ever nearer, your clan is threatened by a powerful group seeking to crush the American Revolution and control the thirteen colonies. Shocked into action by the devastation of your village, you pledge your life to the cause of freedom, and embark on a decades-long quest to achieve it.",
   "VideoURL": "https://www.youtube.com/watch?v=z_o49YwWZUY",
-  "CommunityRating": "3.6764705882352939",
+  "CommunityRating": "3.67647058823529",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Assassin's_Creed_III",
   "ESRB": "M - Mature",
-  "Genres": " Action; Sandbox; Stealth",
+  "Genres": "Action; Sandbox; Stealth",
   "Developer": "Ubisoft Montreal",
   "Publisher": "Ubisoft",
   "Artwork": {
     "Banner": [
-      {
-        "FileName": "e712dc2e-4044-4c7f-b72c-f1baea40dfc0.png",
-        "Type": "Banner",
-        "CRC32": "2513067235",
-        "URL": "http://images.launchbox-app.com/e712dc2e-4044-4c7f-b72c-f1baea40dfc0.png"
-      },
       {
         "FileName": "9982c7af-73ee-467d-998e-8c74f307d541.jpg",
         "Type": "Banner",
         "Region": "North America",
         "CRC32": "783497607",
         "URL": "http://images.launchbox-app.com/9982c7af-73ee-467d-998e-8c74f307d541.jpg"
+      },
+      {
+        "FileName": "e712dc2e-4044-4c7f-b72c-f1baea40dfc0.png",
+        "Type": "Banner",
+        "CRC32": "2513067235",
+        "URL": "http://images.launchbox-app.com/e712dc2e-4044-4c7f-b72c-f1baea40dfc0.png"
       },
       {
         "FileName": "9a49537d-a69b-41b0-898a-9f84e8657473.png",
@@ -34,16 +34,16 @@
     ],
     "Background": [
       {
-        "FileName": "100a8310-e30c-4f15-991f-6c6fa2ea57cf.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2463251076",
-        "URL": "http://images.launchbox-app.com/100a8310-e30c-4f15-991f-6c6fa2ea57cf.jpg"
-      },
-      {
         "FileName": "e845cf37-5898-4c0e-bd97-85732bd31c35.jpg",
         "Type": "Fanart - Background",
         "CRC32": "996484697",
         "URL": "http://images.launchbox-app.com/e845cf37-5898-4c0e-bd97-85732bd31c35.jpg"
+      },
+      {
+        "FileName": "100a8310-e30c-4f15-991f-6c6fa2ea57cf.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2463251076",
+        "URL": "http://images.launchbox-app.com/100a8310-e30c-4f15-991f-6c6fa2ea57cf.jpg"
       }
     ],
     "Box": {
@@ -74,11 +74,11 @@
       ],
       "Front": [
         {
-          "FileName": "dc3641d8-bb0b-474b-ab63-e3c27256214d.png",
+          "FileName": "7e258fdd-b016-468a-9ade-ff7e4b74c011.jpg",
           "Type": "Box - Front",
-          "Region": "Germany",
-          "CRC32": "2363542005",
-          "URL": "http://images.launchbox-app.com/dc3641d8-bb0b-474b-ab63-e3c27256214d.png"
+          "Region": "North America",
+          "CRC32": "1180081665",
+          "URL": "http://images.launchbox-app.com/7e258fdd-b016-468a-9ade-ff7e4b74c011.jpg"
         },
         {
           "FileName": "73b8e679-3f4f-4b79-b3a9-22ae0318f060.jpg",
@@ -88,11 +88,11 @@
           "URL": "http://images.launchbox-app.com/73b8e679-3f4f-4b79-b3a9-22ae0318f060.jpg"
         },
         {
-          "FileName": "7e258fdd-b016-468a-9ade-ff7e4b74c011.jpg",
+          "FileName": "dc3641d8-bb0b-474b-ab63-e3c27256214d.png",
           "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "1180081665",
-          "URL": "http://images.launchbox-app.com/7e258fdd-b016-468a-9ade-ff7e4b74c011.jpg"
+          "Region": "Germany",
+          "CRC32": "2363542005",
+          "URL": "http://images.launchbox-app.com/dc3641d8-bb0b-474b-ab63-e3c27256214d.png"
         }
       ],
       "Spine": [
@@ -114,11 +114,11 @@
         "URL": "http://images.launchbox-app.com/79e00bf0-d2c8-4d81-9195-2ca158eed0a9.png"
       },
       {
-        "FileName": "e65724f7-a81e-4dab-96c0-b8eceda49f7b.png",
+        "FileName": "d375d482-0649-4222-979f-906e82cd97a6.png",
         "Type": "Disc",
-        "Region": "Europe",
-        "CRC32": "541265013",
-        "URL": "http://images.launchbox-app.com/e65724f7-a81e-4dab-96c0-b8eceda49f7b.png"
+        "Region": "North America",
+        "CRC32": "3995889276",
+        "URL": "http://images.launchbox-app.com/d375d482-0649-4222-979f-906e82cd97a6.png"
       },
       {
         "FileName": "393e4e1d-a369-4837-8c53-959b3311549a.png",
@@ -128,11 +128,11 @@
         "URL": "http://images.launchbox-app.com/393e4e1d-a369-4837-8c53-959b3311549a.png"
       },
       {
-        "FileName": "d375d482-0649-4222-979f-906e82cd97a6.png",
+        "FileName": "e65724f7-a81e-4dab-96c0-b8eceda49f7b.png",
         "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "3995889276",
-        "URL": "http://images.launchbox-app.com/d375d482-0649-4222-979f-906e82cd97a6.png"
+        "Region": "Europe",
+        "CRC32": "541265013",
+        "URL": "http://images.launchbox-app.com/e65724f7-a81e-4dab-96c0-b8eceda49f7b.png"
       }
     ],
     "Other": [

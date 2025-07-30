@@ -1,13 +1,13 @@
 {
   "Name": "Armored Core 4",
   "DatabaseID": "7138",
-  "ReleaseDate": "2007-03-20T00:00:00-07:00",
+  "ReleaseDate": "2007-03-20T00:00:00+00:00",
   "Overview": "Armored Core 4 is the 12th installment in the Armored Core series. The games are set in an alternate universe where corporations fights wars and have taken over governmental control. Due to the growth of the population, food and energy became scarce and widened the gap between the rich and the poor. Anarchy ensued and the government lost control of the situation. People turned to the corporations to provide for safety. Six corporations struggled for power and launched a full scale war, known as the Nation Dismantlement War. A new order was established and Pax Economica was introduced, a system where loyalty guaranteed food and safety.\n\nFive years after the establishment of the Pax Economica, the player takes the role of a member of the Ravens, a rebel group who wants to challenge the modern slavery by force. The player controls a giant Mech, part of a squad, which can be assembled with the available parts, and customized with weapons, paint and aesthetic options. On different locations all over the world, the player fights Mechs from the corporations in 30 missions grouped together in chapters. At the end of each level, new parts become available and the Mech can be repaired with the wages. Multiplayer is supported over the PlayStation Network and Xbox Live.",
   "VideoURL": "https://www.youtube.com/watch?v=nSsGpopK1Q4",
   "CommunityRating": "4.2",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Armored_Core_4",
   "ESRB": "T - Teen",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "FromSoftware",
   "Publisher": "Sega of America",
   "Artwork": {
@@ -60,18 +60,18 @@
       ],
       "Spine": [
         {
-          "FileName": "6e01bd8f-6db3-4707-b11d-6a9c846309ec.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
-          "CRC32": "4045797738",
-          "URL": "http://images.launchbox-app.com/6e01bd8f-6db3-4707-b11d-6a9c846309ec.jpg"
-        },
-        {
           "FileName": "a18352c0-ac23-4f40-a034-bc2bfc791526.jpg",
           "Type": "Box - Spine",
           "Region": "North America",
           "CRC32": "3671943944",
           "URL": "http://images.launchbox-app.com/a18352c0-ac23-4f40-a034-bc2bfc791526.jpg"
+        },
+        {
+          "FileName": "6e01bd8f-6db3-4707-b11d-6a9c846309ec.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "4045797738",
+          "URL": "http://images.launchbox-app.com/6e01bd8f-6db3-4707-b11d-6a9c846309ec.jpg"
         }
       ]
     },

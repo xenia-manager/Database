@@ -1,13 +1,13 @@
 {
   "Name": "Doritos Crash Course",
   "DatabaseID": "19683",
-  "ReleaseDate": "2010-12-08T00:00:00-08:00",
+  "ReleaseDate": "2010-12-08T00:00:00+00:00",
   "Overview": "Doritos Crash Course is a fast-paced, funny, obstacle course game show for your Avatar to compete against your friends and family over Xbox LIVE. Play through 15 exciting platformer levels across 3 different countries. Compete against your friends and family up to four players over Xbox LIVE and local split-screen.",
   "VideoURL": "https://www.youtube.com/watch?v=YuCFgaI_qEA",
   "CommunityRating": "3.5",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Doritos_Crash_Course",
   "ESRB": "E - Everyone",
-  "Genres": " Platform",
+  "Genres": "Platform",
   "Developer": "Wanako Studios",
   "Publisher": "Microsoft Game Studios",
   "Artwork": {

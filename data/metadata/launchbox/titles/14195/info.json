@@ -1,11 +1,11 @@
 {
   "Name": "Kinect Nat Geo TV: America the Wild",
   "DatabaseID": "14195",
-  "ReleaseDate": "2012-09-18T00:00:00-07:00",
+  "ReleaseDate": "2012-09-18T00:00:00+00:00",
   "Overview": "Part of Microsoft's \"playful learning\" initiative, Kinect Nat Geo TV uses augmented reality and motion-controlled activities to let young gamers learn and play with wildlife as they take part in interactive episodes of Nat Geo Wild TV. Players can explore habitats, take on the role of animals like bears and owls, speak up or gesture to learn more when they see something interesting, meet exotic animals, and solve mysterious puzzles. There are eight 30-minutes episodes in all, and gamers can also access archived clips of the TV series or view classic National Geographic photos.",
   "CommunityRating": "2.75",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Action",
+  "Genres": "Action",
   "Publisher": "Microsoft",
   "Artwork": {
     "Box": {
@@ -45,18 +45,18 @@
     },
     "Disc": [
       {
-        "FileName": "d6a2f027-40a8-4a4b-9d27-bc7336dbffb1.jpg",
-        "Type": "Disc",
-        "Region": "Europe",
-        "CRC32": "265841947",
-        "URL": "http://images.launchbox-app.com/d6a2f027-40a8-4a4b-9d27-bc7336dbffb1.jpg"
-      },
-      {
         "FileName": "3a9045be-5a2c-4474-b623-2e3e073b9faa.jpg",
         "Type": "Disc",
         "Region": "Europe",
         "CRC32": "86109275",
         "URL": "http://images.launchbox-app.com/3a9045be-5a2c-4474-b623-2e3e073b9faa.jpg"
+      },
+      {
+        "FileName": "d6a2f027-40a8-4a4b-9d27-bc7336dbffb1.jpg",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "265841947",
+        "URL": "http://images.launchbox-app.com/d6a2f027-40a8-4a4b-9d27-bc7336dbffb1.jpg"
       }
     ]
   }

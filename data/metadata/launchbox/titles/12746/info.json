@@ -1,27 +1,27 @@
 {
   "Name": "LEGO Harry Potter: Years 5-7",
   "DatabaseID": "12746",
-  "ReleaseDate": "2011-11-11T00:00:00-08:00",
+  "ReleaseDate": "2011-11-11T00:00:00+00:00",
   "Overview": "The LEGO version of literary and film sensation Harry Potter comes to a conclusion with Years 5-7, introducing new locales, characters, and challenges to players as they battle the forces of evil. In contrast with the first LEGO Harry Potter, Years 5-7 features more exploration, puzzle-solving sequences, and magic. In addition to Hogwarts, Diagon Alley, and Hogsmeade, players will visit such venues as Grimmauld Place, the Ministry of Magic, and Godric's Hollow as they prepare for the final confrontation with Lord Voldemort. Of course, the LEGO series is known for its humorous spin on familiar events, and players can expect the same whimsical approach to the cinematics and encounters as in previous entries.",
   "CommunityRating": "5",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Traveller's Tales (UK)",
   "Publisher": "Warner Bros. Interactive Entertainment",
   "Artwork": {
     "Background": [
+      {
+        "FileName": "95a2705f-e09d-4932-be1d-59d2e3dbdc7a.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "949017363",
+        "URL": "http://images.launchbox-app.com/95a2705f-e09d-4932-be1d-59d2e3dbdc7a.jpg"
+      },
       {
         "FileName": "d207cce2-dee7-4a00-99f5-928eeb8b4974.jpg",
         "Type": "Fanart - Background",
         "Region": "Spain",
         "CRC32": "3634163027",
         "URL": "http://images.launchbox-app.com/d207cce2-dee7-4a00-99f5-928eeb8b4974.jpg"
-      },
-      {
-        "FileName": "95a2705f-e09d-4932-be1d-59d2e3dbdc7a.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "949017363",
-        "URL": "http://images.launchbox-app.com/95a2705f-e09d-4932-be1d-59d2e3dbdc7a.jpg"
       }
     ],
     "Box": {
@@ -54,17 +54,17 @@
     ],
     "Other": [
       {
-        "FileName": "5da7efda-1fd4-4b75-97f2-5a7c099e70b3.png",
-        "Type": "Clear Logo",
-        "CRC32": "1474430488",
-        "URL": "http://images.launchbox-app.com/5da7efda-1fd4-4b75-97f2-5a7c099e70b3.png"
-      },
-      {
         "FileName": "42a66c2f-a275-4f3f-be3b-240c549834b4.png",
         "Type": "Clear Logo",
         "Region": "Spain",
         "CRC32": "2321710073",
         "URL": "http://images.launchbox-app.com/42a66c2f-a275-4f3f-be3b-240c549834b4.png"
+      },
+      {
+        "FileName": "5da7efda-1fd4-4b75-97f2-5a7c099e70b3.png",
+        "Type": "Clear Logo",
+        "CRC32": "1474430488",
+        "URL": "http://images.launchbox-app.com/5da7efda-1fd4-4b75-97f2-5a7c099e70b3.png"
       },
       {
         "FileName": "e331e81a-9574-419b-ae35-96e15f23d50b.png",

@@ -1,7 +1,7 @@
 {
   "Name": "SpongeBob's Surf & Skate Roadtrip",
   "DatabaseID": "8890",
-  "ReleaseDate": "2011-11-08T00:00:00-08:00",
+  "ReleaseDate": "2011-11-08T00:00:00+00:00",
   "Overview": "SpongeBob's Surf & Skate Roadtrip is a SpongeBob SquarePants video game developed by Blitz Games and published by THQ. It is the final SpongeBob game made by Blitz Games and the last SpongeBob game to be published by THQ.[1] It is available for Nintendo DS and Xbox 360. It is the first SpongeBob game on Xbox to use Kinect.[2]",
   "CommunityRating": "4",
   "Genres": null,
@@ -37,18 +37,18 @@
     ],
     "Other": [
       {
-        "FileName": "04d05925-a848-467a-8dd8-fc57022b517c.png",
-        "Type": "Clear Logo",
-        "Region": "Spain",
-        "CRC32": "2287019371",
-        "URL": "http://images.launchbox-app.com/04d05925-a848-467a-8dd8-fc57022b517c.png"
-      },
-      {
         "FileName": "134d615e-8451-463b-bc12-4ce8bef907f1.png",
         "Type": "Clear Logo",
         "Region": "North America",
         "CRC32": "2192404181",
         "URL": "http://images.launchbox-app.com/134d615e-8451-463b-bc12-4ce8bef907f1.png"
+      },
+      {
+        "FileName": "04d05925-a848-467a-8dd8-fc57022b517c.png",
+        "Type": "Clear Logo",
+        "Region": "Spain",
+        "CRC32": "2287019371",
+        "URL": "http://images.launchbox-app.com/04d05925-a848-467a-8dd8-fc57022b517c.png"
       }
     ]
   }

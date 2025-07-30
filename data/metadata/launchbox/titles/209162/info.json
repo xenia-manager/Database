@@ -1,10 +1,10 @@
 {
   "Name": "Breach",
   "DatabaseID": "209162",
-  "ReleaseDate": "2011-01-26T00:00:00-08:00",
+  "ReleaseDate": "2011-01-26T00:00:00+00:00",
   "Overview": "Breach is a multiplayer first-person shooter based on a CIA Special Activities Division.",
   "ESRB": "T - Teen",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "Atomic Games",
   "Artwork": {
     "Box": {

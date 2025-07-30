@@ -1,11 +1,11 @@
 {
   "Name": "Raven Squad",
   "DatabaseID": "12250",
-  "ReleaseDate": "2011-04-12T00:00:00-07:00",
+  "ReleaseDate": "2011-04-12T00:00:00+00:00",
   "Overview": "Raven Squad: Operation Hidden Dagger is a real time strategy and tactical first person shooter. It is developed by Atomic Motion and published by Evolved Games and SouthPeak Interactive. Raven Squad puts players in control of two groups of mercenary squads who have crash landed behind enemy lines in the Amazonian jungles. Each squad member has different skills which the player must use.",
-  "CommunityRating": "1.8333333333333333",
+  "CommunityRating": "1.83333333333333",
   "ESRB": "T - Teen",
-  "Genres": " Shooter; Strategy",
+  "Genres": "Shooter; Strategy",
   "Developer": "Atomic Motion",
   "Publisher": "Evolved Games",
   "Artwork": {
@@ -58,10 +58,28 @@
     ],
     "Screenshots": [
       {
-        "FileName": "f3b86c2c-d55e-4a38-9590-177d6e4079ac.jpg",
+        "FileName": "0b3afc4e-6291-4c36-b589-3bb33a5b6d17.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "1028366128",
-        "URL": "http://images.launchbox-app.com/f3b86c2c-d55e-4a38-9590-177d6e4079ac.jpg"
+        "CRC32": "3770006659",
+        "URL": "http://images.launchbox-app.com/0b3afc4e-6291-4c36-b589-3bb33a5b6d17.jpg"
+      },
+      {
+        "FileName": "47783e88-bd5a-40e1-ac8e-48f1e3c4d7c5.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "4020253007",
+        "URL": "http://images.launchbox-app.com/47783e88-bd5a-40e1-ac8e-48f1e3c4d7c5.jpg"
+      },
+      {
+        "FileName": "dee5df34-d482-4b89-a0b8-f18c36763797.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "280988311",
+        "URL": "http://images.launchbox-app.com/dee5df34-d482-4b89-a0b8-f18c36763797.jpg"
+      },
+      {
+        "FileName": "29a87174-9269-4892-a639-162b8e0477c0.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1686559100",
+        "URL": "http://images.launchbox-app.com/29a87174-9269-4892-a639-162b8e0477c0.jpg"
       },
       {
         "FileName": "d350ef2a-19cf-498a-bebb-fdb16cb127e3.jpg",
@@ -76,34 +94,16 @@
         "URL": "http://images.launchbox-app.com/591fad0a-9d47-48f7-bcae-6b1bea7cb4f1.jpg"
       },
       {
-        "FileName": "0b3afc4e-6291-4c36-b589-3bb33a5b6d17.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3770006659",
-        "URL": "http://images.launchbox-app.com/0b3afc4e-6291-4c36-b589-3bb33a5b6d17.jpg"
-      },
-      {
-        "FileName": "29a87174-9269-4892-a639-162b8e0477c0.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1686559100",
-        "URL": "http://images.launchbox-app.com/29a87174-9269-4892-a639-162b8e0477c0.jpg"
-      },
-      {
         "FileName": "fea37e14-bfb8-42db-9b80-fbec05377243.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "552116233",
         "URL": "http://images.launchbox-app.com/fea37e14-bfb8-42db-9b80-fbec05377243.jpg"
       },
       {
-        "FileName": "dee5df34-d482-4b89-a0b8-f18c36763797.jpg",
+        "FileName": "f3b86c2c-d55e-4a38-9590-177d6e4079ac.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "280988311",
-        "URL": "http://images.launchbox-app.com/dee5df34-d482-4b89-a0b8-f18c36763797.jpg"
-      },
-      {
-        "FileName": "47783e88-bd5a-40e1-ac8e-48f1e3c4d7c5.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "4020253007",
-        "URL": "http://images.launchbox-app.com/47783e88-bd5a-40e1-ac8e-48f1e3c4d7c5.jpg"
+        "CRC32": "1028366128",
+        "URL": "http://images.launchbox-app.com/f3b86c2c-d55e-4a38-9590-177d6e4079ac.jpg"
       }
     ],
     "Other": [

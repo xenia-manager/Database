@@ -1,22 +1,22 @@
 {
   "Name": "Tom Clancy's Ghost Recon: Future Soldier",
   "DatabaseID": "907",
-  "ReleaseDate": "2012-05-22T00:00:00-07:00",
+  "ReleaseDate": "2012-05-22T00:00:00+00:00",
   "Overview": "Developed by the award-winning team behind Tom Clancy's Ghost Recon Advanced Warfighter and Tom Clancy's Ghost Recon Advanced Warfighter 2, the game will feature cutting-edge technology, prototype high-tech weaponry, and state-of-the-art single-player and multiplayer modes. Tom Clancy's Ghost Recon: Future Soldier will go beyond the core Ghost Recon franchise and deliver a fresh gameplay experience, with an unparalleled level of quality that will excite long-time fans and newcomers alike.",
   "VideoURL": "https://www.youtube.com/watch?v=M0Vpx1ZqUOc",
   "CommunityRating": "4",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_Ghost_Recon:_Future_Soldier",
   "ESRB": "M - Mature",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "Ubisoft",
   "Publisher": "Ubisoft",
   "Artwork": {
     "Background": [
       {
-        "FileName": "31fbda89-37b7-4c13-9ca2-0ad192b0201f.jpg",
+        "FileName": "aa0a4cf3-098c-46d8-8c40-2d3f175fbb92.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1322872048",
-        "URL": "http://images.launchbox-app.com/31fbda89-37b7-4c13-9ca2-0ad192b0201f.jpg"
+        "CRC32": "3415890818",
+        "URL": "http://images.launchbox-app.com/aa0a4cf3-098c-46d8-8c40-2d3f175fbb92.jpg"
       },
       {
         "FileName": "d71921d1-2540-41af-928f-5fda52f42b93.jpg",
@@ -25,16 +25,10 @@
         "URL": "http://images.launchbox-app.com/d71921d1-2540-41af-928f-5fda52f42b93.jpg"
       },
       {
-        "FileName": "b64337b7-c1ce-4971-838c-e9d3c06762c6.jpg",
+        "FileName": "b0cb2536-b1e1-431b-9ba6-c5f64a539337.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3532373629",
-        "URL": "http://images.launchbox-app.com/b64337b7-c1ce-4971-838c-e9d3c06762c6.jpg"
-      },
-      {
-        "FileName": "aa0a4cf3-098c-46d8-8c40-2d3f175fbb92.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "3415890818",
-        "URL": "http://images.launchbox-app.com/aa0a4cf3-098c-46d8-8c40-2d3f175fbb92.jpg"
+        "CRC32": "1867701160",
+        "URL": "http://images.launchbox-app.com/b0cb2536-b1e1-431b-9ba6-c5f64a539337.jpg"
       },
       {
         "FileName": "a5ab4463-e5d9-4921-90ea-5abde1e3895d.jpg",
@@ -43,10 +37,16 @@
         "URL": "http://images.launchbox-app.com/a5ab4463-e5d9-4921-90ea-5abde1e3895d.jpg"
       },
       {
-        "FileName": "b0cb2536-b1e1-431b-9ba6-c5f64a539337.jpg",
+        "FileName": "31fbda89-37b7-4c13-9ca2-0ad192b0201f.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1867701160",
-        "URL": "http://images.launchbox-app.com/b0cb2536-b1e1-431b-9ba6-c5f64a539337.jpg"
+        "CRC32": "1322872048",
+        "URL": "http://images.launchbox-app.com/31fbda89-37b7-4c13-9ca2-0ad192b0201f.jpg"
+      },
+      {
+        "FileName": "b64337b7-c1ce-4971-838c-e9d3c06762c6.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3532373629",
+        "URL": "http://images.launchbox-app.com/b64337b7-c1ce-4971-838c-e9d3c06762c6.jpg"
       },
       {
         "FileName": "b71005e8-1044-4cf5-b5ac-59e91098ef16.jpg",
@@ -109,18 +109,18 @@
         "URL": "http://images.launchbox-app.com/7d9806fb-62a4-4759-a982-f54f5d4dc254.png"
       },
       {
-        "FileName": "c1b625ae-615b-4356-be2d-5006fb4f882c.jpg",
-        "Type": "Disc",
-        "Region": "United States",
-        "CRC32": "2797298648",
-        "URL": "http://images.launchbox-app.com/c1b625ae-615b-4356-be2d-5006fb4f882c.jpg"
-      },
-      {
         "FileName": "676c4d5d-155c-4ba2-a549-2b9b375cac88.jpg",
         "Type": "Disc",
         "Region": "France",
         "CRC32": "2519884420",
         "URL": "http://images.launchbox-app.com/676c4d5d-155c-4ba2-a549-2b9b375cac88.jpg"
+      },
+      {
+        "FileName": "c1b625ae-615b-4356-be2d-5006fb4f882c.jpg",
+        "Type": "Disc",
+        "Region": "United States",
+        "CRC32": "2797298648",
+        "URL": "http://images.launchbox-app.com/c1b625ae-615b-4356-be2d-5006fb4f882c.jpg"
       }
     ],
     "Other": [

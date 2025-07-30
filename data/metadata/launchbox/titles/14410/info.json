@@ -1,11 +1,11 @@
 {
   "Name": "Nike+ Kinect Training",
   "DatabaseID": "14410",
-  "ReleaseDate": "2012-10-30T00:00:00-07:00",
+  "ReleaseDate": "2012-10-30T00:00:00+00:00",
   "Overview": "Get fitter, faster and stronger with Nike+ Kinect Training, a personalized training experience built from the ground up with athletic expertise and inspiration from Nike coupled with powerful and precise technology from Kinect for Xbox 360. Nike+ Kinect Training brings world-class Nike training directly into the home to help individuals meet their fitness goals and reach their personal best.\n\nThrough the magic of Kinect, Nike+ Kinect Training can see how the body moves, assess physical strength and athleticism, identify areas for improvement, and create a personalized workout plan tailored to each person. With real-time feedback to make sure positions and movements are correct and a customized program that evolves over time, Nike+ Kinect Training is for everybody, whether a professional athlete, an everyday athlete or someone just getting started. With fitness assessments every four weeks and the ability to work out with friends over Xbox LIVE and tap into the Nike+ community, Nike+ Kinect Training helps athletes stay motivated every step of the way.1 Take training even further by competing in challenges, sending encouragement to friends and keeping workouts on track with a mobile companion app.",
   "CommunityRating": "4",
   "ESRB": "E - Everyone",
-  "Genres": " Sports",
+  "Genres": "Sports",
   "Developer": "Nike, Inc.",
   "Publisher": "Microsoft Studios",
   "Artwork": {
@@ -42,18 +42,18 @@
           "URL": "http://images.launchbox-app.com/afbac3bb-829e-4fbe-85a3-147692ac6c1a.jpg"
         },
         {
-          "FileName": "a60fed01-3d9f-460e-b08a-757b984e2756.png",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "North America",
-          "CRC32": "3058315961",
-          "URL": "http://images.launchbox-app.com/a60fed01-3d9f-460e-b08a-757b984e2756.png"
-        },
-        {
           "FileName": "75a6b4c5-06fb-459d-8c0e-5084e979bc60.png",
           "Type": "Box - Front - Reconstructed",
           "Region": "Europe",
           "CRC32": "997444510",
           "URL": "http://images.launchbox-app.com/75a6b4c5-06fb-459d-8c0e-5084e979bc60.png"
+        },
+        {
+          "FileName": "a60fed01-3d9f-460e-b08a-757b984e2756.png",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "North America",
+          "CRC32": "3058315961",
+          "URL": "http://images.launchbox-app.com/a60fed01-3d9f-460e-b08a-757b984e2756.png"
         }
       ]
     },

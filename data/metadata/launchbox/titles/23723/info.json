@@ -1,12 +1,12 @@
 {
   "Name": "Mushihimesama Futari Ver 1.5",
   "DatabaseID": "23723",
-  "ReleaseDate": "2009-11-26T00:00:00-08:00",
+  "ReleaseDate": "2009-11-26T00:00:00+00:00",
   "Overview": "Mushihimesama Futari (虫姫さまふたり Mushihime-sama Futari?, lit. \"Bug Princess Duo\"), a bullet hell shooter by Cave, was released in arcades on October 27, 2006 and as a sequel to Mushihimesama. Mushihimesama Futari was released on the Xbox 360 in Japan on November 26, 2009. In April 2012, Cave released a port of the game on the iOS platforms, titled Bug Princess 2 (Mushihimesama was also released on the platforms titled Bug Princess).\n\nThe Xbox 360 release includes Version 1.5, Novice and Arrange game modes. The player can select between original arcade graphics, and new high resolution graphics. The players can play the game in tate (vertical monitor), with numerous graphical options, including scanlines. The Xbox 360 exclusive arrange mode allows 1 player only to play through the game with special rules. If a player is a hit they do not die and instead a bomb is launched on contact (unless the player does not have any bombs), the player is allowed to switch between controlling Reco or Palm, with the non-active character ghosting alongside the active one while shooting, changing also generates a temporary shield. Selecting shot type is not available in this mode however.",
   "CommunityRating": "4.15",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Mushihimesama_Futari",
   "ESRB": "Not Rated",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "Cave",
   "Publisher": "Cave",
   "Artwork": {
@@ -49,6 +49,18 @@
     },
     "Screenshots": [
       {
+        "FileName": "39033119-da46-4a1a-be42-4df3c29d317f.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3210959454",
+        "URL": "http://images.launchbox-app.com/39033119-da46-4a1a-be42-4df3c29d317f.jpg"
+      },
+      {
+        "FileName": "5653f43e-d270-4aec-933e-cfcc053ff44c.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3992964242",
+        "URL": "http://images.launchbox-app.com/5653f43e-d270-4aec-933e-cfcc053ff44c.jpg"
+      },
+      {
         "FileName": "bceb4ee6-cd92-4fbc-8895-c4205f76ef38.jpg",
         "Type": "Screenshot - Game Select",
         "CRC32": "2504598228",
@@ -59,18 +71,6 @@
         "Type": "Screenshot - Game Title",
         "CRC32": "678162375",
         "URL": "http://images.launchbox-app.com/2ef63d04-47c9-4f35-b576-c20d3cb32600.jpg"
-      },
-      {
-        "FileName": "5653f43e-d270-4aec-933e-cfcc053ff44c.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3992964242",
-        "URL": "http://images.launchbox-app.com/5653f43e-d270-4aec-933e-cfcc053ff44c.jpg"
-      },
-      {
-        "FileName": "39033119-da46-4a1a-be42-4df3c29d317f.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3210959454",
-        "URL": "http://images.launchbox-app.com/39033119-da46-4a1a-be42-4df3c29d317f.jpg"
       }
     ],
     "Other": [

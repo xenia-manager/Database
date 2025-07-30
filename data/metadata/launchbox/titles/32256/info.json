@@ -1,45 +1,45 @@
 {
   "Name": "Spectral Force 3",
   "DatabaseID": "32256",
-  "ReleaseDate": "2008-07-29T00:00:00-07:00",
+  "ReleaseDate": "2008-07-29T00:00:00+00:00",
   "Overview": "Magic Era: 996. The ten kingdoms of the land, seizing the opportunity provided by Overlord Janus's death, are attempting to unify the continent under their own banners. This is the beginning of the Great Neverland War. In order to bolster their defenses, kingdoms have begun hiring mercenary units. As new members of the Norius Mercenaries, you and your friend Diaz are eager to prove yourselves. When the squad's commander Judo is mortally wounded in battle, the mantle of leadership is entrusted to you, and so the adventure begins...",
   "VideoURL": "http://www.youtube.com/watch?v=GM5CF9G5ug8",
   "CommunityRating": "4.5",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Spectral_Force_3",
   "ESRB": "T - Teen",
-  "Genres": " Role-Playing",
+  "Genres": "Role-Playing",
   "Developer": "Idea Factory",
   "Publisher": "Atlus",
   "Artwork": {
     "Box": {
       "Back": [
         {
-          "FileName": "f7e257c3-a214-49ce-b0c1-ee56eb0981ec.jpg",
-          "Type": "Box - Back",
-          "CRC32": "1364400194",
-          "URL": "http://images.launchbox-app.com/f7e257c3-a214-49ce-b0c1-ee56eb0981ec.jpg"
-        },
-        {
           "FileName": "57cb8a63-7443-4438-9d3a-41ce8730fe37.jpg",
           "Type": "Box - Back",
           "Region": "Japan",
           "CRC32": "3140774672",
           "URL": "http://images.launchbox-app.com/57cb8a63-7443-4438-9d3a-41ce8730fe37.jpg"
+        },
+        {
+          "FileName": "f7e257c3-a214-49ce-b0c1-ee56eb0981ec.jpg",
+          "Type": "Box - Back",
+          "CRC32": "1364400194",
+          "URL": "http://images.launchbox-app.com/f7e257c3-a214-49ce-b0c1-ee56eb0981ec.jpg"
         }
       ],
       "Front": [
+        {
+          "FileName": "e089393a-dd54-48bf-b74a-8b5f0a25c7eb.jpg",
+          "Type": "Box - Front",
+          "CRC32": "2184125025",
+          "URL": "http://images.launchbox-app.com/e089393a-dd54-48bf-b74a-8b5f0a25c7eb.jpg"
+        },
         {
           "FileName": "4f4f8c5e-03d1-48d6-ab03-e6dfe32f56f9.jpg",
           "Type": "Box - Front",
           "Region": "Japan",
           "CRC32": "3116285006",
           "URL": "http://images.launchbox-app.com/4f4f8c5e-03d1-48d6-ab03-e6dfe32f56f9.jpg"
-        },
-        {
-          "FileName": "e089393a-dd54-48bf-b74a-8b5f0a25c7eb.jpg",
-          "Type": "Box - Front",
-          "CRC32": "2184125025",
-          "URL": "http://images.launchbox-app.com/e089393a-dd54-48bf-b74a-8b5f0a25c7eb.jpg"
         }
       ],
       "Spine": [

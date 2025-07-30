@@ -4,18 +4,17 @@
   "Overview": "Farming Simulator 15 was released to Windows and Mac OS on October 30, 2014. This version introduced forestry, washable vehicles. 41 brands, amounting to around 140 pieces of equipment are in the new game, 160 in the 'gold edition' DLC pack. Farming Simulator 15 was released to consoles on May 19, 2015.[4]",
   "VideoURL": "http://www.youtube.com/watch?v=z_8POY6gHeM",
   "CommunityRating": "5",
-  "Genres": " Construction and Management Simulation",
+  "Genres": "Construction and Management Simulation",
   "Developer": "Giants Software",
   "Publisher": "Focus Home Interactive",
   "Artwork": {
     "Box": {
       "3D": [
         {
-          "FileName": "bb192c4f-0a5f-4975-b8d1-05b280b2ef98.png",
+          "FileName": "020d36ee-e759-4f94-bd3e-d459656ad9a3.png",
           "Type": "Box - 3D",
-          "Region": "North America",
-          "CRC32": "1975906927",
-          "URL": "http://images.launchbox-app.com/bb192c4f-0a5f-4975-b8d1-05b280b2ef98.png"
+          "CRC32": "17458681",
+          "URL": "http://images.launchbox-app.com/020d36ee-e759-4f94-bd3e-d459656ad9a3.png"
         },
         {
           "FileName": "35844e71-69c5-4787-a97f-4583123c3ce2.png",
@@ -25,10 +24,11 @@
           "URL": "http://images.launchbox-app.com/35844e71-69c5-4787-a97f-4583123c3ce2.png"
         },
         {
-          "FileName": "020d36ee-e759-4f94-bd3e-d459656ad9a3.png",
+          "FileName": "bb192c4f-0a5f-4975-b8d1-05b280b2ef98.png",
           "Type": "Box - 3D",
-          "CRC32": "17458681",
-          "URL": "http://images.launchbox-app.com/020d36ee-e759-4f94-bd3e-d459656ad9a3.png"
+          "Region": "North America",
+          "CRC32": "1975906927",
+          "URL": "http://images.launchbox-app.com/bb192c4f-0a5f-4975-b8d1-05b280b2ef98.png"
         }
       ],
       "Front": [

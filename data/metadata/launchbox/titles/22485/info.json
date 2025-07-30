@@ -1,28 +1,28 @@
 {
   "Name": "Assassin's Creed: Rogue",
   "DatabaseID": "22485",
-  "ReleaseDate": "2014-11-11T00:00:00-08:00",
+  "ReleaseDate": "2014-11-11T00:00:00+00:00",
   "Overview": "18th century, North America. Amidst the chaos and violence of the French and Indian War, Shay Patrick Cormac, a fearless young member of the Brotherhood of Assassin’s, undergoes a dark transformation that will forever shape the future of the American colonies. After a dangerous mission gone tragically wrong, Shay turns his back on the Assassins who, in response, attempt to end his life. Cast aside by those he once called brothers, Shay sets out on a mission to wipe out all who turned against him and ultimately become the most feared Assassin hunter in history. \n\nIntroducing Assassin’s Creed Rogue, the darkest chapter in the Assassin’s Creed franchise yet. As Shay, you will experience the slow transformation from Assassin to Assassin Hunter. Follow your own creed and set off on an extraordinary journey through New York City, the wild river valley, and far away to the icy cold waters of the North Atlantic in pursuit of your ultimate goal - bringing down the Assassins for good.",
   "VideoURL": "https://www.youtube.com/watch?v=RDeyI31pG8A",
-  "CommunityRating": "4.1818181818181817",
+  "CommunityRating": "4.18181818181818",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Assassin's_Creed_Rogue",
   "ESRB": "M - Mature",
-  "Genres": " Action; Sandbox; Stealth",
+  "Genres": "Action; Sandbox; Stealth",
   "Developer": "Ubisoft Sofia",
   "Publisher": "Ubisoft",
   "Artwork": {
     "Banner": [
       {
-        "FileName": "e1cd2c05-a7f5-4a68-ab34-7b5c2f00b326.png",
-        "Type": "Banner",
-        "CRC32": "479366125",
-        "URL": "http://images.launchbox-app.com/e1cd2c05-a7f5-4a68-ab34-7b5c2f00b326.png"
-      },
-      {
         "FileName": "704cf809-07ee-4b87-9db1-aa83f92dd6b0.png",
         "Type": "Banner",
         "CRC32": "491530864",
         "URL": "http://images.launchbox-app.com/704cf809-07ee-4b87-9db1-aa83f92dd6b0.png"
+      },
+      {
+        "FileName": "e1cd2c05-a7f5-4a68-ab34-7b5c2f00b326.png",
+        "Type": "Banner",
+        "CRC32": "479366125",
+        "URL": "http://images.launchbox-app.com/e1cd2c05-a7f5-4a68-ab34-7b5c2f00b326.png"
       }
     ],
     "Background": [
@@ -93,18 +93,18 @@
     },
     "Disc": [
       {
-        "FileName": "da07d74e-a144-436f-aded-25f9109c8722.png",
-        "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "292936603",
-        "URL": "http://images.launchbox-app.com/da07d74e-a144-436f-aded-25f9109c8722.png"
-      },
-      {
         "FileName": "c5a087e8-cac0-470a-93d9-a5700f4ef9e7.png",
         "Type": "Disc",
         "Region": "Europe",
         "CRC32": "2281740920",
         "URL": "http://images.launchbox-app.com/c5a087e8-cac0-470a-93d9-a5700f4ef9e7.png"
+      },
+      {
+        "FileName": "da07d74e-a144-436f-aded-25f9109c8722.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "292936603",
+        "URL": "http://images.launchbox-app.com/da07d74e-a144-436f-aded-25f9109c8722.png"
       }
     ],
     "Screenshots": [

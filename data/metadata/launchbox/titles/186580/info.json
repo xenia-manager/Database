@@ -1,11 +1,11 @@
 {
   "Name": "Bejeweled 2: Deluxe",
   "DatabaseID": "186580",
-  "ReleaseDate": "2005-11-22T00:00:00-08:00",
+  "ReleaseDate": "2005-11-22T00:00:00+00:00",
   "Overview": "Bejeweled 2: Deluxe is the enhanced, standalone version of the free online puzzle game of similar name. It builds on the original award-winning game, with the same basic objective of matching \"jewels\" in a grid by threes, by swapping adjacent jewels of different colors. Sharper graphics and more special effects improve the experience.\n\nAlso new to Bejeweled 2 are different play modes. There are \"Classic\" (no time limit, finite possible moves), \"Action\" (time limit, infinite moves), and \"Endless\" (no time limit, infinite moves) just for passing the time. Each mode has increasingly difficult levels. An additional \"Puzzle\" mode challenges the player with over 50 preset arrangements.\n\nBejeweled Blitz, the 60 second mode with unique power-ups, was also later added to the iPhone release of the game, where a player's score can then be uploaded to Facebook to compare with friends.",
   "CommunityRating": "4.1",
   "ESRB": "E - Everyone",
-  "Genres": " Puzzle",
+  "Genres": "Puzzle",
   "Developer": "PopCap Games",
   "Publisher": "PopCap Games",
   "Artwork": {
@@ -44,16 +44,16 @@
     },
     "Screenshots": [
       {
-        "FileName": "a2a46acc-0a74-41c1-ba5e-435a215970e6.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "3845062878",
-        "URL": "http://images.launchbox-app.com/a2a46acc-0a74-41c1-ba5e-435a215970e6.jpg"
-      },
-      {
         "FileName": "31ec5a2c-497e-4d2f-8c82-214daadb2839.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "1797783637",
         "URL": "http://images.launchbox-app.com/31ec5a2c-497e-4d2f-8c82-214daadb2839.jpg"
+      },
+      {
+        "FileName": "a2a46acc-0a74-41c1-ba5e-435a215970e6.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "3845062878",
+        "URL": "http://images.launchbox-app.com/a2a46acc-0a74-41c1-ba5e-435a215970e6.jpg"
       }
     ],
     "Other": [

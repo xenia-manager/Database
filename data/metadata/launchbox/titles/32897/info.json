@@ -1,12 +1,12 @@
 {
   "Name": "Escape Dead Island",
   "DatabaseID": "32897",
-  "ReleaseDate": "2014-11-18T00:00:00-08:00",
+  "ReleaseDate": "2014-11-18T00:00:00+00:00",
   "Overview": "Escape Dead Island is a third-person action-adventure video game with an emphasis on stealth and melee combat, with some gunplay. Players can crouch to sneak up on enemies and execute them from behind, or engage enemies in melee by swinging a melee weapon at them. Melee utilizes light attacks, heavy attacks, and a dodge move. Specific enemies can be locked onto to focus the camera and the player's attacks on them. A silenced pistol and a shotgun are available and can be aimed and fired from an over-the-shoulder third-person perspective, but ammo is limited. The game lacks the RPG-like elements of the main Dead Island games; there are no player levels, and weapon selection is non-customizable, with weapons being collected at fixed points in the game's story. As a journalist, the player character carries a camera that can be used to take pictures of significant objects in the game environment, causing the character to comment on them. The player character's deteriorating mental state plays a significant role in gameplay, with many unreal events occurring such as buildings falling from the sky, or the player abruptly transporting from one location to another when attempting to cross a room. The game uses a cel-shaded graphics style.",
   "CommunityRating": "4",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Escape_Dead_Island",
   "ESRB": "M - Mature",
-  "Genres": " Action; Adventure; Horror; Stealth",
+  "Genres": "Action; Adventure; Horror; Stealth",
   "Developer": "Fatshark",
   "Publisher": "Deep Silver",
   "Artwork": {
@@ -21,18 +21,18 @@
       ],
       "Front": [
         {
-          "FileName": "b09803fe-a520-4c40-b5ba-e3107a181636.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "1715910798",
-          "URL": "http://images.launchbox-app.com/b09803fe-a520-4c40-b5ba-e3107a181636.jpg"
-        },
-        {
           "FileName": "3c9f5dc7-5ae2-4fe2-9a1f-ab4adf088525.jpg",
           "Type": "Box - Front",
           "Region": "Europe",
           "CRC32": "2658980054",
           "URL": "http://images.launchbox-app.com/3c9f5dc7-5ae2-4fe2-9a1f-ab4adf088525.jpg"
+        },
+        {
+          "FileName": "b09803fe-a520-4c40-b5ba-e3107a181636.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1715910798",
+          "URL": "http://images.launchbox-app.com/b09803fe-a520-4c40-b5ba-e3107a181636.jpg"
         }
       ]
     },

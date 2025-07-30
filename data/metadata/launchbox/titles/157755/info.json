@@ -6,7 +6,7 @@
   "CommunityRating": "3.1",
   "WikipediaURL": "https://en.wikipedia.org/wiki/3D_Ultra_Minigolf",
   "ESRB": "E - Everyone",
-  "Genres": " Sports",
+  "Genres": "Sports",
   "Developer": "Wanako Studios",
   "Publisher": "Sierra Online",
   "Artwork": {
@@ -46,16 +46,16 @@
     },
     "Screenshots": [
       {
-        "FileName": "f4fca1ad-5922-49f8-a8ad-e2b7dba0193a.png",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "31081957",
-        "URL": "http://images.launchbox-app.com/f4fca1ad-5922-49f8-a8ad-e2b7dba0193a.png"
-      },
-      {
         "FileName": "eaa4b68c-d8b2-4cd1-96db-5b4e8d5230a3.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "4052725414",
         "URL": "http://images.launchbox-app.com/eaa4b68c-d8b2-4cd1-96db-5b4e8d5230a3.jpg"
+      },
+      {
+        "FileName": "f4fca1ad-5922-49f8-a8ad-e2b7dba0193a.png",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "31081957",
+        "URL": "http://images.launchbox-app.com/f4fca1ad-5922-49f8-a8ad-e2b7dba0193a.png"
       }
     ],
     "Other": [

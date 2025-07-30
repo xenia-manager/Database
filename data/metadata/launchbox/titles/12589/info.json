@@ -1,13 +1,13 @@
 {
   "Name": "Apache: Air Assault",
   "DatabaseID": "12589",
-  "ReleaseDate": "2010-11-16T00:00:00-08:00",
+  "ReleaseDate": "2010-11-16T00:00:00+00:00",
   "Overview": "Apache: Air Assault features more than 16 multi-stage missions involving air and ground strike operations off the coast of Africa, the mountains of the Middle East and the jungles of Central America, each meticulously created using high resolution map data from real-world satellite photography. Apache helicopters are some of the most sophisticated combat aircraft on the planet - the player gets to fly multiple variations of them, each with their own extreme firepower and highly-detailed damage modeling.",
   "VideoURL": "https://www.youtube.com/watch?v=HnPr2V0sqTA",
   "CommunityRating": "4.5",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Apache:_Air_Assault",
   "ESRB": "T - Teen",
-  "Genres": " Flight Simulator",
+  "Genres": "Flight Simulator",
   "Developer": "Gaijin Entertainment",
   "Publisher": "Activision Publishing",
   "Artwork": {
@@ -23,35 +23,35 @@
       ],
       "Front": [
         {
-          "FileName": "ead27815-1371-4e06-bacf-1aa0efbc3179.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "1331385486",
-          "URL": "http://images.launchbox-app.com/ead27815-1371-4e06-bacf-1aa0efbc3179.jpg"
-        },
-        {
           "FileName": "95fd16bf-f4ea-4e3a-936f-378ca30931e6.png",
           "Type": "Box - Front",
           "Region": "Germany",
           "CRC32": "1576379332",
           "URL": "http://images.launchbox-app.com/95fd16bf-f4ea-4e3a-936f-378ca30931e6.png"
+        },
+        {
+          "FileName": "ead27815-1371-4e06-bacf-1aa0efbc3179.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1331385486",
+          "URL": "http://images.launchbox-app.com/ead27815-1371-4e06-bacf-1aa0efbc3179.jpg"
         }
       ]
     },
     "Disc": [
-      {
-        "FileName": "6d4b7cdf-fe51-4b1c-9b90-15a48068d258.png",
-        "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "4172916155",
-        "URL": "http://images.launchbox-app.com/6d4b7cdf-fe51-4b1c-9b90-15a48068d258.png"
-      },
       {
         "FileName": "28c7db3d-b08f-4fee-acab-13eb13fc07e3.png",
         "Type": "Disc",
         "Region": "Germany",
         "CRC32": "3651495437",
         "URL": "http://images.launchbox-app.com/28c7db3d-b08f-4fee-acab-13eb13fc07e3.png"
+      },
+      {
+        "FileName": "6d4b7cdf-fe51-4b1c-9b90-15a48068d258.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "4172916155",
+        "URL": "http://images.launchbox-app.com/6d4b7cdf-fe51-4b1c-9b90-15a48068d258.png"
       }
     ],
     "Other": [

@@ -1,13 +1,13 @@
 {
   "Name": "ScreamRide",
   "DatabaseID": "25804",
-  "ReleaseDate": "2015-03-03T00:00:00-08:00",
+  "ReleaseDate": "2015-03-03T00:00:00+00:00",
   "Overview": "Screamride features more than 50 levels and three gameplay modes: Engineer, ScreamRider and Demolition Expert. In the Engineering mode, players are tasked to solve development puzzle for roller coaster and thrill rides to meet certain conditions with limited resources. In the Screamrider mode, players can ride and take control of the coasters, with an aim of keeping riders from falling off the coaster. In the Demolition Expert mode, players are tasked with demolishing environments and objects to meet various conditions in order to gain points by throwing cabins with people. All parts of the roller coaster are destructible. Removing any single part will naturally cause derailment of the coasters. Destroying the coaster will also lead to the destruction of buildings. Well placed coaster destruction could lead to explosion, chain reaction and the collapse of a skyscraper. There is also a sandbox mode, which allow players to build coasters with extreme designs with props, ride pieces and modular scenery. Players can create coasters, amusements and environments from the ground-up.\n\nAlthough the game does not feature multiplayer, it features an online leaderboard. On Xbox One, players can also take control of coasters shared and created by other players through Xbox Live. They can also race with others to ride a coaster as fast as possible and gain \"scream rating\" through the process.\n\nScreamride has been regarded by some reviewers as a \"spiritual successor\" to RollerCoaster Tycoon.",
   "VideoURL": "https://www.youtube.com/watch?v=b9GSccIrKLA",
   "CommunityRating": "3.25",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Screamride",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Puzzle",
+  "Genres": "Puzzle",
   "Developer": "Frontier Developments",
   "Publisher": "Microsoft Game Studios",
   "Artwork": {
@@ -46,18 +46,18 @@
           "URL": "http://images.launchbox-app.com/de6d5955-95bc-4694-88bd-7842fe3a39b3.jpg"
         },
         {
-          "FileName": "f330b436-fafd-4e99-95f6-1402c9214f55.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "778535202",
-          "URL": "http://images.launchbox-app.com/f330b436-fafd-4e99-95f6-1402c9214f55.jpg"
-        },
-        {
           "FileName": "0fb66c92-dc10-4905-aa94-9b268b9d717a.jpg",
           "Type": "Box - Front",
           "Region": "Europe",
           "CRC32": "1843441461",
           "URL": "http://images.launchbox-app.com/0fb66c92-dc10-4905-aa94-9b268b9d717a.jpg"
+        },
+        {
+          "FileName": "f330b436-fafd-4e99-95f6-1402c9214f55.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "778535202",
+          "URL": "http://images.launchbox-app.com/f330b436-fafd-4e99-95f6-1402c9214f55.jpg"
         },
         {
           "FileName": "a177a9fc-7dd7-4aba-bc4f-2b92a4016bd6.png",

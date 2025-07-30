@@ -1,13 +1,13 @@
 {
   "Name": "Call of Duty: Ghosts",
   "DatabaseID": "18217",
-  "ReleaseDate": "2013-11-05T00:00:00-08:00",
+  "ReleaseDate": "2013-11-05T00:00:00+00:00",
   "Overview": "Call of Duty: Ghosts takes place following a catastrophic event that changed the global balance of powers in the world. As a result, the United States is no longer recognized as a superpower. Ten years after the event, an unseen enemy emerges as a threat, but the remnants of US special forces from every branch came together to create an elite group of soldiers known as the \"Ghosts\", who are determined to eradicate all threats to protect the weak and the remains of America.",
   "VideoURL": "http://www.youtube.com/watch?v=Zxnx3W-HA18",
-  "CommunityRating": "3.6111111111111112",
+  "CommunityRating": "3.61111111111111",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Call_of_Duty:_Ghosts",
   "ESRB": "M - Mature",
-  "Genres": " Shooter; Stealth",
+  "Genres": "Shooter; Stealth",
   "Developer": "Infinity Ward",
   "Publisher": "Activision",
   "Artwork": {
@@ -33,16 +33,16 @@
         "URL": "http://images.launchbox-app.com/99bf3570-31d4-42b9-94d7-bd4f12f7ffaf.jpg"
       },
       {
-        "FileName": "cbe784d1-5333-4d23-ab7a-19125f6862d7.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "545541237",
-        "URL": "http://images.launchbox-app.com/cbe784d1-5333-4d23-ab7a-19125f6862d7.jpg"
-      },
-      {
         "FileName": "6a9301fa-dbd3-465f-898b-6bbaf21949ee.jpg",
         "Type": "Fanart - Background",
         "CRC32": "3925909173",
         "URL": "http://images.launchbox-app.com/6a9301fa-dbd3-465f-898b-6bbaf21949ee.jpg"
+      },
+      {
+        "FileName": "cbe784d1-5333-4d23-ab7a-19125f6862d7.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "545541237",
+        "URL": "http://images.launchbox-app.com/cbe784d1-5333-4d23-ab7a-19125f6862d7.jpg"
       }
     ],
     "Box": {
@@ -66,18 +66,18 @@
       ],
       "Front": [
         {
-          "FileName": "f4cebc47-0956-4646-929f-13dee83065ae.jpg",
-          "Type": "Box - Front",
-          "Region": "Germany",
-          "CRC32": "685703496",
-          "URL": "http://images.launchbox-app.com/f4cebc47-0956-4646-929f-13dee83065ae.jpg"
-        },
-        {
           "FileName": "4d490557-42b4-46cc-be48-d92d432b8579.jpg",
           "Type": "Box - Front",
           "Region": "North America",
           "CRC32": "3893211051",
           "URL": "http://images.launchbox-app.com/4d490557-42b4-46cc-be48-d92d432b8579.jpg"
+        },
+        {
+          "FileName": "f4cebc47-0956-4646-929f-13dee83065ae.jpg",
+          "Type": "Box - Front",
+          "Region": "Germany",
+          "CRC32": "685703496",
+          "URL": "http://images.launchbox-app.com/f4cebc47-0956-4646-929f-13dee83065ae.jpg"
         }
       ],
       "Spine": [

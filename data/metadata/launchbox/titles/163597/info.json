@@ -1,10 +1,10 @@
 {
   "Name": "Ougon Musou Kyoku X",
   "DatabaseID": "163597",
-  "ReleaseDate": "2011-10-06T00:00:00-07:00",
+  "ReleaseDate": "2011-10-06T00:00:00+00:00",
   "VideoURL": "https://www.youtube.com/watch?v=7yzL8Xy-4Y0",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Umineko:_Golden_Fantasia",
-  "Genres": " Fighting",
+  "Genres": "Fighting",
   "Developer": "07th Expansion",
   "Publisher": "Alchemist",
   "Artwork": {

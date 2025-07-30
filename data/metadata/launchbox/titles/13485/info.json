@@ -1,9 +1,9 @@
 {
   "Name": "The Hip Hop Dance Experience",
   "DatabaseID": "13485",
-  "ReleaseDate": "2012-11-13T00:00:00-08:00",
+  "ReleaseDate": "2012-11-13T00:00:00+00:00",
   "Overview": "The Hip Hop Dance Experience is a dancing game for the Wii and Xbox 360 published by Ubisoft. It is a continuation of The Experience franchise, a spin-off of the Just Dance series.",
-  "Genres": " Music",
+  "Genres": "Music",
   "Artwork": {
     "Box": {
       "3D": [

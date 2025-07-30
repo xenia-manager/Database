@@ -1,11 +1,11 @@
 {
   "Name": "Domino Master",
   "DatabaseID": "209322",
-  "ReleaseDate": "2010-01-05T00:00:00-08:00",
+  "ReleaseDate": "2010-01-05T00:00:00+00:00",
   "Overview": "Upgrade now to unlock the full-featured, multiplayer Domino Master game! Play against friends and family, or challenge the world on Xbox LIVE. The full version also includes achievements, leaderboards, and LiveVision support!",
   "CommunityRating": "3.875",
   "ESRB": "E - Everyone",
-  "Genres": " Board Game",
+  "Genres": "Board Game",
   "Developer": "TikGames",
   "Publisher": "Microsoft Studios",
   "Artwork": {

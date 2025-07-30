@@ -1,12 +1,12 @@
 {
   "Name": "Viva Piñata: Party Animals",
   "DatabaseID": "13299",
-  "ReleaseDate": "2007-10-30T00:00:00-07:00",
+  "ReleaseDate": "2007-10-30T00:00:00+00:00",
   "Overview": "Full description\n\nA multiplayer game expanding the Viva Pinata experience. Compete in a variety of zany battles and races in the social party game Viva Piñata: Party Animals. Control the fame, fortune, and destiny of all your favorite characters from Viva Piñata: Fergy Fudgehog, Paulie Pretztail, Franklin Fizzlybear, and Hudson Horstachio. It's party time!",
   "CommunityRating": "3.4",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Viva_Pi%C3%B1ata:_Party_Animals",
   "ESRB": "E - Everyone",
-  "Genres": " Party",
+  "Genres": "Party",
   "Developer": "Krome Studios",
   "Publisher": "Microsoft Game Studios",
   "Artwork": {

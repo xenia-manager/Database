@@ -1,12 +1,12 @@
 {
   "Name": "SCORE International Baja 1000",
   "DatabaseID": "16457",
-  "ReleaseDate": "2008-10-28T00:00:00-07:00",
+  "ReleaseDate": "2008-10-28T00:00:00+00:00",
   "Overview": "SCORE International Baja 1000 is a video game developed by Left Field Productions and published by Activision. It is a racing game based on the SCORE International Baja 1000 off-road race. The game is available for Xbox 360, PlayStation 3, PlayStation 2, Windows and Wii.",
   "VideoURL": "https://www.youtube.com/watch?v=8pMrJfPT5es",
   "CommunityRating": "3.25",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Racing",
+  "Genres": "Racing",
   "Developer": "Left Field Productions",
   "Publisher": "Activision",
   "Artwork": {
@@ -21,18 +21,18 @@
       ],
       "Back": [
         {
-          "FileName": "5246f527-a854-4e12-b513-368c290745bf.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
-          "CRC32": "961140761",
-          "URL": "http://images.launchbox-app.com/5246f527-a854-4e12-b513-368c290745bf.jpg"
-        },
-        {
           "FileName": "d891ddcb-10cf-4822-8175-52acac8ba420.jpg",
           "Type": "Box - Back",
           "Region": "North America",
           "CRC32": "961140761",
           "URL": "http://images.launchbox-app.com/d891ddcb-10cf-4822-8175-52acac8ba420.jpg"
+        },
+        {
+          "FileName": "5246f527-a854-4e12-b513-368c290745bf.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "961140761",
+          "URL": "http://images.launchbox-app.com/5246f527-a854-4e12-b513-368c290745bf.jpg"
         }
       ],
       "Front": [
@@ -45,18 +45,18 @@
       ],
       "Spine": [
         {
-          "FileName": "dcc67fb6-f2dc-4e22-89ba-30a35a1b982e.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
-          "CRC32": "3800574250",
-          "URL": "http://images.launchbox-app.com/dcc67fb6-f2dc-4e22-89ba-30a35a1b982e.jpg"
-        },
-        {
           "FileName": "809d28f3-06b2-4050-8bdf-d688b984f235.jpg",
           "Type": "Box - Spine",
           "Region": "North America",
           "CRC32": "3800574250",
           "URL": "http://images.launchbox-app.com/809d28f3-06b2-4050-8bdf-d688b984f235.jpg"
+        },
+        {
+          "FileName": "dcc67fb6-f2dc-4e22-89ba-30a35a1b982e.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "3800574250",
+          "URL": "http://images.launchbox-app.com/dcc67fb6-f2dc-4e22-89ba-30a35a1b982e.jpg"
         }
       ]
     },

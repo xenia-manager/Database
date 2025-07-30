@@ -1,12 +1,12 @@
 {
   "Name": "LEGO The Lord of the Rings",
   "DatabaseID": "12291",
-  "ReleaseDate": "2012-11-13T00:00:00-08:00",
+  "ReleaseDate": "2012-11-13T00:00:00+00:00",
   "Overview": "LEGO The Lord of the Rings takes players along on the adventures of Frodo Baggins and his unlikely fellowship as they set out on a perilous journey to destroy The One Ring and save Middle-earth. Kids, tweens, teens and parents can traverse the Misty Mountains, explore the Mines of Moria, knock on the Black Gate of Mordor, and partake in epic battles with Orcs, Uruk-hai, the Balrog and other fearsome foes while harnessing the humor and imagination of LEGO gameplay to solve puzzles and explore Middle-earth. Players will take on the form of their favorite members of the fellowship – Frodo the Hobbit, Aragorn the Ranger, Gandalf the Wizard, Legolas the Elf, Gimli the Dwarf, Boromir a Man of Gondor, and Frodo's Hobbit friends Sam, Merry and Pippin – as they relive the most momentous events from the films.",
   "VideoURL": "http://www.youtube.com/watch?v=5hOVFJRBqEw",
-  "CommunityRating": "3.8571428571428572",
+  "CommunityRating": "3.85714285714286",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Action; Adventure",
+  "Genres": "Action; Adventure",
   "Developer": "Traveller's Tales (UK)",
   "Publisher": "Warner Bros. Interactive Entertainment",
   "Artwork": {
@@ -65,17 +65,17 @@
     ],
     "Other": [
       {
-        "FileName": "1bd1bb39-a58f-4afa-851a-4997b54a37a2.png",
-        "Type": "Clear Logo",
-        "CRC32": "1958639791",
-        "URL": "http://images.launchbox-app.com/1bd1bb39-a58f-4afa-851a-4997b54a37a2.png"
-      },
-      {
         "FileName": "1fa564c3-745f-49f5-aa4b-155cf4839d97.png",
         "Type": "Clear Logo",
         "Region": "Spain",
         "CRC32": "523495602",
         "URL": "http://images.launchbox-app.com/1fa564c3-745f-49f5-aa4b-155cf4839d97.png"
+      },
+      {
+        "FileName": "1bd1bb39-a58f-4afa-851a-4997b54a37a2.png",
+        "Type": "Clear Logo",
+        "CRC32": "1958639791",
+        "URL": "http://images.launchbox-app.com/1bd1bb39-a58f-4afa-851a-4997b54a37a2.png"
       }
     ]
   }

@@ -1,9 +1,9 @@
 {
   "Name": "Send In Jimmy",
   "DatabaseID": "216170",
-  "ReleaseDate": "2011-06-22T00:00:00-07:00",
+  "ReleaseDate": "2011-06-22T00:00:00+00:00",
   "VideoURL": "https://www.youtube.com/watch?v=iYB82WTI5AA",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "Stamp",
   "Publisher": "Stamp",
   "Artwork": {

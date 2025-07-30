@@ -1,11 +1,11 @@
 {
   "Name": "Bullet Soul: Tama Tamashii",
   "DatabaseID": "23932",
-  "ReleaseDate": "2011-04-07T00:00:00-07:00",
+  "ReleaseDate": "2011-04-07T00:00:00+00:00",
   "Overview": "A brand-new recipe for the shooting genre which rewards survival through aggressive play. Blending classic shooting game design with a solid dash of modern day bullet hell, this soul food dish has it all! Destroy enemies at close quarters to build your multiplier, and see their bullets rendered harmless. Scour the stages for secret bonuses to push your score to even greater heights.\nBringing even more heat are Resonator: the moniker of aural wizards Kenji 'Itoken' Ito and Kohta Takahashi, setting fire to your speakers with their tunes. Last but not least, Akio Watanabe lends his skills to the scene, bringing forth some fresh character designs.\n\nBullet Soul arrives on Steam at last!\nFeatures here:\n4 different modes, including both DLC from the Xbox 360 original\n3 different ships, and a hidden second loop, complete with true last boss on Normal Mode\nPractice and perfect your score stage by stage in Bancho Mode\nRace the clock and the world's best scores in Caravan Mode\nA 4th ship and further refined gameplay in Version B \nLeaderboards divided by mode & ship with friend filters\nIncludes tate/vertical screen mode with X/Y scaling and smoothing",
   "CommunityRating": "3.5",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Racing; Shooter",
+  "Genres": "Racing; Shooter",
   "Developer": "Tachyon Inc.",
   "Publisher": "5pb.",
   "Artwork": {
@@ -46,18 +46,18 @@
       ],
       "Front": [
         {
-          "FileName": "43146751-6432-4bec-890d-d2944a68c08f.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
-          "CRC32": "237316072",
-          "URL": "http://images.launchbox-app.com/43146751-6432-4bec-890d-d2944a68c08f.jpg"
-        },
-        {
           "FileName": "e1f8f315-d220-4f57-bcfd-5a3b7635c368.jpg",
           "Type": "Box - Front",
           "Region": "World",
           "CRC32": "2859700788",
           "URL": "http://images.launchbox-app.com/e1f8f315-d220-4f57-bcfd-5a3b7635c368.jpg"
+        },
+        {
+          "FileName": "43146751-6432-4bec-890d-d2944a68c08f.jpg",
+          "Type": "Box - Front",
+          "Region": "Japan",
+          "CRC32": "237316072",
+          "URL": "http://images.launchbox-app.com/43146751-6432-4bec-890d-d2944a68c08f.jpg"
         }
       ],
       "Spine": [
@@ -81,30 +81,6 @@
     ],
     "Screenshots": [
       {
-        "FileName": "e052ba77-b436-4281-b113-68cbe63c15de.png",
-        "Type": "Screenshot - Game Select",
-        "CRC32": "3289106047",
-        "URL": "http://images.launchbox-app.com/e052ba77-b436-4281-b113-68cbe63c15de.png"
-      },
-      {
-        "FileName": "427a1596-55de-4a7a-b4aa-fee1a035e2f1.png",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "1210499411",
-        "URL": "http://images.launchbox-app.com/427a1596-55de-4a7a-b4aa-fee1a035e2f1.png"
-      },
-      {
-        "FileName": "fc199884-b894-4ab2-ba1f-33b91fd1bf22.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2009696332",
-        "URL": "http://images.launchbox-app.com/fc199884-b894-4ab2-ba1f-33b91fd1bf22.jpg"
-      },
-      {
-        "FileName": "89b0bf31-cb1c-4b77-b365-591175cd804c.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1103702556",
-        "URL": "http://images.launchbox-app.com/89b0bf31-cb1c-4b77-b365-591175cd804c.jpg"
-      },
-      {
         "FileName": "654ddcad-1f99-49f2-9fbd-8e922919c3af.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "2365000566",
@@ -115,6 +91,30 @@
         "Type": "Screenshot - Gameplay",
         "CRC32": "3424553864",
         "URL": "http://images.launchbox-app.com/1d1ad7c4-91d1-4622-be8d-e62432f6f3e9.jpg"
+      },
+      {
+        "FileName": "89b0bf31-cb1c-4b77-b365-591175cd804c.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1103702556",
+        "URL": "http://images.launchbox-app.com/89b0bf31-cb1c-4b77-b365-591175cd804c.jpg"
+      },
+      {
+        "FileName": "fc199884-b894-4ab2-ba1f-33b91fd1bf22.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2009696332",
+        "URL": "http://images.launchbox-app.com/fc199884-b894-4ab2-ba1f-33b91fd1bf22.jpg"
+      },
+      {
+        "FileName": "e052ba77-b436-4281-b113-68cbe63c15de.png",
+        "Type": "Screenshot - Game Select",
+        "CRC32": "3289106047",
+        "URL": "http://images.launchbox-app.com/e052ba77-b436-4281-b113-68cbe63c15de.png"
+      },
+      {
+        "FileName": "427a1596-55de-4a7a-b4aa-fee1a035e2f1.png",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "1210499411",
+        "URL": "http://images.launchbox-app.com/427a1596-55de-4a7a-b4aa-fee1a035e2f1.png"
       }
     ],
     "Other": [

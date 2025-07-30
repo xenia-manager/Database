@@ -1,10 +1,10 @@
 {
   "Name": "The Walking Dead: Episode 2: Starved for Help",
   "DatabaseID": "14562",
-  "ReleaseDate": "2012-06-27T00:00:00-07:00",
+  "ReleaseDate": "2012-06-27T00:00:00+00:00",
   "Overview": "The episodic experts at Telltale Games return, this time putting players in the middle of a zombie apocalypse based on the popular comic and television show The Walking Dead. This series differs from many other episodic games in that players have a limited amount of time to make their decisions, and the choices they make have permanent, lasting effects. Episode 2 -- \"Starved for Help\" finds Lee, Clementine, and their group in dire need of food and water as they take shelter at the farm of Andrew St. John, all while contending with walker hordes and living bandits.",
   "ESRB": "M - Mature",
-  "Genres": " Adventure",
+  "Genres": "Adventure",
   "Artwork": {
     "Box": {
       "Front": [

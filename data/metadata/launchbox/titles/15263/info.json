@@ -1,12 +1,12 @@
 {
   "Name": "Red Dead Redemption: Undead Nightmare",
   "DatabaseID": "15263",
-  "ReleaseDate": "2010-11-23T00:00:00-08:00",
+  "ReleaseDate": "2010-11-23T00:00:00+00:00",
   "Overview": "The Red Dead Redemption: Undead Nightmare Collection will combine the Legends and Killers Pack, Liars and Cheats Pack, and the Undead Nightmare Pack, putting additional single player and multiplayer content in one box at a value price for the Best Selling Game of the Year.",
   "VideoURL": "http://www.youtube.com/watch?v=0Di2eOr-kqs",
   "CommunityRating": "4.575",
   "ESRB": "M - Mature",
-  "Genres": " Action; Adventure; Horror; Sandbox; Shooter",
+  "Genres": "Action; Adventure; Horror; Sandbox; Shooter",
   "Artwork": {
     "Background": [
       {
@@ -37,6 +37,13 @@
       ],
       "Front": [
         {
+          "FileName": "977b3c69-7cfe-4448-a6c0-b352616c0c9b.png",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "3160574821",
+          "URL": "http://images.launchbox-app.com/977b3c69-7cfe-4448-a6c0-b352616c0c9b.png"
+        },
+        {
           "FileName": "a6ad6295-20f8-40a4-8ca2-90fea7c8a42e.jpg",
           "Type": "Box - Front",
           "Region": "North America",
@@ -49,17 +56,22 @@
           "Region": "North America",
           "CRC32": "3729509272",
           "URL": "http://images.launchbox-app.com/35fcf2f0-9aa2-4d57-8b46-ff2d9ab02107.jpg"
-        },
-        {
-          "FileName": "977b3c69-7cfe-4448-a6c0-b352616c0c9b.png",
-          "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "3160574821",
-          "URL": "http://images.launchbox-app.com/977b3c69-7cfe-4448-a6c0-b352616c0c9b.png"
         }
       ]
     },
     "Screenshots": [
+      {
+        "FileName": "3bf9f836-84a0-449c-bddf-527518603c35.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3267865651",
+        "URL": "http://images.launchbox-app.com/3bf9f836-84a0-449c-bddf-527518603c35.jpg"
+      },
+      {
+        "FileName": "885e7eae-9305-44c6-a6af-e49fdacbc5b8.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2583342103",
+        "URL": "http://images.launchbox-app.com/885e7eae-9305-44c6-a6af-e49fdacbc5b8.jpg"
+      },
       {
         "FileName": "909f8172-9ac4-4ab1-9ca9-1ecb1e7e4dda.jpg",
         "Type": "Screenshot - Gameplay",
@@ -71,18 +83,6 @@
         "Type": "Screenshot - Gameplay",
         "CRC32": "26937513",
         "URL": "http://images.launchbox-app.com/90161c99-8ac5-4282-925f-4257a2d8075b.jpg"
-      },
-      {
-        "FileName": "885e7eae-9305-44c6-a6af-e49fdacbc5b8.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2583342103",
-        "URL": "http://images.launchbox-app.com/885e7eae-9305-44c6-a6af-e49fdacbc5b8.jpg"
-      },
-      {
-        "FileName": "3bf9f836-84a0-449c-bddf-527518603c35.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3267865651",
-        "URL": "http://images.launchbox-app.com/3bf9f836-84a0-449c-bddf-527518603c35.jpg"
       }
     ],
     "Other": [

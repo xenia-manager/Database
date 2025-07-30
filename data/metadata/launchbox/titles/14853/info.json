@@ -1,13 +1,13 @@
 {
   "Name": "Air Conflicts: Pacific Carriers",
   "DatabaseID": "14853",
-  "ReleaseDate": "2012-09-21T00:00:00-07:00",
+  "ReleaseDate": "2012-09-21T00:00:00+00:00",
   "Overview": "Air Conflicts: Pacific Carriers is an arcade flight simulator and the successor to Air Conflicts: Secret Wars. Players choose to fight for the US Navy or for the Japanese Imperial Navy. The game contains five battles in each campaign with different missions and extra quests. The battles represent some battles of World War II (Battle of Midway, Pearl Harbor, Wake Island Raids ... ). For multiplayer there are different types of gameplay such as deathmatch, team deathmatch, capture the flag, survival mode and more. Improvements over the original game include a larger game environment and more detailed ship models. As a commander, players can take control of an entire squadron instead of directing just a single plane.",
   "VideoURL": "https://www.youtube.com/watch?v=M-SJeyntQpE",
-  "CommunityRating": "2.8333333333333335",
+  "CommunityRating": "2.83333333333333",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Air_Conflicts:_Pacific_Carriers",
   "ESRB": "T - Teen",
-  "Genres": " Flight Simulator; Shooter",
+  "Genres": "Flight Simulator; Shooter",
   "Developer": "Games Farm",
   "Publisher": "bitComposer Entertainment",
   "Artwork": {
@@ -23,18 +23,18 @@
       ],
       "Front": [
         {
-          "FileName": "e40223ad-4047-4e70-9bd2-727c143a14ad.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "2479767065",
-          "URL": "http://images.launchbox-app.com/e40223ad-4047-4e70-9bd2-727c143a14ad.jpg"
-        },
-        {
           "FileName": "6aa5a726-313d-4b52-874c-f377a0506064.jpg",
           "Type": "Box - Front",
           "Region": "Europe",
           "CRC32": "3857429729",
           "URL": "http://images.launchbox-app.com/6aa5a726-313d-4b52-874c-f377a0506064.jpg"
+        },
+        {
+          "FileName": "e40223ad-4047-4e70-9bd2-727c143a14ad.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "2479767065",
+          "URL": "http://images.launchbox-app.com/e40223ad-4047-4e70-9bd2-727c143a14ad.jpg"
         }
       ]
     },

@@ -1,12 +1,12 @@
 {
   "Name": "LEGO Marvel Avengers",
   "DatabaseID": "34837",
-  "ReleaseDate": "2016-01-26T00:00:00-08:00",
+  "ReleaseDate": "2016-01-26T00:00:00+00:00",
   "Overview": "Avengers Assemble! Experience the first console videogame featuring characters and storylines from the blockbuster film Marvel’s The Avengers and the much anticipated sequel Marvel’s Avengers: Age of Ultron, and more. Play as the most powerful Super Heroes in their quest to save humanity.",
   "CommunityRating": "3.5",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Lego_Marvel%27s_Avengers",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Action; Adventure",
+  "Genres": "Action; Adventure",
   "Developer": "Traveller's Tales (UK)",
   "Publisher": "Warner Bros. Interactive Entertainment",
   "Artwork": {

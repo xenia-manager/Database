@@ -1,12 +1,12 @@
 {
   "Name": "LEGO Star Wars III: The Clone Wars",
   "DatabaseID": "12773",
-  "ReleaseDate": "2011-03-22T00:00:00-07:00",
+  "ReleaseDate": "2011-03-22T00:00:00+00:00",
   "Overview": "Lego Star Wars III: The Clone Wars is similar to the previous titles in the series. Up to two players switch between different characters in order to fight enemies, solve puzzles, and progress through various levels. It introduces a few novelties, including scene swap, where players can switch between teams in separate locations to complete multi-part objectives, and boss battles. The game also features some real-time strategy elements, such as commanding large ground armies across battlefields.",
   "VideoURL": "http://www.youtube.com/watch?v=njc9TkwoorM",
   "CommunityRating": "2.875",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Traveller's Tales",
   "Publisher": "LucasArts",
   "Artwork": {
@@ -38,18 +38,18 @@
       ],
       "Front": [
         {
-          "FileName": "fb76c426-792d-4a76-83a9-4a2d29638a8e.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "2130523839",
-          "URL": "http://images.launchbox-app.com/fb76c426-792d-4a76-83a9-4a2d29638a8e.jpg"
-        },
-        {
           "FileName": "897cd8d8-5282-481e-a3c5-45a87635b047.jpg",
           "Type": "Box - Front",
           "Region": "Europe",
           "CRC32": "2821793532",
           "URL": "http://images.launchbox-app.com/897cd8d8-5282-481e-a3c5-45a87635b047.jpg"
+        },
+        {
+          "FileName": "fb76c426-792d-4a76-83a9-4a2d29638a8e.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "2130523839",
+          "URL": "http://images.launchbox-app.com/fb76c426-792d-4a76-83a9-4a2d29638a8e.jpg"
         }
       ],
       "Spine": [

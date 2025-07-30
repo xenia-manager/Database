@@ -1,13 +1,13 @@
 {
   "Name": "Singularity",
   "DatabaseID": "12945",
-  "ReleaseDate": "2010-07-29T00:00:00-07:00",
+  "ReleaseDate": "2010-07-29T00:00:00+00:00",
   "Overview": "Singularity takes place on a fictional island known as Katorga-12, where Russian experiments involving Element 99 took place during the height of the Cold War. In 1955, a catastrophe involving experiments attempting to form a \"Singularity\" occurred on the island, causing the island's existence to be covered up by the Russian government.",
   "VideoURL": "https://www.youtube.com/watch?v=olxRUGhWKuA",
-  "CommunityRating": "3.1666666666666665",
+  "CommunityRating": "3.16666666666667",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Singularity_(video_game)",
   "ESRB": "M - Mature",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "Raven Software",
   "Publisher": "Activision",
   "Artwork": {
@@ -39,18 +39,18 @@
       ],
       "Front": [
         {
-          "FileName": "ddf5cf14-7b5a-47dc-b5cc-5f5709b6d0cb.jpg",
-          "Type": "Box - Front",
-          "Region": "United Kingdom",
-          "CRC32": "1944665211",
-          "URL": "http://images.launchbox-app.com/ddf5cf14-7b5a-47dc-b5cc-5f5709b6d0cb.jpg"
-        },
-        {
           "FileName": "347955ca-4020-4c97-b912-68908989d3fe.jpg",
           "Type": "Box - Front",
           "Region": "North America",
           "CRC32": "2033663916",
           "URL": "http://images.launchbox-app.com/347955ca-4020-4c97-b912-68908989d3fe.jpg"
+        },
+        {
+          "FileName": "ddf5cf14-7b5a-47dc-b5cc-5f5709b6d0cb.jpg",
+          "Type": "Box - Front",
+          "Region": "United Kingdom",
+          "CRC32": "1944665211",
+          "URL": "http://images.launchbox-app.com/ddf5cf14-7b5a-47dc-b5cc-5f5709b6d0cb.jpg"
         }
       ]
     },

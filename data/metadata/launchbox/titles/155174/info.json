@@ -1,12 +1,12 @@
 {
   "Name": "IonBall",
   "DatabaseID": "155174",
-  "ReleaseDate": "2011-02-14T00:00:00-08:00",
+  "ReleaseDate": "2011-02-14T00:00:00+00:00",
   "Overview": "IonBall is a classic breakout game with a modern twist. Battle through 35 levels and 7 boss battles. IonBall applies an experience points-based system to aid the player's progress. Bigger bat, or increased damage, you decide.",
   "VideoURL": "https://www.youtube.com/watch?v=3ywFix6ATUw",
   "CommunityRating": "5",
   "ESRB": "Not Rated",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Ironsun Studios Limited",
   "Publisher": "Ironsun Studios Limited",
   "Artwork": {

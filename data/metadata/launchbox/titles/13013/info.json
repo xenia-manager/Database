@@ -1,13 +1,13 @@
 {
   "Name": "Midway Arcade Origins",
   "DatabaseID": "13013",
-  "ReleaseDate": "2012-11-13T00:00:00-08:00",
+  "ReleaseDate": "2012-11-13T00:00:00+00:00",
   "Overview": "Midway Arcade Origins is an arcade compilation released on November 6, 2012 in North America and in Australia. It is the successor to the Midway Arcade Treasures series, and includes a selection of games that were included in those compilations, with the sole exception of Vindicators Part II which was not included before.",
   "VideoURL": "http://www.youtube.com/watch?v=dRJCRgrBr8c",
   "CommunityRating": "4.5",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Midway_Arcade_Origins",
   "ESRB": "T - Teen",
-  "Genres": " Compilation",
+  "Genres": "Compilation",
   "Developer": "Backbone Entertainment",
   "Publisher": "Warner Bros. Interactive Entertainment",
   "Artwork": {

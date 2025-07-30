@@ -1,9 +1,9 @@
 {
   "Name": "Backbreaker Vengeance",
   "DatabaseID": "158828",
-  "ReleaseDate": "2011-06-29T00:00:00-07:00",
+  "ReleaseDate": "2011-06-29T00:00:00+00:00",
   "Overview": "Backbreaker Vengeance takes the intensity and AAA appeal of the original Backbreaker Football and combines it with the pick-up-and-play nature of the million-selling mobile games to create a whole new one-of-a-kind sports experience Xbox LIVE Arcade! It takes as its inspiration the wildly popular “Tackle Alley” mini-game in Backbreaker Football to deliver an all-new arcade slant on football! Three single player- and multiplayer modes; Tackle Alley, Vengeance, and Supremacy. 350 Waves in 70 unique Challenges Split-screen 2 player and AI multiplayer modes Euphoria-fueled dynamic motion for unpredictable and un-canned animations – no two tackles are ever the same! Relive key moments with the feature-packed in-game replay system. Complete Challenges to unlock new teams Amazing visuals – NaturalMotion’s Morpheme animation technology, realistic stadium lighting and weather effects, high-quality character models and tons of stadium spectators make for a true triple-A presentation!",
-  "CommunityRating": "2.3333333333333335",
+  "CommunityRating": "2.33333333333333",
   "ESRB": "E - Everyone",
   "Genres": null,
   "Developer": "NaturalMotion Games",
@@ -11,31 +11,31 @@
   "Artwork": {
     "Banner": [
       {
-        "FileName": "7a213f70-9e9d-45bf-a5f9-27fec89a2ff6.png",
-        "Type": "Banner",
-        "CRC32": "2256873960",
-        "URL": "http://images.launchbox-app.com/7a213f70-9e9d-45bf-a5f9-27fec89a2ff6.png"
-      },
-      {
         "FileName": "29c530e9-5de2-4b25-ba75-2eb9d06cf388.png",
         "Type": "Banner",
         "CRC32": "2220900809",
         "URL": "http://images.launchbox-app.com/29c530e9-5de2-4b25-ba75-2eb9d06cf388.png"
+      },
+      {
+        "FileName": "7a213f70-9e9d-45bf-a5f9-27fec89a2ff6.png",
+        "Type": "Banner",
+        "CRC32": "2256873960",
+        "URL": "http://images.launchbox-app.com/7a213f70-9e9d-45bf-a5f9-27fec89a2ff6.png"
       }
     ],
     "Background": [
-      {
-        "FileName": "a860d274-8e07-455f-bdb8-d72d40d86527.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "4061021715",
-        "URL": "http://images.launchbox-app.com/a860d274-8e07-455f-bdb8-d72d40d86527.jpg"
-      },
       {
         "FileName": "8ec6a621-40e4-4f2f-b0d0-28340a3c78e8.jpg",
         "Type": "Fanart - Background",
         "Region": "North America",
         "CRC32": "3586642971",
         "URL": "http://images.launchbox-app.com/8ec6a621-40e4-4f2f-b0d0-28340a3c78e8.jpg"
+      },
+      {
+        "FileName": "a860d274-8e07-455f-bdb8-d72d40d86527.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "4061021715",
+        "URL": "http://images.launchbox-app.com/a860d274-8e07-455f-bdb8-d72d40d86527.jpg"
       }
     ],
     "Box": {
@@ -60,16 +60,16 @@
     ],
     "Other": [
       {
-        "FileName": "5599ae0f-5a5e-42ed-970f-ab87fce0adb9.png",
-        "Type": "Clear Logo",
-        "CRC32": "786208350",
-        "URL": "http://images.launchbox-app.com/5599ae0f-5a5e-42ed-970f-ab87fce0adb9.png"
-      },
-      {
         "FileName": "fa6f317b-798d-4749-8cd0-53086c607681.png",
         "Type": "Clear Logo",
         "CRC32": "203198854",
         "URL": "http://images.launchbox-app.com/fa6f317b-798d-4749-8cd0-53086c607681.png"
+      },
+      {
+        "FileName": "5599ae0f-5a5e-42ed-970f-ab87fce0adb9.png",
+        "Type": "Clear Logo",
+        "CRC32": "786208350",
+        "URL": "http://images.launchbox-app.com/5599ae0f-5a5e-42ed-970f-ab87fce0adb9.png"
       }
     ]
   }

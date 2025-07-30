@@ -1,13 +1,13 @@
 {
   "Name": "Armored Core V",
   "DatabaseID": "2572",
-  "ReleaseDate": "2012-03-20T00:00:00-07:00",
+  "ReleaseDate": "2012-03-20T00:00:00+00:00",
   "Overview": "The ravages of war & natural disasters have depleted natural resources, leaving mankind in peril. Dictatorship of Father reigns down on the scattered masses while the Resistance bravely fights for democracy. Wage fierce battles for control of territories using the most powerful weapons of war: Armored Core!",
   "VideoURL": "https://www.youtube.com/watch?v=eWkgFdUcayY",
   "CommunityRating": "3.8",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Armored_Core_V",
   "ESRB": "T - Teen",
-  "Genres": " Flight Simulator",
+  "Genres": "Flight Simulator",
   "Developer": "FromSoftware",
   "Publisher": "Namco Bandai",
   "Artwork": {

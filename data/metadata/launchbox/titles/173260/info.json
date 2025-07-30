@@ -1,11 +1,11 @@
 {
   "Name": "How to Train Your Dragon 2",
   "DatabaseID": "173260",
-  "ReleaseDate": "2014-06-10T00:00:00-07:00",
+  "ReleaseDate": "2014-06-10T00:00:00+00:00",
   "Overview": "How To Train Your Dragon 2 is an action adventure game based on the 2014 Dreamworks Animation film of the same name.\n\nPlayers return to the island of Berk (the main location setting of the films and the written source materials by Cressida Cowell) and can compete in several tournaments in the Dragon Races with Hiccup, Toothless and their friends to become the Ultimate Dragon Rider of Berk. Throughout the game, players can unlock new Dragon Riders, explore a wide arrange of undiscovered territories and can even unlock abilities for their own dragons (by finding several Dragon Tokens scattered throughout the vast island).",
   "CommunityRating": "3",
   "ESRB": "E - Everyone",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "Torus Games",
   "Publisher": "Little Orbit",
   "Artwork": {
@@ -86,18 +86,18 @@
     ],
     "Other": [
       {
-        "FileName": "8416ec6d-9165-479a-8f91-b81c79d151cd.png",
-        "Type": "Clear Logo",
-        "Region": "Spain",
-        "CRC32": "3149583321",
-        "URL": "http://images.launchbox-app.com/8416ec6d-9165-479a-8f91-b81c79d151cd.png"
-      },
-      {
         "FileName": "de46a24f-4f6c-4edf-9d0b-6e98e889a628.png",
         "Type": "Clear Logo",
         "Region": "World",
         "CRC32": "2805675053",
         "URL": "http://images.launchbox-app.com/de46a24f-4f6c-4edf-9d0b-6e98e889a628.png"
+      },
+      {
+        "FileName": "8416ec6d-9165-479a-8f91-b81c79d151cd.png",
+        "Type": "Clear Logo",
+        "Region": "Spain",
+        "CRC32": "3149583321",
+        "URL": "http://images.launchbox-app.com/8416ec6d-9165-479a-8f91-b81c79d151cd.png"
       }
     ]
   }

@@ -1,13 +1,13 @@
 {
   "Name": "Call of Juarez: Cartel",
   "DatabaseID": "8858",
-  "ReleaseDate": "2011-07-19T00:00:00-07:00",
+  "ReleaseDate": "2011-07-19T00:00:00+00:00",
   "Overview": "When a Mexican drug cartel bombs a U.S. law enforcement agency, the U.S. government puts together a special task force to bring them down. As you fight to dismantle the Cartel and unfurl the mystery of the bombing, you’ll embark on an epic, bloody road trip from the streets of Los Angeles to Ciudad Juarez. Protect your witness and put an end to the Cartel by any means necessary in this modern day Western shooter.",
   "VideoURL": "http://www.youtube.com/watch?v=YdHVBhc0RB0",
   "CommunityRating": "3.75",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Call_of_Juarez:_The_Cartel",
   "ESRB": "M - Mature",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "Techland",
   "Publisher": "Ubisoft",
   "Artwork": {
@@ -56,18 +56,18 @@
     },
     "Disc": [
       {
-        "FileName": "13c84fcd-5f37-4e48-aa30-ce7d0795f462.png",
-        "Type": "Disc",
-        "Region": "Europe",
-        "CRC32": "3206963817",
-        "URL": "http://images.launchbox-app.com/13c84fcd-5f37-4e48-aa30-ce7d0795f462.png"
-      },
-      {
         "FileName": "486234e3-25ed-4573-940b-baaa0d8b0ca9.png",
         "Type": "Disc",
         "Region": "North America",
         "CRC32": "3860673909",
         "URL": "http://images.launchbox-app.com/486234e3-25ed-4573-940b-baaa0d8b0ca9.png"
+      },
+      {
+        "FileName": "13c84fcd-5f37-4e48-aa30-ce7d0795f462.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "3206963817",
+        "URL": "http://images.launchbox-app.com/13c84fcd-5f37-4e48-aa30-ce7d0795f462.png"
       }
     ],
     "Other": [

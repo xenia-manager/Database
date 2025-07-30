@@ -1,11 +1,11 @@
 {
   "Name": "Fairytale Fights",
   "DatabaseID": "14927",
-  "ReleaseDate": "2009-10-27T00:00:00-07:00",
+  "ReleaseDate": "2009-10-27T00:00:00+00:00",
   "Overview": "Using the Unreal Engine 3 like you've never seen it, Fairytale Fights takes popular characters and tales from the pantheon of well known fairytales and turns them on their heads as players must fight their way through hordes of enemies on a quest to restore their own personal honor and re-establish peace in the land of fairytales. Inspired by twisted cartoons like Happy Tree Friends and Itchy and Scratchy, and featuring a wildly colorful and distinct art style, players can cooperatively complete quests in the single-player storyline or compete in chaotic multiplayer battle with up to 4 players online or offline.",
   "CommunityRating": "4",
   "ESRB": "M - Mature",
-  "Genres": " Beat 'em Up",
+  "Genres": "Beat 'em Up",
   "Developer": "Playlogic Game Factory",
   "Publisher": "Playlogic Entertainment",
   "Artwork": {
@@ -25,10 +25,10 @@
         "URL": "http://images.launchbox-app.com/dac352b7-ce5b-4481-a685-719766700338.jpg"
       },
       {
-        "FileName": "2939bac1-8406-4475-8723-2b25dd84924f.PNG",
+        "FileName": "2939bac1-8406-4475-8723-2b25dd84924f.png",
         "Type": "Fanart - Background",
         "CRC32": "1339192173",
-        "URL": "http://images.launchbox-app.com/2939bac1-8406-4475-8723-2b25dd84924f.PNG"
+        "URL": "http://images.launchbox-app.com/2939bac1-8406-4475-8723-2b25dd84924f.png"
       }
     ],
     "Box": {
@@ -71,31 +71,31 @@
     ],
     "Screenshots": [
       {
-        "FileName": "270f8f0a-3507-4817-9701-17d5424c693e.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "3257828250",
-        "URL": "http://images.launchbox-app.com/270f8f0a-3507-4817-9701-17d5424c693e.jpg"
-      },
-      {
         "FileName": "61ce7a43-7487-453a-89e9-6c447c553731.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "2315717649",
         "URL": "http://images.launchbox-app.com/61ce7a43-7487-453a-89e9-6c447c553731.jpg"
+      },
+      {
+        "FileName": "270f8f0a-3507-4817-9701-17d5424c693e.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "3257828250",
+        "URL": "http://images.launchbox-app.com/270f8f0a-3507-4817-9701-17d5424c693e.jpg"
       }
     ],
     "Other": [
+      {
+        "FileName": "841e0d1d-ba13-420b-82c8-12e7ff5727be.png",
+        "Type": "Clear Logo",
+        "CRC32": "2113031957",
+        "URL": "http://images.launchbox-app.com/841e0d1d-ba13-420b-82c8-12e7ff5727be.png"
+      },
       {
         "FileName": "6ff790d5-f87a-4b4c-985d-41d307a747a7.png",
         "Type": "Clear Logo",
         "Region": "World",
         "CRC32": "4039888746",
         "URL": "http://images.launchbox-app.com/6ff790d5-f87a-4b4c-985d-41d307a747a7.png"
-      },
-      {
-        "FileName": "841e0d1d-ba13-420b-82c8-12e7ff5727be.png",
-        "Type": "Clear Logo",
-        "CRC32": "2113031957",
-        "URL": "http://images.launchbox-app.com/841e0d1d-ba13-420b-82c8-12e7ff5727be.png"
       }
     ]
   }

@@ -1,13 +1,13 @@
 {
   "Name": "Armored Core: For Answer",
   "DatabaseID": "30979",
-  "ReleaseDate": "2008-03-19T00:00:00-07:00",
+  "ReleaseDate": "2008-03-19T00:00:00+00:00",
   "Overview": "In the distant future, massive urban development and pollution have critically damaged the planet. There is widespread fear that the end of the world is approaching. The League corporations, a military superpower, control the planet's infrastructure and have forced most of the world's population to live in huge aerial communities, called Cradles, to avoid the contamination. The ORCA, a rebel resistance still residing on the surface of the polluted planet, have amassed a formidable arsenal and are mobilizing to attack The League's bases to put an end to their iron grip on the planet. As a mercenary armed with cutting-edge military robot technology, choose your side and defeat the other factions by harnessing the power of the deadliest and most gigantic weapons ever created by mankind.",
   "VideoURL": "http://www.youtube.com/watch?v=bpfEMJVGGho",
   "CommunityRating": "3.4375",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Armored_Core:_For_Answer",
   "ESRB": "T - Teen",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "FromSoftware",
   "Publisher": "Ubisoft Entertainment",
   "Artwork": {
@@ -102,32 +102,26 @@
     },
     "Disc": [
       {
-        "FileName": "b652692d-f328-47e1-9013-13f83df046a5.png",
-        "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "994957954",
-        "URL": "http://images.launchbox-app.com/b652692d-f328-47e1-9013-13f83df046a5.png"
-      },
-      {
         "FileName": "8450a50f-7e3f-417b-b64e-3ad304aa7b44.png",
         "Type": "Disc",
         "Region": "Australia",
         "CRC32": "2586879185",
         "URL": "http://images.launchbox-app.com/8450a50f-7e3f-417b-b64e-3ad304aa7b44.png"
+      },
+      {
+        "FileName": "b652692d-f328-47e1-9013-13f83df046a5.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "994957954",
+        "URL": "http://images.launchbox-app.com/b652692d-f328-47e1-9013-13f83df046a5.png"
       }
     ],
     "Screenshots": [
       {
-        "FileName": "fb5f658e-3319-46b3-b3a1-59f358a8288f.jpg",
+        "FileName": "d843cf4c-587d-4136-b59e-ca83575a42e2.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "155954279",
-        "URL": "http://images.launchbox-app.com/fb5f658e-3319-46b3-b3a1-59f358a8288f.jpg"
-      },
-      {
-        "FileName": "a21efaa4-bf15-4a8d-bb84-7e6c02128101.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3085015756",
-        "URL": "http://images.launchbox-app.com/a21efaa4-bf15-4a8d-bb84-7e6c02128101.jpg"
+        "CRC32": "134035884",
+        "URL": "http://images.launchbox-app.com/d843cf4c-587d-4136-b59e-ca83575a42e2.jpg"
       },
       {
         "FileName": "0eb2693a-a735-4db9-a5be-49cf7498434f.jpg",
@@ -136,16 +130,22 @@
         "URL": "http://images.launchbox-app.com/0eb2693a-a735-4db9-a5be-49cf7498434f.jpg"
       },
       {
-        "FileName": "d843cf4c-587d-4136-b59e-ca83575a42e2.jpg",
+        "FileName": "a21efaa4-bf15-4a8d-bb84-7e6c02128101.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "134035884",
-        "URL": "http://images.launchbox-app.com/d843cf4c-587d-4136-b59e-ca83575a42e2.jpg"
+        "CRC32": "3085015756",
+        "URL": "http://images.launchbox-app.com/a21efaa4-bf15-4a8d-bb84-7e6c02128101.jpg"
       },
       {
         "FileName": "97c0cc38-c30e-459a-8c32-a929a89bb760.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "3068157022",
         "URL": "http://images.launchbox-app.com/97c0cc38-c30e-459a-8c32-a929a89bb760.jpg"
+      },
+      {
+        "FileName": "fb5f658e-3319-46b3-b3a1-59f358a8288f.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "155954279",
+        "URL": "http://images.launchbox-app.com/fb5f658e-3319-46b3-b3a1-59f358a8288f.jpg"
       }
     ],
     "Other": [

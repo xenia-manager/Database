@@ -1,11 +1,11 @@
 {
   "Name": "Sega Vintage Collection: Monster World",
   "DatabaseID": "174787",
-  "ReleaseDate": "2012-05-23T00:00:00-07:00",
+  "ReleaseDate": "2012-05-23T00:00:00+00:00",
   "Overview": "Bring peace back to Monster World in these three classic action RPG titles: Wonder Boy in Monster Land, Wonder Boy in Monster World, and for the first time outside of Japan, Monster World IV! Now available for download on Xbox LIVE, the Monster World saga features all new achievements, challenging new trial modes, Xbox LIVE Leaderboards, and recordable and downloadable game sessions!",
   "CommunityRating": "4.5",
   "ESRB": "E - Everyone",
-  "Genres": " Role-Playing",
+  "Genres": "Role-Playing",
   "Developer": "M2 Co.",
   "Publisher": "Sega",
   "Artwork": {
@@ -37,17 +37,17 @@
     },
     "Other": [
       {
+        "FileName": "286fd50e-208c-4540-b1bd-664d107297b7.png",
+        "Type": "Clear Logo",
+        "CRC32": "2980678896",
+        "URL": "http://images.launchbox-app.com/286fd50e-208c-4540-b1bd-664d107297b7.png"
+      },
+      {
         "FileName": "031ce89e-4fbd-4da3-becc-8d336a77fc8d.png",
         "Type": "Clear Logo",
         "Region": "World",
         "CRC32": "2560558529",
         "URL": "http://images.launchbox-app.com/031ce89e-4fbd-4da3-becc-8d336a77fc8d.png"
-      },
-      {
-        "FileName": "286fd50e-208c-4540-b1bd-664d107297b7.png",
-        "Type": "Clear Logo",
-        "CRC32": "2980678896",
-        "URL": "http://images.launchbox-app.com/286fd50e-208c-4540-b1bd-664d107297b7.png"
       }
     ]
   }

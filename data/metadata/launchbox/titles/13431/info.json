@@ -1,10 +1,10 @@
 {
   "Name": "Stormrise",
   "DatabaseID": "13431",
-  "ReleaseDate": "2009-03-24T00:00:00-07:00",
+  "ReleaseDate": "2009-03-24T00:00:00+00:00",
   "Overview": "Stormrise is a real-time tactics video game developed by The Creative Assembly's Australian studio and published by Sega for Microsoft Windows, PlayStation 3, and Xbox 360.",
   "CommunityRating": "3",
-  "Genres": " Strategy",
+  "Genres": "Strategy",
   "Developer": "Creative Assembly",
   "Publisher": "Sega",
   "Artwork": {

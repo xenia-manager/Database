@@ -1,11 +1,11 @@
 {
   "Name": "Dungeon Fighter LIVE: Fall Of Hendon Myre",
   "DatabaseID": "209325",
-  "ReleaseDate": "2012-07-13T00:00:00-07:00",
+  "ReleaseDate": "2012-07-13T00:00:00+00:00",
   "Overview": "Hack-and-slash action and 2D side scrolling meet multiplayer mania in Dungeon Fighter LIVE: Fall of Hendon Myre. Take on the role of three classic Dungeon Fighters—Slayer, Gunner, and Fighter—to defend Hendon Myre from monsters spreading Phantasmalia. Customize your heroes by creating and enhancing gear, and deliver unique attacks by chaining and combining skills, all while playing with up to 4 players on the same console or via Xbox LIVE!",
   "CommunityRating": "3",
   "ESRB": "T - Teen",
-  "Genres": " Role-Playing",
+  "Genres": "Role-Playing",
   "Developer": "Nexon Korea Corporation",
   "Publisher": "Microsoft Studios",
   "Artwork": {
@@ -60,6 +60,12 @@
     },
     "Screenshots": [
       {
+        "FileName": "bdffd39b-948c-4dc2-a13b-8249330d1a61.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2810870351",
+        "URL": "http://images.launchbox-app.com/bdffd39b-948c-4dc2-a13b-8249330d1a61.jpg"
+      },
+      {
         "FileName": "9093c64a-be01-4b87-a2ca-801500a17802.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "2977570800",
@@ -82,12 +88,6 @@
         "Type": "Screenshot - Gameplay",
         "CRC32": "92622536",
         "URL": "http://images.launchbox-app.com/54eb364f-135d-4136-a6a7-79325547a618.jpg"
-      },
-      {
-        "FileName": "bdffd39b-948c-4dc2-a13b-8249330d1a61.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2810870351",
-        "URL": "http://images.launchbox-app.com/bdffd39b-948c-4dc2-a13b-8249330d1a61.jpg"
       }
     ],
     "Other": [

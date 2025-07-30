@@ -1,13 +1,13 @@
 {
   "Name": "Dante's Inferno",
   "DatabaseID": "639",
-  "ReleaseDate": "2010-02-09T00:00:00-08:00",
+  "ReleaseDate": "2010-02-09T00:00:00+00:00",
   "Overview": "The Italian mercenary Dante returns home from the bloodletting that was the Third Crusade to two pieces of soul-crushing news. The first is that although he was assured that he was absolved of mortal sins committed in the form of wartime atrocities in the name of the churches interests in the Holy Land, that is not actually the case and his immortal soul is in grave peril. The second and more terrible is that his beloved Beatrice has been murdered, and her soul pulled down into hell by a dark force. Vowing not to accept the damnation of either souls, he gives chase, vows to get Beatrice back and descends into the infamous nine circles of hell. For weapons, he wields Death's soul-reaping scythe, and commands holy powers of the cross, given to him by Beatrice. Dante’s Inferno is an epic single player, third-person action adventure game inspired by \"Inferno\", part one of Dante Alighieri’s classic Italian poem, \"The Divine Comedy.\" Featuring nonstop action rendered at 60 frames-per-second, signature and upgradable weapons, attack combos and mana-fueled spells and the choice of punishing or absolving the souls of defeated enemies, it is a classic Medieval tale of the eternal conflict with sin and the resulting horrors of hell, adapted for a new generation and a new medium.",
   "VideoURL": "https://www.youtube.com/watch?v=UUOZRRU_Dyg",
-  "CommunityRating": "4.2058823529411766",
+  "CommunityRating": "4.20588235294118",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Dante%27s_Inferno_(video_game)",
   "ESRB": "M - Mature",
-  "Genres": " Action; Adventure",
+  "Genres": "Action; Adventure",
   "Developer": "Visceral Games",
   "Publisher": "Electronic Arts",
   "Artwork": {
@@ -37,16 +37,16 @@
         "URL": "http://images.launchbox-app.com/3e630ee2-c220-4539-9369-d07de0f57a18.jpg"
       },
       {
-        "FileName": "bcdd9942-a507-476f-a245-89ee0f229533.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "3908089947",
-        "URL": "http://images.launchbox-app.com/bcdd9942-a507-476f-a245-89ee0f229533.jpg"
-      },
-      {
         "FileName": "62e49351-66f6-45e6-b423-55e85aae9b9f.jpg",
         "Type": "Fanart - Background",
         "CRC32": "1088080014",
         "URL": "http://images.launchbox-app.com/62e49351-66f6-45e6-b423-55e85aae9b9f.jpg"
+      },
+      {
+        "FileName": "bcdd9942-a507-476f-a245-89ee0f229533.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3908089947",
+        "URL": "http://images.launchbox-app.com/bcdd9942-a507-476f-a245-89ee0f229533.jpg"
       }
     ],
     "Box": {
@@ -70,6 +70,13 @@
       ],
       "Front": [
         {
+          "FileName": "15150c0d-d194-4863-a125-000de9d25f91.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1311742020",
+          "URL": "http://images.launchbox-app.com/15150c0d-d194-4863-a125-000de9d25f91.jpg"
+        },
+        {
           "FileName": "c76fa6f1-d673-440f-8cc7-77d1660c4036.jpg",
           "Type": "Box - Front",
           "Region": "World",
@@ -82,13 +89,6 @@
           "Region": "Europe",
           "CRC32": "1446915935",
           "URL": "http://images.launchbox-app.com/ce92d316-d248-4291-8327-4c87df62780a.jpg"
-        },
-        {
-          "FileName": "15150c0d-d194-4863-a125-000de9d25f91.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "1311742020",
-          "URL": "http://images.launchbox-app.com/15150c0d-d194-4863-a125-000de9d25f91.jpg"
         }
       ],
       "Spine": [
@@ -112,6 +112,30 @@
     ],
     "Screenshots": [
       {
+        "FileName": "234f327a-5aca-4233-bc17-438ec0d9001f.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3145620310",
+        "URL": "http://images.launchbox-app.com/234f327a-5aca-4233-bc17-438ec0d9001f.jpg"
+      },
+      {
+        "FileName": "3faa6bce-f684-4ad9-ba32-ffb053b7501c.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2996536953",
+        "URL": "http://images.launchbox-app.com/3faa6bce-f684-4ad9-ba32-ffb053b7501c.jpg"
+      },
+      {
+        "FileName": "5c810c12-92a6-4fde-85a4-d245bb91e3dc.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "4069909098",
+        "URL": "http://images.launchbox-app.com/5c810c12-92a6-4fde-85a4-d245bb91e3dc.jpg"
+      },
+      {
+        "FileName": "80c4babe-1ee3-49cb-b053-8a961f352be6.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "4080157327",
+        "URL": "http://images.launchbox-app.com/80c4babe-1ee3-49cb-b053-8a961f352be6.jpg"
+      },
+      {
         "FileName": "4f9ef7bf-cf0e-4069-bcf7-bce134decc6f.jpg",
         "Type": "Screenshot - Game Select",
         "CRC32": "3130231222",
@@ -122,30 +146,6 @@
         "Type": "Screenshot - Game Title",
         "CRC32": "233880640",
         "URL": "http://images.launchbox-app.com/42bfbd40-0cc0-45d2-ad1a-db2ac819094b.jpg"
-      },
-      {
-        "FileName": "80c4babe-1ee3-49cb-b053-8a961f352be6.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "4080157327",
-        "URL": "http://images.launchbox-app.com/80c4babe-1ee3-49cb-b053-8a961f352be6.jpg"
-      },
-      {
-        "FileName": "234f327a-5aca-4233-bc17-438ec0d9001f.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3145620310",
-        "URL": "http://images.launchbox-app.com/234f327a-5aca-4233-bc17-438ec0d9001f.jpg"
-      },
-      {
-        "FileName": "5c810c12-92a6-4fde-85a4-d245bb91e3dc.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "4069909098",
-        "URL": "http://images.launchbox-app.com/5c810c12-92a6-4fde-85a4-d245bb91e3dc.jpg"
-      },
-      {
-        "FileName": "3faa6bce-f684-4ad9-ba32-ffb053b7501c.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2996536953",
-        "URL": "http://images.launchbox-app.com/3faa6bce-f684-4ad9-ba32-ffb053b7501c.jpg"
       }
     ],
     "Other": [

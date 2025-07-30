@@ -1,12 +1,12 @@
 {
   "Name": "Lightning Returns: Final Fantasy XIII",
   "DatabaseID": "15768",
-  "ReleaseDate": "2014-02-11T00:00:00-08:00",
+  "ReleaseDate": "2014-02-11T00:00:00+00:00",
   "Overview": "As Lightning, it is your mission to save souls so they may be brought to a new world. However, with only thirteen days remaining, not everyone can be saved. Armed with all-new weapons, player customization and battle abilities, you are in a race against time to fully understand your destiny. It all ends here.",
   "VideoURL": "http://www.youtube.com/watch?v=b9OGgEyoF5Y",
   "CommunityRating": "3.25",
   "ESRB": "T - Teen",
-  "Genres": " Role-Playing",
+  "Genres": "Role-Playing",
   "Developer": "Square Enix",
   "Publisher": "Square Enix",
   "Artwork": {
@@ -36,18 +36,18 @@
       ],
       "Back": [
         {
-          "FileName": "587b0a0b-d713-482c-9f29-ac7e4bc2e435.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
-          "CRC32": "4104008306",
-          "URL": "http://images.launchbox-app.com/587b0a0b-d713-482c-9f29-ac7e4bc2e435.jpg"
-        },
-        {
           "FileName": "f579342e-9ff2-4b32-a602-45c1d8113909.jpg",
           "Type": "Box - Back",
           "Region": "Europe",
           "CRC32": "4135992350",
           "URL": "http://images.launchbox-app.com/f579342e-9ff2-4b32-a602-45c1d8113909.jpg"
+        },
+        {
+          "FileName": "587b0a0b-d713-482c-9f29-ac7e4bc2e435.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "4104008306",
+          "URL": "http://images.launchbox-app.com/587b0a0b-d713-482c-9f29-ac7e4bc2e435.jpg"
         }
       ],
       "Front": [
@@ -75,18 +75,18 @@
       ],
       "Spine": [
         {
-          "FileName": "413e0306-0c61-43c7-96ad-952cb16ca16e.jpg",
-          "Type": "Box - Spine",
-          "Region": "Europe",
-          "CRC32": "2003767662",
-          "URL": "http://images.launchbox-app.com/413e0306-0c61-43c7-96ad-952cb16ca16e.jpg"
-        },
-        {
           "FileName": "0cfffea2-2387-4a8e-8fdc-aa8a0d85f117.jpg",
           "Type": "Box - Spine",
           "Region": "North America",
           "CRC32": "4195304928",
           "URL": "http://images.launchbox-app.com/0cfffea2-2387-4a8e-8fdc-aa8a0d85f117.jpg"
+        },
+        {
+          "FileName": "413e0306-0c61-43c7-96ad-952cb16ca16e.jpg",
+          "Type": "Box - Spine",
+          "Region": "Europe",
+          "CRC32": "2003767662",
+          "URL": "http://images.launchbox-app.com/413e0306-0c61-43c7-96ad-952cb16ca16e.jpg"
         }
       ]
     },

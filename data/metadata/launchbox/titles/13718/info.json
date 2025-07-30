@@ -1,13 +1,13 @@
 {
   "Name": "The Sims 3",
   "DatabaseID": "13718",
-  "ReleaseDate": "2010-10-26T00:00:00-07:00",
+  "ReleaseDate": "2010-10-26T00:00:00+00:00",
   "Overview": "The Sims 3 allows you to immerse your unique Sims in an open living neighborhood right outside their door. The initial feature-set unveiled includes the new seamless, open neighborhood, new Create-A-Sim, new realistic personalities(every Sim is a unique person, with a distinct personality) and new unlimited customization, You can customize everything!",
   "VideoURL": "http://www.youtube.com/watch?v=LPnK9JHoddc",
   "CommunityRating": "3",
   "WikipediaURL": "https://en.wikipedia.org/wiki/The_Sims_3",
   "ESRB": "T - Teen",
-  "Genres": " Life Simulation",
+  "Genres": "Life Simulation",
   "Developer": "The Sims Studio",
   "Publisher": "Electronic Arts",
   "Artwork": {
@@ -40,18 +40,18 @@
       ],
       "Front": [
         {
-          "FileName": "1631742b-aefa-443f-b2e6-c2f387cb61ae.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "809491996",
-          "URL": "http://images.launchbox-app.com/1631742b-aefa-443f-b2e6-c2f387cb61ae.jpg"
-        },
-        {
           "FileName": "261e86a4-5334-42bd-a830-3584febfd026.jpg",
           "Type": "Box - Front",
           "Region": "North America",
           "CRC32": "2768528505",
           "URL": "http://images.launchbox-app.com/261e86a4-5334-42bd-a830-3584febfd026.jpg"
+        },
+        {
+          "FileName": "1631742b-aefa-443f-b2e6-c2f387cb61ae.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "809491996",
+          "URL": "http://images.launchbox-app.com/1631742b-aefa-443f-b2e6-c2f387cb61ae.jpg"
         }
       ],
       "Spine": [

@@ -5,25 +5,25 @@
   "Overview": "A dual pack of LEGO Indiana Jones: The Original Adventures and Kung Fu Panda.",
   "CommunityRating": "2.75",
   "ESRB": "E - Everyone",
-  "Genres": " Action; Adventure",
+  "Genres": "Action; Adventure",
   "Developer": "Traveller's Tales",
   "Publisher": "LucasArts",
   "Artwork": {
     "Box": {
       "Back": [
         {
-          "FileName": "b0fd3761-2f7e-4b3f-8065-91675109eefe.jpg",
-          "Type": "Box - Back",
-          "Region": "United Kingdom",
-          "CRC32": "78430607",
-          "URL": "http://images.launchbox-app.com/b0fd3761-2f7e-4b3f-8065-91675109eefe.jpg"
-        },
-        {
           "FileName": "0ec3bdd6-6a8f-4cde-ab43-0880274a929e.jpg",
           "Type": "Box - Back",
           "Region": "North America",
           "CRC32": "1560995653",
           "URL": "http://images.launchbox-app.com/0ec3bdd6-6a8f-4cde-ab43-0880274a929e.jpg"
+        },
+        {
+          "FileName": "b0fd3761-2f7e-4b3f-8065-91675109eefe.jpg",
+          "Type": "Box - Back",
+          "Region": "United Kingdom",
+          "CRC32": "78430607",
+          "URL": "http://images.launchbox-app.com/b0fd3761-2f7e-4b3f-8065-91675109eefe.jpg"
         }
       ],
       "Front": [

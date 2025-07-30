@@ -1,13 +1,13 @@
 {
   "Name": "Ace Combat: Assault Horizon",
   "DatabaseID": "12573",
-  "ReleaseDate": "2011-10-11T00:00:00-07:00",
+  "ReleaseDate": "2011-10-11T00:00:00+00:00",
   "Overview": "Developed by the Project Aces team, ACE COMBAT ASSAULT HORIZON intensifies the franchise, escalating combat to the next level with aircraft that are literally torn apart, spewing oil and debris across the sky. Players will engage in combat across the globe, dodging skyscrapers, and turning their enemies into fiery supersonic debris in both single player and online multiplayer. Never before has combat been so fast and in-your-face.",
   "VideoURL": "https://www.youtube.com/watch?v=3MNYruNnBzc",
   "CommunityRating": "3.5",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Ace_Combat:_Assault_Horizon",
   "ESRB": "T - Teen",
-  "Genres": " Flight Simulator; Shooter",
+  "Genres": "Flight Simulator; Shooter",
   "Developer": "Project Aces",
   "Publisher": "Namco Bandai Games",
   "Artwork": {
@@ -61,18 +61,18 @@
           "URL": "http://images.launchbox-app.com/e886e8d5-2816-4820-9391-41e3948e61bb.png"
         },
         {
-          "FileName": "0199b4f2-a4f4-4666-b85a-1c9c23aa10b8.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "887995421",
-          "URL": "http://images.launchbox-app.com/0199b4f2-a4f4-4666-b85a-1c9c23aa10b8.jpg"
-        },
-        {
           "FileName": "e3c81c51-2855-46c3-9a4e-76611af3ca15.jpg",
           "Type": "Box - Front",
           "Region": "North America",
           "CRC32": "1804533927",
           "URL": "http://images.launchbox-app.com/e3c81c51-2855-46c3-9a4e-76611af3ca15.jpg"
+        },
+        {
+          "FileName": "0199b4f2-a4f4-4666-b85a-1c9c23aa10b8.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "887995421",
+          "URL": "http://images.launchbox-app.com/0199b4f2-a4f4-4666-b85a-1c9c23aa10b8.jpg"
         }
       ],
       "Spine": [
@@ -103,18 +103,6 @@
     ],
     "Screenshots": [
       {
-        "FileName": "8a724840-c7fe-4474-9bfb-094b46d230dd.png",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "85799432",
-        "URL": "http://images.launchbox-app.com/8a724840-c7fe-4474-9bfb-094b46d230dd.png"
-      },
-      {
-        "FileName": "479c3146-0150-43bc-955b-11467c2f2abe.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1628552836",
-        "URL": "http://images.launchbox-app.com/479c3146-0150-43bc-955b-11467c2f2abe.jpg"
-      },
-      {
         "FileName": "ef82ba61-7300-49f8-8388-caba54dd53ce.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "1260463746",
@@ -125,6 +113,18 @@
         "Type": "Screenshot - Gameplay",
         "CRC32": "2407614800",
         "URL": "http://images.launchbox-app.com/d15192fc-ef88-44e0-a426-2ba25331e29e.jpg"
+      },
+      {
+        "FileName": "479c3146-0150-43bc-955b-11467c2f2abe.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1628552836",
+        "URL": "http://images.launchbox-app.com/479c3146-0150-43bc-955b-11467c2f2abe.jpg"
+      },
+      {
+        "FileName": "8a724840-c7fe-4474-9bfb-094b46d230dd.png",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "85799432",
+        "URL": "http://images.launchbox-app.com/8a724840-c7fe-4474-9bfb-094b46d230dd.png"
       }
     ],
     "Other": [

@@ -1,12 +1,12 @@
 {
   "Name": "Battlestations: Midway",
   "DatabaseID": "7142",
-  "ReleaseDate": "2007-01-30T00:00:00-08:00",
+  "ReleaseDate": "2007-01-30T00:00:00+00:00",
   "Overview": "Battlestations: Midway is a video game developed by Eidos Hungary and released on January 30, 2007 for the Xbox 360 and Microsoft Windows.\n\nSet in the Pacific during World War II, it is a hybrid of action and real-time tactics as the player can both command his fleet assets and assume control of any one of them at will. The single player campaign is a series of missions from Pearl Harbor commanding an Elco PT Boat to the Battle of Midway commanding an entire Carrier Battle Group.",
   "CommunityRating": "3",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Battlestations:_Midway",
   "ESRB": "T - Teen",
-  "Genres": " Shooter; Strategy",
+  "Genres": "Shooter; Strategy",
   "Developer": "Eidos Hungary",
   "Publisher": "Eidos Interactive",
   "Artwork": {
@@ -73,18 +73,18 @@
       ],
       "Front": [
         {
-          "FileName": "7fed7cc9-cf0f-429c-b440-416d5f9ced2c.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "2749414876",
-          "URL": "http://images.launchbox-app.com/7fed7cc9-cf0f-429c-b440-416d5f9ced2c.jpg"
-        },
-        {
           "FileName": "318df412-cfda-4639-bd32-d2e362f6681b.jpg",
           "Type": "Box - Front",
           "Region": "Europe",
           "CRC32": "3553290018",
           "URL": "http://images.launchbox-app.com/318df412-cfda-4639-bd32-d2e362f6681b.jpg"
+        },
+        {
+          "FileName": "7fed7cc9-cf0f-429c-b440-416d5f9ced2c.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "2749414876",
+          "URL": "http://images.launchbox-app.com/7fed7cc9-cf0f-429c-b440-416d5f9ced2c.jpg"
         },
         {
           "FileName": "586e805a-c03b-4066-aa5b-565d310f4fc3.jpg",

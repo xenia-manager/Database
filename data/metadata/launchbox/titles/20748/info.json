@@ -1,21 +1,21 @@
 {
   "Name": "GRID Autosport",
   "DatabaseID": "20748",
-  "ReleaseDate": "2014-06-24T00:00:00-07:00",
+  "ReleaseDate": "2014-06-24T00:00:00+00:00",
   "Overview": "It’s all about the teams, the rivals and the race in an intense new world of professional motorsport. Racing alongside a teammate, you must overcome key rivals and satisfy team sponsors in ferocious races where every pass and position counts. In a huge career, specialise in your favourite racing discipline or conquer them all feel the aggression of the pack in Touring Cars, manage tyre wear and race into the night in Endurance events, race Open-Wheel cars with precision, show car control in Tuner events and react on the fly in Street races. \n\nEach unique category features series dedicated to different classes, including Touring Cars, Hypercars, Endurance GT Cars, Prototypes, Single-Seaters, Super Modified vehicles, Drift cars and many more. Bursting with content, GRID Autosport features over 100 routes across 22 incredible locations and the world’s most exciting contemporary and classic high-performance racing cars to collect, tune and upgrade. \n\nDevelopment has been driven by Community feedback to include the return of in-car view, authentic handling and multiplayer racing powered by RaceNet to deliver new challenges every week, plus all-new Racing Clubs for online team competition. Party modes, Demolition Derby and competitive split-screen modes complement the game’s extensive career mode and expansive core online game.",
   "VideoURL": "http://www.youtube.com/watch?v=I5RIoJgfQJg",
-  "CommunityRating": "4.833333333333333",
+  "CommunityRating": "4.83333333333333",
   "ESRB": "E - Everyone",
-  "Genres": " Racing",
+  "Genres": "Racing",
   "Developer": "Codemasters",
   "Publisher": "Codemasters",
   "Artwork": {
     "Background": [
       {
-        "FileName": "85477b61-c22d-4948-8f57-16bc0caa6840.jpg",
+        "FileName": "38c85c86-88c2-44dd-af92-1635ac71d3f4.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "2039675213",
-        "URL": "http://images.launchbox-app.com/85477b61-c22d-4948-8f57-16bc0caa6840.jpg"
+        "CRC32": "1722976279",
+        "URL": "http://images.launchbox-app.com/38c85c86-88c2-44dd-af92-1635ac71d3f4.jpg"
       },
       {
         "FileName": "daf8a0ac-e3a5-492c-a9f4-529d900aca9f.jpg",
@@ -24,10 +24,10 @@
         "URL": "http://images.launchbox-app.com/daf8a0ac-e3a5-492c-a9f4-529d900aca9f.jpg"
       },
       {
-        "FileName": "38c85c86-88c2-44dd-af92-1635ac71d3f4.jpg",
+        "FileName": "85477b61-c22d-4948-8f57-16bc0caa6840.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1722976279",
-        "URL": "http://images.launchbox-app.com/38c85c86-88c2-44dd-af92-1635ac71d3f4.jpg"
+        "CRC32": "2039675213",
+        "URL": "http://images.launchbox-app.com/85477b61-c22d-4948-8f57-16bc0caa6840.jpg"
       }
     ],
     "Box": {

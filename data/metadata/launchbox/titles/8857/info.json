@@ -1,13 +1,13 @@
 {
   "Name": "Bodycount",
   "DatabaseID": "8857",
-  "ReleaseDate": "2011-08-30T00:00:00-07:00",
+  "ReleaseDate": "2011-08-30T00:00:00+00:00",
   "Overview": "Bodycount is a first person shooter set in a wartorn future in Africa and Asia. Equipped with a arsenal of weapons, grenades, mines and devastating airstrikes, the former soldier Jackson working for the 'Network' is the game's protagonist. \n\nChain kills and perform skilled headshots through cover to maximize points that gives you the opportunity to use special upgrades as you hunt down the mysterious 'Target', an organisation that has plans for a new world order. Use destruction of objects and walls to move through open-ended levels and battle enemies who'll work together in squads to chase you down. Online and cooperative modes are included.",
   "VideoURL": "http://www.youtube.com/watch?v=cOAV2PLxF10",
   "CommunityRating": "2.875",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Bodycount_(video_game)",
   "ESRB": "M - Mature",
-  "Genres": " Shooter",
+  "Genres": "Shooter",
   "Developer": "Guildford Studio",
   "Publisher": "Codemasters",
   "Artwork": {
@@ -21,16 +21,16 @@
     ],
     "Background": [
       {
-        "FileName": "a5a39030-c331-457c-9ef4-a2faeec6c00e.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "4242956338",
-        "URL": "http://images.launchbox-app.com/a5a39030-c331-457c-9ef4-a2faeec6c00e.jpg"
-      },
-      {
         "FileName": "d8a67e09-e059-48e3-b23e-a47780604621.jpg",
         "Type": "Fanart - Background",
         "CRC32": "2501052627",
         "URL": "http://images.launchbox-app.com/d8a67e09-e059-48e3-b23e-a47780604621.jpg"
+      },
+      {
+        "FileName": "a5a39030-c331-457c-9ef4-a2faeec6c00e.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "4242956338",
+        "URL": "http://images.launchbox-app.com/a5a39030-c331-457c-9ef4-a2faeec6c00e.jpg"
       }
     ],
     "Box": {
@@ -89,6 +89,12 @@
     ],
     "Screenshots": [
       {
+        "FileName": "e163934c-c99b-4ac3-be0c-cf9e85b05bd2.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "4114151428",
+        "URL": "http://images.launchbox-app.com/e163934c-c99b-4ac3-be0c-cf9e85b05bd2.jpg"
+      },
+      {
         "FileName": "c1080994-5a43-4c63-ac98-bfab8f7551ce.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "2378671394",
@@ -111,12 +117,6 @@
         "Type": "Screenshot - Gameplay",
         "CRC32": "2025395781",
         "URL": "http://images.launchbox-app.com/e496fa28-0171-4bc0-a66f-d515f148dd53.jpg"
-      },
-      {
-        "FileName": "e163934c-c99b-4ac3-be0c-cf9e85b05bd2.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "4114151428",
-        "URL": "http://images.launchbox-app.com/e163934c-c99b-4ac3-be0c-cf9e85b05bd2.jpg"
       }
     ],
     "Other": [

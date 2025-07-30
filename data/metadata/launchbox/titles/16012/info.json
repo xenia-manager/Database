@@ -1,11 +1,11 @@
 {
   "Name": "NCAA Basketball 09: March Madness Edition",
   "DatabaseID": "16012",
-  "ReleaseDate": "2009-03-11T00:00:00-07:00",
+  "ReleaseDate": "2009-03-11T00:00:00+00:00",
   "Overview": "Graphically March Madness Edition looks identical to NCAA Basketball 09. Player models are frail as ever and the crowd looks just as solid as before with different animations playing throughout. There are some new overlays that have to do with bracket updates as teams progress, but there's nothing in the way of new animation systems or effects.\n\nThe audio is driven by Dick Vitale, Brad Nessler and Erin Andrews (who really needs to have her own player model) who spout off insightful quips whenever possible. They're forced to be fairly nondescript thanks to the lack of player names, but they do the best they can given the limitations. Crowd noise pumps along with the action and you'll hear chants and cheers throughout. \"Warm up the buses\" gets extremely annoying after awhile but all in all the audio serves the sport well.",
   "CommunityRating": "3",
   "ESRB": "E - Everyone",
-  "Genres": " Sports",
+  "Genres": "Sports",
   "Artwork": {
     "Box": {
       "Front": [

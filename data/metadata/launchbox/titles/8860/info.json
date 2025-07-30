@@ -1,13 +1,13 @@
 {
   "Name": "Catherine",
   "DatabaseID": "8860",
-  "ReleaseDate": "2011-07-26T00:00:00-07:00",
+  "ReleaseDate": "2011-07-26T00:00:00+00:00",
   "Overview": "Is love over? Climb to the top or die trying. \n\nExplore the pleasures and horrors of love as Vincent, a man with a hard choice to make: marry his long-time girlfriend Katherine or move on to the incredible blonde he just woke up next to - named Catherine! But beware! Make the wrong choice, and you could end up dead. Delving into themes of free will and the delicate nature of relationships and the choices we make, this game is an experience unlike anything else. \n\nVincent’s heart is torn between two women. On one side sits Katherine, the girl who intends to wed Vincent someday. On the other, Catherine, who appeared out of nowhere. Both of them pull at his heart and soul... The story can take many paths, and the outcome of this romantic horror tale can go to unimaginable places. \n\nMove the blocks to create a path and climb a nightmarish tower while fleeing from the monsters chasing you. The lowest levels of blocks fall as time passes. If you’re not constantly moving, you’ll fall with them. The setting changes each night, rising higher and higher into the heavens. The more stages Vincent overcomes, the more complex the strategies required to progress will become. \n\nVarious obstacles impede Vincent’s path. Some blocks are traps, waiting to skewer unwary climbers. Others explode, damaging everything around them. The sheep in the nightmare are desperate to survive until morning, too. They’ll get in your way, mess up your blocks, or even try to shove you off. You’ll need your wits and the help of strange items that can deal with the sheep, remove hazards or create new paths if you want to reach the top!",
   "VideoURL": "https://www.youtube.com/watch?v=NulvkSa2Dzg",
   "CommunityRating": "3.5625",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Catherine_(video_game)",
   "ESRB": "M - Mature",
-  "Genres": " Platform; Puzzle",
+  "Genres": "Platform; Puzzle",
   "Developer": "Index",
   "Publisher": "Index Digital Media",
   "Artwork": {
@@ -21,10 +21,10 @@
     ],
     "Background": [
       {
-        "FileName": "ccc61d44-b119-4e16-8e64-2bb55ace3d4c.jpg",
+        "FileName": "230a5d1b-2ed3-42d2-91ba-70b42a7425c6.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1068042078",
-        "URL": "http://images.launchbox-app.com/ccc61d44-b119-4e16-8e64-2bb55ace3d4c.jpg"
+        "CRC32": "3413362806",
+        "URL": "http://images.launchbox-app.com/230a5d1b-2ed3-42d2-91ba-70b42a7425c6.jpg"
       },
       {
         "FileName": "5c5b2441-ff6c-4d5a-93c5-7a953317235d.jpg",
@@ -33,10 +33,10 @@
         "URL": "http://images.launchbox-app.com/5c5b2441-ff6c-4d5a-93c5-7a953317235d.jpg"
       },
       {
-        "FileName": "230a5d1b-2ed3-42d2-91ba-70b42a7425c6.jpg",
+        "FileName": "ccc61d44-b119-4e16-8e64-2bb55ace3d4c.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3413362806",
-        "URL": "http://images.launchbox-app.com/230a5d1b-2ed3-42d2-91ba-70b42a7425c6.jpg"
+        "CRC32": "1068042078",
+        "URL": "http://images.launchbox-app.com/ccc61d44-b119-4e16-8e64-2bb55ace3d4c.jpg"
       }
     ],
     "Box": {
@@ -88,17 +88,17 @@
     ],
     "Other": [
       {
-        "FileName": "aea0a246-f99d-40ee-92c2-2438f0040ba3.png",
-        "Type": "Clear Logo",
-        "CRC32": "3303106986",
-        "URL": "http://images.launchbox-app.com/aea0a246-f99d-40ee-92c2-2438f0040ba3.png"
-      },
-      {
         "FileName": "fc27bc80-546a-4314-9ca1-b84e49ba9489.png",
         "Type": "Clear Logo",
         "Region": "World",
         "CRC32": "1757461419",
         "URL": "http://images.launchbox-app.com/fc27bc80-546a-4314-9ca1-b84e49ba9489.png"
+      },
+      {
+        "FileName": "aea0a246-f99d-40ee-92c2-2438f0040ba3.png",
+        "Type": "Clear Logo",
+        "CRC32": "3303106986",
+        "URL": "http://images.launchbox-app.com/aea0a246-f99d-40ee-92c2-2438f0040ba3.png"
       }
     ]
   }

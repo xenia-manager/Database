@@ -1,26 +1,26 @@
 {
   "Name": "Madden NFL 06",
   "DatabaseID": "15794",
-  "ReleaseDate": "2005-08-08T00:00:00-07:00",
+  "ReleaseDate": "2005-08-08T00:00:00+00:00",
   "Overview": "Everything you know about the NFL is about to change.  With cleat marks tearing up the grass, thousands of life-like animations, and the emotion and intensity on each player's face, the stunning graphics and completely redesigned gameplay put you on an NFL field like never before.  Whether you're going head-to-head, playing online, or creating a Franchise mode powerhouse, you're about to experience the NFL in a whole new way.",
   "CommunityRating": "1.75",
   "ESRB": "E - Everyone",
-  "Genres": " Sports",
+  "Genres": "Sports",
   "Developer": "Electronic Arts Tiburon",
   "Publisher": "Electronic Arts",
   "Artwork": {
     "Background": [
       {
-        "FileName": "9f89af8b-7bb6-473b-89ba-bdd20afbbd53.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "307601934",
-        "URL": "http://images.launchbox-app.com/9f89af8b-7bb6-473b-89ba-bdd20afbbd53.jpg"
-      },
-      {
         "FileName": "95b669b9-517e-4413-80fb-44c55ad9f235.png",
         "Type": "Fanart - Background",
         "CRC32": "3941599166",
         "URL": "http://images.launchbox-app.com/95b669b9-517e-4413-80fb-44c55ad9f235.png"
+      },
+      {
+        "FileName": "9f89af8b-7bb6-473b-89ba-bdd20afbbd53.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "307601934",
+        "URL": "http://images.launchbox-app.com/9f89af8b-7bb6-473b-89ba-bdd20afbbd53.jpg"
       }
     ],
     "Box": {

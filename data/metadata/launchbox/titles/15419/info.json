@@ -1,13 +1,13 @@
 {
   "Name": "Def Jam Rapstar",
   "DatabaseID": "15419",
-  "ReleaseDate": "2010-10-05T00:00:00-07:00",
+  "ReleaseDate": "2010-10-05T00:00:00+00:00",
   "Overview": "Def Jam Rapstar is a rapping game developed by 4mm Games.[4] The game was released on October 5, 2010 in the United States of America (U.S.), and released on November 26, 2010 in Europe.[5][6] An official launch event was held at New York's Hudson hotel on October 6, 2010 to celebrate the game's U.S. release.[7] As of October 5, 2011, the community site has been shut down with no official word on when or if it will be reopened, causing major features of the game to be inaccessible.",
   "VideoURL": "https://www.youtube.com/watch?v=DKHBkIDouRM&ab_channel=EBGamesAustralia",
   "CommunityRating": "3.625",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Def_Jam_Rapstar",
   "ESRB": "T - Teen",
-  "Genres": " Music",
+  "Genres": "Music",
   "Developer": "Terminal Reality",
   "Publisher": "Konami",
   "Artwork": {
@@ -23,18 +23,18 @@
       ],
       "Back": [
         {
-          "FileName": "9b249e1e-c726-48b3-a50a-744233f6b5d9.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
-          "CRC32": "760125762",
-          "URL": "http://images.launchbox-app.com/9b249e1e-c726-48b3-a50a-744233f6b5d9.jpg"
-        },
-        {
           "FileName": "856abadb-a434-40e5-9cb9-ffdf009eb4d6.jpg",
           "Type": "Box - Back",
           "Region": "Europe",
           "CRC32": "2505420994",
           "URL": "http://images.launchbox-app.com/856abadb-a434-40e5-9cb9-ffdf009eb4d6.jpg"
+        },
+        {
+          "FileName": "9b249e1e-c726-48b3-a50a-744233f6b5d9.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "760125762",
+          "URL": "http://images.launchbox-app.com/9b249e1e-c726-48b3-a50a-744233f6b5d9.jpg"
         }
       ],
       "Front": [

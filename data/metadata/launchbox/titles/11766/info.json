@@ -1,13 +1,13 @@
 {
   "Name": "DiRT: Showdown",
   "DatabaseID": "11766",
-  "ReleaseDate": "2012-06-12T00:00:00-07:00",
+  "ReleaseDate": "2012-06-12T00:00:00+00:00",
   "Overview": "DiRT: Showdown is a video game published and developed by Codemasters for Microsoft Windows, OS X, Xbox 360, PlayStation 3 and Linux. It was released on 25 May 2012 in Europe and on 12 June in North America. The OS X version was released on 4 September 2014 in North America. The game was released for Linux on 17 August 2015. It is part of the Colin McRae Rally game series.",
   "VideoURL": "https://www.youtube.com/watch?v=7JHxfFFBuOI",
   "CommunityRating": "4.5",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Dirt:_Showdown",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Racing",
+  "Genres": "Racing",
   "Developer": "Codemasters",
   "Publisher": "Codemasters",
   "Artwork": {
@@ -40,16 +40,16 @@
     ],
     "Other": [
       {
-        "FileName": "95e1e124-f352-4a61-a3e0-8ce7320c089b.png",
-        "Type": "Clear Logo",
-        "CRC32": "742904243",
-        "URL": "http://images.launchbox-app.com/95e1e124-f352-4a61-a3e0-8ce7320c089b.png"
-      },
-      {
         "FileName": "1011af0f-624e-47ca-a299-a527ec98ef13.png",
         "Type": "Clear Logo",
         "CRC32": "3637124490",
         "URL": "http://images.launchbox-app.com/1011af0f-624e-47ca-a299-a527ec98ef13.png"
+      },
+      {
+        "FileName": "95e1e124-f352-4a61-a3e0-8ce7320c089b.png",
+        "Type": "Clear Logo",
+        "CRC32": "742904243",
+        "URL": "http://images.launchbox-app.com/95e1e124-f352-4a61-a3e0-8ce7320c089b.png"
       }
     ]
   }

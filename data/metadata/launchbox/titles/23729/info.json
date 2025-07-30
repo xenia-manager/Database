@@ -2,8 +2,8 @@
   "Name": "Shooting Love 10-Shuunen: XIIZeal & DeltaZeal",
   "DatabaseID": "23729",
   "Overview": "In comments to Shooterama's first episode, a few days ago , it was rumored that the Xbox 360 has for years become the reference console for Japanese shooters and lovers of the same. This led to the fact that, thanks to saintors such as Rising Star Games, some of those games have also come to the PAL market at resettable prices (incoming post summary), and others, as region-free, are still usable On the 360 ​​European. And yes, for all other region-locked games, if you do not even have a 360 game, you attack, okay; But that is another matter. Today we are talking about a title belonging to the second category: a game released only in Japan at the end of May but I do not love the troglodytic regional blockbusters. The title speaks of the rest of love: and there, in the land of the maggery, there is someone who still loves you fans of sparacchine stuff. Or you do not suck your money from gaijin. One of the two [...]",
-  "CommunityRating": "4.333333333333333",
-  "Genres": " Shooter",
+  "CommunityRating": "4.33333333333333",
+  "Genres": "Shooter",
   "Artwork": {
     "Background": [
       {
@@ -43,18 +43,18 @@
     ],
     "Other": [
       {
-        "FileName": "a9e96afe-42f9-4ee1-9cc7-cc7d609fec1b.png",
-        "Type": "Clear Logo",
-        "Region": "Japan",
-        "CRC32": "2467817240",
-        "URL": "http://images.launchbox-app.com/a9e96afe-42f9-4ee1-9cc7-cc7d609fec1b.png"
-      },
-      {
         "FileName": "ecff4e56-0f32-481e-a52b-d7dc10f80ca4.png",
         "Type": "Clear Logo",
         "Region": "Japan",
         "CRC32": "860181415",
         "URL": "http://images.launchbox-app.com/ecff4e56-0f32-481e-a52b-d7dc10f80ca4.png"
+      },
+      {
+        "FileName": "a9e96afe-42f9-4ee1-9cc7-cc7d609fec1b.png",
+        "Type": "Clear Logo",
+        "Region": "Japan",
+        "CRC32": "2467817240",
+        "URL": "http://images.launchbox-app.com/a9e96afe-42f9-4ee1-9cc7-cc7d609fec1b.png"
       }
     ]
   }

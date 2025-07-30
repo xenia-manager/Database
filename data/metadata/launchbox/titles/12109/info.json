@@ -1,13 +1,13 @@
 {
   "Name": "de Blob 2",
   "DatabaseID": "12109",
-  "ReleaseDate": "2011-02-22T00:00:00-08:00",
+  "ReleaseDate": "2011-02-22T00:00:00+00:00",
   "Overview": "de Blob 2, previously known as de Blob: The Underground, is a sequel to the Wii exclusive 2008 platformer, de Blob. The puzzle game was released in North America on 22 February 2011, 24 February 2011 in Australia and 25 February 2011 in Europe. It is developed by the now defunct Blue Tongue Entertainment (except the DS version which was developed by Halfbrick Studios), and published by THQ.[1] The game was released for the PlayStation 3 and Xbox 360 platforms in addition to the Wii and DS.[2]",
   "VideoURL": "https://www.youtube.com/watch?v=PAxrBF8sn10",
   "CommunityRating": "3.5",
   "WikipediaURL": "https://en.wikipedia.org/wiki/De_Blob_2",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Platform",
+  "Genres": "Platform",
   "Developer": "Blue Tongue Entertainment",
   "Publisher": "THQ",
   "Artwork": {

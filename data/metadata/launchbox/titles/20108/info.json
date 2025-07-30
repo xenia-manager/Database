@@ -1,12 +1,12 @@
 {
   "Name": "Trials Fusion",
   "DatabaseID": "20108",
-  "ReleaseDate": "2014-04-15T00:00:00-07:00",
+  "ReleaseDate": "2014-04-15T00:00:00+00:00",
   "Overview": "Trials Fusion is a platform racing game currently in development by RedLynx. A follow-up to the critically acclaimed Trials Evolution, it is the fifth game in the Trials series and is the first one to be released on a PlayStation platform. The game is scheduled for release on Microsoft Windows, PlayStation 4, Xbox 360 and Xbox One in April 2014. A companion game, Trials Frontier, released on iOS and Android devices and is designed to accompany the console and PC title",
   "VideoURL": "http://www.youtube.com/watch?v=D_HyR7X5m40",
   "CommunityRating": "3.7",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Racing",
+  "Genres": "Racing",
   "Developer": "Redlynx Ltd",
   "Publisher": "Ubisoft",
   "Artwork": {
@@ -31,6 +31,12 @@
     },
     "Screenshots": [
       {
+        "FileName": "b5e53339-fb82-40ce-924b-3fe1ba390633.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "238523438",
+        "URL": "http://images.launchbox-app.com/b5e53339-fb82-40ce-924b-3fe1ba390633.jpg"
+      },
+      {
         "FileName": "37c43db6-d23a-43c5-914e-8acebb5ec3cf.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "1539536681",
@@ -47,12 +53,6 @@
         "Type": "Screenshot - Gameplay",
         "CRC32": "1092165249",
         "URL": "http://images.launchbox-app.com/a901f23e-a705-4dfe-9e71-e6dddab0ba02.jpg"
-      },
-      {
-        "FileName": "b5e53339-fb82-40ce-924b-3fe1ba390633.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "238523438",
-        "URL": "http://images.launchbox-app.com/b5e53339-fb82-40ce-924b-3fe1ba390633.jpg"
       },
       {
         "FileName": "d9621177-b15a-4b89-aab0-60424301250e.jpg",

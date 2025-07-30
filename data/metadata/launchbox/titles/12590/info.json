@@ -1,23 +1,17 @@
 {
   "Name": "NieR",
   "DatabaseID": "12590",
-  "ReleaseDate": "2010-04-27T00:00:00-07:00",
+  "ReleaseDate": "2010-04-27T00:00:00+00:00",
   "Overview": "Players will jump into the title role of the unyielding Nier as he begins his desperate quest to discover a cure for his daughter, Yonah, who is stricken with the deadly Black Scrawl disease. Armed with a powerful set of magical abilities as well as mighty swords and armor, Nier will do battle alongside a set of formidable allies against waves of dark enemies and giant bosses to discover the truth about the disease, his daughter...and himself.",
   "VideoURL": "https://www.youtube.com/watch?v=qBk-u8nuFvY",
   "CommunityRating": "3.125",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Nier_(video_game)",
   "ESRB": "M - Mature",
-  "Genres": " Action; Role-Playing",
+  "Genres": "Action; Role-Playing",
   "Developer": "Cavia",
   "Publisher": "Square Enix",
   "Artwork": {
     "Background": [
-      {
-        "FileName": "a046270a-076e-4a61-bb93-a9d4696c629f.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "3079374473",
-        "URL": "http://images.launchbox-app.com/a046270a-076e-4a61-bb93-a9d4696c629f.jpg"
-      },
       {
         "FileName": "b7bfb141-474f-482b-8ba0-b59d40e8dbe3.png",
         "Type": "Fanart - Background",
@@ -29,6 +23,12 @@
         "Type": "Fanart - Background",
         "CRC32": "2076931216",
         "URL": "http://images.launchbox-app.com/d78d50e6-795f-4fe3-8084-6e2f6116deb9.jpg"
+      },
+      {
+        "FileName": "a046270a-076e-4a61-bb93-a9d4696c629f.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3079374473",
+        "URL": "http://images.launchbox-app.com/a046270a-076e-4a61-bb93-a9d4696c629f.jpg"
       }
     ],
     "Box": {
@@ -66,20 +66,6 @@
       ],
       "Front": [
         {
-          "FileName": "edf675a2-9546-4332-bae5-6d0003caf244.jpg",
-          "Type": "Box - Front",
-          "Region": "United Kingdom",
-          "CRC32": "3133887506",
-          "URL": "http://images.launchbox-app.com/edf675a2-9546-4332-bae5-6d0003caf244.jpg"
-        },
-        {
-          "FileName": "aacfb7e1-9b3b-47ad-a1e1-a6ef2e44341d.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "778653003",
-          "URL": "http://images.launchbox-app.com/aacfb7e1-9b3b-47ad-a1e1-a6ef2e44341d.jpg"
-        },
-        {
           "FileName": "5750eee3-8e4a-4f80-8260-aa25e32c19a4.jpg",
           "Type": "Box - Front",
           "Region": "Japan",
@@ -92,22 +78,36 @@
           "Region": "North America",
           "CRC32": "2523238131",
           "URL": "http://images.launchbox-app.com/3851c7a6-da6a-4d81-906b-2683c47b4fac.jpg"
+        },
+        {
+          "FileName": "aacfb7e1-9b3b-47ad-a1e1-a6ef2e44341d.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "778653003",
+          "URL": "http://images.launchbox-app.com/aacfb7e1-9b3b-47ad-a1e1-a6ef2e44341d.jpg"
+        },
+        {
+          "FileName": "edf675a2-9546-4332-bae5-6d0003caf244.jpg",
+          "Type": "Box - Front",
+          "Region": "United Kingdom",
+          "CRC32": "3133887506",
+          "URL": "http://images.launchbox-app.com/edf675a2-9546-4332-bae5-6d0003caf244.jpg"
         }
       ],
       "Spine": [
-        {
-          "FileName": "3aa16965-9cfa-464a-8462-096d162a8926.png",
-          "Type": "Box - Spine",
-          "Region": "North America",
-          "CRC32": "1619591908",
-          "URL": "http://images.launchbox-app.com/3aa16965-9cfa-464a-8462-096d162a8926.png"
-        },
         {
           "FileName": "c94c6e0b-2534-4878-9087-cb8401663367.png",
           "Type": "Box - Spine",
           "Region": "Europe",
           "CRC32": "2257897553",
           "URL": "http://images.launchbox-app.com/c94c6e0b-2534-4878-9087-cb8401663367.png"
+        },
+        {
+          "FileName": "3aa16965-9cfa-464a-8462-096d162a8926.png",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "1619591908",
+          "URL": "http://images.launchbox-app.com/3aa16965-9cfa-464a-8462-096d162a8926.png"
         },
         {
           "FileName": "a0eb604c-3399-4434-8c83-5637c7f964d3.png",

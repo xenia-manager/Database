@@ -1,11 +1,11 @@
 {
   "Name": "Dustforce",
   "DatabaseID": "209326",
-  "ReleaseDate": "2014-04-25T00:00:00-07:00",
+  "ReleaseDate": "2014-04-25T00:00:00+00:00",
   "Overview": "Clean up the world with style! As an acrobatic janitor, you are an adept force against dust and disorder. Leap and dash off walls and ceilings, and deftly traverse precarious environments. Cleanse each level swiftly and thoroughly to achieve mastery in this 2D sweep-’em-up platformer.",
   "CommunityRating": "4.25",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Platform",
+  "Genres": "Platform",
   "Developer": "QLOC",
   "Publisher": "Capcom",
   "Artwork": {

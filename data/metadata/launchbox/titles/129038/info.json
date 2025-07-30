@@ -1,13 +1,13 @@
 {
   "Name": "Torchlight",
   "DatabaseID": "129038",
-  "ReleaseDate": "2011-03-09T00:00:00-08:00",
+  "ReleaseDate": "2011-03-09T00:00:00+00:00",
   "Overview": "Torchlight is an action-roleplaying game developed by the creators of popular games Diablo and FATE. Players will choose from among three character classes, and venture from the safety of the town of Torchlight into randomly generated dungeon levels, with a huge variety of creepy monsters, endless variations of loot to find, and quests to complete. Randomized levels and an 'endless dungeon' unlocked after completing the main game ensure a long-lived gameplay experience.",
   "VideoURL": "https://www.youtube.com/watch?v=dEYU1KSOp94",
-  "CommunityRating": "4.166666666666667",
+  "CommunityRating": "4.16666666666667",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Torchlight",
   "ESRB": "T - Teen",
-  "Genres": " Action; Role-Playing",
+  "Genres": "Action; Role-Playing",
   "Developer": "Runic Games",
   "Publisher": "Microsoft Studios",
   "Artwork": {
@@ -32,22 +32,16 @@
     },
     "Screenshots": [
       {
-        "FileName": "e2126e72-d1b6-4cb2-b6ab-a7441482c14a.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "4283269933",
-        "URL": "http://images.launchbox-app.com/e2126e72-d1b6-4cb2-b6ab-a7441482c14a.jpg"
-      },
-      {
         "FileName": "d717d0fc-2b25-41ff-becd-a49fe63d3e6b.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "673964583",
         "URL": "http://images.launchbox-app.com/d717d0fc-2b25-41ff-becd-a49fe63d3e6b.jpg"
       },
       {
-        "FileName": "69269dbe-c097-476a-b3fe-0f933c985bcb.jpg",
+        "FileName": "c5deea52-cc73-4db1-bbd3-4ddc8f1ca0ac.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "1064304694",
-        "URL": "http://images.launchbox-app.com/69269dbe-c097-476a-b3fe-0f933c985bcb.jpg"
+        "CRC32": "1875451231",
+        "URL": "http://images.launchbox-app.com/c5deea52-cc73-4db1-bbd3-4ddc8f1ca0ac.jpg"
       },
       {
         "FileName": "c8f5f40b-4587-41df-a1e8-fcb8fb0d3bbc.jpg",
@@ -56,10 +50,16 @@
         "URL": "http://images.launchbox-app.com/c8f5f40b-4587-41df-a1e8-fcb8fb0d3bbc.jpg"
       },
       {
-        "FileName": "c5deea52-cc73-4db1-bbd3-4ddc8f1ca0ac.jpg",
+        "FileName": "69269dbe-c097-476a-b3fe-0f933c985bcb.jpg",
         "Type": "Screenshot - Gameplay",
-        "CRC32": "1875451231",
-        "URL": "http://images.launchbox-app.com/c5deea52-cc73-4db1-bbd3-4ddc8f1ca0ac.jpg"
+        "CRC32": "1064304694",
+        "URL": "http://images.launchbox-app.com/69269dbe-c097-476a-b3fe-0f933c985bcb.jpg"
+      },
+      {
+        "FileName": "e2126e72-d1b6-4cb2-b6ab-a7441482c14a.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "4283269933",
+        "URL": "http://images.launchbox-app.com/e2126e72-d1b6-4cb2-b6ab-a7441482c14a.jpg"
       }
     ],
     "Other": [

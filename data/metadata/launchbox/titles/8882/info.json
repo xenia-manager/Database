@@ -1,12 +1,12 @@
 {
   "Name": "PES 2012: Pro Evolution Soccer",
   "DatabaseID": "8882",
-  "ReleaseDate": "2011-09-27T00:00:00-07:00",
+  "ReleaseDate": "2011-09-27T00:00:00+00:00",
   "Overview": "Pro Evolution Soccer 2012 (officially abbreviated as PES 2012 and known as World Soccer: Winning Eleven 2012 in Asia) is a video game which is the eleventh edition in the Pro Evolution Soccer series developed and published by Konami (and MicroByte in Argentina) with production assistance from the Blue Sky Team. Lionel Messi, who was the cover star for the series since PES 2009, was replaced by PES 2008 cover star Cristiano Ronaldo, while Shinji Kagawa replaces Messi as the cover star for the Japanese version. The US and Latin American cover features Santos player Neymar and Cristiano Ronaldo.\n\nLike previous versions of the game, it will be exclusively licensed by UEFA to contain the UEFA Champions League, UEFA Europa League and UEFA Super Cup competitions along with a license from CONMEBOL to feature the Copa Santander Libertadores. Referees' governing UEFA Champions League, UEFA Europa League and UEFA Super Cup matches will wear the official UEFA Champions League uniforms, which is a first for the series.  Primeira Liga were included for the first time in series with three licensed teams.\n\nOn July 28, 2011, Konami confirmed that PES 2012 was going to be released for Xbox 360, PlayStation 3 and Microsoft Windows on October 14, 2011 in Europe and October 6, 2011 in Japan. At Gamescom 2011 it was announced that the PlayStation Portable and PlayStation 2 versions would follow on October 28, 2011 and the Wii on November 4, 2011. The publisher has also confirmed that versions for Nintendo 3DS and iOS formats are also in development, with firm dates to follow.\n\nThere are two demos, both of which were released for the PlayStation 3, PC although the Xbox 360 only had the second demo due to problems with the first one. The first is based on a preview build of the game and was released on August 24, 2011 for PlayStation 3 and PC, though because of \"issues on both sides\" according to Jon Murphy, PES Team Leader, it was not released on the Xbox 360. The second demo was released 14 September on the Xbox 360, PlayStation 3 and PC.",
-  "CommunityRating": "3.5714285714285716",
+  "CommunityRating": "3.57142857142857",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Pro_Evolution_Soccer_2012",
   "ESRB": "E - Everyone",
-  "Genres": " Sports",
+  "Genres": "Sports",
   "Developer": "PES Productions",
   "Publisher": "Konami Digital Entertainment",
   "Artwork": {
@@ -30,13 +30,6 @@
       ],
       "Back": [
         {
-          "FileName": "19c69b0c-953a-4fd2-9bdb-0add404a2bb1.jpg",
-          "Type": "Box - Back",
-          "Region": "North America",
-          "CRC32": "3895813251",
-          "URL": "http://images.launchbox-app.com/19c69b0c-953a-4fd2-9bdb-0add404a2bb1.jpg"
-        },
-        {
           "FileName": "fb1c4b09-634e-44cf-bee0-e540f54bbd03.jpg",
           "Type": "Box - Back",
           "Region": "North America",
@@ -49,6 +42,13 @@
           "Region": "Europe",
           "CRC32": "3389970994",
           "URL": "http://images.launchbox-app.com/5896e533-d40c-4abb-a2a2-4a72cf445695.jpg"
+        },
+        {
+          "FileName": "19c69b0c-953a-4fd2-9bdb-0add404a2bb1.jpg",
+          "Type": "Box - Back",
+          "Region": "North America",
+          "CRC32": "3895813251",
+          "URL": "http://images.launchbox-app.com/19c69b0c-953a-4fd2-9bdb-0add404a2bb1.jpg"
         }
       ],
       "Front": [
@@ -95,16 +95,16 @@
     ],
     "Other": [
       {
-        "FileName": "38e64c79-5894-456a-9087-a9bb4cc72be5.png",
-        "Type": "Clear Logo",
-        "CRC32": "3506375491",
-        "URL": "http://images.launchbox-app.com/38e64c79-5894-456a-9087-a9bb4cc72be5.png"
-      },
-      {
         "FileName": "195213bc-346c-4e0b-b6c5-ec2a386229b8.png",
         "Type": "Clear Logo",
         "CRC32": "3821445668",
         "URL": "http://images.launchbox-app.com/195213bc-346c-4e0b-b6c5-ec2a386229b8.png"
+      },
+      {
+        "FileName": "38e64c79-5894-456a-9087-a9bb4cc72be5.png",
+        "Type": "Clear Logo",
+        "CRC32": "3506375491",
+        "URL": "http://images.launchbox-app.com/38e64c79-5894-456a-9087-a9bb4cc72be5.png"
       }
     ]
   }

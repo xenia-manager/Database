@@ -1,11 +1,11 @@
 {
   "Name": "Minesweeper Flags",
   "DatabaseID": "209684",
-  "ReleaseDate": "2010-01-04T00:00:00-08:00",
+  "ReleaseDate": "2010-01-04T00:00:00+00:00",
   "Overview": "The full version of Minesweeper Flag includes LIVE multiplayer Flags action, exciting achievements, rankings, ratings and true skill. See how you stack up against your friends in Minesweeper action!",
   "CommunityRating": "3",
   "ESRB": "E - Everyone",
-  "Genres": " Puzzle",
+  "Genres": "Puzzle",
   "Developer": "TikGames",
   "Publisher": "Microsoft Studios",
   "Artwork": {

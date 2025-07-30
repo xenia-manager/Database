@@ -1,11 +1,11 @@
 {
   "Name": "radiangames Fluid",
   "DatabaseID": "155158",
-  "ReleaseDate": "2010-10-22T00:00:00-07:00",
+  "ReleaseDate": "2010-10-22T00:00:00+00:00",
   "Overview": "Race as fluidly as possible to collect all the dots and avoid the growing swarm of killer jellyfish. Use powerpills, vortices, speed pads, and teleporters to perfect your runs across 30 levels and 5 extreme levels. Fluid is the fourth game in the radiangames series.",
   "VideoURL": "https://www.youtube.com/watch?v=V2Na_WMLfbM",
   "ESRB": "Not Rated",
-  "Genres": " Action",
+  "Genres": "Action",
   "Developer": "radiangames",
   "Publisher": "radiangames",
   "Artwork": {

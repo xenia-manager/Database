@@ -1,13 +1,13 @@
 {
   "Name": "Dead Space 2",
   "DatabaseID": "8164",
-  "ReleaseDate": "2011-01-25T00:00:00-08:00",
+  "ReleaseDate": "2011-01-25T00:00:00+00:00",
   "Overview": "Dead Space 2 is a third-person survival horror game in which players must battle an alien infestation straight out of a nightmare. The follow-up to 2008's original Dead Space will have players  exploring a whole new terrifying game environment and battling the Necromorph abominations utilizing new weapons and tools such as the powerful javelin gun and a new space suit with built-in booster rockets. Additional game features include improved telekinesis powers and online multiplayer functionality. \n\nEngineer Isaac Clarke returns for another bloodcurdling adventure in the sequel to the critically acclaimed Dead Space. After waking from a coma on a massive space city known as \"The Sprawl,\" the lone survivor of a horrific alien infestation finds himself confronting a catastrophic new nightmare. Battling dementia, hunted by the government, and haunted by visions of his dead girlfriend, Isaac will do whatever it takes to save himself and dominate the gruesome onslaught. With an arsenal of tools to dismember Necromorphs and new determination, an engineer will bring the terror to space.",
   "VideoURL": "https://www.youtube.com/watch?v=z7Qy_4sWs3I",
-  "CommunityRating": "4.4210526315789478",
+  "CommunityRating": "4.42105263157895",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Dead_Space_2",
   "ESRB": "M - Mature",
-  "Genres": " Horror; Shooter",
+  "Genres": "Horror; Shooter",
   "Developer": "Visceral Games",
   "Publisher": "Electronic Arts",
   "Artwork": {
@@ -19,11 +19,11 @@
         "URL": "http://images.launchbox-app.com/0b100906-d0ba-40f8-a56a-175bae204f39.jpg"
       },
       {
-        "FileName": "r2_0d47b03c-8752-48de-a4aa-605189fd0059.PNG",
+        "FileName": "r2_0d47b03c-8752-48de-a4aa-605189fd0059.png",
         "Type": "Fanart - Background",
         "Region": "North America",
         "CRC32": "3355776473",
-        "URL": "http://images.launchbox-app.com/r2_0d47b03c-8752-48de-a4aa-605189fd0059.PNG"
+        "URL": "http://images.launchbox-app.com/r2_0d47b03c-8752-48de-a4aa-605189fd0059.png"
       }
     ],
     "Box": {

@@ -1,10 +1,10 @@
 {
   "Name": "Tony Hawk's Pro Skater 5",
   "DatabaseID": "32130",
-  "ReleaseDate": "2015-12-15T00:00:00-08:00",
+  "ReleaseDate": "2015-12-15T00:00:00+00:00",
   "Overview": "Tony Hawk's Pro Skater 5 is a skateboarding video game in the Tony Hawk's series developed by Robomodo and Disruptive Games, and published by Activision.[7] The game is the tenth game in the series, being the first main entry in the series since 2007's Proving Ground. The game was released on PlayStation 4 and Xbox One on September 29, 2015 and was critically panned. Patches have since been released to fix the game and add new content. The PlayStation 3 and Xbox 360 versions were released on December 15, 2015 in North America and Europe, after they were delayed to improve the original versions.",
-  "CommunityRating": "2.8333333333333335",
-  "Genres": " Sports",
+  "CommunityRating": "2.83333333333333",
+  "Genres": "Sports",
   "Developer": "Robomodo",
   "Publisher": "Activision Publishing",
   "Artwork": {
@@ -62,18 +62,18 @@
     },
     "Disc": [
       {
-        "FileName": "9bba7875-6705-4125-bd4e-827590d452bb.png",
-        "Type": "Disc",
-        "Region": "World",
-        "CRC32": "169800472",
-        "URL": "http://images.launchbox-app.com/9bba7875-6705-4125-bd4e-827590d452bb.png"
-      },
-      {
         "FileName": "771ae875-d5a2-40e7-b14c-e12bc993fd8a.png",
         "Type": "Disc",
         "Region": "North America",
         "CRC32": "325698179",
         "URL": "http://images.launchbox-app.com/771ae875-d5a2-40e7-b14c-e12bc993fd8a.png"
+      },
+      {
+        "FileName": "9bba7875-6705-4125-bd4e-827590d452bb.png",
+        "Type": "Disc",
+        "Region": "World",
+        "CRC32": "169800472",
+        "URL": "http://images.launchbox-app.com/9bba7875-6705-4125-bd4e-827590d452bb.png"
       }
     ],
     "Other": [

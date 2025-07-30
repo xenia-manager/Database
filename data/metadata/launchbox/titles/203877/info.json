@@ -1,10 +1,10 @@
 {
   "Name": "Top Hand Rodeo Tour",
   "DatabaseID": "203877",
-  "ReleaseDate": "2012-11-02T00:00:00-07:00",
+  "ReleaseDate": "2012-11-02T00:00:00+00:00",
   "Overview": "Top Hand Rodeo Tour will challenge players to work their way up through the pro rodeo circuit. Roping 'n riding against the pros through a variety of events, would-be cowboys will have their mettle tested in their bid for the ultimate prize, the big belt buckle and the coveted title of Top Hand!",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Sports",
+  "Genres": "Sports",
   "Developer": "SFC Rodeo Games",
   "Artwork": {
     "Box": {
@@ -29,10 +29,10 @@
     ],
     "Screenshots": [
       {
-        "FileName": "f002fe6e-de32-460c-91c1-f5149a0663da.jpg",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "1730421419",
-        "URL": "http://images.launchbox-app.com/f002fe6e-de32-460c-91c1-f5149a0663da.jpg"
+        "FileName": "743b1437-b915-497d-b6aa-5b2e018ed568.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3642325156",
+        "URL": "http://images.launchbox-app.com/743b1437-b915-497d-b6aa-5b2e018ed568.jpg"
       },
       {
         "FileName": "8efd1794-2ece-4acf-916c-a38448fd3033.jpg",
@@ -41,10 +41,10 @@
         "URL": "http://images.launchbox-app.com/8efd1794-2ece-4acf-916c-a38448fd3033.jpg"
       },
       {
-        "FileName": "743b1437-b915-497d-b6aa-5b2e018ed568.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3642325156",
-        "URL": "http://images.launchbox-app.com/743b1437-b915-497d-b6aa-5b2e018ed568.jpg"
+        "FileName": "f002fe6e-de32-460c-91c1-f5149a0663da.jpg",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "1730421419",
+        "URL": "http://images.launchbox-app.com/f002fe6e-de32-460c-91c1-f5149a0663da.jpg"
       }
     ]
   }

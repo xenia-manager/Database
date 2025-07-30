@@ -1,13 +1,13 @@
 {
   "Name": "Burnout Revenge",
   "DatabaseID": "7155",
-  "ReleaseDate": "2006-03-07T00:00:00-08:00",
+  "ReleaseDate": "2006-03-07T00:00:00+00:00",
   "Overview": "This time it's not about winning. It's not about riding on dubs or gaudy neon lights. It's about an utter disregard for the rules of road and total domination. This time it's personal. This time it's about revenge. The sequel to 2004's racing game of the year, Burnout Revenge straps gamers into the fastest, most dangerous racer on the road. Fight dirty or go down in flames - the only rule is complete automotive anarchy. \n\nBuilt for unprecedented destruction, Burnout Revenge challenges gamers to exact their revenge on rush hour traffic, vindictive rival racers and anything else that gets between them and the finish line. \n\nFeaturing multi-level tracks designed for fighting, wicked vertical takedowns, explosive new crashbreakers, new gameplay modes and wide open \"crash courses\" for epic crash sequences that put Hollywood to shame, Burnout Revenge redefines speed and aggression for the ultimate in vehicular combat. \n\nAnd when gamers are ready to take their rage on the road, a massive suite of online modes and features open up endless possibilities to slam, shunt and stonewall new enemies all over the world. Happy hunting!",
   "VideoURL": "https://www.youtube.com/watch?v=w2FJEsPnFLQ",
-  "CommunityRating": "4.2364864864864868",
+  "CommunityRating": "4.23648648648649",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Burnout_Revenge",
   "ESRB": "E10+ - Everyone 10+",
-  "Genres": " Racing",
+  "Genres": "Racing",
   "Developer": "Criterion Games",
   "Publisher": "Electronic Arts",
   "Artwork": {
@@ -45,11 +45,11 @@
       ],
       "Back": [
         {
-          "FileName": "66fe82c5-ca71-4b46-a478-74d4b982c056.jpg",
+          "FileName": "e53d5ef0-e910-457e-8190-686d0d3978b1.jpg",
           "Type": "Box - Back",
-          "Region": "North America",
-          "CRC32": "1047452377",
-          "URL": "http://images.launchbox-app.com/66fe82c5-ca71-4b46-a478-74d4b982c056.jpg"
+          "Region": "Australia",
+          "CRC32": "4261363112",
+          "URL": "http://images.launchbox-app.com/e53d5ef0-e910-457e-8190-686d0d3978b1.jpg"
         },
         {
           "FileName": "095f0b25-ca5d-4bb4-b6be-ce9690e73f5b.jpg",
@@ -59,27 +59,20 @@
           "URL": "http://images.launchbox-app.com/095f0b25-ca5d-4bb4-b6be-ce9690e73f5b.jpg"
         },
         {
-          "FileName": "e53d5ef0-e910-457e-8190-686d0d3978b1.jpg",
+          "FileName": "66fe82c5-ca71-4b46-a478-74d4b982c056.jpg",
           "Type": "Box - Back",
-          "Region": "Australia",
-          "CRC32": "4261363112",
-          "URL": "http://images.launchbox-app.com/e53d5ef0-e910-457e-8190-686d0d3978b1.jpg"
+          "Region": "North America",
+          "CRC32": "1047452377",
+          "URL": "http://images.launchbox-app.com/66fe82c5-ca71-4b46-a478-74d4b982c056.jpg"
         }
       ],
       "Front": [
         {
-          "FileName": "c5e3280b-4928-4f0e-81dc-472ad5264ae6.jpg",
+          "FileName": "fc2efefb-d107-4991-97de-89dcd6d263a9.jpg",
           "Type": "Box - Front",
-          "Region": "Germany",
-          "CRC32": "2816727304",
-          "URL": "http://images.launchbox-app.com/c5e3280b-4928-4f0e-81dc-472ad5264ae6.jpg"
-        },
-        {
-          "FileName": "59230fbe-6434-49ca-8d7c-636880396f7e.jpg",
-          "Type": "Box - Front",
-          "Region": "Australia",
-          "CRC32": "477464099",
-          "URL": "http://images.launchbox-app.com/59230fbe-6434-49ca-8d7c-636880396f7e.jpg"
+          "Region": "North America",
+          "CRC32": "1259002569",
+          "URL": "http://images.launchbox-app.com/fc2efefb-d107-4991-97de-89dcd6d263a9.jpg"
         },
         {
           "FileName": "1d5df53a-1089-4a15-a9f7-a78f8bbe0fdb.jpg",
@@ -89,11 +82,18 @@
           "URL": "http://images.launchbox-app.com/1d5df53a-1089-4a15-a9f7-a78f8bbe0fdb.jpg"
         },
         {
-          "FileName": "fc2efefb-d107-4991-97de-89dcd6d263a9.jpg",
+          "FileName": "59230fbe-6434-49ca-8d7c-636880396f7e.jpg",
           "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "1259002569",
-          "URL": "http://images.launchbox-app.com/fc2efefb-d107-4991-97de-89dcd6d263a9.jpg"
+          "Region": "Australia",
+          "CRC32": "477464099",
+          "URL": "http://images.launchbox-app.com/59230fbe-6434-49ca-8d7c-636880396f7e.jpg"
+        },
+        {
+          "FileName": "c5e3280b-4928-4f0e-81dc-472ad5264ae6.jpg",
+          "Type": "Box - Front",
+          "Region": "Germany",
+          "CRC32": "2816727304",
+          "URL": "http://images.launchbox-app.com/c5e3280b-4928-4f0e-81dc-472ad5264ae6.jpg"
         }
       ],
       "Spine": [
@@ -124,6 +124,18 @@
     ],
     "Screenshots": [
       {
+        "FileName": "81cbe9b2-b15f-4396-a55a-31aa155c0641.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1566315189",
+        "URL": "http://images.launchbox-app.com/81cbe9b2-b15f-4396-a55a-31aa155c0641.jpg"
+      },
+      {
+        "FileName": "3bbcf68f-d02a-4be2-91e6-a9499d00d6b4.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2034246495",
+        "URL": "http://images.launchbox-app.com/3bbcf68f-d02a-4be2-91e6-a9499d00d6b4.jpg"
+      },
+      {
         "FileName": "1abf5ecc-aa22-4983-b77d-2c714ec059c0.jpg",
         "Type": "Screenshot - Game Select",
         "CRC32": "806450016",
@@ -134,33 +146,21 @@
         "Type": "Screenshot - Game Title",
         "CRC32": "3998278647",
         "URL": "http://images.launchbox-app.com/9a8b9ad7-cbb2-46d8-ac59-eb2afdc97d61.jpg"
-      },
-      {
-        "FileName": "3bbcf68f-d02a-4be2-91e6-a9499d00d6b4.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2034246495",
-        "URL": "http://images.launchbox-app.com/3bbcf68f-d02a-4be2-91e6-a9499d00d6b4.jpg"
-      },
-      {
-        "FileName": "81cbe9b2-b15f-4396-a55a-31aa155c0641.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1566315189",
-        "URL": "http://images.launchbox-app.com/81cbe9b2-b15f-4396-a55a-31aa155c0641.jpg"
       }
     ],
     "Other": [
+      {
+        "FileName": "362b8e46-9239-4ddd-a457-dc0470cd0175.png",
+        "Type": "Clear Logo",
+        "CRC32": "1106879016",
+        "URL": "http://images.launchbox-app.com/362b8e46-9239-4ddd-a457-dc0470cd0175.png"
+      },
       {
         "FileName": "41088ae8-6569-4d7e-8ecf-dea16351f632.png",
         "Type": "Clear Logo",
         "Region": "United States",
         "CRC32": "3269877619",
         "URL": "http://images.launchbox-app.com/41088ae8-6569-4d7e-8ecf-dea16351f632.png"
-      },
-      {
-        "FileName": "362b8e46-9239-4ddd-a457-dc0470cd0175.png",
-        "Type": "Clear Logo",
-        "CRC32": "1106879016",
-        "URL": "http://images.launchbox-app.com/362b8e46-9239-4ddd-a457-dc0470cd0175.png"
       }
     ]
   }

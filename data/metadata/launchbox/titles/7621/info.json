@@ -1,13 +1,13 @@
 {
   "Name": "Tom Clancy's Splinter Cell: Double Agent",
   "DatabaseID": "7621",
-  "ReleaseDate": "2006-10-17T00:00:00-07:00",
+  "ReleaseDate": "2006-10-17T00:00:00+00:00",
   "Overview": "Splinter Cell Double Agent is a Stealth-Action game where you play as Sam Fisher, a secret NSA agent, infiltrating a terrorist cell to destroy it from within. Face the gut-wrenching dilemmas of a Double Agent's life, do whatever it takes to complete your mission, and get out alive. Play Online Multiplayer, as a Spy or a Mercenary, to experience either the chilling tension of infiltrating and hacking unseen or the brutal power of hunting and eliminating intruders. Use acrobatic moves against high-tech gear and drones in an instant and addictive 3 vs. 3 game mode. Cooperate with two teammates, improve and challenge yourself against advanced AI bots in the exclusive “Coop Challenges” mode.",
   "VideoURL": "https://www.youtube.com/watch?v=v3CJKW9u7CA",
   "CommunityRating": "4.1",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_Splinter_Cell:_Double_Agent",
   "ESRB": "M - Mature",
-  "Genres": " Action; Adventure; Stealth",
+  "Genres": "Action; Adventure; Stealth",
   "Developer": "Ubisoft Shanghai",
   "Publisher": "Ubisoft Entertainment",
   "Artwork": {
@@ -21,10 +21,10 @@
     ],
     "Background": [
       {
-        "FileName": "ebc34d74-9790-4faa-bbf7-c2192f1f7975.jpg",
+        "FileName": "0accbffd-3a50-4d0a-a839-c17233a6ebb6.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "1859479764",
-        "URL": "http://images.launchbox-app.com/ebc34d74-9790-4faa-bbf7-c2192f1f7975.jpg"
+        "CRC32": "300289813",
+        "URL": "http://images.launchbox-app.com/0accbffd-3a50-4d0a-a839-c17233a6ebb6.jpg"
       },
       {
         "FileName": "91609245-4034-421c-8cfd-56a53fee8fbd.jpg",
@@ -33,10 +33,10 @@
         "URL": "http://images.launchbox-app.com/91609245-4034-421c-8cfd-56a53fee8fbd.jpg"
       },
       {
-        "FileName": "0accbffd-3a50-4d0a-a839-c17233a6ebb6.jpg",
+        "FileName": "ebc34d74-9790-4faa-bbf7-c2192f1f7975.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "300289813",
-        "URL": "http://images.launchbox-app.com/0accbffd-3a50-4d0a-a839-c17233a6ebb6.jpg"
+        "CRC32": "1859479764",
+        "URL": "http://images.launchbox-app.com/ebc34d74-9790-4faa-bbf7-c2192f1f7975.jpg"
       }
     ],
     "Box": {

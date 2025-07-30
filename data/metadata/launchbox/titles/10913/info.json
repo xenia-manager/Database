@@ -1,28 +1,28 @@
 {
   "Name": "Prince of Persia",
   "DatabaseID": "10913",
-  "ReleaseDate": "2008-12-02T00:00:00-08:00",
+  "ReleaseDate": "2008-12-02T00:00:00+00:00",
   "Overview": "The critically acclaimed Prince of Persia franchise returns for the first time on next-generation platforms with an all-new epic journey.",
   "VideoURL": "http://www.youtube.com/watch?v=_gNQGN9HGAU&feature=plcp",
   "CommunityRating": "3.625",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Prince_of_Persia_(2008_video_game)",
   "ESRB": "T - Teen",
-  "Genres": " Action; Adventure; Platform",
+  "Genres": "Action; Adventure; Platform",
   "Developer": "Ubisoft Montreal",
   "Publisher": "Ubisoft",
   "Artwork": {
     "Background": [
       {
-        "FileName": "f478e748-eeb0-4a73-a620-bce326030a9e.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2026982893",
-        "URL": "http://images.launchbox-app.com/f478e748-eeb0-4a73-a620-bce326030a9e.jpg"
-      },
-      {
         "FileName": "98b514c8-2c02-443e-aa71-12c42d517a55.jpg",
         "Type": "Fanart - Background",
         "CRC32": "3268161250",
         "URL": "http://images.launchbox-app.com/98b514c8-2c02-443e-aa71-12c42d517a55.jpg"
+      },
+      {
+        "FileName": "f478e748-eeb0-4a73-a620-bce326030a9e.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2026982893",
+        "URL": "http://images.launchbox-app.com/f478e748-eeb0-4a73-a620-bce326030a9e.jpg"
       }
     ],
     "Box": {
@@ -46,18 +46,18 @@
       ],
       "Front": [
         {
-          "FileName": "64fa1e39-ebe1-4d6e-abe1-48fd002439c6.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "1537088326",
-          "URL": "http://images.launchbox-app.com/64fa1e39-ebe1-4d6e-abe1-48fd002439c6.jpg"
-        },
-        {
           "FileName": "d6de79ee-fd1e-47bf-8917-80eecf9d018a.jpg",
           "Type": "Box - Front",
           "Region": "Europe",
           "CRC32": "1301704452",
           "URL": "http://images.launchbox-app.com/d6de79ee-fd1e-47bf-8917-80eecf9d018a.jpg"
+        },
+        {
+          "FileName": "64fa1e39-ebe1-4d6e-abe1-48fd002439c6.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1537088326",
+          "URL": "http://images.launchbox-app.com/64fa1e39-ebe1-4d6e-abe1-48fd002439c6.jpg"
         },
         {
           "FileName": "f333f4c1-7b83-4c58-9d2e-24dfc69dc56d.png",

@@ -1,13 +1,13 @@
 {
   "Name": "Tony Hawk's American Wasteland",
   "DatabaseID": "15784",
-  "ReleaseDate": "2005-11-22T00:00:00-08:00",
+  "ReleaseDate": "2005-11-22T00:00:00+00:00",
   "Overview": "You are a new skater in the city of L.A.. The main drive of the game is that your hanging around with a skating group and its leader, who also happens to be a skating legend, at their skate park in Beverly Hills called Skate Ranch. Throughout the game you must help your friends by getting skate pieces for Skate Ranch.\n\nThe game marks the third reinvention of the series, with Pro Skater being the first, and Underground being the second. It comes with brand new features like the ability to change your personal appearance in game, as well as the ability to get off of the skateboard and use a BMX. For the first time all of levels are strung together into one big environment, which gets rid of loading times and menu selection.\n\nOld features were also kept like Create-a-park, which dates back to the Pro Skater series. Missions are still acquired by going up to random people or friends and accepting the mission they want you to run.\n\nThe game also includes a multiplayer mode and co-op for up to 2 players for added replay value.",
   "VideoURL": "https://www.youtube.com/watch?v=6X3VHKxnHoI",
   "CommunityRating": "3.6",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Tony_Hawk's_American_Wasteland",
   "ESRB": "T - Teen",
-  "Genres": " Adventure; Sports",
+  "Genres": "Adventure; Sports",
   "Developer": "Neversoft Entertainment",
   "Publisher": "Activision Publishing",
   "Artwork": {
@@ -67,18 +67,18 @@
     ],
     "Other": [
       {
-        "FileName": "fa8e9740-8ee5-4b5d-8a65-563aa08110fe.png",
-        "Type": "Clear Logo",
-        "Region": "United States",
-        "CRC32": "969890841",
-        "URL": "http://images.launchbox-app.com/fa8e9740-8ee5-4b5d-8a65-563aa08110fe.png"
-      },
-      {
         "FileName": "a205f5f6-12a8-4b8f-8739-32e4227fb75c.png",
         "Type": "Clear Logo",
         "Region": "World",
         "CRC32": "685429874",
         "URL": "http://images.launchbox-app.com/a205f5f6-12a8-4b8f-8739-32e4227fb75c.png"
+      },
+      {
+        "FileName": "fa8e9740-8ee5-4b5d-8a65-563aa08110fe.png",
+        "Type": "Clear Logo",
+        "Region": "United States",
+        "CRC32": "969890841",
+        "URL": "http://images.launchbox-app.com/fa8e9740-8ee5-4b5d-8a65-563aa08110fe.png"
       }
     ]
   }

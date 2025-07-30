@@ -1,20 +1,26 @@
 {
   "Name": "Mortal Kombat: Komplete Edition",
   "DatabaseID": "14436",
-  "ReleaseDate": "2012-02-28T00:00:00-08:00",
+  "ReleaseDate": "2012-02-28T00:00:00+00:00",
   "Overview": "Mortal Kombat Komplete Edition delivers the critically acclaimed game, all previously released downloadable content (DLC), plus digital downloads of the 2011 release of Mortal Kombat: Songs Inspired by the Warriors album with a bonus track, and the 1995 Mortal Kombat film on the PlayStation Store or Xbox Live Zune. The DLC includes fan-favorite warriors Skarlet, Kenshi and Rain, as well as the infamous dream stalker Freddy Krueger. The game also offers 15 Klassic Skins and three Klassic Fatalities (Scorpion, Sub-Zero and Reptile). Mortal Kombat: Songs Inspired by the Warriors is a collection of electronic music inspired by the game and is executive produced by JFK (of the DJ/ production duo MSTRKRFT and Death From Above 1979).",
   "CommunityRating": "4.125",
   "ESRB": "M - Mature",
-  "Genres": " Fighting",
+  "Genres": "Fighting",
   "Developer": "NetherRealm Studios",
   "Publisher": "Warner Bros. Interactive Entertainment",
   "Artwork": {
     "Background": [
       {
-        "FileName": "bb270db0-3817-482a-a476-44a777e512c7.jpg",
+        "FileName": "ad9aa9df-89d1-483d-b542-4288f0686a8b.png",
         "Type": "Fanart - Background",
-        "CRC32": "2250243804",
-        "URL": "http://images.launchbox-app.com/bb270db0-3817-482a-a476-44a777e512c7.jpg"
+        "CRC32": "2883006951",
+        "URL": "http://images.launchbox-app.com/ad9aa9df-89d1-483d-b542-4288f0686a8b.png"
+      },
+      {
+        "FileName": "b34c6023-daac-4978-94a4-b5a45f3cfd5f.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3445114733",
+        "URL": "http://images.launchbox-app.com/b34c6023-daac-4978-94a4-b5a45f3cfd5f.jpg"
       },
       {
         "FileName": "f8bc0d60-0019-4734-a8e8-3d0b6770f56f.jpg",
@@ -23,10 +29,40 @@
         "URL": "http://images.launchbox-app.com/f8bc0d60-0019-4734-a8e8-3d0b6770f56f.jpg"
       },
       {
-        "FileName": "b34c6023-daac-4978-94a4-b5a45f3cfd5f.jpg",
+        "FileName": "30b7313c-c34e-48da-968f-f19f9c2e06bb.jpg",
         "Type": "Fanart - Background",
-        "CRC32": "3445114733",
-        "URL": "http://images.launchbox-app.com/b34c6023-daac-4978-94a4-b5a45f3cfd5f.jpg"
+        "CRC32": "104550324",
+        "URL": "http://images.launchbox-app.com/30b7313c-c34e-48da-968f-f19f9c2e06bb.jpg"
+      },
+      {
+        "FileName": "9d5f1814-78da-489d-a65a-f4aa8254ad2b.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "528248633",
+        "URL": "http://images.launchbox-app.com/9d5f1814-78da-489d-a65a-f4aa8254ad2b.jpg"
+      },
+      {
+        "FileName": "a57f40d8-41d5-424f-89e4-7b3c702cb204.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1958348679",
+        "URL": "http://images.launchbox-app.com/a57f40d8-41d5-424f-89e4-7b3c702cb204.jpg"
+      },
+      {
+        "FileName": "bb270db0-3817-482a-a476-44a777e512c7.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2250243804",
+        "URL": "http://images.launchbox-app.com/bb270db0-3817-482a-a476-44a777e512c7.jpg"
+      },
+      {
+        "FileName": "49ea7330-b331-4d82-b05e-5f1b025ba6df.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "589880763",
+        "URL": "http://images.launchbox-app.com/49ea7330-b331-4d82-b05e-5f1b025ba6df.jpg"
+      },
+      {
+        "FileName": "9dc3c9cc-2157-4898-bccb-d54173d03aca.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "149057467",
+        "URL": "http://images.launchbox-app.com/9dc3c9cc-2157-4898-bccb-d54173d03aca.jpg"
       },
       {
         "FileName": "69d1988c-d2fb-4f03-beec-b5a3cb4e9e8a.jpg",
@@ -39,42 +75,6 @@
         "Type": "Fanart - Background",
         "CRC32": "360376826",
         "URL": "http://images.launchbox-app.com/a80614e7-badf-4cdd-83a4-ef44f6e5abf2.jpg"
-      },
-      {
-        "FileName": "a57f40d8-41d5-424f-89e4-7b3c702cb204.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "1958348679",
-        "URL": "http://images.launchbox-app.com/a57f40d8-41d5-424f-89e4-7b3c702cb204.jpg"
-      },
-      {
-        "FileName": "49ea7330-b331-4d82-b05e-5f1b025ba6df.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "589880763",
-        "URL": "http://images.launchbox-app.com/49ea7330-b331-4d82-b05e-5f1b025ba6df.jpg"
-      },
-      {
-        "FileName": "9d5f1814-78da-489d-a65a-f4aa8254ad2b.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "528248633",
-        "URL": "http://images.launchbox-app.com/9d5f1814-78da-489d-a65a-f4aa8254ad2b.jpg"
-      },
-      {
-        "FileName": "30b7313c-c34e-48da-968f-f19f9c2e06bb.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "104550324",
-        "URL": "http://images.launchbox-app.com/30b7313c-c34e-48da-968f-f19f9c2e06bb.jpg"
-      },
-      {
-        "FileName": "9dc3c9cc-2157-4898-bccb-d54173d03aca.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "149057467",
-        "URL": "http://images.launchbox-app.com/9dc3c9cc-2157-4898-bccb-d54173d03aca.jpg"
-      },
-      {
-        "FileName": "ad9aa9df-89d1-483d-b542-4288f0686a8b.png",
-        "Type": "Fanart - Background",
-        "CRC32": "2883006951",
-        "URL": "http://images.launchbox-app.com/ad9aa9df-89d1-483d-b542-4288f0686a8b.png"
       }
     ],
     "Box": {
@@ -97,6 +97,13 @@
       ],
       "Front": [
         {
+          "FileName": "6bb482e7-dd45-4c4d-84c7-55dd2f0eeb42.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "1386075955",
+          "URL": "http://images.launchbox-app.com/6bb482e7-dd45-4c4d-84c7-55dd2f0eeb42.jpg"
+        },
+        {
           "FileName": "1f69c231-2231-4295-9541-2750140b7c2b.jpg",
           "Type": "Box - Front",
           "Region": "Europe",
@@ -109,13 +116,6 @@
           "Region": "North America",
           "CRC32": "3538360904",
           "URL": "http://images.launchbox-app.com/77e18250-910a-412a-8f1d-d4350c3a3802.jpg"
-        },
-        {
-          "FileName": "6bb482e7-dd45-4c4d-84c7-55dd2f0eeb42.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "1386075955",
-          "URL": "http://images.launchbox-app.com/6bb482e7-dd45-4c4d-84c7-55dd2f0eeb42.jpg"
         },
         {
           "FileName": "e169f6fc-cb56-4a03-af71-19b0c0774939.png",

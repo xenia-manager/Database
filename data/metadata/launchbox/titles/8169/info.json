@@ -1,28 +1,28 @@
 {
   "Name": "Assassin's Creed: Brotherhood",
   "DatabaseID": "8169",
-  "ReleaseDate": "2010-11-16T00:00:00-08:00",
+  "ReleaseDate": "2010-11-16T00:00:00+00:00",
   "Overview": "Live and breathe as Ezio, a legendary Master Assassin, in his enduring struggle against the powerful Templar Order. He must journey into Italy’s greatest city, Rome, center of power, greed, and corruption to strike at the heart of the enemy. \n\nDefeating the corrupt tyrants entrenched there will require not only strength, but leadership, as Ezio commands an entire Brotherhood who will rally to his side. Only by working together can the Assassins defeat their mortal enemies. \n\nAnd for the first time, introducing an award-winning multiplayer layer that allows you to choose from a wide range of unique characters, each with their own signature weapons and assassination techniques, and match your skills against other players from around the world. \n\nIt’s time to join the Brotherhood.",
   "VideoURL": "https://www.youtube.com/watch?v=KAb0YtprjQQ",
-  "CommunityRating": "3.8333333333333335",
+  "CommunityRating": "3.83333333333333",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Assassin%27s_Creed:_Brotherhood",
   "ESRB": "M - Mature",
-  "Genres": " Action; Adventure; Sandbox; Stealth",
+  "Genres": "Action; Adventure; Sandbox; Stealth",
   "Developer": "Ubisoft Montreal",
   "Publisher": "Ubisoft",
   "Artwork": {
     "Banner": [
       {
-        "FileName": "a3513fdc-7a58-4222-8039-1f7d037f12b1.png",
-        "Type": "Banner",
-        "CRC32": "3851521993",
-        "URL": "http://images.launchbox-app.com/a3513fdc-7a58-4222-8039-1f7d037f12b1.png"
-      },
-      {
         "FileName": "18a19bf4-6053-4437-b6e1-b390212c7e37.png",
         "Type": "Banner",
         "CRC32": "3318151288",
         "URL": "http://images.launchbox-app.com/18a19bf4-6053-4437-b6e1-b390212c7e37.png"
+      },
+      {
+        "FileName": "a3513fdc-7a58-4222-8039-1f7d037f12b1.png",
+        "Type": "Banner",
+        "CRC32": "3851521993",
+        "URL": "http://images.launchbox-app.com/a3513fdc-7a58-4222-8039-1f7d037f12b1.png"
       }
     ],
     "Background": [
