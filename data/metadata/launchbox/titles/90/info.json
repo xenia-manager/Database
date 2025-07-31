@@ -13,16 +13,16 @@
   "Artwork": {
     "Background": [
       {
-        "FileName": "51657e44-c076-41d9-b335-78af4c8b5bb2.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "3052958489",
-        "URL": "http://images.launchbox-app.com/51657e44-c076-41d9-b335-78af4c8b5bb2.jpg"
-      },
-      {
         "FileName": "9661293e-6774-4fda-8f24-798be8015314.jpg",
         "Type": "Fanart - Background",
         "CRC32": "612721478",
         "URL": "http://images.launchbox-app.com/9661293e-6774-4fda-8f24-798be8015314.jpg"
+      },
+      {
+        "FileName": "51657e44-c076-41d9-b335-78af4c8b5bb2.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "3052958489",
+        "URL": "http://images.launchbox-app.com/51657e44-c076-41d9-b335-78af4c8b5bb2.jpg"
       }
     ],
     "Box": {
@@ -76,18 +76,18 @@
       ],
       "Spine": [
         {
-          "FileName": "fa581adc-0ce3-432e-9793-1e67200a3d6c.png",
-          "Type": "Box - Spine",
-          "Region": "Korea",
-          "CRC32": "1790216638",
-          "URL": "http://images.launchbox-app.com/fa581adc-0ce3-432e-9793-1e67200a3d6c.png"
-        },
-        {
           "FileName": "7c1a637f-26c0-44c7-8922-ecb9ce602f3a.jpg",
           "Type": "Box - Spine",
           "Region": "North America",
           "CRC32": "3769771119",
           "URL": "http://images.launchbox-app.com/7c1a637f-26c0-44c7-8922-ecb9ce602f3a.jpg"
+        },
+        {
+          "FileName": "fa581adc-0ce3-432e-9793-1e67200a3d6c.png",
+          "Type": "Box - Spine",
+          "Region": "Korea",
+          "CRC32": "1790216638",
+          "URL": "http://images.launchbox-app.com/fa581adc-0ce3-432e-9793-1e67200a3d6c.png"
         }
       ]
     },

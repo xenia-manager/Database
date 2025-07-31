@@ -11,6 +11,12 @@
   "Artwork": {
     "Background": [
       {
+        "FileName": "9560950b-7c22-44c9-86f5-b073f8a1c326.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "725650359",
+        "URL": "http://images.launchbox-app.com/9560950b-7c22-44c9-86f5-b073f8a1c326.jpg"
+      },
+      {
         "FileName": "e1fb2fa1-c07a-43a9-99ba-aa2183650996.jpg",
         "Type": "Fanart - Background",
         "CRC32": "2302385142",
@@ -21,12 +27,6 @@
         "Type": "Fanart - Background",
         "CRC32": "2650823042",
         "URL": "http://images.launchbox-app.com/798f1ff0-d4b4-40d9-ae88-8fcd1dff7b7d.jpg"
-      },
-      {
-        "FileName": "9560950b-7c22-44c9-86f5-b073f8a1c326.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "725650359",
-        "URL": "http://images.launchbox-app.com/9560950b-7c22-44c9-86f5-b073f8a1c326.jpg"
       },
       {
         "FileName": "3fbdae19-24a9-491e-a49b-0368493a15e5.jpg",
@@ -64,18 +64,18 @@
     },
     "Disc": [
       {
-        "FileName": "aafaf805-778d-4384-824e-6eb1b34e4808.png",
-        "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "129374287",
-        "URL": "http://images.launchbox-app.com/aafaf805-778d-4384-824e-6eb1b34e4808.png"
-      },
-      {
         "FileName": "7ccadd18-6889-4104-828f-f6dc917839aa.jpg",
         "Type": "Disc",
         "Region": "United States",
         "CRC32": "2211314098",
         "URL": "http://images.launchbox-app.com/7ccadd18-6889-4104-828f-f6dc917839aa.jpg"
+      },
+      {
+        "FileName": "aafaf805-778d-4384-824e-6eb1b34e4808.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "129374287",
+        "URL": "http://images.launchbox-app.com/aafaf805-778d-4384-824e-6eb1b34e4808.png"
       }
     ],
     "Other": [

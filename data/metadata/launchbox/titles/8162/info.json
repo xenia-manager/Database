@@ -31,11 +31,11 @@
       ],
       "Back": [
         {
-          "FileName": "88ce3bd1-4f1d-468f-b76c-3c1d18294c52.jpg",
+          "FileName": "b641fbe0-1aae-47fe-a021-2c5dcb2f2a97.jpg",
           "Type": "Box - Back",
-          "Region": "Canada",
-          "CRC32": "1200725498",
-          "URL": "http://images.launchbox-app.com/88ce3bd1-4f1d-468f-b76c-3c1d18294c52.jpg"
+          "Region": "North America",
+          "CRC32": "2073842262",
+          "URL": "http://images.launchbox-app.com/b641fbe0-1aae-47fe-a021-2c5dcb2f2a97.jpg"
         },
         {
           "FileName": "8be642c9-a7c1-43cf-9e55-f5a6c0cba245.jpg",
@@ -45,18 +45,11 @@
           "URL": "http://images.launchbox-app.com/8be642c9-a7c1-43cf-9e55-f5a6c0cba245.jpg"
         },
         {
-          "FileName": "b641fbe0-1aae-47fe-a021-2c5dcb2f2a97.jpg",
+          "FileName": "88ce3bd1-4f1d-468f-b76c-3c1d18294c52.jpg",
           "Type": "Box - Back",
-          "Region": "North America",
-          "CRC32": "2073842262",
-          "URL": "http://images.launchbox-app.com/b641fbe0-1aae-47fe-a021-2c5dcb2f2a97.jpg"
-        },
-        {
-          "FileName": "45fb5944-f62e-42cb-873e-87f40be72ce7.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
-          "CRC32": "1433723808",
-          "URL": "http://images.launchbox-app.com/45fb5944-f62e-42cb-873e-87f40be72ce7.jpg"
+          "Region": "Canada",
+          "CRC32": "1200725498",
+          "URL": "http://images.launchbox-app.com/88ce3bd1-4f1d-468f-b76c-3c1d18294c52.jpg"
         },
         {
           "FileName": "3fb70f48-20b0-4f3c-95b9-95a2f1057a41.jpg",
@@ -64,6 +57,13 @@
           "Region": "North America",
           "CRC32": "1200725498",
           "URL": "http://images.launchbox-app.com/3fb70f48-20b0-4f3c-95b9-95a2f1057a41.jpg"
+        },
+        {
+          "FileName": "45fb5944-f62e-42cb-873e-87f40be72ce7.jpg",
+          "Type": "Box - Back",
+          "Region": "Europe",
+          "CRC32": "1433723808",
+          "URL": "http://images.launchbox-app.com/45fb5944-f62e-42cb-873e-87f40be72ce7.jpg"
         }
       ],
       "Front": [
