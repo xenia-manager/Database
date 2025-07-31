@@ -2320,6 +2320,22 @@
     }
   },
   {
+    "name": "4D5307D5 - Gears of War (Japan).patch.toml",
+    "path": "patches/4D5307D5 - Gears of War (Japan).patch.toml",
+    "sha": "63862245cd0ce91876f42dcc656a4a459b1c2c00",
+    "size": 1661,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4D5307D5%20-%20Gears%20of%20War%20(Japan).patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/4D5307D5%20-%20Gears%20of%20War%20(Japan).patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/63862245cd0ce91876f42dcc656a4a459b1c2c00",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/4D5307D5%20-%20Gears%20of%20War%20(Japan).patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4D5307D5%20-%20Gears%20of%20War%20(Japan).patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/63862245cd0ce91876f42dcc656a4a459b1c2c00",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/4D5307D5%20-%20Gears%20of%20War%20(Japan).patch.toml"
+    }
+  },
+  {
     "name": "4D5307D5 - Gears of War (TU5).patch.toml",
     "path": "patches/4D5307D5 - Gears of War (TU5).patch.toml",
     "sha": "2e4174632a9c02daed0b6d7df231b1363997c1c5",
@@ -2786,32 +2802,32 @@
   {
     "name": "4D5308AB - Gears of War 3 (TU6 Disc; TU1 XBL).patch.toml",
     "path": "patches/4D5308AB - Gears of War 3 (TU6 Disc; TU1 XBL).patch.toml",
-    "sha": "0fe24daa6460d80a23d4e89ede5edfa64425359d",
-    "size": 3583,
+    "sha": "bc336fb0563b6603fdc6bd613cb586e2170ff5b0",
+    "size": 3645,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4D5308AB%20-%20Gears%20of%20War%203%20(TU6%20Disc;%20TU1%20XBL).patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/4D5308AB%20-%20Gears%20of%20War%203%20(TU6%20Disc;%20TU1%20XBL).patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/0fe24daa6460d80a23d4e89ede5edfa64425359d",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/bc336fb0563b6603fdc6bd613cb586e2170ff5b0",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/4D5308AB%20-%20Gears%20of%20War%203%20(TU6%20Disc%3B%20TU1%20XBL).patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4D5308AB%20-%20Gears%20of%20War%203%20(TU6%20Disc;%20TU1%20XBL).patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/0fe24daa6460d80a23d4e89ede5edfa64425359d",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/bc336fb0563b6603fdc6bd613cb586e2170ff5b0",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/4D5308AB%20-%20Gears%20of%20War%203%20(TU6%20Disc;%20TU1%20XBL).patch.toml"
     }
   },
   {
     "name": "4D5308AB - Gears of War 3.patch.toml",
     "path": "patches/4D5308AB - Gears of War 3.patch.toml",
-    "sha": "f7adb2f4da647e08ab1d53879c4eba9c81d5be52",
-    "size": 3243,
+    "sha": "a69ec5a5db4d14b07a47cc3105857ed1b9a4be44",
+    "size": 3305,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4D5308AB%20-%20Gears%20of%20War%203.patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/4D5308AB%20-%20Gears%20of%20War%203.patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/f7adb2f4da647e08ab1d53879c4eba9c81d5be52",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/a69ec5a5db4d14b07a47cc3105857ed1b9a4be44",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/4D5308AB%20-%20Gears%20of%20War%203.patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4D5308AB%20-%20Gears%20of%20War%203.patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/f7adb2f4da647e08ab1d53879c4eba9c81d5be52",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/a69ec5a5db4d14b07a47cc3105857ed1b9a4be44",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/4D5308AB%20-%20Gears%20of%20War%203.patch.toml"
     }
   },
@@ -2845,6 +2861,22 @@
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4D5308BC%20-%20Crackdown%202%20(TU5).patch.toml?ref=main",
       "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/404beda268040b8b45488b4cc411e7caca74680e",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/4D5308BC%20-%20Crackdown%202%20(TU5).patch.toml"
+    }
+  },
+  {
+    "name": "4D5308C8 - Gears of War 2 (Japan).patch.toml",
+    "path": "patches/4D5308C8 - Gears of War 2 (Japan).patch.toml",
+    "sha": "9f66f0fbb0a4db88294bb5b99c256432f3af324f",
+    "size": 1971,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4D5308C8%20-%20Gears%20of%20War%202%20(Japan).patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/4D5308C8%20-%20Gears%20of%20War%202%20(Japan).patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/9f66f0fbb0a4db88294bb5b99c256432f3af324f",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/4D5308C8%20-%20Gears%20of%20War%202%20(Japan).patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4D5308C8%20-%20Gears%20of%20War%202%20(Japan).patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/9f66f0fbb0a4db88294bb5b99c256432f3af324f",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/4D5308C8%20-%20Gears%20of%20War%202%20(Japan).patch.toml"
     }
   },
   {
