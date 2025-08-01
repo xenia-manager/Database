@@ -14,48 +14,48 @@
     "Box": {
       "Back": [
         {
-          "FileName": "f7e257c3-a214-49ce-b0c1-ee56eb0981ec.jpg",
-          "Type": "Box - Back",
-          "CRC32": "1364400194",
-          "URL": "http://images.launchbox-app.com/f7e257c3-a214-49ce-b0c1-ee56eb0981ec.jpg"
-        },
-        {
           "FileName": "57cb8a63-7443-4438-9d3a-41ce8730fe37.jpg",
           "Type": "Box - Back",
           "Region": "Japan",
           "CRC32": "3140774672",
           "URL": "http://images.launchbox-app.com/57cb8a63-7443-4438-9d3a-41ce8730fe37.jpg"
+        },
+        {
+          "FileName": "f7e257c3-a214-49ce-b0c1-ee56eb0981ec.jpg",
+          "Type": "Box - Back",
+          "CRC32": "1364400194",
+          "URL": "http://images.launchbox-app.com/f7e257c3-a214-49ce-b0c1-ee56eb0981ec.jpg"
         }
       ],
       "Front": [
+        {
+          "FileName": "e089393a-dd54-48bf-b74a-8b5f0a25c7eb.jpg",
+          "Type": "Box - Front",
+          "CRC32": "2184125025",
+          "URL": "http://images.launchbox-app.com/e089393a-dd54-48bf-b74a-8b5f0a25c7eb.jpg"
+        },
         {
           "FileName": "4f4f8c5e-03d1-48d6-ab03-e6dfe32f56f9.jpg",
           "Type": "Box - Front",
           "Region": "Japan",
           "CRC32": "3116285006",
           "URL": "http://images.launchbox-app.com/4f4f8c5e-03d1-48d6-ab03-e6dfe32f56f9.jpg"
-        },
-        {
-          "FileName": "e089393a-dd54-48bf-b74a-8b5f0a25c7eb.jpg",
-          "Type": "Box - Front",
-          "CRC32": "2184125025",
-          "URL": "http://images.launchbox-app.com/e089393a-dd54-48bf-b74a-8b5f0a25c7eb.jpg"
         }
       ],
       "Spine": [
-        {
-          "FileName": "87fe77f4-08a1-4805-9248-45d64a20d886.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
-          "CRC32": "864113436",
-          "URL": "http://images.launchbox-app.com/87fe77f4-08a1-4805-9248-45d64a20d886.jpg"
-        },
         {
           "FileName": "c00fc3b9-8ad5-4fc7-beb6-0449b431abfc.jpg",
           "Type": "Box - Spine",
           "Region": "Japan",
           "CRC32": "4176510855",
           "URL": "http://images.launchbox-app.com/c00fc3b9-8ad5-4fc7-beb6-0449b431abfc.jpg"
+        },
+        {
+          "FileName": "87fe77f4-08a1-4805-9248-45d64a20d886.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "864113436",
+          "URL": "http://images.launchbox-app.com/87fe77f4-08a1-4805-9248-45d64a20d886.jpg"
         }
       ]
     },

@@ -92,35 +92,35 @@
       ],
       "Spine": [
         {
-          "FileName": "1027884c-cc18-47ee-a804-7902334aa528.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
-          "CRC32": "2310746079",
-          "URL": "http://images.launchbox-app.com/1027884c-cc18-47ee-a804-7902334aa528.jpg"
-        },
-        {
           "FileName": "8ce5bf4e-1843-4b45-bf11-711d1af470ff.jpg",
           "Type": "Box - Spine",
           "Region": "United States",
           "CRC32": "873404726",
           "URL": "http://images.launchbox-app.com/8ce5bf4e-1843-4b45-bf11-711d1af470ff.jpg"
+        },
+        {
+          "FileName": "1027884c-cc18-47ee-a804-7902334aa528.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "2310746079",
+          "URL": "http://images.launchbox-app.com/1027884c-cc18-47ee-a804-7902334aa528.jpg"
         }
       ]
     },
     "Disc": [
-      {
-        "FileName": "03cf9f0c-7db2-4dc4-bada-ef4be7023e38.png",
-        "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "1046396487",
-        "URL": "http://images.launchbox-app.com/03cf9f0c-7db2-4dc4-bada-ef4be7023e38.png"
-      },
       {
         "FileName": "b44f6d13-9cb7-4953-83bd-70bf91a64935.jpg",
         "Type": "Disc",
         "Region": "United States",
         "CRC32": "2023105269",
         "URL": "http://images.launchbox-app.com/b44f6d13-9cb7-4953-83bd-70bf91a64935.jpg"
+      },
+      {
+        "FileName": "03cf9f0c-7db2-4dc4-bada-ef4be7023e38.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1046396487",
+        "URL": "http://images.launchbox-app.com/03cf9f0c-7db2-4dc4-bada-ef4be7023e38.png"
       }
     ],
     "Screenshots": [
