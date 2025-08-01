@@ -1,5 +1,23 @@
 [
   {
+    "id": null,
+    "title": "run problem",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/783"
+  },
+  {
+    "id": "41560883",
+    "title": "Guitar Hero: Warriors of Rock",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/782"
+  },
+  {
+    "id": "425607E5",
+    "title": "Toy Story 3",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/781"
+  },
+  {
     "id": "00000000",
     "title": "Freestyle Dashboard rev. 58",
     "state": "Unknown",
