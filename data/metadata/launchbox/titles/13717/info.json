@@ -56,17 +56,17 @@
     ],
     "Other": [
       {
-        "FileName": "6ac9a42a-b21d-40a0-85a5-440963956a2a.png",
-        "Type": "Clear Logo",
-        "CRC32": "1018269433",
-        "URL": "http://images.launchbox-app.com/6ac9a42a-b21d-40a0-85a5-440963956a2a.png"
-      },
-      {
         "FileName": "63e5a71d-e2c5-42c9-84dc-2ef7e4906b87.png",
         "Type": "Clear Logo",
         "Region": "Spain",
         "CRC32": "972359460",
         "URL": "http://images.launchbox-app.com/63e5a71d-e2c5-42c9-84dc-2ef7e4906b87.png"
+      },
+      {
+        "FileName": "6ac9a42a-b21d-40a0-85a5-440963956a2a.png",
+        "Type": "Clear Logo",
+        "CRC32": "1018269433",
+        "URL": "http://images.launchbox-app.com/6ac9a42a-b21d-40a0-85a5-440963956a2a.png"
       }
     ]
   }

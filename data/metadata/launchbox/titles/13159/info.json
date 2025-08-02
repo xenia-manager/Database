@@ -61,18 +61,18 @@
     },
     "Disc": [
       {
-        "FileName": "2b29f181-7bc0-4f3f-8028-f0a6776fadf4.png",
-        "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "4120331229",
-        "URL": "http://images.launchbox-app.com/2b29f181-7bc0-4f3f-8028-f0a6776fadf4.png"
-      },
-      {
         "FileName": "61afcfd3-e979-4bdb-bd77-d444a9f428b3.png",
         "Type": "Disc",
         "Region": "Europe",
         "CRC32": "759308333",
         "URL": "http://images.launchbox-app.com/61afcfd3-e979-4bdb-bd77-d444a9f428b3.png"
+      },
+      {
+        "FileName": "2b29f181-7bc0-4f3f-8028-f0a6776fadf4.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "4120331229",
+        "URL": "http://images.launchbox-app.com/2b29f181-7bc0-4f3f-8028-f0a6776fadf4.png"
       }
     ],
     "Other": [

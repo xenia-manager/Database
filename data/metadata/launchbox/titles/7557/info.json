@@ -48,11 +48,11 @@
       ],
       "Front": [
         {
-          "FileName": "eb1f6f9e-95c7-4710-a892-8e88d3561672.jpg",
+          "FileName": "83f216d6-ed16-43c6-b38f-bf93f89f39ff.jpg",
           "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "891717010",
-          "URL": "http://images.launchbox-app.com/eb1f6f9e-95c7-4710-a892-8e88d3561672.jpg"
+          "Region": "Japan",
+          "CRC32": "193123456",
+          "URL": "http://images.launchbox-app.com/83f216d6-ed16-43c6-b38f-bf93f89f39ff.jpg"
         },
         {
           "FileName": "a408d23d-743c-42ec-be8a-45a1140f222e.jpg",
@@ -62,28 +62,28 @@
           "URL": "http://images.launchbox-app.com/a408d23d-743c-42ec-be8a-45a1140f222e.jpg"
         },
         {
-          "FileName": "83f216d6-ed16-43c6-b38f-bf93f89f39ff.jpg",
+          "FileName": "eb1f6f9e-95c7-4710-a892-8e88d3561672.jpg",
           "Type": "Box - Front",
-          "Region": "Japan",
-          "CRC32": "193123456",
-          "URL": "http://images.launchbox-app.com/83f216d6-ed16-43c6-b38f-bf93f89f39ff.jpg"
+          "Region": "North America",
+          "CRC32": "891717010",
+          "URL": "http://images.launchbox-app.com/eb1f6f9e-95c7-4710-a892-8e88d3561672.jpg"
         }
       ]
     },
     "Disc": [
-      {
-        "FileName": "685d4cb5-500c-4c8f-862e-213b2a0049e9.png",
-        "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "624241229",
-        "URL": "http://images.launchbox-app.com/685d4cb5-500c-4c8f-862e-213b2a0049e9.png"
-      },
       {
         "FileName": "2969e49c-2c5a-4296-8df6-e8015b1111a1.png",
         "Type": "Disc",
         "Region": "Japan",
         "CRC32": "824794380",
         "URL": "http://images.launchbox-app.com/2969e49c-2c5a-4296-8df6-e8015b1111a1.png"
+      },
+      {
+        "FileName": "685d4cb5-500c-4c8f-862e-213b2a0049e9.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "624241229",
+        "URL": "http://images.launchbox-app.com/685d4cb5-500c-4c8f-862e-213b2a0049e9.png"
       },
       {
         "FileName": "bf1e872d-f46f-49d8-b9d9-f238146cb29e.png",

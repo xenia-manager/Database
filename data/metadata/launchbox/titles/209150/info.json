@@ -44,16 +44,16 @@
     },
     "Screenshots": [
       {
-        "FileName": "1ea5f37b-f730-4223-8658-106824733c00.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3374699509",
-        "URL": "http://images.launchbox-app.com/1ea5f37b-f730-4223-8658-106824733c00.jpg"
-      },
-      {
         "FileName": "40326230-9c15-40b9-8536-a7b521c005b3.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "3546655792",
         "URL": "http://images.launchbox-app.com/40326230-9c15-40b9-8536-a7b521c005b3.jpg"
+      },
+      {
+        "FileName": "1ea5f37b-f730-4223-8658-106824733c00.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3374699509",
+        "URL": "http://images.launchbox-app.com/1ea5f37b-f730-4223-8658-106824733c00.jpg"
       },
       {
         "FileName": "193d619c-c4e4-45f8-8cfe-b6ecb89a4138.jpg",

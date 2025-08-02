@@ -49,11 +49,11 @@
       ],
       "Front": [
         {
-          "FileName": "ec147d77-4e9f-4765-9092-2fa7b83df62c.jpg",
+          "FileName": "b21ea608-9beb-4434-a24c-8e87dbb2f8c4.jpg",
           "Type": "Box - Front",
-          "Region": "Australia",
-          "CRC32": "2429679965",
-          "URL": "http://images.launchbox-app.com/ec147d77-4e9f-4765-9092-2fa7b83df62c.jpg"
+          "Region": "Europe",
+          "CRC32": "3328541632",
+          "URL": "http://images.launchbox-app.com/b21ea608-9beb-4434-a24c-8e87dbb2f8c4.jpg"
         },
         {
           "FileName": "d52b8b2e-cc63-4fc7-92d9-e23d4f632461.jpg",
@@ -63,28 +63,28 @@
           "URL": "http://images.launchbox-app.com/d52b8b2e-cc63-4fc7-92d9-e23d4f632461.jpg"
         },
         {
-          "FileName": "b21ea608-9beb-4434-a24c-8e87dbb2f8c4.jpg",
+          "FileName": "ec147d77-4e9f-4765-9092-2fa7b83df62c.jpg",
           "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "3328541632",
-          "URL": "http://images.launchbox-app.com/b21ea608-9beb-4434-a24c-8e87dbb2f8c4.jpg"
+          "Region": "Australia",
+          "CRC32": "2429679965",
+          "URL": "http://images.launchbox-app.com/ec147d77-4e9f-4765-9092-2fa7b83df62c.jpg"
         }
       ]
     },
     "Disc": [
-      {
-        "FileName": "671bb32f-2619-4273-babb-12cf74101308.png",
-        "Type": "Disc",
-        "Region": "Europe",
-        "CRC32": "885899348",
-        "URL": "http://images.launchbox-app.com/671bb32f-2619-4273-babb-12cf74101308.png"
-      },
       {
         "FileName": "634a1f02-96df-4068-afba-d7d8f18950cf.png",
         "Type": "Disc",
         "Region": "Australia",
         "CRC32": "3198772603",
         "URL": "http://images.launchbox-app.com/634a1f02-96df-4068-afba-d7d8f18950cf.png"
+      },
+      {
+        "FileName": "671bb32f-2619-4273-babb-12cf74101308.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "885899348",
+        "URL": "http://images.launchbox-app.com/671bb32f-2619-4273-babb-12cf74101308.png"
       }
     ],
     "Screenshots": [

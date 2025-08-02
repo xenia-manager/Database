@@ -13,16 +13,16 @@
   "Artwork": {
     "Background": [
       {
-        "FileName": "5e81c4c3-a3c2-4ea3-bda9-9da386b280fd.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "782538488",
-        "URL": "http://images.launchbox-app.com/5e81c4c3-a3c2-4ea3-bda9-9da386b280fd.jpg"
-      },
-      {
         "FileName": "f1bb1c57-e8a0-4ad4-9c08-0c86c2bf99ac.jpg",
         "Type": "Fanart - Background",
         "CRC32": "312162387",
         "URL": "http://images.launchbox-app.com/f1bb1c57-e8a0-4ad4-9c08-0c86c2bf99ac.jpg"
+      },
+      {
+        "FileName": "5e81c4c3-a3c2-4ea3-bda9-9da386b280fd.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "782538488",
+        "URL": "http://images.launchbox-app.com/5e81c4c3-a3c2-4ea3-bda9-9da386b280fd.jpg"
       }
     ],
     "Box": {
