@@ -30,18 +30,18 @@
       ],
       "Front": [
         {
-          "FileName": "35210eae-69f1-48a2-acf3-19ed51cd8f28.jpg",
-          "Type": "Box - Front",
-          "Region": "Australia",
-          "CRC32": "2864660748",
-          "URL": "http://images.launchbox-app.com/35210eae-69f1-48a2-acf3-19ed51cd8f28.jpg"
-        },
-        {
           "FileName": "918e92f9-bb00-4a03-aa87-2a4d53405592.jpg",
           "Type": "Box - Front",
           "Region": "North America",
           "CRC32": "3800388202",
           "URL": "http://images.launchbox-app.com/918e92f9-bb00-4a03-aa87-2a4d53405592.jpg"
+        },
+        {
+          "FileName": "35210eae-69f1-48a2-acf3-19ed51cd8f28.jpg",
+          "Type": "Box - Front",
+          "Region": "Australia",
+          "CRC32": "2864660748",
+          "URL": "http://images.launchbox-app.com/35210eae-69f1-48a2-acf3-19ed51cd8f28.jpg"
         }
       ],
       "Spine": [

@@ -77,18 +77,18 @@
     },
     "Disc": [
       {
-        "FileName": "8207babe-a882-453b-80e5-73f72925c60a.png",
-        "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "2983214469",
-        "URL": "http://images.launchbox-app.com/8207babe-a882-453b-80e5-73f72925c60a.png"
-      },
-      {
         "FileName": "r2_4c75faf6-9bf4-4dbc-a2f2-7d51e1341f2f.png",
         "Type": "Disc",
         "Region": "Korea",
         "CRC32": "3679736271",
         "URL": "http://images.launchbox-app.com/r2_4c75faf6-9bf4-4dbc-a2f2-7d51e1341f2f.png"
+      },
+      {
+        "FileName": "8207babe-a882-453b-80e5-73f72925c60a.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2983214469",
+        "URL": "http://images.launchbox-app.com/8207babe-a882-453b-80e5-73f72925c60a.png"
       }
     ],
     "Other": [

@@ -53,18 +53,18 @@
           "URL": "http://images.launchbox-app.com/d11913d0-4979-44b1-bffd-63a0b1b85d86.jpg"
         },
         {
-          "FileName": "5bff00df-e625-4d68-8a26-aab4f2a56b6c.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "1174249249",
-          "URL": "http://images.launchbox-app.com/5bff00df-e625-4d68-8a26-aab4f2a56b6c.jpg"
-        },
-        {
           "FileName": "4550bb94-6064-4673-8da0-d0b1467d88f4.jpg",
           "Type": "Box - Front",
           "Region": "North America",
           "CRC32": "3206497749",
           "URL": "http://images.launchbox-app.com/4550bb94-6064-4673-8da0-d0b1467d88f4.jpg"
+        },
+        {
+          "FileName": "5bff00df-e625-4d68-8a26-aab4f2a56b6c.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "1174249249",
+          "URL": "http://images.launchbox-app.com/5bff00df-e625-4d68-8a26-aab4f2a56b6c.jpg"
         }
       ]
     },
@@ -79,17 +79,17 @@
     ],
     "Other": [
       {
-        "FileName": "a8f039b6-dfd6-4bda-b288-8ed2623275e3.png",
-        "Type": "Clear Logo",
-        "CRC32": "2311522510",
-        "URL": "http://images.launchbox-app.com/a8f039b6-dfd6-4bda-b288-8ed2623275e3.png"
-      },
-      {
         "FileName": "694073fe-035c-4865-b423-e74cb347b81b.png",
         "Type": "Clear Logo",
         "Region": "Spain",
         "CRC32": "2025729305",
         "URL": "http://images.launchbox-app.com/694073fe-035c-4865-b423-e74cb347b81b.png"
+      },
+      {
+        "FileName": "a8f039b6-dfd6-4bda-b288-8ed2623275e3.png",
+        "Type": "Clear Logo",
+        "CRC32": "2311522510",
+        "URL": "http://images.launchbox-app.com/a8f039b6-dfd6-4bda-b288-8ed2623275e3.png"
       }
     ]
   }

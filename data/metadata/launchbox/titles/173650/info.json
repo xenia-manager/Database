@@ -11,18 +11,18 @@
   "Artwork": {
     "Banner": [
       {
-        "FileName": "4ee818fc-2c83-4d11-9ed6-c73af9f15c57.jpg",
-        "Type": "Banner",
-        "Region": "Europe",
-        "CRC32": "774677771",
-        "URL": "http://images.launchbox-app.com/4ee818fc-2c83-4d11-9ed6-c73af9f15c57.jpg"
-      },
-      {
         "FileName": "877fc321-3f08-459f-ba6a-79d4d63b811e.jpg",
         "Type": "Banner",
         "Region": "North America",
         "CRC32": "815796556",
         "URL": "http://images.launchbox-app.com/877fc321-3f08-459f-ba6a-79d4d63b811e.jpg"
+      },
+      {
+        "FileName": "4ee818fc-2c83-4d11-9ed6-c73af9f15c57.jpg",
+        "Type": "Banner",
+        "Region": "Europe",
+        "CRC32": "774677771",
+        "URL": "http://images.launchbox-app.com/4ee818fc-2c83-4d11-9ed6-c73af9f15c57.jpg"
       }
     ],
     "Background": [
