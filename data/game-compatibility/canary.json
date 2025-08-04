@@ -1,5 +1,23 @@
 [
   {
+    "id": "555308CF",
+    "title": "Far Cry 3: Blood Dragon (Disc)",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/787"
+  },
+  {
+    "id": "584113BF",
+    "title": "Far Cry 3: Blood Dragon (XBLA)",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/786"
+  },
+  {
+    "id": "5553088C",
+    "title": "Far Cry 3",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/785"
+  },
+  {
     "id": "4541080E",
     "title": "Command & Conquer 3: Tiberium Wars",
     "state": "Unknown",
