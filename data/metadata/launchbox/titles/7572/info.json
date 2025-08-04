@@ -38,18 +38,18 @@
           "URL": "http://images.launchbox-app.com/d070a047-7adb-4fe2-b587-900c9dd98bc0.jpg"
         },
         {
-          "FileName": "8023310a-2523-424f-ad93-6c4a5cc4e39a.jpg",
-          "Type": "Box - Back",
-          "Region": "Europe",
-          "CRC32": "4117494845",
-          "URL": "http://images.launchbox-app.com/8023310a-2523-424f-ad93-6c4a5cc4e39a.jpg"
-        },
-        {
           "FileName": "e9a302b6-8b4a-4551-bea9-6a0598e867e2.jpg",
           "Type": "Box - Back",
           "Region": "United Kingdom",
           "CRC32": "2223004155",
           "URL": "http://images.launchbox-app.com/e9a302b6-8b4a-4551-bea9-6a0598e867e2.jpg"
+        },
+        {
+          "FileName": "4301017b-9d07-40da-b3c7-872df77c3d83.jpg",
+          "Type": "Box - Back",
+          "Region": "France",
+          "CRC32": "1303003268",
+          "URL": "http://images.launchbox-app.com/4301017b-9d07-40da-b3c7-872df77c3d83.jpg"
         },
         {
           "FileName": "d5ffe99e-4419-4404-9523-06362731c79e.jpg",
@@ -59,11 +59,11 @@
           "URL": "http://images.launchbox-app.com/d5ffe99e-4419-4404-9523-06362731c79e.jpg"
         },
         {
-          "FileName": "4301017b-9d07-40da-b3c7-872df77c3d83.jpg",
+          "FileName": "8023310a-2523-424f-ad93-6c4a5cc4e39a.jpg",
           "Type": "Box - Back",
-          "Region": "France",
-          "CRC32": "1303003268",
-          "URL": "http://images.launchbox-app.com/4301017b-9d07-40da-b3c7-872df77c3d83.jpg"
+          "Region": "Europe",
+          "CRC32": "4117494845",
+          "URL": "http://images.launchbox-app.com/8023310a-2523-424f-ad93-6c4a5cc4e39a.jpg"
         },
         {
           "FileName": "96308ad5-9adf-456b-b8e1-b9d5aec8008d.jpg",
@@ -89,25 +89,11 @@
           "URL": "http://images.launchbox-app.com/2f24cd4b-5503-4da2-a2ea-31a11d72dc90.jpg"
         },
         {
-          "FileName": "897dcaab-7ac5-49bc-adce-a0e8b3ff2cb6.jpg",
+          "FileName": "c589a689-90b9-4e73-9416-68228d272262.jpg",
           "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "332246886",
-          "URL": "http://images.launchbox-app.com/897dcaab-7ac5-49bc-adce-a0e8b3ff2cb6.jpg"
-        },
-        {
-          "FileName": "20d56e3e-858b-4e89-9724-29fd9ccd8b28.jpg",
-          "Type": "Box - Front",
-          "Region": "Japan",
-          "CRC32": "4225872893",
-          "URL": "http://images.launchbox-app.com/20d56e3e-858b-4e89-9724-29fd9ccd8b28.jpg"
-        },
-        {
-          "FileName": "d64eb286-790d-471b-a68f-78fe2942edc4.jpg",
-          "Type": "Box - Front",
-          "Region": "United Kingdom",
-          "CRC32": "3368341346",
-          "URL": "http://images.launchbox-app.com/d64eb286-790d-471b-a68f-78fe2942edc4.jpg"
+          "Region": "North America",
+          "CRC32": "1730224094",
+          "URL": "http://images.launchbox-app.com/c589a689-90b9-4e73-9416-68228d272262.jpg"
         },
         {
           "FileName": "7af5a17e-5fad-4e40-855b-f42f20c87d84.jpg",
@@ -124,21 +110,28 @@
           "URL": "http://images.launchbox-app.com/2942eeed-4bc3-4f12-b1bd-737c94205fba.jpg"
         },
         {
-          "FileName": "c589a689-90b9-4e73-9416-68228d272262.jpg",
+          "FileName": "20d56e3e-858b-4e89-9724-29fd9ccd8b28.jpg",
           "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "1730224094",
-          "URL": "http://images.launchbox-app.com/c589a689-90b9-4e73-9416-68228d272262.jpg"
+          "Region": "Japan",
+          "CRC32": "4225872893",
+          "URL": "http://images.launchbox-app.com/20d56e3e-858b-4e89-9724-29fd9ccd8b28.jpg"
+        },
+        {
+          "FileName": "897dcaab-7ac5-49bc-adce-a0e8b3ff2cb6.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "332246886",
+          "URL": "http://images.launchbox-app.com/897dcaab-7ac5-49bc-adce-a0e8b3ff2cb6.jpg"
+        },
+        {
+          "FileName": "d64eb286-790d-471b-a68f-78fe2942edc4.jpg",
+          "Type": "Box - Front",
+          "Region": "United Kingdom",
+          "CRC32": "3368341346",
+          "URL": "http://images.launchbox-app.com/d64eb286-790d-471b-a68f-78fe2942edc4.jpg"
         }
       ],
       "Spine": [
-        {
-          "FileName": "19d0a2fb-1353-442c-b132-fd03193beca3.jpg",
-          "Type": "Box - Spine",
-          "Region": "Australia",
-          "CRC32": "2936115615",
-          "URL": "http://images.launchbox-app.com/19d0a2fb-1353-442c-b132-fd03193beca3.jpg"
-        },
         {
           "FileName": "a8d360df-9e4c-449f-bf87-d134071b5d54.jpg",
           "Type": "Box - Spine",
@@ -154,6 +147,13 @@
           "URL": "http://images.launchbox-app.com/bfefab49-393d-49f6-8e1c-49b29e1cd12d.jpg"
         },
         {
+          "FileName": "19d0a2fb-1353-442c-b132-fd03193beca3.jpg",
+          "Type": "Box - Spine",
+          "Region": "Australia",
+          "CRC32": "2936115615",
+          "URL": "http://images.launchbox-app.com/19d0a2fb-1353-442c-b132-fd03193beca3.jpg"
+        },
+        {
           "FileName": "0b7e3dcb-87ca-41bd-b7a1-568bf8e9c5ae.jpg",
           "Type": "Box - Spine",
           "Region": "United Kingdom",
@@ -164,18 +164,18 @@
     },
     "Disc": [
       {
-        "FileName": "a051bfde-d82f-4cc2-8217-66045e34bd31.png",
-        "Type": "Disc",
-        "Region": "Europe",
-        "CRC32": "3812136857",
-        "URL": "http://images.launchbox-app.com/a051bfde-d82f-4cc2-8217-66045e34bd31.png"
-      },
-      {
         "FileName": "34c76149-cc61-4098-b6c7-80b9aee38a7d.png",
         "Type": "Disc",
         "Region": "North America",
         "CRC32": "3419510516",
         "URL": "http://images.launchbox-app.com/34c76149-cc61-4098-b6c7-80b9aee38a7d.png"
+      },
+      {
+        "FileName": "a051bfde-d82f-4cc2-8217-66045e34bd31.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "3812136857",
+        "URL": "http://images.launchbox-app.com/a051bfde-d82f-4cc2-8217-66045e34bd31.png"
       },
       {
         "FileName": "7cc4746d-11df-4ddc-81e1-1b689b43c954.png",

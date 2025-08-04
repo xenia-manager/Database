@@ -12,34 +12,34 @@
     "Box": {
       "3D": [
         {
-          "FileName": "ca1a937f-68b0-49ec-b665-6ad9b54fc4ef.png",
-          "Type": "Box - 3D",
-          "Region": "Europe",
-          "CRC32": "1503094045",
-          "URL": "http://images.launchbox-app.com/ca1a937f-68b0-49ec-b665-6ad9b54fc4ef.png"
-        },
-        {
           "FileName": "5af17d57-db73-4557-9824-03b6984a47b1.png",
           "Type": "Box - 3D",
           "Region": "North America",
           "CRC32": "1522002576",
           "URL": "http://images.launchbox-app.com/5af17d57-db73-4557-9824-03b6984a47b1.png"
+        },
+        {
+          "FileName": "ca1a937f-68b0-49ec-b665-6ad9b54fc4ef.png",
+          "Type": "Box - 3D",
+          "Region": "Europe",
+          "CRC32": "1503094045",
+          "URL": "http://images.launchbox-app.com/ca1a937f-68b0-49ec-b665-6ad9b54fc4ef.png"
         }
       ],
       "Front": [
-        {
-          "FileName": "948dfc69-298f-4b6a-aa71-d40fa33b7df5.png",
-          "Type": "Box - Front",
-          "Region": "Australia",
-          "CRC32": "3702579498",
-          "URL": "http://images.launchbox-app.com/948dfc69-298f-4b6a-aa71-d40fa33b7df5.png"
-        },
         {
           "FileName": "afbac3bb-829e-4fbe-85a3-147692ac6c1a.jpg",
           "Type": "Box - Front",
           "Region": "North America",
           "CRC32": "3224723315",
           "URL": "http://images.launchbox-app.com/afbac3bb-829e-4fbe-85a3-147692ac6c1a.jpg"
+        },
+        {
+          "FileName": "948dfc69-298f-4b6a-aa71-d40fa33b7df5.png",
+          "Type": "Box - Front",
+          "Region": "Australia",
+          "CRC32": "3702579498",
+          "URL": "http://images.launchbox-app.com/948dfc69-298f-4b6a-aa71-d40fa33b7df5.png"
         },
         {
           "FileName": "a60fed01-3d9f-460e-b08a-757b984e2756.png",
