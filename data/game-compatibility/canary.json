@@ -1,5 +1,17 @@
 [
   {
+    "id": "45410916",
+    "title": "Alice: Madness Returns",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/799"
+  },
+  {
+    "id": "58411488",
+    "title": "Game of Thrones",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/798"
+  },
+  {
     "id": "5841141A",
     "title": "Contrast",
     "state": "Unknown",
