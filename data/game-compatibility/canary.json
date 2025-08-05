@@ -1,38 +1,68 @@
 [
   {
+    "id": "58410999",
+    "title": "Sam & Max Beyond Time and Space",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/792"
+  },
+  {
+    "id": "53510803",
+    "title": "Thief",
+    "state": "Gameplay",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/791"
+  },
+  {
+    "id": "584113C2",
+    "title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+    "state": "Gameplay",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/790"
+  },
+  {
+    "id": "545107DE",
+    "title": "MX vs. ATV: Untamed",
+    "state": "Gameplay",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/789"
+  },
+  {
+    "id": "58410B42",
+    "title": "Battle: Los Angeles",
+    "state": "Gameplay",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/788"
+  },
+  {
     "id": "555308CF",
     "title": "Far Cry 3: Blood Dragon (Disc)",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/787"
   },
   {
     "id": "584113BF",
     "title": "Far Cry 3: Blood Dragon (XBLA)",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/786"
   },
   {
     "id": "5553088C",
     "title": "Far Cry 3",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/785"
   },
   {
     "id": "4541080E",
     "title": "Command & Conquer 3: Tiberium Wars",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/784"
   },
   {
     "id": "41560883",
     "title": "Guitar Hero: Warriors of Rock",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/782"
   },
   {
     "id": "425607E5",
     "title": "Toy Story 3",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/781"
   },
   {
@@ -44,247 +74,241 @@
   {
     "id": "454109BE",
     "title": "NHL 14",
-    "state": "Unknown",
+    "state": "Loads",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/779"
   },
   {
     "id": "4B4F07F0",
     "title": "Troy Musou",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/778"
   },
   {
     "id": "415608F8",
     "title": "Destiny",
-    "state": "Unknown",
+    "state": "Loads",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/777"
   },
   {
     "id": "41560858",
     "title": "Madagascar Kartz",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/776"
   },
   {
     "id": "4156081D",
     "title": "Madagascar Escape 2 Africa",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/775"
   },
   {
     "id": "44500801",
     "title": "Madagascar 3",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/774"
   },
   {
     "id": "435A07D5",
     "title": "Deathsmiles",
-    "state": "Unknown",
+    "state": "Playable",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/773"
   },
   {
     "id": "58410909",
     "title": "Blazing Birds",
-    "state": "Unknown",
+    "state": "Unplayable",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/772"
   },
   {
     "id": "4B4E0839",
     "title": "Birds of Steel",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/771"
   },
   {
     "id": "4D4A07D5",
     "title": "Night at the Museum 2",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/770"
   },
   {
     "id": "584111E0",
     "title": "Real Steel",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/769"
   },
   {
     "id": "58410AF7",
     "title": "Crazy Machines Elements",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/768"
-  },
-  {
-    "id": null,
-    "title": "Call of Duty: Black Ops II erro crash",
-    "state": "Unknown",
-    "url": "https://github.com/xenia-canary/game-compatibility/issues/767"
   },
   {
     "id": "534507F2",
     "title": "Iron Man",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/766"
   },
   {
     "id": "434D0839",
     "title": "Bodycount",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/765"
   },
   {
     "id": "415607E0",
     "title": "Pimp My Ride",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/764"
   },
   {
     "id": "4E4D07F1",
     "title": "Enslaved: Odyssey to the West",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/763"
   },
   {
     "id": "57520828",
     "title": "Batman: Arkham Origins",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/762"
   },
   {
     "id": "57520802",
     "title": "Batman: Arkham City",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/761"
   },
   {
     "id": "4541099D",
     "title": "Dead Space 3",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/760"
   },
   {
     "id": "45410857",
     "title": "Dead Space",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/759"
   },
   {
     "id": "53510811",
     "title": "Sleeping Dogs",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/758"
   },
   {
     "id": "4B4D07F6",
     "title": "Saints Row IV",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/757"
   },
   {
     "id": "434307EC",
     "title": "Dead Rising 2",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/756"
   },
   {
     "id": "434307D2",
     "title": "Dead Rising",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/755"
   },
   {
     "id": "4343081F",
     "title": "Dead Rising 2: Off the Record",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/754"
   },
   {
     "id": "534A07D1",
     "title": "Williams Pinball Classics",
-    "state": "Unknown",
+    "state": "Playable",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/753"
   },
   {
     "id": "454109D0",
     "title": "Titanfall",
-    "state": "Unknown",
+    "state": "Loads",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/752"
   },
   {
     "id": "4D5707D6",
     "title": "Wheelman",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/751"
   },
   {
     "id": "4B4D07F2",
     "title": "Dead Island: Riptide",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/750"
   },
   {
     "id": "4E4D0859",
     "title": "Tekken Tag Tournament 2)",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/749"
   },
   {
     "id": "4541098E",
     "title": "Crysis 3",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/748"
   },
   {
     "id": "4E4D07FC",
     "title": "Tekken 6",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/747"
   },
   {
     "id": "4343080F",
     "title": "Street Fighter X Tekken",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/746"
   },
   {
     "id": "5345081A",
     "title": "Vancouver 2010",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/745"
   },
   {
     "id": "584109CB",
     "title": "Wolfenstein 3D",
-    "state": "Unknown",
+    "state": "Playable",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/744"
   },
   {
     "id": "54510851",
     "title": "UFC Undisputed 2010",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/743"
   },
   {
     "id": "5451082A",
     "title": "UFC Undisputed 2009",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/742"
   },
   {
     "id": "5841124A",
     "title": "Tony Hawk's PS HD",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/741"
   },
   {
     "id": "4156091B",
     "title": "Tony Hawk's Pro Skater 5",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/740"
   },
   {
     "id": "415607D4",
     "title": "Tony Hawk's American Wasteland",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/739"
   },
   {
