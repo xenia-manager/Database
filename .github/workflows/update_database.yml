@@ -2,11 +2,30 @@ name: Database Updater
 
 on:
   schedule:
-    # update-version runs every hour
     - cron: "0 * * * *"
-    # update-compatibility, update-patches & update-launchbox-metadata run daily at 00:00
     - cron: "0 0 * * *"
   workflow_dispatch:
+    inputs:
+      update_version:
+        description: "Update Xenia Manager Version"
+        required: false
+        default: true
+        type: boolean
+      update_compatibility:
+        description: "Update Game Compatibility Database"
+        required: false
+        default: true
+        type: boolean
+      update_patches:
+        description: "Update Game Patches"
+        required: false
+        default: true
+        type: boolean
+      update_launchbox_metadata:
+        description: "Update Launchbox Database Metadata"
+        required: false
+        default: true
+        type: boolean
 
 env:
   XENIA_CANARY_REPO: xenia-canary/game-patches
@@ -17,8 +36,8 @@ jobs:
     name: Update Xenia Manager Version
     runs-on: ubuntu-latest
     if: |
-      github.event_name == 'workflow_dispatch' ||
-      github.event.schedule == '0 * * * *'
+      github.event_name == 'schedule' ||
+      (github.event_name == 'workflow_dispatch' && github.event.inputs.update_version == 'true')
     permissions:
       contents: write
     steps:
@@ -93,8 +112,8 @@ jobs:
     name: Update Game Compatibility Database
     runs-on: ubuntu-latest
     if: |
-      github.event_name == 'workflow_dispatch' ||
-      github.event.schedule == '0 0 * * *'
+      github.event_name == 'schedule' ||
+      (github.event_name == 'workflow_dispatch' && github.event.inputs.update_compatibility == 'true')
     permissions:
       contents: write
     steps:
@@ -145,8 +164,8 @@ jobs:
     name: Update Game Patches
     runs-on: ubuntu-latest
     if: |
-      github.event_name == 'workflow_dispatch' ||
-      github.event.schedule == '0 0 * * *'
+      github.event_name == 'schedule' ||
+      (github.event_name == 'workflow_dispatch' && github.event.inputs.update_patches == 'true')
     permissions:
       contents: write
     steps:
@@ -237,9 +256,8 @@ jobs:
   update_launchbox_metadata:
     name: Update Launchbox Database Metadata
     if: |
-      github.event_name == 'workflow_dispatch' ||
-      github.event.schedule == '0 0 * * *'
-    needs: [update-compatibility, update-patches]
+      github.event_name == 'schedule' ||
+      (github.event_name == 'workflow_dispatch' && github.event.inputs.update_launchbox_metadata == 'true')
     runs-on: windows-latest
 
     steps:
