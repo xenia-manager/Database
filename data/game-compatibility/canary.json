@@ -1,5 +1,35 @@
 [
   {
+    "id": "5841141A",
+    "title": "Contrast",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/797"
+  },
+  {
+    "id": "584113DD",
+    "title": "Poker Night 2",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/796"
+  },
+  {
+    "id": "58411413",
+    "title": "The Walking Dead: Season 2",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/795"
+  },
+  {
+    "id": "584111DE",
+    "title": "The Walking Dead",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/794"
+  },
+  {
+    "id": "4D5307EA",
+    "title": "Forza Motorsport 2",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/793"
+  },
+  {
     "id": "58410999",
     "title": "Sam & Max Beyond Time and Space",
     "state": "Unknown",
@@ -136,12 +166,6 @@
     "title": "Real Steel",
     "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/769"
-  },
-  {
-    "id": "58410AF7",
-    "title": "Crazy Machines Elements",
-    "state": "Gameplay",
-    "url": "https://github.com/xenia-canary/game-compatibility/issues/768"
   },
   {
     "id": "534507F2",
