@@ -47,13 +47,6 @@
       ],
       "Front": [
         {
-          "FileName": "d1518688-6687-4588-af69-5be1d978a6a5.jpg",
-          "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "3608454482",
-          "URL": "http://images.launchbox-app.com/d1518688-6687-4588-af69-5be1d978a6a5.jpg"
-        },
-        {
           "FileName": "ce2b8e94-67b4-4f85-b43c-025b06cac5ff.jpg",
           "Type": "Box - Front",
           "Region": "Germany",
@@ -66,6 +59,13 @@
           "Region": "North America",
           "CRC32": "1300244562",
           "URL": "http://images.launchbox-app.com/a8d455da-5209-4abc-a1b1-f22ebbdac755.jpg"
+        },
+        {
+          "FileName": "d1518688-6687-4588-af69-5be1d978a6a5.jpg",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "3608454482",
+          "URL": "http://images.launchbox-app.com/d1518688-6687-4588-af69-5be1d978a6a5.jpg"
         }
       ],
       "Spine": [
@@ -94,11 +94,11 @@
         "URL": "http://images.launchbox-app.com/f7d32fd0-77e2-421e-af9c-3ca8580cbd81.png"
       },
       {
-        "FileName": "3857bcbc-e313-46a9-be04-e9e5dbfecf7c.png",
+        "FileName": "af65bbc5-639e-4730-a99f-be176079b8f0.png",
         "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "2615746651",
-        "URL": "http://images.launchbox-app.com/3857bcbc-e313-46a9-be04-e9e5dbfecf7c.png"
+        "Region": "Europe",
+        "CRC32": "2314876611",
+        "URL": "http://images.launchbox-app.com/af65bbc5-639e-4730-a99f-be176079b8f0.png"
       },
       {
         "FileName": "a52bbd96-2a6d-4e3b-b5b5-0b018cca6bc7.png",
@@ -108,11 +108,11 @@
         "URL": "http://images.launchbox-app.com/a52bbd96-2a6d-4e3b-b5b5-0b018cca6bc7.png"
       },
       {
-        "FileName": "af65bbc5-639e-4730-a99f-be176079b8f0.png",
+        "FileName": "3857bcbc-e313-46a9-be04-e9e5dbfecf7c.png",
         "Type": "Disc",
-        "Region": "Europe",
-        "CRC32": "2314876611",
-        "URL": "http://images.launchbox-app.com/af65bbc5-639e-4730-a99f-be176079b8f0.png"
+        "Region": "North America",
+        "CRC32": "2615746651",
+        "URL": "http://images.launchbox-app.com/3857bcbc-e313-46a9-be04-e9e5dbfecf7c.png"
       }
     ],
     "Other": [
