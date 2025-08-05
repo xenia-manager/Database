@@ -38,18 +38,18 @@
           "URL": "http://images.launchbox-app.com/ed8c81e1-cdce-4bab-8d4a-0c46e2eef53b.jpg"
         },
         {
-          "FileName": "b5a69a08-6d44-4b4e-820b-af44dd094da7.jpg",
-          "Type": "Box - Back",
-          "Region": "United Kingdom",
-          "CRC32": "935310373",
-          "URL": "http://images.launchbox-app.com/b5a69a08-6d44-4b4e-820b-af44dd094da7.jpg"
-        },
-        {
           "FileName": "53645b54-57b0-41d3-80ab-9cfbfaabe2d6.jpg",
           "Type": "Box - Back",
           "Region": "Italy",
           "CRC32": "246537177",
           "URL": "http://images.launchbox-app.com/53645b54-57b0-41d3-80ab-9cfbfaabe2d6.jpg"
+        },
+        {
+          "FileName": "b5a69a08-6d44-4b4e-820b-af44dd094da7.jpg",
+          "Type": "Box - Back",
+          "Region": "United Kingdom",
+          "CRC32": "935310373",
+          "URL": "http://images.launchbox-app.com/b5a69a08-6d44-4b4e-820b-af44dd094da7.jpg"
         }
       ],
       "Front": [
@@ -59,13 +59,6 @@
           "Region": "Australia",
           "CRC32": "890582819",
           "URL": "http://images.launchbox-app.com/8b467f0b-6cf5-4d1e-8997-e29222f1115e.jpg"
-        },
-        {
-          "FileName": "823e79a0-deaa-4666-84ed-dbf730f031bb.jpg",
-          "Type": "Box - Front",
-          "Region": "United Kingdom",
-          "CRC32": "1968910731",
-          "URL": "http://images.launchbox-app.com/823e79a0-deaa-4666-84ed-dbf730f031bb.jpg"
         },
         {
           "FileName": "cf30b66f-3fb1-48ab-86e8-744cc655c023.jpg",
@@ -80,6 +73,13 @@
           "Region": "North America",
           "CRC32": "2408706784",
           "URL": "http://images.launchbox-app.com/0733b362-9fca-4372-b079-c014b82e0128.jpg"
+        },
+        {
+          "FileName": "823e79a0-deaa-4666-84ed-dbf730f031bb.jpg",
+          "Type": "Box - Front",
+          "Region": "United Kingdom",
+          "CRC32": "1968910731",
+          "URL": "http://images.launchbox-app.com/823e79a0-deaa-4666-84ed-dbf730f031bb.jpg"
         }
       ],
       "Spine": [

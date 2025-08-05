@@ -41,18 +41,18 @@
       ],
       "Front": [
         {
-          "FileName": "ff3ca5a5-eae3-446a-ab29-f5bd24fed8db.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "97298524",
-          "URL": "http://images.launchbox-app.com/ff3ca5a5-eae3-446a-ab29-f5bd24fed8db.jpg"
-        },
-        {
           "FileName": "b0999423-60d6-4b0d-8620-90c76bdbde09.jpg",
           "Type": "Box - Front",
           "Region": "Europe",
           "CRC32": "849681410",
           "URL": "http://images.launchbox-app.com/b0999423-60d6-4b0d-8620-90c76bdbde09.jpg"
+        },
+        {
+          "FileName": "ff3ca5a5-eae3-446a-ab29-f5bd24fed8db.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "97298524",
+          "URL": "http://images.launchbox-app.com/ff3ca5a5-eae3-446a-ab29-f5bd24fed8db.jpg"
         },
         {
           "FileName": "8df4f04c-7b92-4d85-aa47-8432bb5f617e.png",
@@ -71,18 +71,18 @@
       ],
       "Spine": [
         {
-          "FileName": "8bd1088c-eb1e-4f96-89d7-8562ac0d798e.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
-          "CRC32": "1926361858",
-          "URL": "http://images.launchbox-app.com/8bd1088c-eb1e-4f96-89d7-8562ac0d798e.jpg"
-        },
-        {
           "FileName": "849bb8ef-a9a7-42c1-a253-9a708aadb99b.jpg",
           "Type": "Box - Spine",
           "Region": "Europe",
           "CRC32": "3565514315",
           "URL": "http://images.launchbox-app.com/849bb8ef-a9a7-42c1-a253-9a708aadb99b.jpg"
+        },
+        {
+          "FileName": "8bd1088c-eb1e-4f96-89d7-8562ac0d798e.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "1926361858",
+          "URL": "http://images.launchbox-app.com/8bd1088c-eb1e-4f96-89d7-8562ac0d798e.jpg"
         }
       ]
     },
@@ -97,18 +97,18 @@
     ],
     "Other": [
       {
-        "FileName": "5b18f7f2-85f9-4623-ab0f-1e726bf47192.png",
-        "Type": "Advertisement Flyer - Front",
-        "Region": "Italy",
-        "CRC32": "3908679022",
-        "URL": "http://images.launchbox-app.com/5b18f7f2-85f9-4623-ab0f-1e726bf47192.png"
-      },
-      {
         "FileName": "016c52bd-32b1-4ab4-bd01-1e2844b68810.jpg",
         "Type": "Advertisement Flyer - Front",
         "Region": "Italy",
         "CRC32": "2668564266",
         "URL": "http://images.launchbox-app.com/016c52bd-32b1-4ab4-bd01-1e2844b68810.jpg"
+      },
+      {
+        "FileName": "5b18f7f2-85f9-4623-ab0f-1e726bf47192.png",
+        "Type": "Advertisement Flyer - Front",
+        "Region": "Italy",
+        "CRC32": "3908679022",
+        "URL": "http://images.launchbox-app.com/5b18f7f2-85f9-4623-ab0f-1e726bf47192.png"
       },
       {
         "FileName": "fd858bac-7289-441d-ba0d-177f26048a63.jpg",

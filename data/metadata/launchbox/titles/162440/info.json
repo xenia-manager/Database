@@ -30,6 +30,15 @@
         }
       ]
     },
+    "Disc": [
+      {
+        "FileName": "r2_396055b2-4dff-435a-9ec0-45c69b1755fa.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "907500408",
+        "URL": "http://images.launchbox-app.com/r2_396055b2-4dff-435a-9ec0-45c69b1755fa.png"
+      }
+    ],
     "Other": [
       {
         "FileName": "46d32330-2fc5-46ea-bf26-8cd6c5d19389.png",

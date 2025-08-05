@@ -85,18 +85,18 @@
       ],
       "Spine": [
         {
-          "FileName": "b745955e-3cf1-412e-81cf-ab6df4a9180c.jpg",
-          "Type": "Box - Spine",
-          "Region": "North America",
-          "CRC32": "1701946584",
-          "URL": "http://images.launchbox-app.com/b745955e-3cf1-412e-81cf-ab6df4a9180c.jpg"
-        },
-        {
           "FileName": "775fa15d-800c-451b-88de-9435e87480ac.jpg",
           "Type": "Box - Spine",
           "Region": "Europe",
           "CRC32": "458850939",
           "URL": "http://images.launchbox-app.com/775fa15d-800c-451b-88de-9435e87480ac.jpg"
+        },
+        {
+          "FileName": "b745955e-3cf1-412e-81cf-ab6df4a9180c.jpg",
+          "Type": "Box - Spine",
+          "Region": "North America",
+          "CRC32": "1701946584",
+          "URL": "http://images.launchbox-app.com/b745955e-3cf1-412e-81cf-ab6df4a9180c.jpg"
         }
       ]
     },
@@ -111,10 +111,10 @@
     ],
     "Screenshots": [
       {
-        "FileName": "9077d6a1-4a77-4e6a-bc9a-e95fe2fbd0d1.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "1365475452",
-        "URL": "http://images.launchbox-app.com/9077d6a1-4a77-4e6a-bc9a-e95fe2fbd0d1.jpg"
+        "FileName": "6ed09116-1913-47b1-ad6f-5f4ce04163ac.png",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "3275419822",
+        "URL": "http://images.launchbox-app.com/6ed09116-1913-47b1-ad6f-5f4ce04163ac.png"
       },
       {
         "FileName": "a2f4f076-e4a9-4795-b912-8883089c129b.jpg",
@@ -129,10 +129,10 @@
         "URL": "http://images.launchbox-app.com/04420683-9cf3-43bf-b0ac-3c8fee1d4a30.jpg"
       },
       {
-        "FileName": "6ed09116-1913-47b1-ad6f-5f4ce04163ac.png",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "3275419822",
-        "URL": "http://images.launchbox-app.com/6ed09116-1913-47b1-ad6f-5f4ce04163ac.png"
+        "FileName": "9077d6a1-4a77-4e6a-bc9a-e95fe2fbd0d1.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "1365475452",
+        "URL": "http://images.launchbox-app.com/9077d6a1-4a77-4e6a-bc9a-e95fe2fbd0d1.jpg"
       }
     ],
     "Other": [

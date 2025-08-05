@@ -4,7 +4,7 @@
   "ReleaseDate": "2007-05-04T00:00:00+00:00",
   "Overview": "Based off the 2007 movie of the same name, Spider-Man 3 puts players in charge of the titular hero as he tries to once again New York City safe from the combined menace of the New Goblin, the Sandman, and Venom.\n\nThe game style is similar to Spider-Man 2 in which the player is free to explore a large scale version of New York City in a \"Sandbox\" style, this time in a larger city that allows for exploration of the subway and sewer systems. The game also allows for players to adventure in storylines not explored in the third film, such as facing familiar Spider-Man villains like Kraven, the Lizard, Scorpion, Rhino and the Kingpin, or breaking up various gang factions.\n\nOne of the main focal points of the new game is the inclusion of Spider-Man's black symbiote costume. When wearing the traditional red and blue costume, Spider-Man is more fast and is more accepted by the public. When wearing the black costume, Spider-Man becomes stronger and more aggressive.",
   "VideoURL": "https://www.youtube.com/watch?v=RplAnHZjN8s",
-  "CommunityRating": "3.25",
+  "CommunityRating": "3.27777777777778",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Spider-Man_3_(video_game)",
   "ESRB": "T - Teen",
   "Genres": "Action; Adventure",
@@ -12,6 +12,24 @@
   "Publisher": "Activision",
   "Artwork": {
     "Background": [
+      {
+        "FileName": "ce8ed73e-fff2-4cfa-ab22-1c0f1007473f.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1027640560",
+        "URL": "http://images.launchbox-app.com/ce8ed73e-fff2-4cfa-ab22-1c0f1007473f.jpg"
+      },
+      {
+        "FileName": "a0fbb249-e2b6-491c-a9a0-84903dd68433.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2603484055",
+        "URL": "http://images.launchbox-app.com/a0fbb249-e2b6-491c-a9a0-84903dd68433.jpg"
+      },
+      {
+        "FileName": "1135af66-99ad-45e7-b2bb-740889748bf0.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2177999839",
+        "URL": "http://images.launchbox-app.com/1135af66-99ad-45e7-b2bb-740889748bf0.jpg"
+      },
       {
         "FileName": "272e5e0e-120f-4982-a9f5-4fc13ceea898.jpg",
         "Type": "Fanart - Background",
@@ -23,24 +41,6 @@
         "Type": "Fanart - Background",
         "CRC32": "3926521212",
         "URL": "http://images.launchbox-app.com/1d877030-fdf2-43e7-ae43-41a4e312607d.jpg"
-      },
-      {
-        "FileName": "1135af66-99ad-45e7-b2bb-740889748bf0.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2177999839",
-        "URL": "http://images.launchbox-app.com/1135af66-99ad-45e7-b2bb-740889748bf0.jpg"
-      },
-      {
-        "FileName": "a0fbb249-e2b6-491c-a9a0-84903dd68433.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2603484055",
-        "URL": "http://images.launchbox-app.com/a0fbb249-e2b6-491c-a9a0-84903dd68433.jpg"
-      },
-      {
-        "FileName": "ce8ed73e-fff2-4cfa-ab22-1c0f1007473f.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "1027640560",
-        "URL": "http://images.launchbox-app.com/ce8ed73e-fff2-4cfa-ab22-1c0f1007473f.jpg"
       }
     ],
     "Box": {

@@ -40,11 +40,11 @@
       ],
       "Front": [
         {
-          "FileName": "8aff65ce-6ec0-4f2d-afec-cfdd9df66f40.jpg",
+          "FileName": "76490be6-b9b7-46d2-b0c3-527aa8e515c1.jpg",
           "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "3676958988",
-          "URL": "http://images.launchbox-app.com/8aff65ce-6ec0-4f2d-afec-cfdd9df66f40.jpg"
+          "Region": "Europe",
+          "CRC32": "705674426",
+          "URL": "http://images.launchbox-app.com/76490be6-b9b7-46d2-b0c3-527aa8e515c1.jpg"
         },
         {
           "FileName": "f6ea4d96-d519-4025-b2ee-cb4875c2d316.jpg",
@@ -54,11 +54,11 @@
           "URL": "http://images.launchbox-app.com/f6ea4d96-d519-4025-b2ee-cb4875c2d316.jpg"
         },
         {
-          "FileName": "76490be6-b9b7-46d2-b0c3-527aa8e515c1.jpg",
+          "FileName": "8aff65ce-6ec0-4f2d-afec-cfdd9df66f40.jpg",
           "Type": "Box - Front",
-          "Region": "Europe",
-          "CRC32": "705674426",
-          "URL": "http://images.launchbox-app.com/76490be6-b9b7-46d2-b0c3-527aa8e515c1.jpg"
+          "Region": "North America",
+          "CRC32": "3676958988",
+          "URL": "http://images.launchbox-app.com/8aff65ce-6ec0-4f2d-afec-cfdd9df66f40.jpg"
         }
       ],
       "Spine": [
@@ -82,6 +82,12 @@
     ],
     "Screenshots": [
       {
+        "FileName": "67d1e8b8-ff9c-4cd9-a91b-023edab4107b.png",
+        "Type": "Screenshot - Game Title",
+        "CRC32": "3312288758",
+        "URL": "http://images.launchbox-app.com/67d1e8b8-ff9c-4cd9-a91b-023edab4107b.png"
+      },
+      {
         "FileName": "9eaef9ce-bdd8-4e92-9185-2e6ec39896a8.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "1526008406",
@@ -92,12 +98,6 @@
         "Type": "Screenshot - Gameplay",
         "CRC32": "609669634",
         "URL": "http://images.launchbox-app.com/ddcea0f5-ed58-41a9-8684-083922081a83.jpg"
-      },
-      {
-        "FileName": "67d1e8b8-ff9c-4cd9-a91b-023edab4107b.png",
-        "Type": "Screenshot - Game Title",
-        "CRC32": "3312288758",
-        "URL": "http://images.launchbox-app.com/67d1e8b8-ff9c-4cd9-a91b-023edab4107b.png"
       }
     ],
     "Other": [

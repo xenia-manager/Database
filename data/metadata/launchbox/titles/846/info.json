@@ -48,18 +48,18 @@
       ],
       "Front": [
         {
-          "FileName": "5329ade1-7ca5-4bf6-9b2b-68be190872c5.jpg",
-          "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "92132736",
-          "URL": "http://images.launchbox-app.com/5329ade1-7ca5-4bf6-9b2b-68be190872c5.jpg"
-        },
-        {
           "FileName": "146345c7-5ee7-4d2f-a78a-920192b96004.jpg",
           "Type": "Box - Front",
           "Region": "Europe",
           "CRC32": "3767718521",
           "URL": "http://images.launchbox-app.com/146345c7-5ee7-4d2f-a78a-920192b96004.jpg"
+        },
+        {
+          "FileName": "5329ade1-7ca5-4bf6-9b2b-68be190872c5.jpg",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "92132736",
+          "URL": "http://images.launchbox-app.com/5329ade1-7ca5-4bf6-9b2b-68be190872c5.jpg"
         },
         {
           "FileName": "b45d42ff-d090-4419-978c-db2d66cdcebf.jpg",
@@ -108,12 +108,6 @@
         "URL": "http://images.launchbox-app.com/3252550d-77e9-4044-971c-a7e9aad20774.jpg"
       },
       {
-        "FileName": "3e1579d7-819d-44d6-bd0a-dac77d799ae7.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "2434537679",
-        "URL": "http://images.launchbox-app.com/3e1579d7-819d-44d6-bd0a-dac77d799ae7.jpg"
-      },
-      {
         "FileName": "d9e56697-dad4-4f33-be3c-54db1fb2f549.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "2157380179",
@@ -130,6 +124,12 @@
         "Type": "Screenshot - Gameplay",
         "CRC32": "3778440281",
         "URL": "http://images.launchbox-app.com/1e0e16ee-e1c9-4a04-ab21-60dbf6c3cded.jpg"
+      },
+      {
+        "FileName": "3e1579d7-819d-44d6-bd0a-dac77d799ae7.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "2434537679",
+        "URL": "http://images.launchbox-app.com/3e1579d7-819d-44d6-bd0a-dac77d799ae7.jpg"
       }
     ],
     "Other": [

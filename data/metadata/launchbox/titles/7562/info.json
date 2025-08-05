@@ -32,18 +32,18 @@
       ],
       "Front": [
         {
-          "FileName": "82db77ff-2543-470a-856e-53a14139b59c.png",
-          "Type": "Box - Front",
-          "Region": "North America",
-          "CRC32": "1054529997",
-          "URL": "http://images.launchbox-app.com/82db77ff-2543-470a-856e-53a14139b59c.png"
-        },
-        {
           "FileName": "d0e0d76c-d960-4e8c-b0f2-61cb879b3fa0.jpg",
           "Type": "Box - Front",
           "Region": "Europe",
           "CRC32": "2148879487",
           "URL": "http://images.launchbox-app.com/d0e0d76c-d960-4e8c-b0f2-61cb879b3fa0.jpg"
+        },
+        {
+          "FileName": "82db77ff-2543-470a-856e-53a14139b59c.png",
+          "Type": "Box - Front",
+          "Region": "North America",
+          "CRC32": "1054529997",
+          "URL": "http://images.launchbox-app.com/82db77ff-2543-470a-856e-53a14139b59c.png"
         }
       ]
     },

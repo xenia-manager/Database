@@ -11,6 +11,15 @@
   "Publisher": "CyberFront",
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "FileName": "r2_ce6045f8-b0ab-45df-b0fc-a6faaf05874d.png",
+          "Type": "Box - 3D",
+          "Region": "Japan",
+          "CRC32": "2728012565",
+          "URL": "http://images.launchbox-app.com/r2_ce6045f8-b0ab-45df-b0fc-a6faaf05874d.png"
+        }
+      ],
       "Front": [
         {
           "FileName": "17476fbd-50e4-4852-a4f5-57beaa798cd0.png",
@@ -20,6 +29,24 @@
           "URL": "http://images.launchbox-app.com/17476fbd-50e4-4852-a4f5-57beaa798cd0.png"
         }
       ]
-    }
+    },
+    "Disc": [
+      {
+        "FileName": "r2_5b34c6c3-ed2e-4134-8e40-bbf41c56ef31.png",
+        "Type": "Disc",
+        "Region": "Japan",
+        "CRC32": "783952864",
+        "URL": "http://images.launchbox-app.com/r2_5b34c6c3-ed2e-4134-8e40-bbf41c56ef31.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "r2_a1f4de33-5cc9-4b5f-813a-b5fb21117c4d.png",
+        "Type": "Clear Logo",
+        "Region": "Japan",
+        "CRC32": "2442090299",
+        "URL": "http://images.launchbox-app.com/r2_a1f4de33-5cc9-4b5f-813a-b5fb21117c4d.png"
+      }
+    ]
   }
 }

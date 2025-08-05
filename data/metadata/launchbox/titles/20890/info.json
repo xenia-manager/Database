@@ -10,6 +10,15 @@
   "Publisher": "Activision Publishing",
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "FileName": "r2_7180a385-c980-44b3-977c-b3f2f6ef6dbb.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "185308365",
+          "URL": "http://images.launchbox-app.com/r2_7180a385-c980-44b3-977c-b3f2f6ef6dbb.png"
+        }
+      ],
       "Back": [
         {
           "FileName": "91c4a22f-1523-4109-9797-898c2ef149c5.jpg",

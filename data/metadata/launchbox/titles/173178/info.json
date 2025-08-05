@@ -10,6 +10,15 @@
   "Publisher": "Activision",
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "FileName": "r2_9c35593e-5271-493b-a005-87f61ceb3457.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "3019087210",
+          "URL": "http://images.launchbox-app.com/r2_9c35593e-5271-493b-a005-87f61ceb3457.png"
+        }
+      ],
       "Front": [
         {
           "FileName": "f5026a09-ddcd-481d-b92f-ea1c2faf20a6.jpg",
@@ -20,6 +29,15 @@
         }
       ]
     },
+    "Disc": [
+      {
+        "FileName": "r2_e773c434-c3fd-40dd-99c8-a6cd7a689138.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "665831356",
+        "URL": "http://images.launchbox-app.com/r2_e773c434-c3fd-40dd-99c8-a6cd7a689138.png"
+      }
+    ],
     "Other": [
       {
         "FileName": "c907eedb-8ef5-47a4-bda0-01b585680321.png",
