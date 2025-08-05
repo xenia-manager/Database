@@ -290,14 +290,32 @@ def main():
                 else:
                     artwork_groups[main_category].append(img_dict)
             
-            # Remove empty categories and subcategories
+            # Remove empty categories and subcategories, and sort entries by Type then Region
             cleaned_artwork = {}
             for category, content in artwork_groups.items():
                 if isinstance(content, list) and content:
-                    cleaned_artwork[category] = content
+                    # Sort the list of artwork dicts by 'Type', then 'Region'
+                    sorted_content = sorted(
+                        content,
+                        key=lambda x: (
+                            (x.get('Type') or '').lower(),
+                            (x.get('Region') or '').lower()
+                        )
+                    )
+                    cleaned_artwork[category] = sorted_content
                 elif isinstance(content, dict) and content:
-                    # Remove empty subcategories
-                    cleaned_subcategories = {k: v for k, v in content.items() if v}
+                    # Remove empty subcategories and sort each subcategory
+                    cleaned_subcategories = {}
+                    for subcat, sublist in content.items():
+                        if sublist:
+                            sorted_sublist = sorted(
+                                sublist,
+                                key=lambda x: (
+                                    (x.get('Type') or '').lower(),
+                                    (x.get('Region') or '').lower()
+                                )
+                            )
+                            cleaned_subcategories[subcat] = sorted_sublist
                     if cleaned_subcategories:
                         cleaned_artwork[category] = cleaned_subcategories
             
