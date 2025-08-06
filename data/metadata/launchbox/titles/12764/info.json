@@ -12,6 +12,15 @@
   "Publisher": "Ubisoft Entertainment",
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "FileName": "r2_fdd43b25-d31d-49f8-97cf-4eb4744fb119.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "860355948",
+          "URL": "http://images.launchbox-app.com/r2_fdd43b25-d31d-49f8-97cf-4eb4744fb119.png"
+        }
+      ],
       "Back": [
         {
           "FileName": "8d99f2b1-59ab-493b-95e9-1dfc368c429b.jpg",

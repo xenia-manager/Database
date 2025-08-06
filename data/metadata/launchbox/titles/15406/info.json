@@ -7,6 +7,22 @@
   "Genres": null,
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "FileName": "r2_3c630c07-3864-4d78-9422-f5105a24a09f.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "1584977679",
+          "URL": "http://images.launchbox-app.com/r2_3c630c07-3864-4d78-9422-f5105a24a09f.png"
+        },
+        {
+          "FileName": "r2_f4af44be-cef0-4f86-aad3-7d50b93e8c2e.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "602507119",
+          "URL": "http://images.launchbox-app.com/r2_f4af44be-cef0-4f86-aad3-7d50b93e8c2e.png"
+        }
+      ],
       "Front": [
         {
           "FileName": "476e4d0d-8874-48f3-b9c9-39352546d799.jpg",

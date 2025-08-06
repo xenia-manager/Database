@@ -27,6 +27,24 @@
           "URL": "http://images.launchbox-app.com/05f843fa-2337-4941-b664-3e1a9fb93838.png"
         }
       ]
-    }
+    },
+    "Disc": [
+      {
+        "FileName": "r2_6c9781cd-95c5-46fb-8455-44a57dc10f49.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1613226397",
+        "URL": "http://images.launchbox-app.com/r2_6c9781cd-95c5-46fb-8455-44a57dc10f49.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "r2_8b159160-80f5-4017-988a-5fea5cd28246.png",
+        "Type": "Clear Logo",
+        "Region": "North America",
+        "CRC32": "212872873",
+        "URL": "http://images.launchbox-app.com/r2_8b159160-80f5-4017-988a-5fea5cd28246.png"
+      }
+    ]
   }
 }

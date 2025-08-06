@@ -1,6 +1,7 @@
 {
   "Name": "Battlefield: Hardline",
   "DatabaseID": "26194",
+  "ReleaseDate": "2015-03-17T00:00:00+00:00",
   "Overview": "Battlefield Hardline is a first-person shooter video game developed by Visceral Games in collaboration with EA Digital Illusions CE and published by Electronic Arts. It was released in March 2015 for Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360 and Xbox One. Unlike the previous games in the Battlefield series, Hardline focuses on crime, heist and policing elements instead of military warfare.\n\nUpon release, the game received a mixed critical reception, with critics praising the game's multiplayer mode, voice acting and accessibility, while criticizing the game's plot, stealth and narrative.",
   "VideoURL": "http://www.youtube.com/watch?v=O0TfCQAQJAE",
   "CommunityRating": "2.4",
@@ -28,18 +29,18 @@
     },
     "Disc": [
       {
-        "FileName": "2cbd1a1b-5efd-4074-bdad-aa1b374eeaba.png",
-        "Type": "Disc",
-        "Region": "North America",
-        "CRC32": "1182547801",
-        "URL": "http://images.launchbox-app.com/2cbd1a1b-5efd-4074-bdad-aa1b374eeaba.png"
-      },
-      {
         "FileName": "r2_4b54449c-64fa-46cd-bda0-57fe148a3756.png",
         "Type": "Disc",
         "Region": "North America",
         "CRC32": "661852295",
         "URL": "http://images.launchbox-app.com/r2_4b54449c-64fa-46cd-bda0-57fe148a3756.png"
+      },
+      {
+        "FileName": "2cbd1a1b-5efd-4074-bdad-aa1b374eeaba.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1182547801",
+        "URL": "http://images.launchbox-app.com/2cbd1a1b-5efd-4074-bdad-aa1b374eeaba.png"
       }
     ],
     "Other": [
