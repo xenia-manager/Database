@@ -32,6 +32,22 @@
     }
   },
   {
+    "name": "415407DE - Game of Thrones (USA).patch.toml",
+    "path": "patches/415407DE - Game of Thrones (USA).patch.toml",
+    "sha": "397d0356570b58169e4a7dc1328deda50e8f4d78",
+    "size": 896,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/415407DE%20-%20Game%20of%20Thrones%20(USA).patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/415407DE%20-%20Game%20of%20Thrones%20(USA).patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/397d0356570b58169e4a7dc1328deda50e8f4d78",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/415407DE%20-%20Game%20of%20Thrones%20(USA).patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/415407DE%20-%20Game%20of%20Thrones%20(USA).patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/397d0356570b58169e4a7dc1328deda50e8f4d78",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/415407DE%20-%20Game%20of%20Thrones%20(USA).patch.toml"
+    }
+  },
+  {
     "name": "415607D3 - Gun.patch.toml",
     "path": "patches/415607D3 - Gun.patch.toml",
     "sha": "2f31770f2ec3a653c8a194ae17afac9fa247e831",
@@ -1840,6 +1856,38 @@
     }
   },
   {
+    "name": "464507DB - Game of Thrones (Europe 1).patch.toml",
+    "path": "patches/464507DB - Game of Thrones (Europe 1).patch.toml",
+    "sha": "544650227dc2f61576ea55fdd6f7fdc5d133564e",
+    "size": 900,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/464507DB%20-%20Game%20of%20Thrones%20(Europe%201).patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/464507DB%20-%20Game%20of%20Thrones%20(Europe%201).patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/544650227dc2f61576ea55fdd6f7fdc5d133564e",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/464507DB%20-%20Game%20of%20Thrones%20(Europe%201).patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/464507DB%20-%20Game%20of%20Thrones%20(Europe%201).patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/544650227dc2f61576ea55fdd6f7fdc5d133564e",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/464507DB%20-%20Game%20of%20Thrones%20(Europe%201).patch.toml"
+    }
+  },
+  {
+    "name": "464507DB - Game of Thrones (Europe 2).patch.toml",
+    "path": "patches/464507DB - Game of Thrones (Europe 2).patch.toml",
+    "sha": "41c2a46af8f8306d0dd174248c9738f6964291d4",
+    "size": 899,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/464507DB%20-%20Game%20of%20Thrones%20(Europe%202).patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/464507DB%20-%20Game%20of%20Thrones%20(Europe%202).patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/41c2a46af8f8306d0dd174248c9738f6964291d4",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/464507DB%20-%20Game%20of%20Thrones%20(Europe%202).patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/464507DB%20-%20Game%20of%20Thrones%20(Europe%202).patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/41c2a46af8f8306d0dd174248c9738f6964291d4",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/464507DB%20-%20Game%20of%20Thrones%20(Europe%202).patch.toml"
+    }
+  },
+  {
     "name": "464507DF - Sherlock Holmes Crimes & Punishments.patch.toml",
     "path": "patches/464507DF - Sherlock Holmes Crimes & Punishments.patch.toml",
     "sha": "5a22aba02a42660b7b42527f6c54729aca8c546e",
@@ -1853,6 +1901,54 @@
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/464507DF%20-%20Sherlock%20Holmes%20Crimes%20&%20Punishments.patch.toml?ref=main",
       "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/5a22aba02a42660b7b42527f6c54729aca8c546e",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/464507DF%20-%20Sherlock%20Holmes%20Crimes%20&%20Punishments.patch.toml"
+    }
+  },
+  {
+    "name": "464507E1 - Farming Simulator (TU1).patch.toml",
+    "path": "patches/464507E1 - Farming Simulator (TU1).patch.toml",
+    "sha": "15128d5e7eeb4ad7bbe794ab1c1935f47dd82fe0",
+    "size": 407,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/464507E1%20-%20Farming%20Simulator%20(TU1).patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/464507E1%20-%20Farming%20Simulator%20(TU1).patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/15128d5e7eeb4ad7bbe794ab1c1935f47dd82fe0",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/464507E1%20-%20Farming%20Simulator%20(TU1).patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/464507E1%20-%20Farming%20Simulator%20(TU1).patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/15128d5e7eeb4ad7bbe794ab1c1935f47dd82fe0",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/464507E1%20-%20Farming%20Simulator%20(TU1).patch.toml"
+    }
+  },
+  {
+    "name": "464507E1 - Farming Simulator 15.patch.toml",
+    "path": "patches/464507E1 - Farming Simulator 15.patch.toml",
+    "sha": "d1d18f63f0395abd4bbaab1fa80b41ad48e18ba0",
+    "size": 376,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/464507E1%20-%20Farming%20Simulator%2015.patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/464507E1%20-%20Farming%20Simulator%2015.patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/d1d18f63f0395abd4bbaab1fa80b41ad48e18ba0",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/464507E1%20-%20Farming%20Simulator%2015.patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/464507E1%20-%20Farming%20Simulator%2015.patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/d1d18f63f0395abd4bbaab1fa80b41ad48e18ba0",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/464507E1%20-%20Farming%20Simulator%2015.patch.toml"
+    }
+  },
+  {
+    "name": "464507E1 - Farming Simulator.patch.toml",
+    "path": "patches/464507E1 - Farming Simulator.patch.toml",
+    "sha": "d5ba3fe598293d6f3e6568d46dc2fe894a9034cc",
+    "size": 401,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/464507E1%20-%20Farming%20Simulator.patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/464507E1%20-%20Farming%20Simulator.patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/d5ba3fe598293d6f3e6568d46dc2fe894a9034cc",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/464507E1%20-%20Farming%20Simulator.patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/464507E1%20-%20Farming%20Simulator.patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/d5ba3fe598293d6f3e6568d46dc2fe894a9034cc",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/464507E1%20-%20Farming%20Simulator.patch.toml"
     }
   },
   {
