@@ -1,5 +1,11 @@
 [
   {
+    "id": "584111F1",
+    "title": "Sonic CD",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/803"
+  },
+  {
     "id": "584111F2",
     "title": "Sonic the Hedgehog 4: Episode II",
     "state": "Unknown",
