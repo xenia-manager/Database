@@ -10,6 +10,15 @@
   "Publisher": "Mastiff",
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "FileName": "r2_6fe7f7ac-6308-4b21-8698-b156ce37a601.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "22938767",
+          "URL": "http://images.launchbox-app.com/r2_6fe7f7ac-6308-4b21-8698-b156ce37a601.png"
+        }
+      ],
       "Back": [
         {
           "FileName": "fc870beb-5871-4d14-a4e6-d0fe3da1f9d2.jpg",

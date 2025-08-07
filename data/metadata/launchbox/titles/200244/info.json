@@ -8,6 +8,15 @@
   "Publisher": "Hamster",
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "FileName": "r2_09f3c62c-ee27-4ad6-99f0-3696a96d55e6.png",
+          "Type": "Box - 3D",
+          "Region": "Japan",
+          "CRC32": "1010275502",
+          "URL": "http://images.launchbox-app.com/r2_09f3c62c-ee27-4ad6-99f0-3696a96d55e6.png"
+        }
+      ],
       "Back": [
         {
           "FileName": "9b1585ae-bdf4-4eaa-997f-c80192fb7f98.jpg",

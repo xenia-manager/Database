@@ -10,6 +10,15 @@
   "Publisher": "Majesco Entertainment",
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "FileName": "r2_f5064164-6335-447e-aec6-692366c940ae.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "200499666",
+          "URL": "http://images.launchbox-app.com/r2_f5064164-6335-447e-aec6-692366c940ae.png"
+        }
+      ],
       "Back": [
         {
           "FileName": "3da07020-7edd-4e8c-8685-d270c5f6b433.jpg",
@@ -42,6 +51,13 @@
         "Region": "Europe",
         "CRC32": "2237095832",
         "URL": "http://images.launchbox-app.com/5d0ea08b-d175-47f9-893a-19a46eba9061.png"
+      },
+      {
+        "FileName": "r2_fa713fa2-da01-4703-89aa-89ef16a5a1b8.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1984737654",
+        "URL": "http://images.launchbox-app.com/r2_fa713fa2-da01-4703-89aa-89ef16a5a1b8.png"
       }
     ],
     "Other": [

@@ -10,6 +10,15 @@
   "Publisher": "Psyclone",
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "FileName": "r2_f431e2f6-4fa3-415a-9205-dd0572662727.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "3686873970",
+          "URL": "http://images.launchbox-app.com/r2_f431e2f6-4fa3-415a-9205-dd0572662727.png"
+        }
+      ],
       "Back": [
         {
           "FileName": "70289cce-4d1c-432c-a170-c8dd14b0c4a6.jpg",

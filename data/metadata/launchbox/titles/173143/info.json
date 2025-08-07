@@ -10,6 +10,15 @@
   "Publisher": "Little Orbit",
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "FileName": "r2_6c682a93-345f-4beb-8ed5-c4449690832d.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "88959275",
+          "URL": "http://images.launchbox-app.com/r2_6c682a93-345f-4beb-8ed5-c4449690832d.png"
+        }
+      ],
       "Back": [
         {
           "FileName": "02b0fec8-6950-4f8d-b337-09cf91cfa4ab.jpg",

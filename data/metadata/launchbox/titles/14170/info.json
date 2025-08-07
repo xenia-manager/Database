@@ -7,6 +7,15 @@
   "Genres": "Sports",
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "FileName": "r2_b1c48426-079c-4c17-8737-5b580a054afb.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "1560138604",
+          "URL": "http://images.launchbox-app.com/r2_b1c48426-079c-4c17-8737-5b580a054afb.png"
+        }
+      ],
       "Back": [
         {
           "FileName": "a6f0603c-bdb0-46b7-88ee-a51e58c4a649.jpg",

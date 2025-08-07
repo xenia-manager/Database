@@ -10,6 +10,15 @@
   "Publisher": "Codemasters Software",
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "FileName": "r2_431b1cbd-596b-434f-9410-348f4e705819.png",
+          "Type": "Box - 3D",
+          "Region": "Europe",
+          "CRC32": "3273317496",
+          "URL": "http://images.launchbox-app.com/r2_431b1cbd-596b-434f-9410-348f4e705819.png"
+        }
+      ],
       "Back": [
         {
           "FileName": "5e3246bc-0c58-41d5-84c5-29c7ddc2ad65.jpg",
