@@ -1,5 +1,17 @@
 [
   {
+    "id": "41560819",
+    "title": "Guitar Hero Aerosmith",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/805"
+  },
+  {
+    "id": "415607F7",
+    "title": "Guitar Hero III Legends of Rock",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/804"
+  },
+  {
     "id": "584111F1",
     "title": "Sonic CD",
     "state": "Unknown",
