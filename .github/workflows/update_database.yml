@@ -62,7 +62,6 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install requests
-
       - name: Fetch Xenia Manager versions
         env:
           AUTH_TOKEN: ${{ secrets.COMMIT_TOKEN }}
@@ -99,7 +98,6 @@ jobs:
           print("Versions fetched successfully")
           EOF
           python fetch_versions.py
-
       - name: Commit and push changes
         run: |
           git config --global user.name 'xeniamanager-ci'
@@ -112,7 +110,6 @@ jobs:
           git commit -m "chore: Update Xenia Manager versions"
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "${GITHUB_REF_NAME}"
-
   update-compatibility:
     name: Update Game Compatibility Database
     runs-on: ubuntu-latest
@@ -138,7 +135,6 @@ jobs:
           echo "Not the daily schedule, skipping job."
           exit 0
           fi
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -148,7 +144,6 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install requests
-
       - name: Update game compatibility database (Canary)
         run: python scripts/game_compatibility.py --complete --debug
         env:
@@ -172,7 +167,6 @@ jobs:
           git commit -m "chore: Update game compatibility database"
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "${GITHUB_REF_NAME}"
-
   update-patches:
     name: Update Game Patches
     runs-on: ubuntu-latest
@@ -199,7 +193,6 @@ jobs:
           echo "Not the daily schedule, skipping job."
           exit 0
           fi
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -209,7 +202,6 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install requests
-
       - name: Fetch game patches
         env:
           AUTH_TOKEN: ${{ secrets.COMMIT_TOKEN }}
@@ -260,7 +252,6 @@ jobs:
             "https://api.github.com/repos/${{ env.XENIA_NETPLAY_REPO }}/contents/patches" \
             "data/patches/netplay.json" \
             "netplay"
-
       - name: Commit and push changes
         run: |
           git config --global user.name 'xeniamanager-ci'
@@ -273,7 +264,6 @@ jobs:
           git commit -m "chore: Update Xenia Canary & Netplay patches"
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "${GITHUB_REF_NAME}"
-
   update_launchbox_metadata:
     name: Update Launchbox Database Metadata
     if: |
@@ -293,11 +283,13 @@ jobs:
 
       - name: Skip if not daily schedule
         if: github.event_name == 'schedule'
+        shell: pwsh
         run: |
-          if [ "$(date -u +%H)" != "00" ]; then
-          echo "Not the daily schedule, skipping job."
-          exit 0
-          fi
+          $currentHour = (Get-Date).ToUniversalTime().Hour
+          if ($currentHour -ne 0) {
+            Write-Host "Not the daily schedule, skipping job."
+            exit 0
+          }
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -320,7 +312,6 @@ jobs:
         run: |
           Remove-Item -Path "Metadata.zip" -Force
           Remove-Item -Path "Metadata" -Recurse -Force
-
       - name: Commit and push changes
         shell: pwsh
         run: |
@@ -332,7 +323,6 @@ jobs:
             git pull --rebase origin $env:GITHUB_REF_NAME
             git push origin $env:GITHUB_REF_NAME
           }
-
   update-gamecontrollerdb:
     name: Update SDL GameControllerDB
     runs-on: ubuntu-latest
@@ -356,12 +346,10 @@ jobs:
           echo "Not the daily schedule, skipping job."
           exit 0
           fi
-
       - name: Download gamecontrollerdb.txt
         run: |
           mkdir -p data
           curl -sSL "https://raw.githubusercontent.com/mdqinc/SDL_GameControllerDB/master/gamecontrollerdb.txt" -o data/gamecontrollerdb.txt
-
       - name: Commit and push changes
         run: |
           git config --global user.name 'xeniamanager-ci'
