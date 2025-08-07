@@ -1,6 +1,6 @@
 # Xenia Manager Database
 
-This repository serves as a centralized public database for Xbox 360 game compatibility, patches, and related metadata, intended for use with [Xenia Manager](https://github.com/xenia-manager/xenia-manager). Its goal is to provide a unified source for comprehensive information about Xbox 360 games.
+This repository serves as a centralized public database for Xbox 360 game compatibility, patches, and related metadata, intended for use with [Xenia Manager](https://github.com/xenia-manager/xenia-manager).
 
 ---
 
@@ -12,7 +12,11 @@ The `data` folder contains several JSON files and subfolders, organized as follo
   - `stable.json` — Xenia Stable Compatibility List  
   - `canary.json` — Xenia Canary Compatibility List
 
-- `launchbox_games.json` — (Outdated) Launchbox database export
+- `metadata` — scrapped games metadata
+  - `launchbox` - processed Launchbox Database metadata (Daily)
+    - `games.json` - full metadata for every game
+    - `search.json` - short metadata used to search
+    - `titles` - every game metadata split into it's own JSON file
 
 - `wikipedia_games.json` — (Deprecated) Wikipedia-based game list
 
@@ -20,11 +24,15 @@ The `data` folder contains several JSON files and subfolders, organized as follo
   - `canary.json` — Canary build patches  
   - `netplay.json` — Netplay-specific patches
 
+- `version.json` - cached latest GitHub releases for Xenia Manager
+
+- `gamecontrollerdb.txt` - cached SDL game controller database (credits to [mdqinc](https://github.com/mdqinc/SDL_GameControllerDB))
+
 ---
 
 ## 🌐 Data Information
 
-### Game Information
+### Game Compatibility Information
 
 - **Xenia Stable Compatibility List:**  
   [stable.json](https://raw.githubusercontent.com/xenia-manager/database/main/data/game-compatibility/stable.json)  
@@ -36,9 +44,9 @@ The `data` folder contains several JSON files and subfolders, organized as follo
 
 ### Game Information
 
-- **Launchbox Database (Currently outdated):**  
-  [launchbox_games.json](https://raw.githubusercontent.com/xenia-manager/database/main/data/launchbox_games.json)  
-  `data/launchbox_games.json`
+- **Launchbox Database (Processed):**  
+  [games.json](https://raw.githubusercontent.com/xenia-manager/database/main/data/metadata/launchbox/games.json)  
+  `data/metadata/launchbox/games.json`
 
 - **Wikipedia List of Xbox360 Games (No longer used):**  
   [wikipedia_games.json](https://raw.githubusercontent.com/xenia-manager/database/main/data/wikipedia_games.json)  
@@ -60,8 +68,14 @@ The `data` folder contains several JSON files and subfolders, organized as follo
   All files are in JSON format, making them easy to parse in any programming language.
 
 - **Autoupdate:**  
-  The `update_database.yml` GitHub Actions workflow automatically updates game compatibility and patch data twice a day by fetching the latest information from official Xenia sources and relevant repositories.
+  The `update_database.yml` GitHub Actions workflow automatically updates `version.json` hourly, while other information is updated once per day.
 
 - **Usage:**  
   Fork the repository.
   You can fetch and use these files in your own tools, scripts, or applications.
+
+
+## Credits
+- [Launchbox (Games Metadata)](https://www.launchbox-app.com/)
+- [mdqinc (Comprehensive SDL Game Controller database)](https://github.com/mdqinc/SDL_GameControllerDB)
+- [Xenia (Emulator, their compatibility tracker & game patches)](http://xenia.jp/)
