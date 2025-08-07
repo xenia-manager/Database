@@ -1,5 +1,23 @@
 [
   {
+    "id": "5345082B",
+    "title": "Planet 51",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/808"
+  },
+  {
+    "id": "504307D1",
+    "title": "Fairytale Fights",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/807"
+  },
+  {
+    "id": "434D0806",
+    "title": "Damnation",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/806"
+  },
+  {
     "id": "41560819",
     "title": "Guitar Hero Aerosmith",
     "state": "Unknown",
