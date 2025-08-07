@@ -26,6 +26,11 @@ on:
         required: false
         default: true
         type: boolean
+      update_gamecontrollerdb:
+        description: "Update SDL GameControllerDB"
+        required: false
+        default: true
+        type: boolean
 
 env:
   XENIA_CANARY_REPO: xenia-canary/game-patches
@@ -126,6 +131,14 @@ jobs:
             scripts/game_compatibility.py
           sparse-checkout-cone-mode: false
 
+      - name: Skip if not daily schedule
+        if: github.event_name == 'schedule'
+        run: |
+          if [ "$(date -u +%H)" != "00" ]; then
+          echo "Not the daily schedule, skipping job."
+          exit 0
+          fi
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -178,6 +191,14 @@ jobs:
             data/patches/netplay.json
             data/patches/netplay.tmp
           sparse-checkout-cone-mode: false
+
+      - name: Skip if not daily schedule
+        if: github.event_name == 'schedule'
+        run: |
+          if [ "$(date -u +%H)" != "00" ]; then
+          echo "Not the daily schedule, skipping job."
+          exit 0
+          fi
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -259,7 +280,6 @@ jobs:
       github.event_name == 'schedule' ||
       (github.event_name == 'workflow_dispatch' && github.event.inputs.update_launchbox_metadata == 'true')
     runs-on: windows-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -270,6 +290,14 @@ jobs:
             data/metadata/launchbox/titles/
             scripts/launchbox_metadata.py
           sparse-checkout-cone-mode: false
+
+      - name: Skip if not daily schedule
+        if: github.event_name == 'schedule'
+        run: |
+          if [ "$(date -u +%H)" != "00" ]; then
+          echo "Not the daily schedule, skipping job."
+          exit 0
+          fi
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -304,3 +332,45 @@ jobs:
             git pull --rebase origin $env:GITHUB_REF_NAME
             git push origin $env:GITHUB_REF_NAME
           }
+
+  update-gamecontrollerdb:
+    name: Update SDL GameControllerDB
+    runs-on: ubuntu-latest
+    if: |
+      github.event_name == 'schedule' ||
+      (github.event_name == 'workflow_dispatch' && github.event.inputs.update_gamecontrollerdb == 'true')
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.COMMIT_TOKEN }}
+          sparse-checkout: |
+            data/gamecontrollerdb.txt
+          sparse-checkout-cone-mode: false
+
+      - name: Skip if not daily schedule
+        if: github.event_name == 'schedule'
+        run: |
+          if [ "$(date -u +%H)" != "00" ]; then
+          echo "Not the daily schedule, skipping job."
+          exit 0
+          fi
+
+      - name: Download gamecontrollerdb.txt
+        run: |
+          mkdir -p data
+          curl -sSL "https://raw.githubusercontent.com/mdqinc/SDL_GameControllerDB/master/gamecontrollerdb.txt" -o data/gamecontrollerdb.txt
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'xeniamanager-ci'
+          git config --global user.email '214508751+xeniamanager-ci@users.noreply.github.com'
+          git add data/gamecontrollerdb.txt
+          if git diff --cached --quiet; then
+            echo "No changes detected in gamecontrollerdb.txt"
+            exit 0
+          fi
+          git commit -m "chore: Update SDL GameControllerDB"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "${GITHUB_REF_NAME}"
