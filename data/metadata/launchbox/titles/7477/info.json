@@ -43,6 +43,15 @@
           "CRC32": "1727023134",
           "URL": "http://images.launchbox-app.com/1853ce74-328c-4aa5-b8dd-8ee8e607fb6c.jpg"
         }
+      ],
+      "Spine": [
+        {
+          "FileName": "r2_2368dd19-f8b3-49da-a34d-43418a9254bc.jpg",
+          "Type": "Box - Spine",
+          "Region": "South America",
+          "CRC32": "3441185714",
+          "URL": "http://images.launchbox-app.com/r2_2368dd19-f8b3-49da-a34d-43418a9254bc.jpg"
+        }
       ]
     },
     "Disc": [
@@ -52,14 +61,45 @@
         "Region": "Europe",
         "CRC32": "4261120033",
         "URL": "http://images.launchbox-app.com/2d0db6ae-38a3-4046-abb3-b2270a313781.png"
+      },
+      {
+        "FileName": "r2_ef259b2f-e8d5-4168-9aa6-4b29bec0625c.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1006135748",
+        "URL": "http://images.launchbox-app.com/r2_ef259b2f-e8d5-4168-9aa6-4b29bec0625c.png"
+      }
+    ],
+    "Screenshots": [
+      {
+        "FileName": "r2_2a6c61d7-f77f-4130-8b4a-62a0a73f6f9a.png",
+        "Type": "Screenshot - Game Select",
+        "Region": "World",
+        "CRC32": "1998914448",
+        "URL": "http://images.launchbox-app.com/r2_2a6c61d7-f77f-4130-8b4a-62a0a73f6f9a.png"
+      },
+      {
+        "FileName": "r2_6ab520bb-1e53-4016-8063-06d8b90ee92f.png",
+        "Type": "Screenshot - Game Title",
+        "Region": "World",
+        "CRC32": "2111501879",
+        "URL": "http://images.launchbox-app.com/r2_6ab520bb-1e53-4016-8063-06d8b90ee92f.png"
+      },
+      {
+        "FileName": "r2_50c6aae0-8a58-4006-bee8-ea2ad29a9dd7.png",
+        "Type": "Screenshot - Gameplay",
+        "Region": "World",
+        "CRC32": "4036884144",
+        "URL": "http://images.launchbox-app.com/r2_50c6aae0-8a58-4006-bee8-ea2ad29a9dd7.png"
       }
     ],
     "Other": [
       {
-        "FileName": "f8efb8d3-34cd-47f7-8b5a-2e16b0386c2f.png",
+        "FileName": "r2_45b5456b-ee4d-49e4-9a41-0693e39a1d7d.png",
         "Type": "Clear Logo",
+        "Region": "World",
         "CRC32": "3569251149",
-        "URL": "http://images.launchbox-app.com/f8efb8d3-34cd-47f7-8b5a-2e16b0386c2f.png"
+        "URL": "http://images.launchbox-app.com/r2_45b5456b-ee4d-49e4-9a41-0693e39a1d7d.png"
       }
     ]
   }

@@ -7,6 +7,15 @@
   "Genres": null,
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "FileName": "r2_95820955-11bd-4077-978b-eba606163eb8.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "1939164131",
+          "URL": "http://images.launchbox-app.com/r2_95820955-11bd-4077-978b-eba606163eb8.png"
+        }
+      ],
       "Back": [
         {
           "FileName": "1724376d-2147-4eaa-a85b-1ef689e91b3c.jpg",
