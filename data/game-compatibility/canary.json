@@ -1,5 +1,23 @@
 [
   {
+    "id": "53450845",
+    "title": "Thor: God of Thunder",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/811"
+  },
+  {
+    "id": "5841147C",
+    "title": "Life is Strange",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/810"
+  },
+  {
+    "id": "41560907",
+    "title": "Destiny (Internal Alpha)",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/809"
+  },
+  {
     "id": "5345082B",
     "title": "Planet 51",
     "state": "Unknown",
