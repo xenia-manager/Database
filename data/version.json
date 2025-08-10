@@ -1,4 +1,30 @@
 {
   "stable": "3.1.0",
-  "experimental": "2025-08-07-d12d79e"
+  "experimental": "2025-08-07-d12d79e",
+  "xenia": {
+    "canary": {
+      "tag_name": "9132035",
+      "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/9132035/xenia_canary_windows.zip"
+    },
+    "netplay": {
+      "stable": {
+        "tag_name": "v5.0.0",
+        "url": "https://github.com/AdrianCassar/xenia-canary/releases/download/v5.0.0/xenia_canary_netplay_windows.zip"
+      },
+      "nightly": {
+        "tag_name": "514263e",
+        "url": "https://nightly.link/AdrianCassar/xenia-canary/workflows/Windows_build/netplay_canary_experimental/xenia_canary_netplay_windows.zip"
+      }
+    },
+    "mousehook": {
+      "standard": {
+        "tag_name": "midhooks-sr1-improvements",
+        "url": "https://github.com/marinesciencedude/xenia-canary-mousehook/releases/download/midhooks-sr1-improvements/xenia-canary-mousehook.zip"
+      },
+      "netplay": {
+        "tag_name": "netplay-midhooks-sr1-improvements",
+        "url": "https://github.com/marinesciencedude/xenia-canary-mousehook/releases/download/netplay-midhooks-sr1-improvements/xenia_canary_netplay.zip"
+      }
+    }
+  }
 }
