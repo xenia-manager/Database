@@ -1,5 +1,23 @@
 [
   {
+    "id": "5841140D",
+    "title": "Child of Light",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/814"
+  },
+  {
+    "id": "58410AFA",
+    "title": "Beyond Good & Evil HD",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/813"
+  },
+  {
+    "id": "5841121C",
+    "title": "World Gone Sour",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/812"
+  },
+  {
     "id": "53450845",
     "title": "Thor: God of Thunder",
     "state": "Unknown",
