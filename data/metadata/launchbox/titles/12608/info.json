@@ -10,6 +10,15 @@
   "Publisher": "Electronic Arts",
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "FileName": "r2_ac94c1a2-1604-4806-8ea9-aef2a78d0bde.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "484697334",
+          "URL": "http://images.launchbox-app.com/r2_ac94c1a2-1604-4806-8ea9-aef2a78d0bde.png"
+        }
+      ],
       "Front": [
         {
           "FileName": "324dbeca-7046-4b4b-9af8-c15594dd2620.png",
@@ -19,6 +28,24 @@
           "URL": "http://images.launchbox-app.com/324dbeca-7046-4b4b-9af8-c15594dd2620.png"
         }
       ]
-    }
+    },
+    "Disc": [
+      {
+        "FileName": "r2_903a2ada-36a5-4288-a204-993cc01b6f75.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "510872853",
+        "URL": "http://images.launchbox-app.com/r2_903a2ada-36a5-4288-a204-993cc01b6f75.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "r2_126d2082-2bbb-4354-ac66-dfaa8253ba23.png",
+        "Type": "Clear Logo",
+        "Region": "North America",
+        "CRC32": "2515363882",
+        "URL": "http://images.launchbox-app.com/r2_126d2082-2bbb-4354-ac66-dfaa8253ba23.png"
+      }
+    ]
   }
 }

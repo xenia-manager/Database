@@ -10,6 +10,15 @@
   "Publisher": "Disney Interactive Studios",
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "FileName": "r2_77dba670-2284-4be2-8db7-6ab19e3ae582.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "2351767597",
+          "URL": "http://images.launchbox-app.com/r2_77dba670-2284-4be2-8db7-6ab19e3ae582.png"
+        }
+      ],
       "Front": [
         {
           "FileName": "0cf06035-1c97-4c70-828b-03d859f9b973.png",
@@ -34,6 +43,13 @@
         "Region": "Australia",
         "CRC32": "2892652684",
         "URL": "http://images.launchbox-app.com/1be4b4b1-2272-44ed-b0fd-04fad766cfca.png"
+      },
+      {
+        "FileName": "r2_c7135461-460d-457d-8254-ecccc3d1467f.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1352375081",
+        "URL": "http://images.launchbox-app.com/r2_c7135461-460d-457d-8254-ecccc3d1467f.png"
       }
     ],
     "Other": [

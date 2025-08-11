@@ -11,10 +11,10 @@
   "Artwork": {
     "Background": [
       {
-        "FileName": "9128f409-5db3-49ad-86cd-ede62c1bbb98.jpg",
+        "FileName": "4e784aa1-38f5-464c-8c9b-37cdad69c18b.png",
         "Type": "Fanart - Background",
-        "CRC32": "1037209105",
-        "URL": "http://images.launchbox-app.com/9128f409-5db3-49ad-86cd-ede62c1bbb98.jpg"
+        "CRC32": "2352751133",
+        "URL": "http://images.launchbox-app.com/4e784aa1-38f5-464c-8c9b-37cdad69c18b.png"
       },
       {
         "FileName": "4e03e8df-a218-43ec-a235-aa58b801aeb1.jpg",
@@ -77,6 +77,12 @@
         "URL": "http://images.launchbox-app.com/e8d443fe-59b3-438f-9249-41e3059c6a01.jpg"
       },
       {
+        "FileName": "9128f409-5db3-49ad-86cd-ede62c1bbb98.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1037209105",
+        "URL": "http://images.launchbox-app.com/9128f409-5db3-49ad-86cd-ede62c1bbb98.jpg"
+      },
+      {
         "FileName": "e4bed36c-ae1a-48ba-b59f-f7ccd2e241c9.jpg",
         "Type": "Fanart - Background",
         "CRC32": "3308015473",
@@ -87,12 +93,6 @@
         "Type": "Fanart - Background",
         "CRC32": "1009713453",
         "URL": "http://images.launchbox-app.com/751c1485-6782-4b30-bd24-3ca16030faf3.png"
-      },
-      {
-        "FileName": "4e784aa1-38f5-464c-8c9b-37cdad69c18b.png",
-        "Type": "Fanart - Background",
-        "CRC32": "2352751133",
-        "URL": "http://images.launchbox-app.com/4e784aa1-38f5-464c-8c9b-37cdad69c18b.png"
       },
       {
         "FileName": "81b7b6dc-bc7c-4529-9e30-2cfe0ff04d7f.png",

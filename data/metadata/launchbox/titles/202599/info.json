@@ -11,6 +11,15 @@
   "Publisher": "5pb.",
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "FileName": "r2_1a7de139-8d2a-4245-b8e7-e78a4eaa1fa1.png",
+          "Type": "Box - 3D",
+          "Region": "Japan",
+          "CRC32": "1990731035",
+          "URL": "http://images.launchbox-app.com/r2_1a7de139-8d2a-4245-b8e7-e78a4eaa1fa1.png"
+        }
+      ],
       "Back": [
         {
           "FileName": "624a7616-2ed1-48fd-a06a-88da1008e52a.jpg",
@@ -39,6 +48,15 @@
         }
       ]
     },
+    "Disc": [
+      {
+        "FileName": "r2_e8e51557-ed6d-438f-98a9-e229a7b28ec1.png",
+        "Type": "Disc",
+        "Region": "Japan",
+        "CRC32": "2371270228",
+        "URL": "http://images.launchbox-app.com/r2_e8e51557-ed6d-438f-98a9-e229a7b28ec1.png"
+      }
+    ],
     "Other": [
       {
         "FileName": "r2_3b3b6bac-1b1d-4104-b7a5-737f10e68f3c.png",

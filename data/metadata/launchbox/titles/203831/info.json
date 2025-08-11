@@ -10,6 +10,15 @@
   "Publisher": "RTL Playtainment",
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "FileName": "r2_117f6198-a7ba-4a0a-b605-cbf25c5dc6c1.png",
+          "Type": "Box - 3D",
+          "Region": "Europe",
+          "CRC32": "3403974396",
+          "URL": "http://images.launchbox-app.com/r2_117f6198-a7ba-4a0a-b605-cbf25c5dc6c1.png"
+        }
+      ],
       "Front": [
         {
           "FileName": "2dbc18ce-c3bc-43f1-89db-177d8f149e2c.png",
@@ -26,6 +35,24 @@
           "URL": "http://images.launchbox-app.com/r2_6ca163ed-d9cc-48c3-a8ac-8908eb743840.jpg"
         }
       ]
-    }
+    },
+    "Disc": [
+      {
+        "FileName": "r2_b0f378ac-431b-4e7a-993b-f1b9c03097b7.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "2944437174",
+        "URL": "http://images.launchbox-app.com/r2_b0f378ac-431b-4e7a-993b-f1b9c03097b7.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "r2_ad04bad4-ad62-4706-9003-0cddbd2276a3.png",
+        "Type": "Clear Logo",
+        "Region": "Europe",
+        "CRC32": "281761566",
+        "URL": "http://images.launchbox-app.com/r2_ad04bad4-ad62-4706-9003-0cddbd2276a3.png"
+      }
+    ]
   }
 }

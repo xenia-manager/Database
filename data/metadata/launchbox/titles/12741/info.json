@@ -12,6 +12,15 @@
   "Publisher": "Codemasters",
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "FileName": "r2_5ead9207-e0a3-4abc-915a-89fcf7ef4ca2.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "3794770238",
+          "URL": "http://images.launchbox-app.com/r2_5ead9207-e0a3-4abc-915a-89fcf7ef4ca2.png"
+        }
+      ],
       "Front": [
         {
           "FileName": "46e88d92-1d74-4f2d-ae25-f82d05ae954c.jpg",
@@ -22,6 +31,15 @@
         }
       ]
     },
+    "Disc": [
+      {
+        "FileName": "r2_768a2cba-f998-4d1f-a322-eff494585fb4.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "465498693",
+        "URL": "http://images.launchbox-app.com/r2_768a2cba-f998-4d1f-a322-eff494585fb4.png"
+      }
+    ],
     "Other": [
       {
         "FileName": "40590974-81ae-49f2-8b87-217e9c050d2b.png",

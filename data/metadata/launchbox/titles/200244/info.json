@@ -35,6 +35,24 @@
           "URL": "http://images.launchbox-app.com/38440f1a-b743-4cd4-921b-67d0002f5e46.jpg"
         }
       ]
-    }
+    },
+    "Disc": [
+      {
+        "FileName": "r2_bf550c33-4a1b-46c0-8157-8bd1fdec9226.png",
+        "Type": "Disc",
+        "Region": "Japan",
+        "CRC32": "1887338077",
+        "URL": "http://images.launchbox-app.com/r2_bf550c33-4a1b-46c0-8157-8bd1fdec9226.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "r2_839fe333-5fa1-40e5-b0d4-511e8e128da6.png",
+        "Type": "Clear Logo",
+        "Region": "Japan",
+        "CRC32": "3971727086",
+        "URL": "http://images.launchbox-app.com/r2_839fe333-5fa1-40e5-b0d4-511e8e128da6.png"
+      }
+    ]
   }
 }

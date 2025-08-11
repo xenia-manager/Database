@@ -10,6 +10,15 @@
   "Publisher": "RTL Games",
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "FileName": "r2_1e42d493-0880-45ac-9199-b92f24a75d69.png",
+          "Type": "Box - 3D",
+          "Region": "Europe",
+          "CRC32": "737601227",
+          "URL": "http://images.launchbox-app.com/r2_1e42d493-0880-45ac-9199-b92f24a75d69.png"
+        }
+      ],
       "Back": [
         {
           "FileName": "c9cd3e71-c220-46dd-8738-b15a6e340606.jpg",
@@ -44,6 +53,24 @@
           "URL": "http://images.launchbox-app.com/773e6a4b-28f8-42a6-a2c9-9241c6d25cd6.jpg"
         }
       ]
-    }
+    },
+    "Disc": [
+      {
+        "FileName": "r2_041e9837-0dab-4ebc-b5ab-a69c20bd450a.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "3044723348",
+        "URL": "http://images.launchbox-app.com/r2_041e9837-0dab-4ebc-b5ab-a69c20bd450a.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "r2_d315f4d1-7955-4d40-bc52-af95387f700f.png",
+        "Type": "Clear Logo",
+        "Region": "Europe",
+        "CRC32": "271551299",
+        "URL": "http://images.launchbox-app.com/r2_d315f4d1-7955-4d40-bc52-af95387f700f.png"
+      }
+    ]
   }
 }

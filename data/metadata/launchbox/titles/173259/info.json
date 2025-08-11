@@ -26,6 +26,15 @@
       }
     ],
     "Box": {
+      "3D": [
+        {
+          "FileName": "r2_da75bcdc-cb24-40de-9956-2d789aa346a4.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "1017651451",
+          "URL": "http://images.launchbox-app.com/r2_da75bcdc-cb24-40de-9956-2d789aa346a4.png"
+        }
+      ],
       "Back": [
         {
           "FileName": "192eaddf-7296-4574-ac17-9427963fa285.jpg",

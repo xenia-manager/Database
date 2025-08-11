@@ -7,6 +7,15 @@
   "Developer": "Synetic",
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "FileName": "r2_4b715d35-9e41-4cc3-b4b4-f007e99369d6.png",
+          "Type": "Box - 3D",
+          "Region": "Europe",
+          "CRC32": "1268701122",
+          "URL": "http://images.launchbox-app.com/r2_4b715d35-9e41-4cc3-b4b4-f007e99369d6.png"
+        }
+      ],
       "Front": [
         {
           "FileName": "22d4fdd9-8323-4ec9-8031-e85fbb39e7b9.jpg",
@@ -17,12 +26,30 @@
         }
       ]
     },
+    "Disc": [
+      {
+        "FileName": "r2_11ab817a-a43b-4974-9ae0-10952c28e87d.png",
+        "Type": "Disc",
+        "Region": "Europe",
+        "CRC32": "4122126559",
+        "URL": "http://images.launchbox-app.com/r2_11ab817a-a43b-4974-9ae0-10952c28e87d.png"
+      }
+    ],
     "Screenshots": [
       {
         "FileName": "f410f8a7-e339-4e8b-9ba6-7e5bf1ebec50.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "24476015",
         "URL": "http://images.launchbox-app.com/f410f8a7-e339-4e8b-9ba6-7e5bf1ebec50.jpg"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "r2_056d2851-24be-4114-a15e-1d2aa363a350.png",
+        "Type": "Clear Logo",
+        "Region": "Europe",
+        "CRC32": "716726978",
+        "URL": "http://images.launchbox-app.com/r2_056d2851-24be-4114-a15e-1d2aa363a350.png"
       }
     ]
   }
