@@ -3890,48 +3890,48 @@
   {
     "name": "544307D1 - DEAD OR ALIVE 4 (Rev1).patch.toml",
     "path": "patches/544307D1 - DEAD OR ALIVE 4 (Rev1).patch.toml",
-    "sha": "5cd76bb037fcc5d597c9260be8c32966fb4da903",
-    "size": 4575,
+    "sha": "9d6af0a24c71ba77debc165883bbec3eef9651f0",
+    "size": 4589,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/544307D1%20-%20DEAD%20OR%20ALIVE%204%20(Rev1).patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/544307D1%20-%20DEAD%20OR%20ALIVE%204%20(Rev1).patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/5cd76bb037fcc5d597c9260be8c32966fb4da903",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/9d6af0a24c71ba77debc165883bbec3eef9651f0",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/544307D1%20-%20DEAD%20OR%20ALIVE%204%20(Rev1).patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/544307D1%20-%20DEAD%20OR%20ALIVE%204%20(Rev1).patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/5cd76bb037fcc5d597c9260be8c32966fb4da903",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/9d6af0a24c71ba77debc165883bbec3eef9651f0",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/544307D1%20-%20DEAD%20OR%20ALIVE%204%20(Rev1).patch.toml"
     }
   },
   {
     "name": "544307D1 - DEAD OR ALIVE 4 (TU1).patch.toml",
     "path": "patches/544307D1 - DEAD OR ALIVE 4 (TU1).patch.toml",
-    "sha": "90bdd18f688c4f7bdc772636188b91c6e610ef2c",
-    "size": 4562,
+    "sha": "acd6360b06005ea26406e333e6480e04fc52ad56",
+    "size": 4576,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/544307D1%20-%20DEAD%20OR%20ALIVE%204%20(TU1).patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/544307D1%20-%20DEAD%20OR%20ALIVE%204%20(TU1).patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/90bdd18f688c4f7bdc772636188b91c6e610ef2c",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/acd6360b06005ea26406e333e6480e04fc52ad56",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/544307D1%20-%20DEAD%20OR%20ALIVE%204%20(TU1).patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/544307D1%20-%20DEAD%20OR%20ALIVE%204%20(TU1).patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/90bdd18f688c4f7bdc772636188b91c6e610ef2c",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/acd6360b06005ea26406e333e6480e04fc52ad56",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/544307D1%20-%20DEAD%20OR%20ALIVE%204%20(TU1).patch.toml"
     }
   },
   {
     "name": "544307D1 - DEAD OR ALIVE 4.patch.toml",
     "path": "patches/544307D1 - DEAD OR ALIVE 4.patch.toml",
-    "sha": "077da93ac6bc804b96341b1f666d74a4598a8983",
-    "size": 4568,
+    "sha": "b21b7d674b1092d11859535270e295ee48bbd274",
+    "size": 4582,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/544307D1%20-%20DEAD%20OR%20ALIVE%204.patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/544307D1%20-%20DEAD%20OR%20ALIVE%204.patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/077da93ac6bc804b96341b1f666d74a4598a8983",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/b21b7d674b1092d11859535270e295ee48bbd274",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/544307D1%20-%20DEAD%20OR%20ALIVE%204.patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/544307D1%20-%20DEAD%20OR%20ALIVE%204.patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/077da93ac6bc804b96341b1f666d74a4598a8983",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/b21b7d674b1092d11859535270e295ee48bbd274",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/544307D1%20-%20DEAD%20OR%20ALIVE%204.patch.toml"
     }
   },
