@@ -1,32 +1,44 @@
 [
   {
+    "id": "58410889",
+    "title": "Peggle",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/816"
+  },
+  {
+    "id": "4E4D0855",
+    "title": "Witcher 2",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/815"
+  },
+  {
     "id": "5841140D",
     "title": "Child of Light",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/814"
   },
   {
     "id": "58410AFA",
     "title": "Beyond Good & Evil HD",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/813"
   },
   {
     "id": "5841121C",
     "title": "World Gone Sour",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/812"
   },
   {
     "id": "53450845",
     "title": "Thor: God of Thunder",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/811"
   },
   {
     "id": "5841147C",
     "title": "Life is Strange",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/810"
   },
   {
@@ -38,97 +50,97 @@
   {
     "id": "5345082B",
     "title": "Planet 51",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/808"
   },
   {
     "id": "504307D1",
     "title": "Fairytale Fights",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/807"
   },
   {
     "id": "434D0806",
     "title": "Damnation",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/806"
   },
   {
     "id": "41560819",
     "title": "Guitar Hero Aerosmith",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/805"
   },
   {
     "id": "415607F7",
     "title": "Guitar Hero III Legends of Rock",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/804"
   },
   {
     "id": "584111F1",
     "title": "Sonic CD",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/803"
   },
   {
     "id": "584111F2",
     "title": "Sonic the Hedgehog 4: Episode II",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/802"
   },
   {
     "id": "58410A07",
     "title": "Sonic the Hedgehog 4: Episode I",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/801"
   },
   {
     "id": "58410B87",
     "title": "Saints Row: Money Shot",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/800"
   },
   {
     "id": "45410916",
     "title": "Alice: Madness Returns",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/799"
   },
   {
     "id": "58411488",
     "title": "Game of Thrones",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/798"
   },
   {
     "id": "5841141A",
     "title": "Contrast",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/797"
   },
   {
     "id": "584113DD",
     "title": "Poker Night 2",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/796"
   },
   {
     "id": "58411413",
     "title": "The Walking Dead: Season 2",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/795"
   },
   {
     "id": "584111DE",
     "title": "The Walking Dead",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/794"
   },
   {
     "id": "58410999",
     "title": "Sam & Max Beyond Time and Space",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/792"
   },
   {
@@ -1856,7 +1868,7 @@
   {
     "id": "58410957",
     "title": "Call of Duty Classic",
-    "state": "Loads",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/490"
   },
   {
@@ -3782,7 +3794,7 @@
   {
     "id": "454107EB",
     "title": "Madden NFL 07",
-    "state": "Loads",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/152"
   },
   {
