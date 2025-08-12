@@ -59,18 +59,16 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
+        run: python -m pip install --upgrade pip
 
       - name: Fetch Xenia versions
+        id: fetch_xenia_versions
         env:
           AUTH_TOKEN: ${{ secrets.COMMIT_TOKEN }}
         run: |
           cat > fetch_versions.py << 'EOF'
-          import json
-          import urllib.request
-          import os
-          import sys
+          import json, urllib.request, os, sys, time
+          from typing import Dict, Any
 
           GITHUB_API = "https://api.github.com/repos"
 
@@ -85,108 +83,159 @@ jobs:
                   headers["Authorization"] = f"Bearer {token}"
               req = urllib.request.Request(url, headers=headers)
               with urllib.request.urlopen(req, timeout=20) as resp:
-                  data = json.loads(resp.read())
-                  debug(f"Response received from {url} (type={type(data)})")
-                  return data
+                  return json.loads(resp.read())
 
-          # --- Xenia Manager stable/experimental (just tag string)
+          def retry_fetch(func, label):
+              for attempt in range(1, 4):
+                  result = func()
+                  if result:
+                      return result
+                  if attempt < 3:
+                      time.sleep(5)
+              return result
+
           def fetch_latest_tag_string(repo_url):
               try:
                   data = gh_get(repo_url)
-                  tag = data.get("tag_name", "unknown")
-                  debug(f"Latest tag for {repo_url} is {tag}")
-                  return tag
+                  return data.get("tag_name") or None
               except Exception as e:
                   print(f"Error fetching {repo_url}: {e}", file=sys.stderr)
-                  return "unknown"
+                  return None
 
-          # --- Canary latest with Windows asset
           def fetch_latest_canary():
               releases = gh_get(f"{GITHUB_API}/xenia-canary/xenia-canary-releases/releases")
-              debug(f"Found {len(releases)} canary releases")
+              if not releases:
+                  return {"tag_name": None, "url": None}
               for rel in releases:
-                  assets = rel.get("assets", [])
-                  win_assets = [a for a in assets if "windows" in a["name"].lower()]
-                  if win_assets:
-                      debug(f"Selected Canary release {rel['tag_name']}, Windows assets: {len(win_assets)}")
-                      return {
-                          "tag_name": rel["tag_name"],
-                          "url": win_assets[0]["browser_download_url"]
-                      }
-              debug("No Canary release with Windows asset found")
-              return {"tag_name": "unknown", "url": None}
+                  assets = [a for a in rel.get("assets", []) if "windows" in a["name"].lower()]
+                  if assets:
+                      return {"tag_name": rel.get("tag_name"), "url": assets[0].get("browser_download_url")}
+              return {"tag_name": None, "url": None}
 
-          # --- Netplay: stable & nightly
           def fetch_netplay_stable():
               rel = gh_get(f"{GITHUB_API}/AdrianCassar/xenia-canary/releases/latest")
               assets = [a for a in rel.get("assets", []) if "windows" in a["name"].lower()]
-              debug(f"Netplay stable tag: {rel.get('tag_name', 'unknown')} with {len(assets)} Windows assets")
-              return {
-                  "tag_name": rel.get("tag_name", "unknown"),
-                  "url": assets[0]["browser_download_url"] if assets else None
-              }
+              return {"tag_name": rel.get("tag_name"), "url": assets[0].get("browser_download_url") if assets else None}
 
           def fetch_netplay_nightly():
               branch = "netplay_canary_experimental"
               commit_data = gh_get(f"{GITHUB_API}/AdrianCassar/xenia-canary/commits/{branch}")
               sha = commit_data.get("sha", "")[:7]
-              debug(f"Netplay nightly commit SHA: {sha}")
-              return {
-                  "tag_name": sha or "unknown",
-                  "url": (
-                      "https://nightly.link/AdrianCassar/xenia-canary/"
-                      "workflows/Windows_build/netplay_canary_experimental/"
-                      "xenia_canary_netplay_windows.zip"
-                  )
-              }
+              return {"tag_name": sha or None, "url": "https://nightly.link/AdrianCassar/xenia-canary/workflows/Windows_build/netplay_canary_experimental/xenia_canary_netplay_windows.zip"}
 
-          # --- Mousehook: standard vs netplay
           def fetch_mousehook_versions():
               releases = gh_get(f"{GITHUB_API}/marinesciencedude/xenia-canary-mousehook/releases")
-              debug(f"Found {len(releases)} mousehook releases")
-
+              if not releases:
+                  return {"standard": {"tag_name": None, "url": None}, "netplay": {"tag_name": None, "url": None}}
               standard_rel = next((r for r in releases if "netplay" not in r["tag_name"].lower()), None)
               netplay_rel = next((r for r in releases if "netplay" in r["tag_name"].lower()), None)
-
-              def fmt(rel, label):
+              def fmt(rel):
                   if not rel:
-                      debug(f"No Mousehook release found for {label}")
-                      return {"tag_name": "unknown", "url": None}
-                  url = rel["assets"][0]["browser_download_url"] if rel.get("assets") else None
-                  debug(f"Mousehook {label} tag: {rel['tag_name']} URL: {url}")
-                  return {"tag_name": rel["tag_name"], "url": url}
+                      return {"tag_name": None, "url": None}
+                  url = rel["assets"][0].get("browser_download_url") if rel.get("assets") else None
+                  return {"tag_name": rel.get("tag_name"), "url": url}
+              return {"standard": fmt(standard_rel), "netplay": fmt(netplay_rel)}
 
-              return {
-                  "standard": fmt(standard_rel, "standard"),
-                  "netplay": fmt(netplay_rel, "netplay")
-              }
+          def load_existing_versions():
+              path = "data/version.json"
+              if os.path.exists(path):
+                  with open(path, "r", encoding="utf-8") as f:
+                      return json.load(f)
+              return {}
 
-          # --- Main execution
+          def is_valid(value):
+              invalid = {None, "null", "unknown"}
+              if isinstance(value, str):
+                  return value.strip().lower() not in invalid
+              return value is not None
+
+          def get_nested_value(data: Dict[str, Any], path: str):
+              keys = path.split('.')
+              current = data
+              for key in keys:
+                  if isinstance(current, dict) and key in current:
+                      current = current[key]
+                  else:
+                      return None
+              return current
+
+          def compare_and_track_changes(old_data: Dict[str, Any], final_data: Dict[str, Any]) -> list:
+              changes = []
+              tracked_paths = [
+                  ("stable", "Xenia Manager Stable"),
+                  ("experimental", "Xenia Manager Experimental"),
+                  ("xenia.canary.tag_name", "Xenia Canary"),
+                  ("xenia.netplay.stable.tag_name", "Xenia Netplay Stable"),
+                  ("xenia.netplay.nightly.tag_name", "Xenia Netplay Nightly"),
+                  ("xenia.mousehook.standard.tag_name", "Xenia Mousehook Standard"),
+                  ("xenia.mousehook.netplay.tag_name", "Xenia Mousehook Netplay")
+              ]
+              debug("=== Comparing changes ===")
+              for path_key, display_name in tracked_paths:
+                  old_value = get_nested_value(old_data, path_key)
+                  new_value = get_nested_value(final_data, path_key)
+                  debug(f"Path: {path_key}")
+                  debug(f"  Old: {repr(old_value)} (valid: {is_valid(old_value)})")
+                  debug(f"  New: {repr(new_value)} (valid: {is_valid(new_value)})")
+                  if old_value != new_value:
+                      if is_valid(new_value):
+                          if is_valid(old_value):
+                              changes.append(f"{display_name}: {old_value} → {new_value}")
+                              debug(f"  -> Change detected: {old_value} → {new_value}")
+                          else:
+                              changes.append(f"{display_name}: added {new_value}")
+                              debug(f"  -> New value added: {new_value}")
+                      elif is_valid(old_value):
+                          changes.append(f"{display_name}: removed {old_value}")
+                          debug(f"  -> Value removed: {old_value}")
+              debug(f"Total changes detected: {len(changes)}")
+              return changes
+
+          def merge_versions(existing, fetched):
+              for key, val in fetched.items():
+                  if isinstance(val, dict):
+                      existing[key] = merge_versions(existing.get(key, {}), val)
+                  else:
+                      if is_valid(val):
+                          existing[key] = val
+              return existing
+
           debug("=== Starting version fetch process ===")
-          data = {
-              "stable": fetch_latest_tag_string(
-                  f"{GITHUB_API}/xenia-manager/xenia-manager/releases/latest"
-              ),
-              "experimental": fetch_latest_tag_string(
-                  f"{GITHUB_API}/xenia-manager/experimental-builds/releases/latest"
-              ),
+          existing_data = load_existing_versions()
+
+          fetched_data = {
+              "stable": retry_fetch(lambda: fetch_latest_tag_string(f"{GITHUB_API}/xenia-manager/xenia-manager/releases/latest"), "Stable"),
+              "experimental": retry_fetch(lambda: fetch_latest_tag_string(f"{GITHUB_API}/xenia-manager/experimental-builds/releases/latest"), "Experimental"),
               "xenia": {
-                  "canary": fetch_latest_canary(),
+                  "canary": retry_fetch(fetch_latest_canary, "Canary"),
                   "netplay": {
-                      "stable": fetch_netplay_stable(),
-                      "nightly": fetch_netplay_nightly()
+                      "stable": retry_fetch(fetch_netplay_stable, "Netplay Stable"),
+                      "nightly": retry_fetch(fetch_netplay_nightly, "Netplay Nightly")
                   },
-                  "mousehook": fetch_mousehook_versions()
+                  "mousehook": retry_fetch(fetch_mousehook_versions, "Mousehook")
               }
           }
 
-          debug("Final JSON structure:")
-          debug(json.dumps(data, indent=2))
+          # FIX: Merge before comparing
+          merged_data = merge_versions(existing_data.copy(), fetched_data)
+          changes = compare_and_track_changes(existing_data, merged_data)
+
+          with open("version_changes.txt", "w", encoding="utf-8") as f:
+              if changes:
+                  f.write("\n".join(changes))
+              else:
+                  f.write("no_changes")
 
           with open("data/version.json", "w", encoding="utf-8") as f:
-              json.dump(data, f, indent=2)
+              json.dump(merged_data, f, indent=2)
 
-          print("Versions fetched successfully")
+          print("Updated version.json and tracked changes.")
+          if changes:
+              print("Changes detected:")
+              for change in changes:
+                  print(f"  - {change}")
+          else:
+              print("No version changes detected.")
           EOF
           python fetch_versions.py
 
@@ -199,7 +248,21 @@ jobs:
             echo "No changes detected in version.json"
             exit 0
           fi
-          git commit -m "chore: Update Xenia Manager versions"
+          if [ -f "version_changes.txt" ]; then
+            CHANGES=$(cat version_changes.txt)
+            if [ "$CHANGES" = "no_changes" ] || [ -z "$CHANGES" ]; then
+              git commit -m "chore: Update version.json (no version changes detected)"
+            else
+              {
+                echo "chore: Update versions"
+                echo ""
+                echo "$CHANGES" | sed 's/^/- /'
+              } > commit_message.txt
+              git commit -F commit_message.txt
+            fi
+          else
+            git commit -m "chore: Update versions (changes tracking failed)"
+          fi
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "${GITHUB_REF_NAME}"
 
@@ -225,8 +288,8 @@ jobs:
         if: github.event_name == 'schedule'
         run: |
           if [ "$(date -u +%H)" != "00" ]; then
-          echo "Not the daily schedule, skipping job."
-          exit 0
+            echo "Not the daily schedule, skipping job."
+            exit 0
           fi
 
       - name: Set up Python
@@ -268,7 +331,7 @@ jobs:
     runs-on: ubuntu-latest
     if: |
       (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 0')) ||
-      (github.event_name == 'workflow_dispatch' && github.event.inputs.update_gamecontrollerdb == 'true')
+      (github.event_name == 'workflow_dispatch' && github.event.inputs.update_patches == 'true')
     permissions:
       contents: write
     steps:
@@ -360,7 +423,7 @@ jobs:
     name: Update Launchbox Database Metadata
     if: |
       (github.event_name == 'schedule' && startsWith(github.event.schedule, '0 0')) ||
-      (github.event_name == 'workflow_dispatch' && github.event.inputs.update_gamecontrollerdb == 'true')
+      (github.event_name == 'workflow_dispatch' && github.event.inputs.update_launchbox_metadata == 'true')
     runs-on: windows-latest
     steps:
       - name: Checkout repository
