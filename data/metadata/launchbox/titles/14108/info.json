@@ -7,6 +7,15 @@
   "Genres": "Music",
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "FileName": "r2_a111d4d8-a19f-4c6a-98d6-a28886898769.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "4241748315",
+          "URL": "http://images.launchbox-app.com/r2_a111d4d8-a19f-4c6a-98d6-a28886898769.png"
+        }
+      ],
       "Front": [
         {
           "FileName": "46cf9953-1e8e-4b89-b427-0fcc88dd7a85.png",
@@ -15,6 +24,24 @@
           "URL": "http://images.launchbox-app.com/46cf9953-1e8e-4b89-b427-0fcc88dd7a85.png"
         }
       ]
-    }
+    },
+    "Disc": [
+      {
+        "FileName": "r2_dc8cb330-da43-4893-9ea7-608baca7fe01.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "1239961852",
+        "URL": "http://images.launchbox-app.com/r2_dc8cb330-da43-4893-9ea7-608baca7fe01.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "r2_246e0886-301c-4dcb-a9f5-c8ea845e9bb3.png",
+        "Type": "Clear Logo",
+        "Region": "North America",
+        "CRC32": "2254218476",
+        "URL": "http://images.launchbox-app.com/r2_246e0886-301c-4dcb-a9f5-c8ea845e9bb3.png"
+      }
+    ]
   }
 }

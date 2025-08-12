@@ -10,6 +10,15 @@
   "Publisher": "D3Publisher",
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "FileName": "r2_d2da3b66-2f19-4805-949b-4bf8d68bc99d.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "237782793",
+          "URL": "http://images.launchbox-app.com/r2_d2da3b66-2f19-4805-949b-4bf8d68bc99d.png"
+        }
+      ],
       "Front": [
         {
           "FileName": "34e3a31d-8f33-4c72-ac5c-5f8b6a9cce1f.jpg",
@@ -19,6 +28,24 @@
           "URL": "http://images.launchbox-app.com/34e3a31d-8f33-4c72-ac5c-5f8b6a9cce1f.jpg"
         }
       ]
-    }
+    },
+    "Disc": [
+      {
+        "FileName": "r2_044e9d07-a796-4fbd-bdb5-79bfdf0add22.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2272138368",
+        "URL": "http://images.launchbox-app.com/r2_044e9d07-a796-4fbd-bdb5-79bfdf0add22.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "r2_7458dfcc-5baa-42af-8164-e76815aa591a.png",
+        "Type": "Clear Logo",
+        "Region": "North America",
+        "CRC32": "3097182855",
+        "URL": "http://images.launchbox-app.com/r2_7458dfcc-5baa-42af-8164-e76815aa591a.png"
+      }
+    ]
   }
 }

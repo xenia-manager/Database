@@ -10,6 +10,15 @@
   "Publisher": "505 Games",
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "FileName": "r2_0ae42b4b-bd6b-4132-9316-006962ea7f33.png",
+          "Type": "Box - 3D",
+          "Region": "Japan",
+          "CRC32": "689688593",
+          "URL": "http://images.launchbox-app.com/r2_0ae42b4b-bd6b-4132-9316-006962ea7f33.png"
+        }
+      ],
       "Front": [
         {
           "FileName": "a13387fc-1aa6-4ee0-bd64-4699782e0d5f.jpg",
@@ -18,6 +27,24 @@
           "URL": "http://images.launchbox-app.com/a13387fc-1aa6-4ee0-bd64-4699782e0d5f.jpg"
         }
       ]
-    }
+    },
+    "Disc": [
+      {
+        "FileName": "r2_3b8d8246-62da-483e-8ea5-032a8be093b6.png",
+        "Type": "Disc",
+        "Region": "Japan",
+        "CRC32": "4119539889",
+        "URL": "http://images.launchbox-app.com/r2_3b8d8246-62da-483e-8ea5-032a8be093b6.png"
+      }
+    ],
+    "Other": [
+      {
+        "FileName": "r2_376d18b0-983d-4e8e-8b9e-d7c347992a64.png",
+        "Type": "Clear Logo",
+        "Region": "Japan",
+        "CRC32": "3127181742",
+        "URL": "http://images.launchbox-app.com/r2_376d18b0-983d-4e8e-8b9e-d7c347992a64.png"
+      }
+    ]
   }
 }

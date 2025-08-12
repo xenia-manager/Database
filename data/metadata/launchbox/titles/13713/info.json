@@ -9,6 +9,15 @@
   "Publisher": "THQ",
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "FileName": "r2_3925b4ab-77cd-42da-aa67-330fad465cf8.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "1896939454",
+          "URL": "http://images.launchbox-app.com/r2_3925b4ab-77cd-42da-aa67-330fad465cf8.png"
+        }
+      ],
       "Front": [
         {
           "FileName": "84c90fd9-c71a-407c-98cc-65e6aef80830.jpg",
@@ -18,7 +27,23 @@
         }
       ]
     },
+    "Disc": [
+      {
+        "FileName": "r2_71f56be8-f272-4d2c-b725-5f64d6c19307.png",
+        "Type": "Disc",
+        "Region": "North America",
+        "CRC32": "2726514603",
+        "URL": "http://images.launchbox-app.com/r2_71f56be8-f272-4d2c-b725-5f64d6c19307.png"
+      }
+    ],
     "Other": [
+      {
+        "FileName": "r2_4438b148-c8a9-4e9b-a49e-6d34979f5976.png",
+        "Type": "Clear Logo",
+        "Region": "North America",
+        "CRC32": "4051834688",
+        "URL": "http://images.launchbox-app.com/r2_4438b148-c8a9-4e9b-a49e-6d34979f5976.png"
+      },
       {
         "FileName": "530bb73e-e158-4e73-a69c-3e58f082802d.png",
         "Type": "Clear Logo",

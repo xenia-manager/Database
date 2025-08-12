@@ -26,6 +26,15 @@
       }
     ],
     "Box": {
+      "3D": [
+        {
+          "FileName": "r2_6b11ae58-92cc-457f-9a47-105d1c65b70c.png",
+          "Type": "Box - 3D",
+          "Region": "Japan",
+          "CRC32": "2372481177",
+          "URL": "http://images.launchbox-app.com/r2_6b11ae58-92cc-457f-9a47-105d1c65b70c.png"
+        }
+      ],
       "Back": [
         {
           "FileName": "47b591a9-5a19-477a-b904-39c7dc6391a9.jpg",
@@ -54,6 +63,15 @@
         }
       ]
     },
+    "Disc": [
+      {
+        "FileName": "r2_aa0cacad-d65e-467e-b17e-e85022fa5045.png",
+        "Type": "Disc",
+        "Region": "Japan",
+        "CRC32": "824626752",
+        "URL": "http://images.launchbox-app.com/r2_aa0cacad-d65e-467e-b17e-e85022fa5045.png"
+      }
+    ],
     "Screenshots": [
       {
         "FileName": "db1373e1-bd3c-4b5c-9be4-aea2fdfe64c1.jpg",
