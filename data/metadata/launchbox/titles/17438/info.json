@@ -11,6 +11,15 @@
   "Publisher": "Tecmo Koei America",
   "Artwork": {
     "Box": {
+      "3D": [
+        {
+          "FileName": "r2_9340d71f-a9cf-4ebb-99e3-7cd5cac45376.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "258260055",
+          "URL": "http://images.launchbox-app.com/r2_9340d71f-a9cf-4ebb-99e3-7cd5cac45376.png"
+        }
+      ],
       "Back": [
         {
           "FileName": "08326429-2674-485e-8f49-60a32e4ecb96.jpg",
@@ -71,10 +80,11 @@
     ],
     "Other": [
       {
-        "FileName": "003636b3-43cf-4b10-9da5-cb617011618e.png",
+        "FileName": "r2_f60f5ae4-672b-4ecf-ac2d-4e5658454b09.png",
         "Type": "Clear Logo",
+        "Region": "North America",
         "CRC32": "2981608958",
-        "URL": "http://images.launchbox-app.com/003636b3-43cf-4b10-9da5-cb617011618e.png"
+        "URL": "http://images.launchbox-app.com/r2_f60f5ae4-672b-4ecf-ac2d-4e5658454b09.png"
       }
     ]
   }
