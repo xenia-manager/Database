@@ -1,5 +1,11 @@
 [
   {
+    "id": "415607D6",
+    "title": "Quake 2 (Quake 4 Bonus Content)",
+    "state": "Gameplay",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/817"
+  },
+  {
     "id": "58410889",
     "title": "Peggle",
     "state": "Unknown",
@@ -8,7 +14,7 @@
   {
     "id": "4E4D0855",
     "title": "Witcher 2",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/815"
   },
   {
@@ -2210,7 +2216,7 @@
   {
     "id": "5841124B",
     "title": "The Expendables 2 Videogame",
-    "state": "Loads",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/430"
   },
   {
@@ -2228,7 +2234,7 @@
   {
     "id": "58411403",
     "title": "Marlow Briggs and the Mask of Death",
-    "state": "Loads",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/427"
   },
   {
@@ -3254,7 +3260,7 @@
   {
     "id": "5841095A",
     "title": "Trials HD",
-    "state": "Unplayable",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/253"
   },
   {
@@ -3926,7 +3932,7 @@
   {
     "id": "4B4E0841",
     "title": "Jimmie Johnson's Anything with an Engine",
-    "state": "Loads",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/126"
   },
   {
