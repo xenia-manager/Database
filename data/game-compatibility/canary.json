@@ -1334,7 +1334,7 @@
   {
     "id": "41560891",
     "title": "Bakugan DOTC",
-    "state": "Loads",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/585"
   },
   {
@@ -4412,7 +4412,7 @@
   {
     "id": "485507D4",
     "title": "Fuzion Frenzy 2",
-    "state": "Unplayable",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/10"
   },
   {
