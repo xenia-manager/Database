@@ -1,5 +1,11 @@
 [
   {
+    "id": "58410A25",
+    "title": "Sonic Adventure",
+    "state": "Loads",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/818"
+  },
+  {
     "id": "415607D6",
     "title": "Quake 2 (Quake 4 Bonus Content)",
     "state": "Gameplay",
