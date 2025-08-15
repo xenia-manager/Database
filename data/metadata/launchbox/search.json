@@ -4476,10 +4476,6 @@
     "DatabaseID": "7528"
   },
   {
-    "Name": "Madden NFL 09 20th Anniversary Collectors Edition",
-    "DatabaseID": "131625"
-  },
-  {
     "Name": "Madden NFL 10",
     "DatabaseID": "15102"
   },
@@ -4514,6 +4510,10 @@
   {
     "Name": "Madden NFL Arcade",
     "DatabaseID": "15830"
+  },
+  {
+    "Name": "Madden NFL: XX Years Collector's Edition",
+    "DatabaseID": "131625"
   },
   {
     "Name": "Mad Riders",
