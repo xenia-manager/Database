@@ -1,5 +1,17 @@
 [
   {
+    "id": "534507F1",
+    "title": "The Incredible Hulk",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/820"
+  },
+  {
+    "id": "4B4D07DF",
+    "title": "Dead Island",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/819"
+  },
+  {
     "id": "58410A25",
     "title": "Sonic Adventure",
     "state": "Loads",
@@ -3368,7 +3380,7 @@
   {
     "id": "415608EC",
     "title": "Deadpool",
-    "state": "Playable",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/233"
   },
   {
