@@ -78,16 +78,60 @@ jobs:
             exit 0
           fi
 
-          echo "Detected changes:"
-          git diff --cached --unified=0 data/version.json | grep '^[+-]' | grep -v '^[+-]{' || true
+          # Extract old and new version.json for diff
+          OLD_FILE=$(mktemp)
+          NEW_FILE=$(mktemp)
+          git show HEAD:data/version.json 2>/dev/null > $OLD_FILE || echo '{}' > $OLD_FILE
+          cat data/version.json > $NEW_FILE
 
-          {
-            echo "chore: Update versions"
-            echo ""
-            echo "Changes in data/version.json:"
-            # Grab just the +/- diffs in the JSON (ignoring diff hunk headers `{` etc)
-            git diff --cached --unified=0 data/version.json | grep '^[+-]' | grep -v '^[+-]{' || echo " (could not parse changes)"
-          } > commit_message.txt
+          # Generate semantic commit message
+          python - "$OLD_FILE" "$NEW_FILE" > commit_message.txt <<'EOF'
+          import json, sys
+
+          labels = {
+            "stable": "Xenia Manager Stable",
+            "experimental": "Xenia Manager Experimental",
+            "xenia.canary.tag_name": "Xenia Canary",
+            "xenia.netplay.stable.tag_name": "Xenia Netplay Stable",
+            "xenia.netplay.nightly.tag_name": "Xenia Netplay Nightly",
+            "xenia.mousehook.standard.tag_name": "Xenia Mousehook Standard",
+            "xenia.mousehook.netplay.tag_name": "Xenia Mousehook Netplay",
+          }
+
+          def get_nested(data, path):
+              cur = data
+              for p in path.split('.'):
+                  if isinstance(cur, dict) and p in cur:
+                      cur = cur[p]
+                  else:
+                      return None
+              return cur
+
+          with open(sys.argv[1]) as f:
+              old = json.load(f)
+          with open(sys.argv[2]) as f:
+              new = json.load(f)
+
+          changes = []
+          for path,label in labels.items():
+              before = get_nested(old, path)
+              after = get_nested(new, path)
+              if before != after and after:
+                  if before:
+                      changes.append(f"{label}: {before} → {after}")
+                  else:
+                      changes.append(f"{label}: added {after}")
+
+          if not changes:
+              print("chore: Update versions\n\n(no semantic version changes detected)")
+          else:
+              print("chore: Update versions\n")
+              for c in changes:
+                  print(f"- {c}")
+          EOF
+
+          echo "Generated commit message:"
+          cat commit_message.txt
 
           git commit -F commit_message.txt
           git pull --rebase origin "${GITHUB_REF_NAME}"
