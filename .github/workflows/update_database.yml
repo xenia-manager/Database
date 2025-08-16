@@ -51,6 +51,7 @@ jobs:
           token: ${{ secrets.COMMIT_TOKEN }}
           sparse-checkout: |
             data/version.json
+            scripts/update_versions.py
           sparse-checkout-cone-mode: false
 
       - name: Set up Python
@@ -65,179 +66,7 @@ jobs:
         id: fetch_xenia_versions
         env:
           AUTH_TOKEN: ${{ secrets.COMMIT_TOKEN }}
-        run: |
-          cat > fetch_versions.py << 'EOF'
-          import json, urllib.request, os, sys, time
-          from typing import Dict, Any
-
-          GITHUB_API = "https://api.github.com/repos"
-
-          def debug(msg):
-              print(f"[DEBUG] {msg}", file=sys.stderr)
-
-          def gh_get(url):
-              debug(f"Requesting: {url}")
-              headers = {"User-Agent": "github-actions", "Accept": "application/vnd.github+json"}
-              token = os.environ.get("AUTH_TOKEN")
-              if token:
-                  headers["Authorization"] = f"Bearer {token}"
-              req = urllib.request.Request(url, headers=headers)
-              with urllib.request.urlopen(req, timeout=20) as resp:
-                  return json.loads(resp.read())
-
-          def retry_fetch(func, label):
-              for attempt in range(1, 4):
-                  result = func()
-                  if result:
-                      return result
-                  if attempt < 3:
-                      time.sleep(5)
-              return result
-
-          def fetch_latest_tag_string(repo_url):
-              try:
-                  data = gh_get(repo_url)
-                  return data.get("tag_name") or None
-              except Exception as e:
-                  print(f"Error fetching {repo_url}: {e}", file=sys.stderr)
-                  return None
-
-          def fetch_latest_canary():
-              releases = gh_get(f"{GITHUB_API}/xenia-canary/xenia-canary-releases/releases")
-              if not releases:
-                  return {"tag_name": None, "url": None}
-              for rel in releases:
-                  assets = [a for a in rel.get("assets", []) if "windows" in a["name"].lower()]
-                  if assets:
-                      return {"tag_name": rel.get("tag_name"), "url": assets[0].get("browser_download_url")}
-              return {"tag_name": None, "url": None}
-
-          def fetch_netplay_stable():
-              rel = gh_get(f"{GITHUB_API}/AdrianCassar/xenia-canary/releases/latest")
-              assets = [a for a in rel.get("assets", []) if "windows" in a["name"].lower()]
-              return {"tag_name": rel.get("tag_name"), "url": assets[0].get("browser_download_url") if assets else None}
-
-          def fetch_netplay_nightly():
-              branch = "netplay_canary_experimental"
-              commit_data = gh_get(f"{GITHUB_API}/AdrianCassar/xenia-canary/commits/{branch}")
-              sha = commit_data.get("sha", "")[:7]
-              return {"tag_name": sha or None, "url": "https://nightly.link/AdrianCassar/xenia-canary/workflows/Windows_build/netplay_canary_experimental/xenia_canary_netplay_windows.zip"}
-
-          def fetch_mousehook_versions():
-              releases = gh_get(f"{GITHUB_API}/marinesciencedude/xenia-canary-mousehook/releases")
-              if not releases:
-                  return {"standard": {"tag_name": None, "url": None}, "netplay": {"tag_name": None, "url": None}}
-              standard_rel = next((r for r in releases if "netplay" not in r["tag_name"].lower()), None)
-              netplay_rel = next((r for r in releases if "netplay" in r["tag_name"].lower()), None)
-              def fmt(rel):
-                  if not rel:
-                      return {"tag_name": None, "url": None}
-                  url = rel["assets"][0].get("browser_download_url") if rel.get("assets") else None
-                  return {"tag_name": rel.get("tag_name"), "url": url}
-              return {"standard": fmt(standard_rel), "netplay": fmt(netplay_rel)}
-
-          def load_existing_versions():
-              path = "data/version.json"
-              if os.path.exists(path):
-                  with open(path, "r", encoding="utf-8") as f:
-                      return json.load(f)
-              return {}
-
-          def is_valid(value):
-              invalid = {None, "null", "unknown"}
-              if isinstance(value, str):
-                  return value.strip().lower() not in invalid
-              return value is not None
-
-          def get_nested_value(data: Dict[str, Any], path: str):
-              keys = path.split('.')
-              current = data
-              for key in keys:
-                  if isinstance(current, dict) and key in current:
-                      current = current[key]
-                  else:
-                      return None
-              return current
-
-          def compare_and_track_changes(old_data: Dict[str, Any], final_data: Dict[str, Any]) -> list:
-              changes = []
-              tracked_paths = [
-                  ("stable", "Xenia Manager Stable"),
-                  ("experimental", "Xenia Manager Experimental"),
-                  ("xenia.canary.tag_name", "Xenia Canary"),
-                  ("xenia.netplay.stable.tag_name", "Xenia Netplay Stable"),
-                  ("xenia.netplay.nightly.tag_name", "Xenia Netplay Nightly"),
-                  ("xenia.mousehook.standard.tag_name", "Xenia Mousehook Standard"),
-                  ("xenia.mousehook.netplay.tag_name", "Xenia Mousehook Netplay")
-              ]
-              debug("=== Comparing changes ===")
-              for path_key, display_name in tracked_paths:
-                  old_value = get_nested_value(old_data, path_key)
-                  new_value = get_nested_value(final_data, path_key)
-                  debug(f"Path: {path_key}")
-                  debug(f"  Old: {repr(old_value)} (valid: {is_valid(old_value)})")
-                  debug(f"  New: {repr(new_value)} (valid: {is_valid(new_value)})")
-                  if old_value != new_value:
-                      if is_valid(new_value):
-                          if is_valid(old_value):
-                              changes.append(f"{display_name}: {old_value} → {new_value}")
-                              debug(f"  -> Change detected: {old_value} → {new_value}")
-                          else:
-                              changes.append(f"{display_name}: added {new_value}")
-                              debug(f"  -> New value added: {new_value}")
-                      elif is_valid(old_value):
-                          changes.append(f"{display_name}: removed {old_value}")
-                          debug(f"  -> Value removed: {old_value}")
-              debug(f"Total changes detected: {len(changes)}")
-              return changes
-
-          def merge_versions(existing, fetched):
-              for key, val in fetched.items():
-                  if isinstance(val, dict):
-                      existing[key] = merge_versions(existing.get(key, {}), val)
-                  else:
-                      if is_valid(val):
-                          existing[key] = val
-              return existing
-
-          debug("=== Starting version fetch process ===")
-          existing_data = load_existing_versions()
-
-          fetched_data = {
-              "stable": retry_fetch(lambda: fetch_latest_tag_string(f"{GITHUB_API}/xenia-manager/xenia-manager/releases/latest"), "Stable"),
-              "experimental": retry_fetch(lambda: fetch_latest_tag_string(f"{GITHUB_API}/xenia-manager/experimental-builds/releases/latest"), "Experimental"),
-              "xenia": {
-                  "canary": retry_fetch(fetch_latest_canary, "Canary"),
-                  "netplay": {
-                      "stable": retry_fetch(fetch_netplay_stable, "Netplay Stable"),
-                      "nightly": retry_fetch(fetch_netplay_nightly, "Netplay Nightly")
-                  },
-                  "mousehook": retry_fetch(fetch_mousehook_versions, "Mousehook")
-              }
-          }
-
-          # FIX: Merge before comparing
-          merged_data = merge_versions(existing_data.copy(), fetched_data)
-          changes = compare_and_track_changes(existing_data, merged_data)
-
-          with open("version_changes.txt", "w", encoding="utf-8") as f:
-              if changes:
-                  f.write("\n".join(changes))
-              else:
-                  f.write("no_changes")
-
-          with open("data/version.json", "w", encoding="utf-8") as f:
-              json.dump(merged_data, f, indent=2)
-
-          print("Updated version.json and tracked changes.")
-          if changes:
-              print("Changes detected:")
-              for change in changes:
-                  print(f"  - {change}")
-          else:
-              print("No version changes detected.")
-          EOF
-          python fetch_versions.py
+        run: python scripts/update_versions.py
 
       - name: Commit and push changes
         run: |
@@ -248,21 +77,19 @@ jobs:
             echo "No changes detected in version.json"
             exit 0
           fi
-          if [ -f "version_changes.txt" ]; then
-            CHANGES=$(cat version_changes.txt)
-            if [ "$CHANGES" = "no_changes" ] || [ -z "$CHANGES" ]; then
-              git commit -m "chore: Update version.json (no version changes detected)"
-            else
-              {
-                echo "chore: Update versions"
-                echo ""
-                echo "$CHANGES" | sed 's/^/- /'
-              } > commit_message.txt
-              git commit -F commit_message.txt
-            fi
-          else
-            git commit -m "chore: Update versions (changes tracking failed)"
-          fi
+
+          echo "Detected changes:"
+          git diff --cached --unified=0 data/version.json | grep '^[+-]' | grep -v '^[+-]{' || true
+
+          {
+            echo "chore: Update versions"
+            echo ""
+            echo "Changes in data/version.json:"
+            # Grab just the +/- diffs in the JSON (ignoring diff hunk headers `{` etc)
+            git diff --cached --unified=0 data/version.json | grep '^[+-]' | grep -v '^[+-]{' || echo " (could not parse changes)"
+          } > commit_message.txt
+
+          git commit -F commit_message.txt
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "${GITHUB_REF_NAME}"
 
