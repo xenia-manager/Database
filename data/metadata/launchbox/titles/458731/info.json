@@ -1,5 +1,18 @@
 {
   "Name": "fifa 19",
   "DatabaseID": "458731",
-  "Genres": null
+  "Genres": null,
+  "Artwork": {
+    "Box": {
+      "Front": [
+        {
+          "FileName": "r2_e42d701d-ca3b-4b84-bd80-07728be2f8c3.png",
+          "Type": "Box - Front",
+          "Region": "Europe",
+          "CRC32": "1587193630",
+          "URL": "http://images.launchbox-app.com/r2_e42d701d-ca3b-4b84-bd80-07728be2f8c3.png"
+        }
+      ]
+    }
+  }
 }
