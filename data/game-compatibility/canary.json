@@ -1,11 +1,5 @@
 [
   {
-    "id": "TITLE ID",
-    "title": "NAME (ie 4D5307E6 - Halo 3)",
-    "state": "Unknown",
-    "url": "https://github.com/xenia-canary/game-compatibility/issues/822"
-  },
-  {
     "id": "EA SPORTS",
     "title": "MMA - 454108FC",
     "state": "Unknown",
