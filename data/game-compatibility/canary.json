@@ -1,5 +1,17 @@
 [
   {
+    "id": "425307F5",
+    "title": "Wolfenstein: The New Order",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/824"
+  },
+  {
+    "id": "425307EC",
+    "title": "Rage",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/823"
+  },
+  {
     "id": "EA SPORTS",
     "title": "MMA - 454108FC",
     "state": "Unknown",
