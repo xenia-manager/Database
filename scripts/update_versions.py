@@ -56,6 +56,11 @@ def fetch_latest_canary():
     debug(f"Fetching latest release for {repo}")
     try:
         latest = gh_get(f"{GITHUB_API}/{repo}/releases/latest")
+        tag = latest.get("tag_name", "").lower()
+        if "canary_experimental" in tag:
+            debug(f"Skipping latest release because it's default experimental tag: {tag}")
+            raise Exception("Default experimental release tag, fallback to all releases")
+        
         assets = [a for a in latest.get("assets", []) if "windows" in a["name"].lower()]
         if assets:
             asset = assets[0]
@@ -83,6 +88,11 @@ def fetch_latest_canary():
     )
 
     for rel in releases:
+        tag = rel.get("tag_name", "").lower()
+        if "canary_experimental" in tag:
+            debug(f"Skipping experimental release: {tag}")
+            continue
+        
         assets = [a for a in rel.get("assets", []) if "windows" in a["name"].lower()]
         if assets:
             asset = assets[0]
