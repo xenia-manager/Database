@@ -3,8 +3,8 @@
   "experimental": "2025-08-17-a01982e",
   "xenia": {
     "canary": {
-      "tag_name": "canary_experimental",
-      "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/canary_experimental/xenia_canary_windows.zip"
+      "tag_name": "e66028f",
+      "url": "https://github.com/xenia-canary/xenia-canary-releases/releases/download/e66028f/xenia_canary_windows.zip"
     },
     "netplay": {
       "stable": {
