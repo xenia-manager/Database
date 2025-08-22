@@ -1,5 +1,17 @@
 [
   {
+    "id": "475007D5",
+    "title": "Velvet Assassin",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/826"
+  },
+  {
+    "id": "434D080D",
+    "title": "Fuel",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/825"
+  },
+  {
     "id": "425307F5",
     "title": "Wolfenstein: The New Order",
     "state": "Unknown",
