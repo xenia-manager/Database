@@ -2112,6 +2112,102 @@
     }
   },
   {
+    "name": "4B4D07DF - Dead Island (GOTY).patch.toml",
+    "path": "patches/4B4D07DF - Dead Island (GOTY).patch.toml",
+    "sha": "b3cc7cf24c64644adb32bfe77627271f6df20cb8",
+    "size": 647,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4B4D07DF%20-%20Dead%20Island%20(GOTY).patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/4B4D07DF%20-%20Dead%20Island%20(GOTY).patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/b3cc7cf24c64644adb32bfe77627271f6df20cb8",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/4B4D07DF%20-%20Dead%20Island%20(GOTY).patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4B4D07DF%20-%20Dead%20Island%20(GOTY).patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/b3cc7cf24c64644adb32bfe77627271f6df20cb8",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/4B4D07DF%20-%20Dead%20Island%20(GOTY).patch.toml"
+    }
+  },
+  {
+    "name": "4B4D07DF - Dead Island (TU2).patch.toml",
+    "path": "patches/4B4D07DF - Dead Island (TU2).patch.toml",
+    "sha": "5ac0d5d4ad03e839f2c7b15f1cea59d4939d1622",
+    "size": 626,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4B4D07DF%20-%20Dead%20Island%20(TU2).patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/4B4D07DF%20-%20Dead%20Island%20(TU2).patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/5ac0d5d4ad03e839f2c7b15f1cea59d4939d1622",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/4B4D07DF%20-%20Dead%20Island%20(TU2).patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4B4D07DF%20-%20Dead%20Island%20(TU2).patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/5ac0d5d4ad03e839f2c7b15f1cea59d4939d1622",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/4B4D07DF%20-%20Dead%20Island%20(TU2).patch.toml"
+    }
+  },
+  {
+    "name": "4B4D07DF - Dead Island.patch.toml",
+    "path": "patches/4B4D07DF - Dead Island.patch.toml",
+    "sha": "4be6c34853904f161120d2f93a6738611e20c797",
+    "size": 620,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4B4D07DF%20-%20Dead%20Island.patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/4B4D07DF%20-%20Dead%20Island.patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/4be6c34853904f161120d2f93a6738611e20c797",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/4B4D07DF%20-%20Dead%20Island.patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4B4D07DF%20-%20Dead%20Island.patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/4be6c34853904f161120d2f93a6738611e20c797",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/4B4D07DF%20-%20Dead%20Island.patch.toml"
+    }
+  },
+  {
+    "name": "4B4D07F2 - Dead Island Riptide (Complete Edition).patch.toml",
+    "path": "patches/4B4D07F2 - Dead Island Riptide (Complete Edition).patch.toml",
+    "sha": "48c513ecc234f89ac3dd64ead1c20c7e114bcba6",
+    "size": 644,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4B4D07F2%20-%20Dead%20Island%20Riptide%20(Complete%20Edition).patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/4B4D07F2%20-%20Dead%20Island%20Riptide%20(Complete%20Edition).patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/48c513ecc234f89ac3dd64ead1c20c7e114bcba6",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/4B4D07F2%20-%20Dead%20Island%20Riptide%20(Complete%20Edition).patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4B4D07F2%20-%20Dead%20Island%20Riptide%20(Complete%20Edition).patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/48c513ecc234f89ac3dd64ead1c20c7e114bcba6",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/4B4D07F2%20-%20Dead%20Island%20Riptide%20(Complete%20Edition).patch.toml"
+    }
+  },
+  {
+    "name": "4B4D07F2 - Dead Island Riptide (TU2).patch.toml",
+    "path": "patches/4B4D07F2 - Dead Island Riptide (TU2).patch.toml",
+    "sha": "6738bbdbf6bd6462080a79839d7cfacc7457f65b",
+    "size": 635,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4B4D07F2%20-%20Dead%20Island%20Riptide%20(TU2).patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/4B4D07F2%20-%20Dead%20Island%20Riptide%20(TU2).patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/6738bbdbf6bd6462080a79839d7cfacc7457f65b",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/4B4D07F2%20-%20Dead%20Island%20Riptide%20(TU2).patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4B4D07F2%20-%20Dead%20Island%20Riptide%20(TU2).patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/6738bbdbf6bd6462080a79839d7cfacc7457f65b",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/4B4D07F2%20-%20Dead%20Island%20Riptide%20(TU2).patch.toml"
+    }
+  },
+  {
+    "name": "4B4D07F2 - Dead Island Riptide.patch.toml",
+    "path": "patches/4B4D07F2 - Dead Island Riptide.patch.toml",
+    "sha": "f8229119cd2ee5ef231a15c257a0d2b527ff7795",
+    "size": 629,
+    "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4B4D07F2%20-%20Dead%20Island%20Riptide.patch.toml?ref=main",
+    "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/4B4D07F2%20-%20Dead%20Island%20Riptide.patch.toml",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/f8229119cd2ee5ef231a15c257a0d2b527ff7795",
+    "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/4B4D07F2%20-%20Dead%20Island%20Riptide.patch.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4B4D07F2%20-%20Dead%20Island%20Riptide.patch.toml?ref=main",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/f8229119cd2ee5ef231a15c257a0d2b527ff7795",
+      "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/4B4D07F2%20-%20Dead%20Island%20Riptide.patch.toml"
+    }
+  },
+  {
     "name": "4B4E0802 - Saw.patch.toml",
     "path": "patches/4B4E0802 - Saw.patch.toml",
     "sha": "2265d4ca728a0711a6b28d0142b0940f07ec654a",
@@ -3058,32 +3154,32 @@
   {
     "name": "4D530A26 - Gears of War Judgment (TU4).patch.toml",
     "path": "patches/4D530A26 - Gears of War Judgment (TU4).patch.toml",
-    "sha": "ad372feb1b22de59603d26c3d9b303b544206308",
-    "size": 2942,
+    "sha": "c16ebe32193527b5c2c776d3ebf5c3e1450837f0",
+    "size": 3455,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4D530A26%20-%20Gears%20of%20War%20Judgment%20(TU4).patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/4D530A26%20-%20Gears%20of%20War%20Judgment%20(TU4).patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/ad372feb1b22de59603d26c3d9b303b544206308",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/c16ebe32193527b5c2c776d3ebf5c3e1450837f0",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/4D530A26%20-%20Gears%20of%20War%20Judgment%20(TU4).patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4D530A26%20-%20Gears%20of%20War%20Judgment%20(TU4).patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/ad372feb1b22de59603d26c3d9b303b544206308",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/c16ebe32193527b5c2c776d3ebf5c3e1450837f0",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/4D530A26%20-%20Gears%20of%20War%20Judgment%20(TU4).patch.toml"
     }
   },
   {
     "name": "4D530A26 - Gears of War Judgment.patch.toml",
     "path": "patches/4D530A26 - Gears of War Judgment.patch.toml",
-    "sha": "c6f7e93de1c45cdd4b1557b79c1bdc7362df21cf",
-    "size": 3075,
+    "sha": "b34ed64ef0007b56eeea82abfd4296553d64baa5",
+    "size": 3588,
     "url": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4D530A26%20-%20Gears%20of%20War%20Judgment.patch.toml?ref=main",
     "html_url": "https://github.com/xenia-canary/game-patches/blob/main/patches/4D530A26%20-%20Gears%20of%20War%20Judgment.patch.toml",
-    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/c6f7e93de1c45cdd4b1557b79c1bdc7362df21cf",
+    "git_url": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/b34ed64ef0007b56eeea82abfd4296553d64baa5",
     "download_url": "https://raw.githubusercontent.com/xenia-canary/game-patches/main/patches/4D530A26%20-%20Gears%20of%20War%20Judgment.patch.toml",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/xenia-canary/game-patches/contents/patches/4D530A26%20-%20Gears%20of%20War%20Judgment.patch.toml?ref=main",
-      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/c6f7e93de1c45cdd4b1557b79c1bdc7362df21cf",
+      "git": "https://api.github.com/repos/xenia-canary/game-patches/git/blobs/b34ed64ef0007b56eeea82abfd4296553d64baa5",
       "html": "https://github.com/xenia-canary/game-patches/blob/main/patches/4D530A26%20-%20Gears%20of%20War%20Judgment.patch.toml"
     }
   },
