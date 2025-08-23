@@ -1,5 +1,29 @@
 [
   {
+    "id": "5841149F",
+    "title": "Goosebumps: The Game",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/830"
+  },
+  {
+    "id": "44500807",
+    "title": "Adventure Time: Explore the Dungeon Because I DON'T KNOW!",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/829"
+  },
+  {
+    "id": "584113C6",
+    "title": "DuckTales: Remastered (XBLA)",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/828"
+  },
+  {
+    "id": "4343083F",
+    "title": "DuckTales: Remastered (Disc)",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/827"
+  },
+  {
     "id": "475007D5",
     "title": "Velvet Assassin",
     "state": "Unknown",
