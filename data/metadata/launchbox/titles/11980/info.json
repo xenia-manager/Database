@@ -45,16 +45,16 @@
         "URL": "http://images.launchbox-app.com/d4894c78-43e2-4fbd-baf1-2b83c72159e8.jpg"
       },
       {
-        "FileName": "d6d4e495-443d-4f66-b670-67056aae8350.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "1259593824",
-        "URL": "http://images.launchbox-app.com/d6d4e495-443d-4f66-b670-67056aae8350.jpg"
-      },
-      {
         "FileName": "9ce80890-07dd-438c-9e15-dcf4cb5ddebc.jpg",
         "Type": "Fanart - Background",
         "CRC32": "3581160789",
         "URL": "http://images.launchbox-app.com/9ce80890-07dd-438c-9e15-dcf4cb5ddebc.jpg"
+      },
+      {
+        "FileName": "d6d4e495-443d-4f66-b670-67056aae8350.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "1259593824",
+        "URL": "http://images.launchbox-app.com/d6d4e495-443d-4f66-b670-67056aae8350.jpg"
       }
     ],
     "Box": {
