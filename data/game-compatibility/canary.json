@@ -1,5 +1,41 @@
 [
   {
+    "id": "425607D9",
+    "title": "Pure",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/836"
+  },
+  {
+    "id": "4C5307EB",
+    "title": "WRC 2",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/835"
+  },
+  {
+    "id": "573607DD",
+    "title": "WRC 4: FIA World Rally Championship",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/834"
+  },
+  {
+    "id": "4C5307F3",
+    "title": "WRC 3: FIA World Rally Championship",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/833"
+  },
+  {
+    "id": "524C07D9",
+    "title": "Crash Time 3",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/832"
+  },
+  {
+    "id": "445407D9",
+    "title": "Crash Time 4",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/831"
+  },
+  {
     "id": "5841149F",
     "title": "Goosebumps: The Game",
     "state": "Unknown",
