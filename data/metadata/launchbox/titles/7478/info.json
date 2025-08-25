@@ -4,7 +4,7 @@
   "ReleaseDate": "2007-05-29T00:00:00+00:00",
   "Overview": "Forza Motorsport 2 is the sequel to the original racing game Forza Motorsport. There is more focus on circuit racing and the point-to-point races have been removed.\n\nThere are 12 tracks in 47 different configurations (both fictional and existing) and over 300 cars with a unique feel that can be modified to the smallest details, mechanical and cosmetic. Cars are classified as Production Cars or Race Cars divided over different classes. Every mechanical part influences the car behaviour and sound, stressing the focus on realism. There are 3 settings: Simulation (large impact of crashes), Limited (light crashes and only a small amount of damage) and Cosmetic (only visible damage, not affecting the car's performance).\n\nThe game modes include a career mode with different classes, time trials, free runs and arcade races. In the career mode, winning races unlocks manufacturer relationships and you can earn money to buy new cars or customize your vehicles. This mode is expanded over Xbox Live with up to 8 human opponents. Players can buy and sell cars through the game's Auction House.",
   "VideoURL": "https://www.youtube.com/watch?v=Y3U5JUT51fA",
-  "CommunityRating": "3.8359375",
+  "CommunityRating": "3.87121212121212",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Forza_Motorsport_2",
   "ESRB": "E - Everyone",
   "Genres": "Racing",
@@ -22,18 +22,18 @@
     "Box": {
       "3D": [
         {
-          "FileName": "b18a6a15-e8ac-46dd-82fb-f78f0bdbd57c.png",
-          "Type": "Box - 3D",
-          "Region": "North America",
-          "CRC32": "173995482",
-          "URL": "http://images.launchbox-app.com/b18a6a15-e8ac-46dd-82fb-f78f0bdbd57c.png"
-        },
-        {
           "FileName": "c3a3ecfb-7f98-49e8-9331-23873e2712dc.png",
           "Type": "Box - 3D",
           "Region": "North America",
           "CRC32": "2456037778",
           "URL": "http://images.launchbox-app.com/c3a3ecfb-7f98-49e8-9331-23873e2712dc.png"
+        },
+        {
+          "FileName": "b18a6a15-e8ac-46dd-82fb-f78f0bdbd57c.png",
+          "Type": "Box - 3D",
+          "Region": "North America",
+          "CRC32": "173995482",
+          "URL": "http://images.launchbox-app.com/b18a6a15-e8ac-46dd-82fb-f78f0bdbd57c.png"
         }
       ],
       "Back": [
