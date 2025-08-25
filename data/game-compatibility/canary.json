@@ -2,43 +2,43 @@
   {
     "id": "425607D9",
     "title": "Pure",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/836"
   },
   {
     "id": "4C5307EB",
     "title": "WRC 2",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/835"
   },
   {
     "id": "573607DD",
     "title": "WRC 4: FIA World Rally Championship",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/834"
   },
   {
     "id": "4C5307F3",
     "title": "WRC 3: FIA World Rally Championship",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/833"
   },
   {
     "id": "524C07D9",
     "title": "Crash Time 3",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/832"
   },
   {
     "id": "445407D9",
     "title": "Crash Time 4",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/831"
   },
   {
     "id": "5841149F",
     "title": "Goosebumps: The Game",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/830"
   },
   {
@@ -50,55 +50,49 @@
   {
     "id": "584113C6",
     "title": "DuckTales: Remastered (XBLA)",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/828"
   },
   {
     "id": "4343083F",
     "title": "DuckTales: Remastered (Disc)",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/827"
   },
   {
     "id": "475007D5",
     "title": "Velvet Assassin",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/826"
   },
   {
     "id": "434D080D",
     "title": "Fuel",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/825"
   },
   {
     "id": "425307F5",
     "title": "Wolfenstein: The New Order",
-    "state": "Unknown",
+    "state": "Loads",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/824"
-  },
-  {
-    "id": "425307EC",
-    "title": "Rage",
-    "state": "Unknown",
-    "url": "https://github.com/xenia-canary/game-compatibility/issues/823"
   },
   {
     "id": "EA SPORTS",
     "title": "MMA - 454108FC",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/821"
   },
   {
     "id": "534507F1",
     "title": "The Incredible Hulk",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/820"
   },
   {
     "id": "4B4D07DF",
     "title": "Dead Island",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/819"
   },
   {
@@ -116,7 +110,7 @@
   {
     "id": "58410889",
     "title": "Peggle",
-    "state": "Unknown",
+    "state": "Gameplay",
     "url": "https://github.com/xenia-canary/game-compatibility/issues/816"
   },
   {
