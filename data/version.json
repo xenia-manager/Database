@@ -1,6 +1,6 @@
 {
-  "stable": "3.1.1",
-  "experimental": "2025-08-17-a01982e",
+  "stable": "3.1.2",
+  "experimental": "2025-08-25-908ab55",
   "xenia": {
     "canary": {
       "tag_name": "7650730",
