@@ -3,7 +3,7 @@
   "DatabaseID": "24783",
   "ReleaseDate": "2008-11-20T00:00:00+00:00",
   "Overview": "Otomedius (オトメディウス Otomediusu) is a side scrolling shooter by Konami which featured personification of space fighters from various Konami games. The main characters are mostly females, designed by Mine Yoshizaki, with a set of equipment resembling space fighters from side-scroller games by the same company like Gradius, Salamander, Thunder Cross, TwinBee or Xexex. The name is a pun, being a portmanteau of the terms \"otome\" (meaning \"maiden\" in Japanese) and \"Gradius\". The music was composed by Hiroki Koga.\nIt received an Xbox 360 port titled Otomedius Gorgeous! (オトメディウスゴージャス! Otomediusu Gōjasu!), or Otomedius G (オトメディウスG Otomediusu Jī) for short.",
-  "CommunityRating": "3.16666666666667",
+  "CommunityRating": "3.25",
   "WikipediaURL": "https://en.wikipedia.org/wiki/Otomedius#Otomedius_G_(Gorgeous!)",
   "ESRB": "Not Rated",
   "Genres": "Action; Adventure; Shooter; Strategy",
@@ -62,16 +62,16 @@
         "URL": "http://images.launchbox-app.com/cf75a72b-0222-4e08-8681-3a56b7064904.jpg"
       },
       {
-        "FileName": "def7fb23-113e-4d72-adeb-22e82b139d3e.jpg",
-        "Type": "Screenshot - Gameplay",
-        "CRC32": "3613241493",
-        "URL": "http://images.launchbox-app.com/def7fb23-113e-4d72-adeb-22e82b139d3e.jpg"
-      },
-      {
         "FileName": "32d10c46-7d00-4f27-a529-356a8b36047f.jpg",
         "Type": "Screenshot - Gameplay",
         "CRC32": "3877938831",
         "URL": "http://images.launchbox-app.com/32d10c46-7d00-4f27-a529-356a8b36047f.jpg"
+      },
+      {
+        "FileName": "def7fb23-113e-4d72-adeb-22e82b139d3e.jpg",
+        "Type": "Screenshot - Gameplay",
+        "CRC32": "3613241493",
+        "URL": "http://images.launchbox-app.com/def7fb23-113e-4d72-adeb-22e82b139d3e.jpg"
       }
     ],
     "Other": [
