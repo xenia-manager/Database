@@ -1,5 +1,11 @@
 [
   {
+    "id": "58410ACB",
+    "title": "BloodRayne: Betrayal",
+    "state": "Unknown",
+    "url": "https://github.com/xenia-canary/game-compatibility/issues/837"
+  },
+  {
     "id": "425607D9",
     "title": "Pure",
     "state": "Gameplay",
