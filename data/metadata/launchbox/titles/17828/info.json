@@ -3,7 +3,7 @@
   "DatabaseID": "17828",
   "ReleaseDate": "2011-04-21T00:00:00+00:00",
   "Overview": "Mortal Kombat (commonly known as Mortal Kombat 2011 or Mortal Kombat (9)) is a 3D fighting game with 3D graphics (2.5D) and the ninth main installment in the Mortal Kombat series. It was developed by NetherRealm Studios (formerly known as Midway Studios) and published exclusively under the Warner Bros. Interactive Entertainment label. The game was released for the PlayStation 3 and Xbox 360 systems on April 19, 2011 in North America, and on April 21 in Europe. A PlayStation Vita port was released on May 1, 2012 in North America and on May 4, 2012 in Europe.",
-  "CommunityRating": "3.525",
+  "CommunityRating": "3.57142857142857",
   "ESRB": "M - Mature",
   "Genres": "Fighting",
   "Developer": "NetherRealm Studios",
@@ -11,16 +11,16 @@
   "Artwork": {
     "Background": [
       {
-        "FileName": "fe63883b-798b-4dc0-ad85-383d7a33a2b6.jpg",
-        "Type": "Fanart - Background",
-        "CRC32": "2250243804",
-        "URL": "http://images.launchbox-app.com/fe63883b-798b-4dc0-ad85-383d7a33a2b6.jpg"
-      },
-      {
         "FileName": "4b729368-117b-48a2-a201-ea0639bb9fd2.jpg",
         "Type": "Fanart - Background",
         "CRC32": "278126117",
         "URL": "http://images.launchbox-app.com/4b729368-117b-48a2-a201-ea0639bb9fd2.jpg"
+      },
+      {
+        "FileName": "fe63883b-798b-4dc0-ad85-383d7a33a2b6.jpg",
+        "Type": "Fanart - Background",
+        "CRC32": "2250243804",
+        "URL": "http://images.launchbox-app.com/fe63883b-798b-4dc0-ad85-383d7a33a2b6.jpg"
       }
     ],
     "Box": {
@@ -65,18 +65,18 @@
           "URL": "http://images.launchbox-app.com/f58152c0-37de-4b9f-979b-434a55d28ab8.jpg"
         },
         {
-          "FileName": "5d4b1f91-1b64-4f7e-8815-d2a9899e1f74.jpg",
-          "Type": "Box - Front - Reconstructed",
-          "Region": "North America",
-          "CRC32": "1566418477",
-          "URL": "http://images.launchbox-app.com/5d4b1f91-1b64-4f7e-8815-d2a9899e1f74.jpg"
-        },
-        {
           "FileName": "09e8ce93-0b7a-4499-864a-8ac480ebd524.png",
           "Type": "Box - Front - Reconstructed",
           "Region": "North America",
           "CRC32": "2557362472",
           "URL": "http://images.launchbox-app.com/09e8ce93-0b7a-4499-864a-8ac480ebd524.png"
+        },
+        {
+          "FileName": "5d4b1f91-1b64-4f7e-8815-d2a9899e1f74.jpg",
+          "Type": "Box - Front - Reconstructed",
+          "Region": "North America",
+          "CRC32": "1566418477",
+          "URL": "http://images.launchbox-app.com/5d4b1f91-1b64-4f7e-8815-d2a9899e1f74.jpg"
         }
       ],
       "Spine": [
@@ -108,16 +108,16 @@
     ],
     "Other": [
       {
-        "FileName": "477a2eb5-7dbf-4081-ac41-1975e2d1eef6.png",
-        "Type": "Clear Logo",
-        "CRC32": "3548844280",
-        "URL": "http://images.launchbox-app.com/477a2eb5-7dbf-4081-ac41-1975e2d1eef6.png"
-      },
-      {
         "FileName": "e9c9b184-1174-4947-9dd6-62ee4b4407a6.png",
         "Type": "Clear Logo",
         "CRC32": "1507662393",
         "URL": "http://images.launchbox-app.com/e9c9b184-1174-4947-9dd6-62ee4b4407a6.png"
+      },
+      {
+        "FileName": "477a2eb5-7dbf-4081-ac41-1975e2d1eef6.png",
+        "Type": "Clear Logo",
+        "CRC32": "3548844280",
+        "URL": "http://images.launchbox-app.com/477a2eb5-7dbf-4081-ac41-1975e2d1eef6.png"
       }
     ]
   }
